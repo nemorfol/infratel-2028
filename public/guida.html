@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guida Dettagliata - Applicativo Mappatura</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        h1 {
+            text-align: center;
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+            margin-top: 40px;
+        }
+        .step {
+            margin-bottom: 40px;
+            padding: 20px;
+            border-left: 4px solid #0056b3;
+            background-color: #f9f9f9;
+        }
+        .action, .consequence {
+            margin-bottom: 15px;
+        }
+        .action strong {
+            color: #d9534f;
+        }
+        .consequence strong {
+            color: #5cb85c;
+        }
+        .screenshot {
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #fff;
+            margin-top: 15px;
+        }
+        .screenshot-panel select, .screenshot-panel .title {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .screenshot-table {
+            width: 100%;
+            font-size: 12px;
+            border-collapse: collapse;
+        }
+        .screenshot-table th, .screenshot-table td {
+            border: 1px solid #ddd;
+            padding: 6px;
+            text-align: left;
+        }
+        .screenshot-table th {
+            background-color: #f2f2f2;
+        }
+        .screenshot-map {
+            border: 1px solid #ccc;
+            height: 150px;
+            background-color: #e5e3df;
+            position: relative;
+            overflow: hidden;
+        }
+        .screenshot-map .legend {
+            position: absolute;
+            bottom: 5px;
+            right: 5px;
+            background: rgba(255,255,255,0.8);
+            padding: 5px;
+            font-size: 10px;
+            border-radius: 3px;
+        }
+        .screenshot-map .marker {
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            width: 16px;
+            height: 16px;
+            background-color: green;
+            border-radius: 50%;
+            border: 2px solid white;
+            transform: translate(-50%, -50%);
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Guida Dettagliata all'Applicativo</h1>
+
+        <h2>Introduzione</h2>
+        <p>
+            Questo applicativo permette di consultare i dati della mappatura delle reti fisse in Italia, un'iniziativa di Infratel Italia per identificare le aree non ancora coperte da banda ultralarga. La guida illustra in dettaglio come interagire con l'interfaccia.
+        </p>
+
+        <h2>Guida Passo-Passo</h2>
+
+        <div class="step">
+            <h3>Passo 1: Selezionare la Località</h3>
+            <div class="action">
+                <p><strong>Azione:</strong> Inizia cliccando sul primo menu a tendina per selezionare una <strong>Regione</strong>.</p>
+                <p><strong>Conseguenza:</strong> Il menu delle <strong>Province</strong> si attiverà, mostrando solo quelle appartenenti alla regione scelta.</p>
+            </div>
+            <div class="action">
+                <p><strong>Azione:</strong> Procedi selezionando una <strong>Provincia</strong> e, successivamente, un <strong>Comune</strong>.</p>
+                <p><strong>Conseguenza:</strong> Dopo aver scelto il Comune, la tabella sottostante si popolerà automaticamente.</p>
+            </div>
+            <div class="screenshot">
+                <p><em>Esempio del pannello di ricerca:</em></p>
+                <div class="screenshot-panel">
+                    <select><option>LOMBARDIA</option></select>
+                    <select><option>MILANO</option></select>
+                    <select><option>MILANO</option></select>
+                </div>
+            </div>
+        </div>
+
+        <div class="step">
+            <h3>Passo 2: Consultare la Tabella dei Dati</h3>
+            <div class="consequence">
+                <p><strong>Risultato:</strong> La tabella ora mostra l'elenco completo di <strong>tutti i civici</strong> del comune selezionato. Per ogni civico sono indicati la <strong>Strada</strong>, il <strong>Civico</strong> e lo <strong>Stato</strong> della copertura.</p>
+            </div>
+            <div class="screenshot">
+                <p><em>Esempio della tabella dati:</em></p>
+                <table class="screenshot-table">
+                    <thead><tr><th>Strada</th><th>Civico</th><th>Stato</th></tr></thead>
+                    <tbody>
+                        <tr><td>VIA MONTENAPOLEONE</td><td>1</td><td>Civico entro 50m... (B)</td></tr>
+                        <tr><td>VIA TORINO</td><td>22</td><td>N/A</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="step">
+            <h3>Passo 3: Filtrare i Risultati</h3>
+            <div class="action">
+                <p><strong>Azione (Opzionale):</strong> Per affinare la ricerca, puoi usare i due menu a tendina sopra la tabella: <strong>"Tutte le strade"</strong> e <strong>"Tutti gli stati"</strong>.</p>
+                <p><strong>Conseguenza:</strong> La tabella si aggiornerà in tempo reale per mostrare solo i risultati che corrispondono ai filtri selezionati. Puoi usare i filtri singolarmente o combinarli.</p>
+            </div>
+             <div class="screenshot">
+                <p><em>Esempio dei filtri:</em></p>
+                <div class="screenshot-panel">
+                     <select><option>VIA MONTENAPOLEONE</option></select>
+                     <select><option>Stato B</option></select>
+                </div>
+            </div>
+        </div>
+
+        <div class="step">
+            <h3>Passo 4: Localizzare un Indirizzo sulla Mappa</h3>
+            <div class="action">
+                <p><strong>Azione:</strong> Scorri la tabella (filtrata o completa) e <strong>clicca su una qualsiasi riga</strong> che ti interessa.</p>
+                <p><strong>Conseguenza:</strong>
+                    L'applicazione cercherà l'indirizzo. Vedrai un breve messaggio di caricamento. Subito dopo, la mappa si centrerà sulla posizione trovata e mostrerà un <strong>pallino colorato</strong>. Il colore del pallino corrisponde allo stato del civico, come descritto nella legenda in basso a destra. La riga selezionata nella tabella verrà evidenziata.
+                </p>
+            </div>
+            <div class="screenshot">
+                 <p><em>Esempio della mappa con un civico localizzato:</em></p>
+                <div class="screenshot-map">
+                    <div class="marker"></div>
+                    <div class="legend">
+                        <strong>Legenda Stato Civico</strong><br>
+                        <span style="color:green;">■</span> Entro 50m (B)<br>
+                        <span style="color:yellow;">■</span> Oltre 50m (C)<br>
+                        <span style="color:red;">■</span> Scarsa qualità (A)<br>
+                        <span style="color:gray;">■</span> N/A
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>Dati forniti da Infratel Italia S.p.A.</p>
+        </footer>
+    </div>
+</body>
+</html>
