@@ -1,0 +1,532 @@
+{
+  "CASCINA BARATTE'": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "CASCINA CAMPAGNA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "1",
+      "barrato": "D"
+    },
+    {
+      "civico": "1",
+      "barrato": "H"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "CASCINA MULAZZANA": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "CASCINA ROVEDARO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "CASCINA SAN GIACOMINO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": "D"
+    },
+    {
+      "civico": "2",
+      "barrato": "E"
+    },
+    {
+      "civico": "2",
+      "barrato": "F"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "CASCINA SANT'ALBERTO": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' CASCINOTTI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' FORNACI": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "PIAZZA GIOVANNI FALCONE E PAOLO BORSELLINO": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": "B"
+    },
+    {
+      "civico": "7",
+      "barrato": "C"
+    },
+    {
+      "civico": "7",
+      "barrato": "D"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "PIAZZA PAPA GIOVANNI XXIII": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    }
+  ],
+  "STRADA PROVINCIALE 213": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE 22": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE 26": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "TRAVERSA DI STRADA PROVINCIALE 213": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA BIRAGA": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": "C"
+    },
+    {
+      "civico": "3",
+      "barrato": "B"
+    },
+    {
+      "civico": "3",
+      "barrato": "C"
+    },
+    {
+      "civico": "3",
+      "barrato": "D"
+    },
+    {
+      "civico": "3",
+      "barrato": "E"
+    },
+    {
+      "civico": "3",
+      "barrato": "F"
+    },
+    {
+      "civico": "3",
+      "barrato": "G"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    }
+  ],
+  "VIA CASCINE DEI PASSERINI": [
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    }
+  ],
+  "VIA CASCINETTE": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    }
+  ],
+  "VIA CODOGNO": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "1",
+      "barrato": "D"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA DANTE ALIGHIERI": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VIA ENRICO MATTEI": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA FORNACI": [
+    {
+      "civico": "17",
+      "barrato": "B"
+    }
+  ],
+  "VIA GIANNI BRERA": [
+    {
+      "civico": "1",
+      "barrato": "I"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA MULAZZANA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA ROVEDARO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "E"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    }
+  ],
+  "VIA SAN GIACOMO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "VIA SANDRO BOTTICELLI": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "VIA SANT'ANTONIO": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "D"
+    },
+    {
+      "civico": "7",
+      "barrato": "D"
+    },
+    {
+      "civico": "11",
+      "barrato": "D"
+    }
+  ]
+}

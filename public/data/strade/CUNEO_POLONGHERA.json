@@ -1,0 +1,484 @@
+{
+  "CASCINA GHIGO": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "REGIONE MARTINETTO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "STRADA BRAIDA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "1",
+      "barrato": "D"
+    },
+    {
+      "civico": "1",
+      "barrato": "E"
+    },
+    {
+      "civico": "3",
+      "barrato": "D"
+    },
+    {
+      "civico": "3",
+      "barrato": "E"
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "B"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "22",
+      "barrato": "A"
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": "A"
+    }
+  ],
+  "STRADA MURELLO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "1"
+    }
+  ],
+  "STRADA ORMEA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    }
+  ],
+  "STRADA RACCONIGI": [
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "STRADA SAN ROCCO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "STRADA TERESA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA AICARDI": [
+    {
+      "civico": "21",
+      "barrato": "B"
+    }
+  ],
+  "VIA BERNERO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VIA CASALGRASSO": [
+    {
+      "civico": "7",
+      "barrato": "H"
+    },
+    {
+      "civico": "7",
+      "barrato": "I"
+    },
+    {
+      "civico": "9",
+      "barrato": "B"
+    },
+    {
+      "civico": "10",
+      "barrato": "1"
+    },
+    {
+      "civico": "11",
+      "barrato": "C"
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    }
+  ],
+  "VIA DELLERA": [
+    {
+      "civico": "12",
+      "barrato": "B"
+    }
+  ],
+  "VIA DON CARLO PRINZIO": [
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA DON GIUSEPPE IPPOLITO ROSTAGNO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA GUGLIELMO MARCONI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "TER"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "B"
+    },
+    {
+      "civico": "19",
+      "barrato": "H"
+    },
+    {
+      "civico": "21",
+      "barrato": "1"
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": "A"
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    }
+  ],
+  "VIA LAMA": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    }
+  ],
+  "VIA LAMARMORA": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "B"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    }
+  ],
+  "VIA MOLINO": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VIA PARROCCHIA": [
+    {
+      "civico": "3",
+      "barrato": "C"
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": "B"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    }
+  ],
+  "VIA SALUZZO": [
+    {
+      "civico": "19",
+      "barrato": null
+    }
+  ],
+  "VIA SANTUARIO": [
+    {
+      "civico": "2",
+      "barrato": "C"
+    },
+    {
+      "civico": "2",
+      "barrato": "D"
+    },
+    {
+      "civico": "20",
+      "barrato": "5"
+    },
+    {
+      "civico": "22",
+      "barrato": "1"
+    },
+    {
+      "civico": "22",
+      "barrato": "2"
+    },
+    {
+      "civico": "29",
+      "barrato": "A"
+    },
+    {
+      "civico": "35",
+      "barrato": "A"
+    },
+    {
+      "civico": "35",
+      "barrato": "B"
+    },
+    {
+      "civico": "39",
+      "barrato": "C"
+    },
+    {
+      "civico": "55",
+      "barrato": "A"
+    }
+  ],
+  "VIA TEATRO": [
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "1"
+    }
+  ],
+  "VIA UMBERTO I": [
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": "A"
+    },
+    {
+      "civico": "28",
+      "barrato": "A"
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "76",
+      "barrato": null
+    }
+  ],
+  "VIA VITTORIO VENETO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ]
+}

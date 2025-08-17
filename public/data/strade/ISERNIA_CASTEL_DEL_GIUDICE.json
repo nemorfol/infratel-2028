@@ -1,0 +1,604 @@
+{
+  "BORGO SANT'ANTONIO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "76",
+      "barrato": null
+    },
+    {
+      "civico": "85",
+      "barrato": null
+    },
+    {
+      "civico": "87",
+      "barrato": "1"
+    },
+    {
+      "civico": "87",
+      "barrato": "B"
+    },
+    {
+      "civico": "87",
+      "barrato": "C"
+    }
+  ],
+  "CONTRADA PRATO DEL TORO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "CONTRADA VICENDE": [
+    {
+      "civico": "1",
+      "barrato": "Y"
+    }
+  ],
+  "LARGO PALAZZO": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' VECCHIO MULINO": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "PIAZZA GIACOMO CALDORA": [
+    {
+      "civico": "1",
+      "barrato": "2"
+    }
+  ],
+  "PIAZZA GUGLIELMO MARCONI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "PIAZZA ITALO BALBO": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "6"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "PIAZZA SAN NICOLA": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": "9"
+    }
+  ],
+  "VIA ARCIPRETURA": [
+    {
+      "civico": "1",
+      "barrato": "5"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "0"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA BORGO SALETTE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": null
+    }
+  ],
+  "VIA BORGO VIGNALE": [
+    {
+      "civico": "2",
+      "barrato": "4"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "8"
+    },
+    {
+      "civico": "9",
+      "barrato": "B"
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "29",
+      "barrato": "1"
+    }
+  ],
+  "VIA CALVARIO": [
+    {
+      "civico": "9",
+      "barrato": "11"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": "A"
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    }
+  ],
+  "VIA DUCA DEGLI ABRUZZI": [
+    {
+      "civico": "7",
+      "barrato": "9"
+    },
+    {
+      "civico": "31",
+      "barrato": "33"
+    }
+  ],
+  "VIA FONTANA VECCHIA": [
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "B"
+    },
+    {
+      "civico": "27",
+      "barrato": "A"
+    },
+    {
+      "civico": "27",
+      "barrato": "B"
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": "A"
+    },
+    {
+      "civico": "35",
+      "barrato": "B"
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    },
+    {
+      "civico": "39",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    }
+  ],
+  "VIA GIULIO CESARE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA REGINA MARGHERITA": [
+    {
+      "civico": "26",
+      "barrato": "A"
+    },
+    {
+      "civico": "28",
+      "barrato": "A"
+    }
+  ],
+  "VIA RIONE UNRRA": [
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": "B"
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "45",
+      "barrato": "A"
+    },
+    {
+      "civico": "50",
+      "barrato": null
+    },
+    {
+      "civico": "55",
+      "barrato": null
+    },
+    {
+      "civico": "59",
+      "barrato": null
+    },
+    {
+      "civico": "77",
+      "barrato": null
+    },
+    {
+      "civico": "79",
+      "barrato": null
+    },
+    {
+      "civico": "81",
+      "barrato": null
+    },
+    {
+      "civico": "83",
+      "barrato": "B"
+    },
+    {
+      "civico": "85",
+      "barrato": "A"
+    },
+    {
+      "civico": "85",
+      "barrato": null
+    },
+    {
+      "civico": "87",
+      "barrato": "B"
+    },
+    {
+      "civico": "87",
+      "barrato": null
+    }
+  ],
+  "VIA SAN GIUSEPPE": [
+    {
+      "civico": "18",
+      "barrato": "A"
+    }
+  ],
+  "VIA SAN NICOLA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "26",
+      "barrato": "A"
+    },
+    {
+      "civico": "34",
+      "barrato": "A"
+    },
+    {
+      "civico": "36",
+      "barrato": null
+    },
+    {
+      "civico": "45",
+      "barrato": null
+    },
+    {
+      "civico": "47",
+      "barrato": "A"
+    },
+    {
+      "civico": "49",
+      "barrato": null
+    }
+  ],
+  "VIA SAN ROCCO": [
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    }
+  ],
+  "VIA SANT'ANTONIO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    }
+  ],
+  "VIA TORINO DI SANGRO": [
+    {
+      "civico": "24",
+      "barrato": "A"
+    },
+    {
+      "civico": "28",
+      "barrato": "A"
+    },
+    {
+      "civico": "30",
+      "barrato": "A"
+    },
+    {
+      "civico": "50",
+      "barrato": null
+    }
+  ],
+  "VIA TUFI": [
+    {
+      "civico": "2",
+      "barrato": "4"
+    },
+    {
+      "civico": "6",
+      "barrato": "8"
+    }
+  ],
+  "VIA UMBERTO I": [
+    {
+      "civico": "8",
+      "barrato": "10"
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "VICO DEL SOLE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": "9"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VICO FREDDO": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    }
+  ],
+  "VICO II OROLOGIO": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    }
+  ],
+  "VICOLO STORTO": [
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    }
+  ],
+  "ZONA INDUSTRIALE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ]
+}

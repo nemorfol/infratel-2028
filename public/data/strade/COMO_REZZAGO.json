@@ -1,0 +1,36 @@
+{
+  "PIAZZA SANTI COSMO E DAMIANO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA PER CAGLIO": [
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "VIA PER ENCO": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": "B"
+    },
+    {
+      "civico": "13",
+      "barrato": "C"
+    }
+  ]
+}

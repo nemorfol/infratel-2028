@@ -1,0 +1,966 @@
+{
+  "LOCALITA' BESSA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' CASONI": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' GRUBE": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "LOCALITA' MASO BARUFFOLI": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO BEZZELI": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO BIENATI": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO BOSCO": [
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO CANAI": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "LOCALITA' MASO CAUMI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO COLLA": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO DOSSO": [
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO FACCHINI": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO GANARINI": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "LOCALITA' MASO GASPERI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO MONEGHETTI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO PELAUCHI": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO PRA' DE SCALA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO RAMPELOTTI": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MASO STANGHELLINI": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' RONDISE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' SAN MARCO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' TABOSSI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' VALLE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "B"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' VISENTINI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "LOCALITA'� CREPALDO": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "LOCALITA'� VISENTINI": [
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "MASO BARUFFOLI": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "MASO STAUDA": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    }
+  ],
+  "VIA MARCHI": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA MASO BEZZELI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA MASO BIENATI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA MASO BOSCO": [
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    }
+  ],
+  "VIA MASO CANAI": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA MASO CAUMI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "B"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VIA MASO COLLA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "B"
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA MASO FACCHINI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "B"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA MASO GASPERI": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA MASO GERVASI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "VIA MASO GRILLI": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA MASO OMBRI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA MASO PALAIERI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA MASO PIONERI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA MASO PONTE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA MASO PRA'": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VIA MASO RAMPELOTTI": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA MASO STANGHELLINI": [
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA MASO TRENTINI": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA TABOSSI": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA VALLE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "B"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA VISENTINI": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+{
+  "LOCALITA' CAPORITORTO": [
+    {
+      "civico": "18",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' I CERRI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    }
+  ],
+  "PIAZZALE MAGGIORE B.LOLLI": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA CAPORITORTO": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "STRADA COMUNALE CAPORITORTO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE NUOVA VESTINA": [
+    {
+      "civico": "1",
+      "barrato": "2"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "3"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE PER AVEZZANO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE VESTINA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "STRADA STATALE 5 BIS": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "STRADA STATALE 696": [
+    {
+      "civico": "1",
+      "barrato": "MAP"
+    },
+    {
+      "civico": "2",
+      "barrato": "MAP"
+    },
+    {
+      "civico": "6",
+      "barrato": "MAP"
+    },
+    {
+      "civico": "13",
+      "barrato": "MAP"
+    },
+    {
+      "civico": "19",
+      "barrato": "MAP"
+    },
+    {
+      "civico": "24",
+      "barrato": "MAP"
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE MULINO DA CAPO": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA ANSELMI": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA BELVEDERE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "VIA CAMPO FELICE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": "A"
+    }
+  ],
+  "VIA CAPO CROCE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA COLLALTO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA DEI CASALI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA DEL FORNO": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA DEL MONTE": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA DEL MORRONE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    },
+    {
+      "civico": "55",
+      "barrato": null
+    }
+  ],
+  "VIA DEL ROCCHIO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA DELL'ALLEGRIA": [
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA DELL'AMICIZIA": [
+    {
+      "civico": "13",
+      "barrato": null
+    }
+  ],
+  "VIA DELL'AURORA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA CANALA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "65",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA COSTA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA CROCETTA": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA PACE": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA PERELLA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA RAVITA": [
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA DI SICINITO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    }
+  ],
+  "VIA DUCA DEGLI ABRUZZI": [
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA FONTICELLA": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VIA GRAN SASSO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": "38"
+    },
+    {
+      "civico": "72",
+      "barrato": null
+    }
+  ],
+  "VIA I CERRI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "51",
+      "barrato": null
+    },
+    {
+      "civico": "66",
+      "barrato": null
+    }
+  ],
+  "VIA MONTE ROTONDO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA MONTE SIRENTE": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA PICCOFARRO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VIA PRINCIPE UMBERTO": [
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    }
+  ],
+  "VIA ROSA BELLA": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    }
+  ],
+  "VIA SAN PIETRO": [
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "VIA SANTA LUCIA": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "54",
+      "barrato": null
+    },
+    {
+      "civico": "65",
+      "barrato": null
+    }
+  ],
+  "VIA TRIESTE": [
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    }
+  ],
+  "VIA VITTORIO EMANUELE": [
+    {
+      "civico": "5",
+      "barrato": "BIS"
+    }
+  ],
+  "VIA XXIV MAGGIO": [
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ]
+}

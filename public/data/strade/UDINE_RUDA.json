@@ -1,0 +1,468 @@
+{
+  "LOCALITA' CORTONA": [
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "46",
+      "barrato": null
+    }
+  ],
+  "PIAZZA DELLA LIBERTA'": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    }
+  ],
+  "PIAZZA DELLA REPUBBLICA": [
+    {
+      "civico": "3",
+      "barrato": "4"
+    }
+  ],
+  "STRADA PROVINCIALE 54": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA ALDO MORO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA ALFONSO MOSETTIG": [
+    {
+      "civico": "30",
+      "barrato": "1"
+    },
+    {
+      "civico": "30",
+      "barrato": "2"
+    },
+    {
+      "civico": "30",
+      "barrato": "INT 1"
+    },
+    {
+      "civico": "30",
+      "barrato": "INT 2"
+    }
+  ],
+  "VIA CASTIN": [
+    {
+      "civico": "15",
+      "barrato": "INT 2"
+    },
+    {
+      "civico": "15",
+      "barrato": "INT 3"
+    }
+  ],
+  "VIA CESARE COMESSATTI": [
+    {
+      "civico": "50",
+      "barrato": "A"
+    },
+    {
+      "civico": "50",
+      "barrato": null
+    },
+    {
+      "civico": "52",
+      "barrato": null
+    },
+    {
+      "civico": "54",
+      "barrato": "A"
+    },
+    {
+      "civico": "54",
+      "barrato": null
+    }
+  ],
+  "VIA CORTONA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": "1"
+    },
+    {
+      "civico": "19",
+      "barrato": "2"
+    },
+    {
+      "civico": "19",
+      "barrato": "3"
+    },
+    {
+      "civico": "19",
+      "barrato": "4"
+    },
+    {
+      "civico": "19",
+      "barrato": "5"
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": "INT 1"
+    },
+    {
+      "civico": "20",
+      "barrato": "INT 2"
+    },
+    {
+      "civico": "20",
+      "barrato": "INT 3"
+    },
+    {
+      "civico": "20",
+      "barrato": "1"
+    },
+    {
+      "civico": "20",
+      "barrato": "2"
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    }
+  ],
+  "VIA DEI BERSAGLIERI": [
+    {
+      "civico": "28",
+      "barrato": "1"
+    },
+    {
+      "civico": "28",
+      "barrato": "2"
+    },
+    {
+      "civico": "28",
+      "barrato": "3"
+    },
+    {
+      "civico": "28",
+      "barrato": "4"
+    },
+    {
+      "civico": "28",
+      "barrato": "5"
+    },
+    {
+      "civico": "28",
+      "barrato": "6"
+    },
+    {
+      "civico": "28",
+      "barrato": "7"
+    }
+  ],
+  "VIA DEI MOLINI": [
+    {
+      "civico": "8",
+      "barrato": "B"
+    }
+  ],
+  "VIA DELLA MONDINA": [
+    {
+      "civico": "6",
+      "barrato": "1"
+    }
+  ],
+  "VIA DUCA D'AOSTA": [
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA DURAN": [
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    }
+  ],
+  "VIA EUROPA UNITA": [
+    {
+      "civico": "32",
+      "barrato": "B"
+    }
+  ],
+  "VIA GIUSEPPE GARIBALDI": [
+    {
+      "civico": "54",
+      "barrato": "A"
+    },
+    {
+      "civico": "54",
+      "barrato": null
+    }
+  ],
+  "VIA GIUSEPPE MAZZINI": [
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "VIA GORIZIA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "80",
+      "barrato": null
+    },
+    {
+      "civico": "85",
+      "barrato": null
+    },
+    {
+      "civico": "88",
+      "barrato": null
+    },
+    {
+      "civico": "94",
+      "barrato": null
+    },
+    {
+      "civico": "96",
+      "barrato": null
+    }
+  ],
+  "VIA GRADO": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "INT 1"
+    },
+    {
+      "civico": "2",
+      "barrato": "1"
+    },
+    {
+      "civico": "2",
+      "barrato": "2"
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA GUGLIELMO MARCONI": [
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "B"
+    },
+    {
+      "civico": "45",
+      "barrato": "INT 1"
+    },
+    {
+      "civico": "45",
+      "barrato": "1"
+    },
+    {
+      "civico": "45",
+      "barrato": "2"
+    }
+  ],
+  "VIA ISONZO": [
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA JEVADA": [
+    {
+      "civico": "11",
+      "barrato": "B"
+    }
+  ],
+  "VIA LA SPESSA": [
+    {
+      "civico": "17",
+      "barrato": "B"
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "52",
+      "barrato": "B"
+    }
+  ],
+  "VIA LUIGI CHIOZZA": [
+    {
+      "civico": "0",
+      "barrato": "SNC 2"
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "2"
+    }
+  ],
+  "VIA LUIGI FAIDUTTI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    }
+  ],
+  "VIA LUIGI PASTEUR": [
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": "D"
+    },
+    {
+      "civico": "2",
+      "barrato": "E"
+    }
+  ],
+  "VIA NORDISA": [
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA REDIPUGLIA": [
+    {
+      "civico": "13",
+      "barrato": null
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "34",
+      "barrato": "A"
+    }
+  ],
+  "VIA SANT'ANDREA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA TORRE": [
+    {
+      "civico": "22",
+      "barrato": "1"
+    },
+    {
+      "civico": "22",
+      "barrato": "INT 1"
+    },
+    {
+      "civico": "22",
+      "barrato": "INT 2"
+    }
+  ],
+  "VIA UDINE": [
+    {
+      "civico": "10",
+      "barrato": "D"
+    },
+    {
+      "civico": "30",
+      "barrato": "1"
+    },
+    {
+      "civico": "30",
+      "barrato": "2"
+    }
+  ],
+  "VIA VOLONTARI DELLA LIBERTA'": [
+    {
+      "civico": "0",
+      "barrato": "SNC 2"
+    }
+  ],
+  "VICOLO GIUSEPPE DI VITTORIO": [
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VICOLO MARIA MONTESSORI": [
+    {
+      "civico": "8",
+      "barrato": "A"
+    }
+  ]
+}

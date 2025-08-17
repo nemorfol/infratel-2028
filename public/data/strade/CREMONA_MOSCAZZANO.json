@@ -1,0 +1,402 @@
+{
+  "CASCINA CA' DEL LUPO": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "CASCINA CASELLE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "CASCINA LETIMBRO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "CASCINA SAN DONATO": [
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' COLOMBARE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "PIAZZA AISEREY": [
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "STRADA DELLE FUGHETTE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "1"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA ALDO MORO": [
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "VIA ARTURO CAPROTTI": [
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "C"
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    }
+  ],
+  "VIA CAMPO PALAZZO": [
+    {
+      "civico": "10",
+      "barrato": "2"
+    }
+  ],
+  "VIA DEI PLATANI": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    },
+    {
+      "civico": "68",
+      "barrato": null
+    }
+  ],
+  "VIA DOSSI": [
+    {
+      "civico": "5",
+      "barrato": "1"
+    },
+    {
+      "civico": "6",
+      "barrato": "1"
+    }
+  ],
+  "VIA GIUSEPPE MAZZINI": [
+    {
+      "civico": "6",
+      "barrato": "1"
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    }
+  ],
+  "VIA LOCALITA' CASCINA CA' DEL LUPO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA LOCALITA' MULINO": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "VIA MADONNA DEI PRATI": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    }
+  ],
+  "VIA ROVERETO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": "2"
+    },
+    {
+      "civico": "8",
+      "barrato": "1"
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    }
+  ],
+  "VIA SAN DONATO": [
+    {
+      "civico": "2",
+      "barrato": "G"
+    },
+    {
+      "civico": "2",
+      "barrato": "H"
+    },
+    {
+      "civico": "2",
+      "barrato": "L"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA STRADA DEI BOSCHI": [
+    {
+      "civico": "3",
+      "barrato": "1"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "VIA VENEZIA": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "1",
+      "barrato": "D"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": "C"
+    },
+    {
+      "civico": "2",
+      "barrato": "D"
+    },
+    {
+      "civico": "2",
+      "barrato": "E"
+    },
+    {
+      "civico": "22",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    }
+  ],
+  "VICOLO VENEZIA": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ]
+}

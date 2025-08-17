@@ -41,7 +41,6 @@ yarn-error.log*
 next-env.d.ts
 
 # Custom data and log files
-/public/data/
 /csv/
 /altro/
 *.log

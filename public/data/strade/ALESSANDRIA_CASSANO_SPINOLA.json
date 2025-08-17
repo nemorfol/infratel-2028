@@ -1,0 +1,644 @@
+{
+  "CASCINA MAGGIORA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "CASCINA PASQUERA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "CASCINA PIELLA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "CASCINA RITIRO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' FORNETTI": [
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' GRIZZONA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' SELVA": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    }
+  ],
+  "PIAZZA CASTELLO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "PIAZZA DANTE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "REGIONE CAMPO": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "REGIONE FERGHERA": [
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    }
+  ],
+  "REGIONE MONTEROSSO": [
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "B"
+    },
+    {
+      "civico": "22",
+      "barrato": "A"
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": "A"
+    },
+    {
+      "civico": "26",
+      "barrato": "B"
+    },
+    {
+      "civico": "26",
+      "barrato": "C"
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    }
+  ],
+  "REGIONE PERO": [
+    {
+      "civico": "13",
+      "barrato": null
+    }
+  ],
+  "REGIONE RITIRO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "REGIONE SANTA MARIA DE CASTIGLIONE": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    }
+  ],
+  "REGIONE SCRIVIA": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": "B"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "22",
+      "barrato": "BIS"
+    }
+  ],
+  "SALITA ROLINO": [
+    {
+      "civico": "8",
+      "barrato": "A"
+    }
+  ],
+  "STRADA COMUNALE DELLA FONTANA": [
+    {
+      "civico": "1",
+      "barrato": "2"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA ARZANI": [
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": "C"
+    },
+    {
+      "civico": "30",
+      "barrato": "D"
+    },
+    {
+      "civico": "30",
+      "barrato": "E"
+    },
+    {
+      "civico": "30",
+      "barrato": "F"
+    },
+    {
+      "civico": "111",
+      "barrato": null
+    }
+  ],
+  "VIA BRIONTE": [
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    }
+  ],
+  "VIA CASSANO SPINOLA": [
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    }
+  ],
+  "VIA CESARE BATTISTI": [
+    {
+      "civico": "126",
+      "barrato": null
+    }
+  ],
+  "VIA CIRCONVALLAZIONE": [
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA LIBERTA'": [
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": "B"
+    }
+  ],
+  "VIA GAVAZZANA": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "11",
+      "barrato": "B"
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": "A"
+    }
+  ],
+  "VIA KENNEDY": [
+    {
+      "civico": "15",
+      "barrato": "10"
+    },
+    {
+      "civico": "15",
+      "barrato": "11"
+    },
+    {
+      "civico": "15",
+      "barrato": "13"
+    },
+    {
+      "civico": "15",
+      "barrato": "14"
+    },
+    {
+      "civico": "15",
+      "barrato": "15"
+    },
+    {
+      "civico": "15",
+      "barrato": "17"
+    },
+    {
+      "civico": "15",
+      "barrato": "18"
+    },
+    {
+      "civico": "15",
+      "barrato": "21"
+    },
+    {
+      "civico": "15",
+      "barrato": "22"
+    },
+    {
+      "civico": "15",
+      "barrato": "23"
+    },
+    {
+      "civico": "15",
+      "barrato": "24"
+    }
+  ],
+  "VIA REGIONE POGGIO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "B"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    }
+  ],
+  "VIA RETTORE MONTEMANNI": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "1",
+      "barrato": "D"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VIA SARDIGLIANO": [
+    {
+      "civico": "6",
+      "barrato": "B"
+    },
+    {
+      "civico": "8",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "B"
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "62",
+      "barrato": "B"
+    },
+    {
+      "civico": "132",
+      "barrato": "A"
+    },
+    {
+      "civico": "132",
+      "barrato": "B"
+    }
+  ],
+  "VIA SERRAVALLE": [
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": "1"
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    }
+  ],
+  "VIA TENUTA SANTA MARIA DI CASTIGLIONE": [
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "VIA TENUTA TIBERINA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA VILLALVERNIA": [
+    {
+      "civico": "51",
+      "barrato": "B"
+    },
+    {
+      "civico": "59",
+      "barrato": null
+    },
+    {
+      "civico": "86",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "86",
+      "barrato": null
+    },
+    {
+      "civico": "88",
+      "barrato": "C"
+    },
+    {
+      "civico": "88",
+      "barrato": null
+    }
+  ]
+}

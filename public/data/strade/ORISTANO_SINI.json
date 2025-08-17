@@ -1,0 +1,404 @@
+{
+  "VIA ARGIOLAS": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA BECCIA": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    }
+  ],
+  "VIA CAGLIARI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    },
+    {
+      "civico": "34",
+      "barrato": "A"
+    },
+    {
+      "civico": "40",
+      "barrato": "A"
+    },
+    {
+      "civico": "54",
+      "barrato": "B"
+    },
+    {
+      "civico": "70",
+      "barrato": "A"
+    },
+    {
+      "civico": "83",
+      "barrato": "A"
+    }
+  ],
+  "VIA CARMELO": [
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    }
+  ],
+  "VIA COSTANTE": [
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA DELLE SCUOLE": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VIA GENURI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "B"
+    },
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "VIA GRAZIA DELEDDA": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    }
+  ],
+  "VIA MONTE": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    }
+  ],
+  "VIA NUOVA": [
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": "A"
+    },
+    {
+      "civico": "29",
+      "barrato": "A"
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "39",
+      "barrato": "A"
+    },
+    {
+      "civico": "40",
+      "barrato": null
+    },
+    {
+      "civico": "51",
+      "barrato": null
+    }
+  ],
+  "VIA ORISTANO": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    }
+  ],
+  "VIA POZZO": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": "A"
+    },
+    {
+      "civico": "32",
+      "barrato": "B"
+    },
+    {
+      "civico": "38",
+      "barrato": "A"
+    }
+  ],
+  "VIA REGINA ELENA": [
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "VIA SAN GIORGIO": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "B"
+    },
+    {
+      "civico": "16",
+      "barrato": "C"
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "B"
+    },
+    {
+      "civico": "17",
+      "barrato": "C"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "B"
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    }
+  ],
+  "VIA SANTA CHIARA": [
+    {
+      "civico": "5",
+      "barrato": "A"
+    }
+  ],
+  "VIALE DELLA GIARA": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "B"
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    }
+  ],
+  "VIALE SALVATORE PORCEDDU": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "B"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    }
+  ],
+  "VICOLO MONTE": [
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VICOLO SAN GIORGIO": [
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "CASCINA BARAGGIA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "CASCINA BOSCO": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "CASCINA FALASCO INFERIORE": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "CASCINA FALASCO SUPERIORE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "CASCINA FISRENGO": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "CASCINA MIRASOLE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "CASCINA SANT'APOLLINARE": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE 104": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE FARA BORGOVERCELLI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "56",
+      "barrato": null
+    }
+  ],
+  "VIA AMEDEO MODIGLIANI": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    }
+  ],
+  "VIA ANTONIO BERGAMASCHI": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    }
+  ],
+  "VIA CAMILLO CAVOUR": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA CARLO ALBERTO": [
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "12",
+      "barrato": "B"
+    },
+    {
+      "civico": "12",
+      "barrato": "C"
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    }
+  ],
+  "VIA CASCINA FISRENGO": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA CASCINA STROPPERA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA CILIEGIA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA CIRCONVALLAZIONE": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "1",
+      "barrato": "D"
+    }
+  ],
+  "VIA DELLA CHIESA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "VIA GAUTIERI": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "6",
+      "barrato": "C"
+    }
+  ],
+  "VIA GIUSEPPE BERMANI": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA SAN MARTINO": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "1",
+      "barrato": "D"
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA SPARSE SAN NOVELLO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "VIA UMBERTO I": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA VITTORIO EMANUELE II": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "52",
+      "barrato": "D"
+    },
+    {
+      "civico": "52",
+      "barrato": "E"
+    },
+    {
+      "civico": "52",
+      "barrato": "G"
+    },
+    {
+      "civico": "52",
+      "barrato": "R"
+    }
+  ],
+  "VIA VITTORIO EMANUELE III": [
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "51",
+      "barrato": null
+    },
+    {
+      "civico": "52",
+      "barrato": "B"
+    },
+    {
+      "civico": "52",
+      "barrato": "F"
+    },
+    {
+      "civico": "52",
+      "barrato": "Q"
+    },
+    {
+      "civico": "52",
+      "barrato": "R"
+    },
+    {
+      "civico": "52",
+      "barrato": "S"
+    },
+    {
+      "civico": "52",
+      "barrato": "T"
+    },
+    {
+      "civico": "52",
+      "barrato": "U"
+    },
+    {
+      "civico": "52",
+      "barrato": "V"
+    }
+  ],
+  "VIA ZONA ARTIGIANALE INDUSTRIALE": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VICOLO DELLA BARCA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VICOLO DELLA CHIESA": [
+    {
+      "civico": "4",
+      "barrato": "P 1"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "VICOLO NUOVO": [
+    {
+      "civico": "2",
+      "barrato": "P"
+    },
+    {
+      "civico": "2",
+      "barrato": "T"
+    }
+  ],
+  "VICOLO VECCHIO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": "B"
+    },
+    {
+      "civico": "13",
+      "barrato": "C"
+    }
+  ]
+}

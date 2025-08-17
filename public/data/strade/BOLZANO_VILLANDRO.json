@@ -1,0 +1,50 @@
+{
+  "OBERLAND": [
+    {
+      "civico": "50",
+      "barrato": null
+    }
+  ],
+  "SAN STEFANO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "SAN VALENTINO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    }
+  ],
+  "VIA BRENNERO": [
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "B"
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "PIAZZA DEL MERCATO": [
+    {
+      "civico": "4",
+      "barrato": "1"
+    },
+    {
+      "civico": "4",
+      "barrato": "2"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA BAGNOLO": [
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "40",
+      "barrato": null
+    },
+    {
+      "civico": "42",
+      "barrato": null
+    },
+    {
+      "civico": "48",
+      "barrato": null
+    },
+    {
+      "civico": "56",
+      "barrato": "B"
+    },
+    {
+      "civico": "60",
+      "barrato": null
+    }
+  ],
+  "VIA BISATTO": [
+    {
+      "civico": "45",
+      "barrato": null
+    }
+  ],
+  "VIA CALCARE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    }
+  ],
+  "VIA CHIESAVECCHIA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA DEGLI EROI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "75",
+      "barrato": null
+    }
+  ],
+  "VIA DEL LAVORO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "VIA DEL PROGRESSO": [
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "39",
+      "barrato": null
+    },
+    {
+      "civico": "53",
+      "barrato": null
+    }
+  ],
+  "VIA DEL VOLONTARIATO": [
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "VIA DON CIRILLO GAMBARATO": [
+    {
+      "civico": "38",
+      "barrato": null
+    }
+  ],
+  "VIA FERRO": [
+    {
+      "civico": "29",
+      "barrato": "2"
+    },
+    {
+      "civico": "56",
+      "barrato": null
+    }
+  ],
+  "VIA FONTANA COPERTA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    }
+  ],
+  "VIA FONTANA FOZZE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": "B"
+    },
+    {
+      "civico": "33",
+      "barrato": "A"
+    },
+    {
+      "civico": "33",
+      "barrato": "B"
+    },
+    {
+      "civico": "37",
+      "barrato": "A"
+    },
+    {
+      "civico": "39",
+      "barrato": "B"
+    },
+    {
+      "civico": "43",
+      "barrato": null
+    },
+    {
+      "civico": "54",
+      "barrato": null
+    },
+    {
+      "civico": "56",
+      "barrato": null
+    },
+    {
+      "civico": "63",
+      "barrato": null
+    },
+    {
+      "civico": "65",
+      "barrato": null
+    }
+  ],
+  "VIA FONTECCHIO": [
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "VIA FRIULI": [
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    }
+  ],
+  "VIA MONSIGNOR U.MUNARETTO": [
+    {
+      "civico": "13",
+      "barrato": null
+    }
+  ],
+  "VIA MONTICELLO CLEMENTI": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA NICOLO' PIZOLO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "63",
+      "barrato": "5"
+    }
+  ],
+  "VIA NICOLO' TOMMASEO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA OTTORINO SANVIDO": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    }
+  ],
+  "VIA PASINE": [
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "54",
+      "barrato": "B"
+    },
+    {
+      "civico": "55",
+      "barrato": null
+    },
+    {
+      "civico": "57",
+      "barrato": null
+    },
+    {
+      "civico": "59",
+      "barrato": null
+    },
+    {
+      "civico": "60",
+      "barrato": null
+    },
+    {
+      "civico": "61",
+      "barrato": null
+    }
+  ],
+  "VIA PERMANIGO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    }
+  ],
+  "VIA PIAZZA VILLAGANZERLA": [
+    {
+      "civico": "3",
+      "barrato": "12"
+    }
+  ],
+  "VIA PONTE": [
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "124",
+      "barrato": null
+    },
+    {
+      "civico": "140",
+      "barrato": null
+    }
+  ],
+  "VIA RIGOLETTO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "70",
+      "barrato": null
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "46",
+      "barrato": null
+    },
+    {
+      "civico": "50",
+      "barrato": null
+    },
+    {
+      "civico": "52",
+      "barrato": null
+    },
+    {
+      "civico": "60",
+      "barrato": "A"
+    },
+    {
+      "civico": "99",
+      "barrato": null
+    },
+    {
+      "civico": "101",
+      "barrato": null
+    }
+  ],
+  "VIA TRENTIN": [
+    {
+      "civico": "2",
+      "barrato": "B"
+    }
+  ],
+  "VIA VEGRI": [
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    }
+  ],
+  "VIA VENETO": [
+    {
+      "civico": "71",
+      "barrato": null
+    },
+    {
+      "civico": "74",
+      "barrato": null
+    },
+    {
+      "civico": "75",
+      "barrato": null
+    }
+  ],
+  "VIA VENEZIA": [
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": "6"
+    }
+  ],
+  "VIA VILLAVECCHIA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": "A"
+    },
+    {
+      "civico": "23",
+      "barrato": "B"
+    }
+  ]
+}

@@ -1,0 +1,876 @@
+{
+  "CORSO UMBERTO I": [
+    {
+      "civico": "63",
+      "barrato": "65"
+    },
+    {
+      "civico": "96",
+      "barrato": "A"
+    },
+    {
+      "civico": "101",
+      "barrato": null
+    },
+    {
+      "civico": "102",
+      "barrato": null
+    },
+    {
+      "civico": "103",
+      "barrato": "A"
+    },
+    {
+      "civico": "103",
+      "barrato": null
+    },
+    {
+      "civico": "104",
+      "barrato": null
+    },
+    {
+      "civico": "105",
+      "barrato": null
+    },
+    {
+      "civico": "106",
+      "barrato": null
+    },
+    {
+      "civico": "108",
+      "barrato": null
+    },
+    {
+      "civico": "110",
+      "barrato": null
+    },
+    {
+      "civico": "112",
+      "barrato": null
+    },
+    {
+      "civico": "114",
+      "barrato": null
+    },
+    {
+      "civico": "115",
+      "barrato": null
+    },
+    {
+      "civico": "116",
+      "barrato": null
+    },
+    {
+      "civico": "118",
+      "barrato": null
+    },
+    {
+      "civico": "122",
+      "barrato": null
+    }
+  ],
+  "LARGO VINCENZO CUOCO": [
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "PIAZZETTA CAPO D'OCA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE FONTICELLE": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA DEGLI ATLANTICI": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA DEI BIFERNINI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "VIA DEL RISPARMIO": [
+    {
+      "civico": "10",
+      "barrato": "12"
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "36",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    },
+    {
+      "civico": "39",
+      "barrato": null
+    },
+    {
+      "civico": "40",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    },
+    {
+      "civico": "42",
+      "barrato": null
+    },
+    {
+      "civico": "44",
+      "barrato": null
+    },
+    {
+      "civico": "46",
+      "barrato": null
+    },
+    {
+      "civico": "48",
+      "barrato": null
+    },
+    {
+      "civico": "60",
+      "barrato": null
+    },
+    {
+      "civico": "66",
+      "barrato": null
+    },
+    {
+      "civico": "68",
+      "barrato": null
+    },
+    {
+      "civico": "70",
+      "barrato": null
+    },
+    {
+      "civico": "72",
+      "barrato": null
+    },
+    {
+      "civico": "74",
+      "barrato": null
+    },
+    {
+      "civico": "76",
+      "barrato": null
+    },
+    {
+      "civico": "78",
+      "barrato": null
+    },
+    {
+      "civico": "80",
+      "barrato": null
+    }
+  ],
+  "VIA DELL'INDUSTRIA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA BOREA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "50",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA CHIESA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA SALUTE": [
+    {
+      "civico": "10",
+      "barrato": "12"
+    }
+  ],
+  "VIA DELLE ARTI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": "12"
+    }
+  ],
+  "VIA DUCA DEGLI ABRUZZI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": "30"
+    }
+  ],
+  "VIA GUGLIELMO MARCONI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    }
+  ],
+  "VIA ORTO DELLA CHIESA": [
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA PIAVE": [
+    {
+      "civico": "24",
+      "barrato": null
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "36",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    },
+    {
+      "civico": "39",
+      "barrato": "A"
+    },
+    {
+      "civico": "39",
+      "barrato": null
+    },
+    {
+      "civico": "53",
+      "barrato": null
+    },
+    {
+      "civico": "57",
+      "barrato": null
+    },
+    {
+      "civico": "69",
+      "barrato": null
+    },
+    {
+      "civico": "80",
+      "barrato": null
+    },
+    {
+      "civico": "81",
+      "barrato": null
+    },
+    {
+      "civico": "82",
+      "barrato": null
+    },
+    {
+      "civico": "83",
+      "barrato": null
+    },
+    {
+      "civico": "84",
+      "barrato": null
+    },
+    {
+      "civico": "85",
+      "barrato": null
+    },
+    {
+      "civico": "86",
+      "barrato": null
+    },
+    {
+      "civico": "87",
+      "barrato": null
+    },
+    {
+      "civico": "88",
+      "barrato": null
+    },
+    {
+      "civico": "89",
+      "barrato": null
+    },
+    {
+      "civico": "90",
+      "barrato": null
+    },
+    {
+      "civico": "91",
+      "barrato": null
+    },
+    {
+      "civico": "92",
+      "barrato": null
+    },
+    {
+      "civico": "93",
+      "barrato": null
+    },
+    {
+      "civico": "94",
+      "barrato": null
+    },
+    {
+      "civico": "95",
+      "barrato": null
+    },
+    {
+      "civico": "96",
+      "barrato": null
+    },
+    {
+      "civico": "97",
+      "barrato": null
+    },
+    {
+      "civico": "98",
+      "barrato": null
+    },
+    {
+      "civico": "99",
+      "barrato": null
+    },
+    {
+      "civico": "100",
+      "barrato": null
+    }
+  ],
+  "VIA SAN GIOVANNI BOSCO": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    }
+  ],
+  "VIA SANTA CATERINA": [
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA TAVERNA": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VICO I DI CORSO UMBERTO I": [
+    {
+      "civico": "101",
+      "barrato": null
+    }
+  ],
+  "VICO I DI PIAZZETTA CAPO D'OCA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VICO I DI VIA DEL RISPARMIO": [
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VICO I DI VIA FORNO VECCHIO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VICO I DI VIA TAVERNA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VICO II DI PIAZZETTA CAPO D'OCA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VICO II DI VIA DELLE ARTI": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VICO II DI VIA DUCA DEGLI ABRUZZI": [
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VICO II DI VIA FORNO VECCHIO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VICO III DI CORSO UMBERTO I": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VICO III DI PIAZZETTA CAPO D'OCA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VICO III DI VIA DUCA DEGLI ABRUZZI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VICO III DI VIA FORNO VECCHIO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "VICO IV DI VIA DUCA DEGLI ABRUZZI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VICO IV DI VIA PIERANGELO FIORENTINO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VICO SECONDO VIA DEL RISPARMIO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VICO V DI VIA PIERANGELO FIORENTINO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VICO VI DI VIA PIERANGELO FIORENTINO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VICO VI DI VIA XXIV MAGGIO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VICOLO DELLA TORRE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VICOLO OGNISSANTI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ]
+}

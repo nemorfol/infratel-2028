@@ -1,0 +1,634 @@
+{
+  "LOACLITA' SA PRUNISCHEDDA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' IS ARZOLAS": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' MONTE AGOS": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "LOCALITA' SA TERRA DE SA FA'": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "LOCALITA'� SA ROCCHITTA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "PIAZZA ALDO MORO": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    }
+  ],
+  "VIA ARMANDO DIAZ": [
+    {
+      "civico": "8",
+      "barrato": "A"
+    }
+  ],
+  "VIA AZUNI": [
+    {
+      "civico": "17",
+      "barrato": "B"
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    }
+  ],
+  "VIA CADREAS": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "B"
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    }
+  ],
+  "VIA CARLO ALBERTO": [
+    {
+      "civico": "16",
+      "barrato": "A"
+    }
+  ],
+  "VIA CAVOUR": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "B"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    }
+  ],
+  "VIA CHIESA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA CUNZAUS": [
+    {
+      "civico": "15",
+      "barrato": "A"
+    }
+  ],
+  "VIA EMILIO LUSSU": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    }
+  ],
+  "VIA IV NOVEMBRE": [
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": "A"
+    }
+  ],
+  "VIA MONTE ZEBIO": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": "B"
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "B"
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": "A"
+    },
+    {
+      "civico": "26",
+      "barrato": "A"
+    },
+    {
+      "civico": "28",
+      "barrato": "A"
+    },
+    {
+      "civico": "28",
+      "barrato": "B"
+    },
+    {
+      "civico": "28",
+      "barrato": "C"
+    },
+    {
+      "civico": "30",
+      "barrato": "A"
+    }
+  ],
+  "VIA PIAVE": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    },
+    {
+      "civico": "25",
+      "barrato": "A"
+    },
+    {
+      "civico": "27",
+      "barrato": "A"
+    }
+  ],
+  "VIA PRINCIPE AMEDEO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    },
+    {
+      "civico": "23",
+      "barrato": "A"
+    }
+  ],
+  "VIA REGINA MARGHERITA": [
+    {
+      "civico": "20",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": "A"
+    },
+    {
+      "civico": "30",
+      "barrato": "A"
+    },
+    {
+      "civico": "42",
+      "barrato": "A"
+    },
+    {
+      "civico": "48",
+      "barrato": "A"
+    },
+    {
+      "civico": "50",
+      "barrato": "A"
+    },
+    {
+      "civico": "63",
+      "barrato": "A"
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "31",
+      "barrato": "A"
+    }
+  ],
+  "VIA S'EREMITA": [
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    }
+  ],
+  "VIA SAN FRANCESCO": [
+    {
+      "civico": "3",
+      "barrato": "B"
+    }
+  ],
+  "VIA SANTA CATERINA": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": "B"
+    },
+    {
+      "civico": "21",
+      "barrato": "C"
+    },
+    {
+      "civico": "25",
+      "barrato": "A"
+    },
+    {
+      "civico": "27",
+      "barrato": "A"
+    },
+    {
+      "civico": "44",
+      "barrato": "A"
+    }
+  ],
+  "VIA SERRA MARIAS": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    }
+  ],
+  "VIA SU CUNZAU DE IS PARAS": [
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    }
+  ],
+  "VIA SU MERIAGU": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    }
+  ],
+  "VIA TAGLIAMENTO": [
+    {
+      "civico": "19",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    },
+    {
+      "civico": "22",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": "B"
+    }
+  ],
+  "VIA UMBERTO I": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA VITTORIO EMANUELE": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    }
+  ],
+  "VIA VITTORIO VENETO": [
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VIA ZINNIGAS": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VICOLO ALCIDE DE GASPERI": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    }
+  ],
+  "VICOLO SANTA REPARATA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "ZONA ARTIGIANALE": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ]
+}

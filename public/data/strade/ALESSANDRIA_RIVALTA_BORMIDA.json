@@ -1,0 +1,536 @@
+{
+  "CASCINA MORMORASCO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "CASCINA ROSOTTO": [
+    {
+      "civico": "61",
+      "barrato": null
+    }
+  ],
+  "REGIONE ABERGO": [
+    {
+      "civico": "117",
+      "barrato": null
+    }
+  ],
+  "REGIONE ARBUSTO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "140",
+      "barrato": null
+    },
+    {
+      "civico": "146",
+      "barrato": null
+    },
+    {
+      "civico": "148",
+      "barrato": null
+    },
+    {
+      "civico": "149",
+      "barrato": null
+    },
+    {
+      "civico": "152",
+      "barrato": null
+    },
+    {
+      "civico": "153",
+      "barrato": null
+    },
+    {
+      "civico": "154",
+      "barrato": "A"
+    },
+    {
+      "civico": "154",
+      "barrato": null
+    },
+    {
+      "civico": "155",
+      "barrato": null
+    },
+    {
+      "civico": "156",
+      "barrato": null
+    },
+    {
+      "civico": "157",
+      "barrato": null
+    },
+    {
+      "civico": "158",
+      "barrato": null
+    },
+    {
+      "civico": "159",
+      "barrato": null
+    },
+    {
+      "civico": "160",
+      "barrato": null
+    },
+    {
+      "civico": "161",
+      "barrato": null
+    },
+    {
+      "civico": "163",
+      "barrato": null
+    },
+    {
+      "civico": "165",
+      "barrato": null
+    },
+    {
+      "civico": "167",
+      "barrato": null
+    }
+  ],
+  "REGIONE BOSSOLETA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "43",
+      "barrato": "B"
+    },
+    {
+      "civico": "43",
+      "barrato": "C"
+    }
+  ],
+  "REGIONE GHIRBELLINA": [
+    {
+      "civico": "54",
+      "barrato": null
+    },
+    {
+      "civico": "58",
+      "barrato": null
+    },
+    {
+      "civico": "59",
+      "barrato": "A"
+    },
+    {
+      "civico": "59",
+      "barrato": null
+    }
+  ],
+  "REGIONE MIRAGNE": [
+    {
+      "civico": "32",
+      "barrato": "A"
+    }
+  ],
+  "REGIONE MONTICELLO": [
+    {
+      "civico": "179",
+      "barrato": null
+    }
+  ],
+  "REGIONE POGGIO PRATO": [
+    {
+      "civico": "33",
+      "barrato": "A"
+    }
+  ],
+  "REGIONE PRESI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    }
+  ],
+  "REGIONE ROCCHIOLO": [
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "131",
+      "barrato": null
+    },
+    {
+      "civico": "133",
+      "barrato": "A"
+    },
+    {
+      "civico": "133",
+      "barrato": null
+    },
+    {
+      "civico": "135",
+      "barrato": null
+    },
+    {
+      "civico": "137",
+      "barrato": null
+    },
+    {
+      "civico": "139",
+      "barrato": null
+    },
+    {
+      "civico": "140",
+      "barrato": null
+    },
+    {
+      "civico": "141",
+      "barrato": null
+    },
+    {
+      "civico": "142",
+      "barrato": null
+    },
+    {
+      "civico": "143",
+      "barrato": null
+    },
+    {
+      "civico": "144",
+      "barrato": null
+    },
+    {
+      "civico": "147",
+      "barrato": null
+    },
+    {
+      "civico": "151",
+      "barrato": null
+    },
+    {
+      "civico": "152",
+      "barrato": null
+    },
+    {
+      "civico": "153",
+      "barrato": null
+    },
+    {
+      "civico": "155",
+      "barrato": null
+    },
+    {
+      "civico": "162",
+      "barrato": null
+    },
+    {
+      "civico": "167",
+      "barrato": null
+    }
+  ],
+  "REGIONE SAN MICHELE": [
+    {
+      "civico": "131",
+      "barrato": null
+    },
+    {
+      "civico": "133",
+      "barrato": null
+    },
+    {
+      "civico": "135",
+      "barrato": null
+    },
+    {
+      "civico": "137",
+      "barrato": null
+    },
+    {
+      "civico": "139",
+      "barrato": null
+    },
+    {
+      "civico": "141",
+      "barrato": null
+    },
+    {
+      "civico": "159",
+      "barrato": null
+    },
+    {
+      "civico": "163",
+      "barrato": null
+    },
+    {
+      "civico": "164",
+      "barrato": null
+    },
+    {
+      "civico": "165",
+      "barrato": null
+    },
+    {
+      "civico": "167",
+      "barrato": null
+    },
+    {
+      "civico": "173",
+      "barrato": null
+    }
+  ],
+  "REGIONE SAN REMIGIO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "129",
+      "barrato": "A"
+    }
+  ],
+  "REGIONE SOTTOCERRETI": [
+    {
+      "civico": "129",
+      "barrato": "B"
+    }
+  ],
+  "REGIONE SOTTOROCCHE": [
+    {
+      "civico": "145",
+      "barrato": null
+    },
+    {
+      "civico": "150",
+      "barrato": null
+    }
+  ],
+  "REGIONE TARAVONI": [
+    {
+      "civico": "128",
+      "barrato": null
+    }
+  ],
+  "REGIONE VALLE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "132",
+      "barrato": null
+    },
+    {
+      "civico": "133",
+      "barrato": null
+    },
+    {
+      "civico": "179",
+      "barrato": null
+    },
+    {
+      "civico": "180",
+      "barrato": null
+    },
+    {
+      "civico": "181",
+      "barrato": null
+    },
+    {
+      "civico": "182",
+      "barrato": null
+    },
+    {
+      "civico": "183",
+      "barrato": null
+    }
+  ],
+  "REGIONE VALSPERONE": [
+    {
+      "civico": "76",
+      "barrato": "A"
+    }
+  ],
+  "REGIONE VERGINI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "48",
+      "barrato": "B"
+    },
+    {
+      "civico": "59",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE 195": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE 200": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA STREVI": [
+    {
+      "civico": "172",
+      "barrato": null
+    },
+    {
+      "civico": "178",
+      "barrato": null
+    }
+  ],
+  "VIA B.ORSARA": [
+    {
+      "civico": "59",
+      "barrato": null
+    }
+  ],
+  "VIA GUGLIELMO OBERDAN": [
+    {
+      "civico": "63",
+      "barrato": null
+    },
+    {
+      "civico": "65",
+      "barrato": null
+    },
+    {
+      "civico": "67",
+      "barrato": "A"
+    },
+    {
+      "civico": "67",
+      "barrato": null
+    },
+    {
+      "civico": "69",
+      "barrato": null
+    }
+  ],
+  "VIA MONTICELLI": [
+    {
+      "civico": "127",
+      "barrato": null
+    },
+    {
+      "civico": "128",
+      "barrato": null
+    },
+    {
+      "civico": "129",
+      "barrato": null
+    },
+    {
+      "civico": "179",
+      "barrato": null
+    }
+  ],
+  "VIA REGIONE RICCIOTTI": [
+    {
+      "civico": "94",
+      "barrato": null
+    },
+    {
+      "civico": "95",
+      "barrato": null
+    },
+    {
+      "civico": "96",
+      "barrato": null
+    },
+    {
+      "civico": "97",
+      "barrato": null
+    },
+    {
+      "civico": "98",
+      "barrato": null
+    },
+    {
+      "civico": "99",
+      "barrato": null
+    },
+    {
+      "civico": "100",
+      "barrato": null
+    },
+    {
+      "civico": "101",
+      "barrato": null
+    },
+    {
+      "civico": "104",
+      "barrato": null
+    },
+    {
+      "civico": "105",
+      "barrato": null
+    },
+    {
+      "civico": "106",
+      "barrato": null
+    },
+    {
+      "civico": "107",
+      "barrato": null
+    },
+    {
+      "civico": "108",
+      "barrato": null
+    },
+    {
+      "civico": "109",
+      "barrato": null
+    },
+    {
+      "civico": "110",
+      "barrato": null
+    },
+    {
+      "civico": "111",
+      "barrato": null
+    },
+    {
+      "civico": "112",
+      "barrato": null
+    },
+    {
+      "civico": "113",
+      "barrato": null
+    },
+    {
+      "civico": "114",
+      "barrato": null
+    }
+  ],
+  "VIA SAN DOMENICO": [
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ]
+}

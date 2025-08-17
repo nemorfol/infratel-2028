@@ -1,0 +1,774 @@
+{
+  "LOCALITA' BARGELLINO": [
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VIA ALDINA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "2"
+    },
+    {
+      "civico": "4",
+      "barrato": "3"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": "2"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": "2"
+    },
+    {
+      "civico": "35",
+      "barrato": "3"
+    }
+  ],
+  "VIA BACCILIERA": [
+    {
+      "civico": "2",
+      "barrato": "2"
+    },
+    {
+      "civico": "2",
+      "barrato": "3"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "2"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": "2"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA BARCA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "2"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    }
+  ],
+  "VIA BAZZANE": [
+    {
+      "civico": "13",
+      "barrato": "A"
+    }
+  ],
+  "VIA COMMENDA": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    }
+  ],
+  "VIA DEL CERCHIO": [
+    {
+      "civico": "1",
+      "barrato": "4"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "B"
+    },
+    {
+      "civico": "3",
+      "barrato": "C"
+    },
+    {
+      "civico": "3",
+      "barrato": "D"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA DEL MACCABRECCIA": [
+    {
+      "civico": "39",
+      "barrato": "2"
+    }
+  ],
+  "VIA DI MEZZO LEVANTE": [
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": "2"
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    }
+  ],
+  "VIA DI MEZZO PONENTE": [
+    {
+      "civico": "4",
+      "barrato": "2"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": "2"
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": "2"
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    }
+  ],
+  "VIA DUE SCALE": [
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA GIUSEPPE MAZZINI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    }
+  ],
+  "VIA GUARDATELLO": [
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA LEONARDO DA VINCI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA LONGAROLA": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA MOLINO": [
+    {
+      "civico": "5",
+      "barrato": "B"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "VIA PERSICETANA": [
+    {
+      "civico": "9",
+      "barrato": "3"
+    },
+    {
+      "civico": "17",
+      "barrato": "3"
+    },
+    {
+      "civico": "17",
+      "barrato": "4"
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": "A"
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": "3"
+    }
+  ],
+  "VIA PRADAZZO": [
+    {
+      "civico": "6",
+      "barrato": "1"
+    },
+    {
+      "civico": "6",
+      "barrato": "C"
+    },
+    {
+      "civico": "6",
+      "barrato": "D"
+    },
+    {
+      "civico": "6",
+      "barrato": "G"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": "2"
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": "B"
+    },
+    {
+      "civico": "13",
+      "barrato": "C"
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": "O"
+    }
+  ],
+  "VIA RIZZOLA LEVANTE": [
+    {
+      "civico": "33",
+      "barrato": "2"
+    },
+    {
+      "civico": "33",
+      "barrato": "A"
+    },
+    {
+      "civico": "33",
+      "barrato": "B"
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": "A"
+    },
+    {
+      "civico": "34",
+      "barrato": "B"
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "36",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    },
+    {
+      "civico": "38",
+      "barrato": "A"
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    },
+    {
+      "civico": "48",
+      "barrato": null
+    }
+  ],
+  "VIA RIZZOLA PONENTE": [
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": "2"
+    },
+    {
+      "civico": "10",
+      "barrato": "3"
+    },
+    {
+      "civico": "10",
+      "barrato": "4"
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": "2"
+    },
+    {
+      "civico": "12",
+      "barrato": "3"
+    },
+    {
+      "civico": "12",
+      "barrato": "4"
+    },
+    {
+      "civico": "12",
+      "barrato": "5"
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VIA SACERNIA": [
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VIA SAN VITALINO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": "2"
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    }
+  ],
+  "VIA STELLONI LEVANTE": [
+    {
+      "civico": "35",
+      "barrato": "2"
+    },
+    {
+      "civico": "35",
+      "barrato": "3"
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    }
+  ],
+  "VIA STELLONI PONENTE": [
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    }
+  ],
+  "VIA STRADONE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VIA TORRETTA": [
+    {
+      "civico": "39",
+      "barrato": "B"
+    }
+  ],
+  "VIA UMBERTO ECO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    }
+  ],
+  "VIA UNGHERI": [
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "VIA VALLI": [
+    {
+      "civico": "18",
+      "barrato": null
+    }
+  ],
+  "VIA VALTIERA": [
+    {
+      "civico": "17",
+      "barrato": "2"
+    },
+    {
+      "civico": "17",
+      "barrato": "3"
+    },
+    {
+      "civico": "17",
+      "barrato": "4"
+    },
+    {
+      "civico": "17",
+      "barrato": "5"
+    }
+  ]
+}

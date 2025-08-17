@@ -1,0 +1,842 @@
+{
+  "CASCINA LA SBIANCA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "CASCINA MARZIALE": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "CASCINA MOLINO VULPIATE": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "CASCINA QUARA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "CASCINA SOLIVA": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "B"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    }
+  ],
+  "LOCALITA' CASCINA PASQUA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' LA ROBINIA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' LANGOSCO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "REGIONE BOSCO VISERINI": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "REGIONE DOGANA VECCHIA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "REGIONE MONTEREGGIO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "REGIONE PONTE TICINO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "B"
+    }
+  ],
+  "REGIONE SETTE FONTANE": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA COMUNALE QUARA": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "STRADA COMUNALE QUARA MONTEREGGIO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "STRADA STATALE 341": [
+    {
+      "civico": "215",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE BACCARINO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE CAROVELLA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE DEL BARBA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    }
+  ],
+  "STRADA VICINALE DEL CASTAGNO": [
+    {
+      "civico": "3",
+      "barrato": "B"
+    }
+  ],
+  "STRADA VICINALE DEL PIAGGIO": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "67",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE DEL POZZO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE DELLA MONTAGNA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE DELLE VIGNE": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE MEZZANINO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE SPERANZA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE STRELLA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE VARAZZO": [
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "B"
+    },
+    {
+      "civico": "4",
+      "barrato": "C"
+    },
+    {
+      "civico": "4",
+      "barrato": "E"
+    }
+  ],
+  "STRADA VICINALE VULPIATE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "STRADA VULPIATE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "STRADA VULPIATE VECCHIA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA ADAMELLO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA ALESSANDRO ASPESI": [
+    {
+      "civico": "24",
+      "barrato": null
+    }
+  ],
+  "VIA ANTONIO MEUCCI": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA BARAGGIOLI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VIA CAVALLE'": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VIA COLONNA": [
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "VIA CUSTOZA": [
+    {
+      "civico": "26",
+      "barrato": "A"
+    }
+  ],
+  "VIA DIANA": [
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "40",
+      "barrato": null
+    }
+  ],
+  "VIA DUE AGOSTO VITTIME DI BOLOGNA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA FELICE MASINI": [
+    {
+      "civico": "14",
+      "barrato": "A"
+    }
+  ],
+  "VIA FERDINANDO SANTI": [
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA FRATELLI ROSSELLI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    }
+  ],
+  "VIA FULZI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "VIA GIACOMO FAUSER": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA GIOBERTI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA GIOSUE' CARDUCCI": [
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "VIA GIUSEPPE GARIBALDI": [
+    {
+      "civico": "35",
+      "barrato": null
+    }
+  ],
+  "VIA INDIPENDENZA": [
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    }
+  ],
+  "VIA MICHELANGELO BUONARROTI": [
+    {
+      "civico": "106",
+      "barrato": null
+    }
+  ],
+  "VIA MONSIGNOR ANGIOLO GAMBARO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA MONTE GRAPPA": [
+    {
+      "civico": "82",
+      "barrato": null
+    }
+  ],
+  "VIA MONTE NERO": [
+    {
+      "civico": "71",
+      "barrato": "C"
+    },
+    {
+      "civico": "71",
+      "barrato": "E"
+    }
+  ],
+  "VIA MULINO VECCHIO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA NAZARIO SAURO": [
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA PORTO VECCHIO": [
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "42",
+      "barrato": null
+    },
+    {
+      "civico": "45",
+      "barrato": null
+    },
+    {
+      "civico": "53",
+      "barrato": null
+    },
+    {
+      "civico": "55",
+      "barrato": null
+    },
+    {
+      "civico": "57",
+      "barrato": null
+    },
+    {
+      "civico": "71",
+      "barrato": null
+    }
+  ],
+  "VIA QUINTINO SELLA": [
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "B"
+    }
+  ],
+  "VIA REGIONE FORTUNA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA REGIONE VILLA FORTUNA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA RISORGIMENTO": [
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VIA RIZZO": [
+    {
+      "civico": "130",
+      "barrato": null
+    }
+  ],
+  "VIA SORELLE UGAZIO": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA TICINO": [
+    {
+      "civico": "77",
+      "barrato": "A"
+    },
+    {
+      "civico": "112",
+      "barrato": null
+    },
+    {
+      "civico": "139",
+      "barrato": null
+    },
+    {
+      "civico": "141",
+      "barrato": null
+    },
+    {
+      "civico": "223",
+      "barrato": null
+    },
+    {
+      "civico": "225",
+      "barrato": null
+    }
+  ],
+  "VIA TRIESTE": [
+    {
+      "civico": "50",
+      "barrato": "A"
+    }
+  ],
+  "VIA VARALLINO": [
+    {
+      "civico": "121",
+      "barrato": "C"
+    },
+    {
+      "civico": "121",
+      "barrato": "D"
+    },
+    {
+      "civico": "122",
+      "barrato": null
+    },
+    {
+      "civico": "124",
+      "barrato": null
+    }
+  ],
+  "VIA VARAZZE": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA VITTORIO VENETO": [
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA XXV APRILE": [
+    {
+      "civico": "4",
+      "barrato": "C"
+    },
+    {
+      "civico": "122",
+      "barrato": null
+    },
+    {
+      "civico": "143",
+      "barrato": "A"
+    },
+    {
+      "civico": "144",
+      "barrato": null
+    },
+    {
+      "civico": "150",
+      "barrato": null
+    },
+    {
+      "civico": "151",
+      "barrato": "A"
+    }
+  ],
+  "VIALE VITTIME DI KABUL": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "61",
+      "barrato": null
+    }
+  ],
+  "VICOLO ANTONIO BRUSTIO": [
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    }
+  ],
+  "VICOLO MONTE SAN GABRIELE": [
+    {
+      "civico": "9",
+      "barrato": "A"
+    }
+  ],
+  "VICOLO PRIVATO SAN SILVESTRO": [
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": "C"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": "B"
+    },
+    {
+      "civico": "24",
+      "barrato": "C"
+    }
+  ]
+}

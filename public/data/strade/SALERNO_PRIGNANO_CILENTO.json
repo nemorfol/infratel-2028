@@ -1,0 +1,626 @@
+{
+  "CONTRADA PUGLISI": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "CONTRADA TEMPA": [
+    {
+      "civico": "4",
+      "barrato": "BIS"
+    }
+  ],
+  "CORSO DIAZ": [
+    {
+      "civico": "3",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "100",
+      "barrato": null
+    },
+    {
+      "civico": "107",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "109",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "115",
+      "barrato": "BIS"
+    }
+  ],
+  "CORSO GIUSEPPE GARIBALDI": [
+    {
+      "civico": "10",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    }
+  ],
+  "CORSO UMBERTO I": [
+    {
+      "civico": "20",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": "B"
+    },
+    {
+      "civico": "30",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "31",
+      "barrato": "A"
+    },
+    {
+      "civico": "31",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "47",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "61",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "75",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "80",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "98",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "134",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' ALENTO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' FAUZANO": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' JARDINI": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' QUERCE": [
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' SELVA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' VALLI": [
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "LOCALITA'� JARDINI": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "LOCALITA'� SELVA": [
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "LOCALITA'� VALLI": [
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "PIAZZA MUNICIPIO": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "PIAZZA PLEBISCITO": [
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "SALITA SAN GIUSEPPE": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "B"
+    },
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "24",
+      "barrato": "BIS"
+    }
+  ],
+  "VIA ALDO MORO": [
+    {
+      "civico": "1",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "6",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "51",
+      "barrato": null
+    },
+    {
+      "civico": "53",
+      "barrato": null
+    }
+  ],
+  "VIA BELVEDERE": [
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    }
+  ],
+  "VIA CERRINA": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    }
+  ],
+  "VIA GIOVANNI FALCONE": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    }
+  ],
+  "VIA GIUSEPPE VERDI": [
+    {
+      "civico": "1",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "17",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "17",
+      "barrato": "TER"
+    },
+    {
+      "civico": "24",
+      "barrato": "BIA"
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "32",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    },
+    {
+      "civico": "43",
+      "barrato": null
+    },
+    {
+      "civico": "45",
+      "barrato": null
+    }
+  ],
+  "VIA MARCO POLO": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    }
+  ],
+  "VIA MOLINO": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA PAPA GIOVANNI XXIII": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA PAPA URBANO VI": [
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    }
+  ],
+  "VIA SALITA SAN GIUSEPPE": [
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "24",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "31",
+      "barrato": "A"
+    },
+    {
+      "civico": "37",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "58",
+      "barrato": null
+    }
+  ],
+  "VIA SAN ROCCO": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    }
+  ],
+  "VIA SANTA CATERINA": [
+    {
+      "civico": "30",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "47",
+      "barrato": "BIS"
+    }
+  ],
+  "VIALE CRISTOFORO COLOMBO": [
+    {
+      "civico": "32",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    },
+    {
+      "civico": "36",
+      "barrato": null
+    },
+    {
+      "civico": "42",
+      "barrato": null
+    },
+    {
+      "civico": "44",
+      "barrato": null
+    },
+    {
+      "civico": "46",
+      "barrato": null
+    },
+    {
+      "civico": "48",
+      "barrato": null
+    },
+    {
+      "civico": "50",
+      "barrato": null
+    },
+    {
+      "civico": "52",
+      "barrato": null
+    }
+  ]
+}

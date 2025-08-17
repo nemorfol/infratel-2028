@@ -1,0 +1,608 @@
+{
+  "CASCINA CANTARANA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "CASCINA CASELLO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "CASCINA FORNACE": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "CASCINA RITIRATA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "CASCINA VECCHIA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA DEL PIGNONE": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA PANDINA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE 16": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA ALCIDE DE GASPERI": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA ALDO BASSI": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA BASSANO GABBA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA CASCINA LUIGIA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "VIA CASCINA NUOVA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA DEL VIANDANTE": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA CHIESA": [
+    {
+      "civico": "10",
+      "barrato": "G"
+    }
+  ],
+  "VIA DELLA SCIENZA": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    }
+  ],
+  "VIA DON PIETRO LAZZARINI": [
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "VIA FANFULLA": [
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA GIOVANNI FALCONE E PAOLO BORSELLINO": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    }
+  ],
+  "VIA GIOVANNI PAOLO II": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    }
+  ],
+  "VIA I MAGGIO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "2",
+      "barrato": "F"
+    },
+    {
+      "civico": "3",
+      "barrato": "B"
+    },
+    {
+      "civico": "6",
+      "barrato": "D"
+    },
+    {
+      "civico": "6",
+      "barrato": "E"
+    },
+    {
+      "civico": "6",
+      "barrato": "F"
+    },
+    {
+      "civico": "6",
+      "barrato": "I"
+    },
+    {
+      "civico": "6",
+      "barrato": "L"
+    },
+    {
+      "civico": "6",
+      "barrato": "N"
+    },
+    {
+      "civico": "6",
+      "barrato": "O"
+    },
+    {
+      "civico": "6",
+      "barrato": "S"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": "4"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "B"
+    },
+    {
+      "civico": "8",
+      "barrato": "D"
+    },
+    {
+      "civico": "8",
+      "barrato": "F"
+    },
+    {
+      "civico": "8",
+      "barrato": "H"
+    },
+    {
+      "civico": "8",
+      "barrato": "I"
+    },
+    {
+      "civico": "8",
+      "barrato": "M"
+    },
+    {
+      "civico": "8",
+      "barrato": "O"
+    },
+    {
+      "civico": "8",
+      "barrato": "P"
+    },
+    {
+      "civico": "8",
+      "barrato": "Q"
+    },
+    {
+      "civico": "8",
+      "barrato": "R"
+    },
+    {
+      "civico": "8",
+      "barrato": "S"
+    },
+    {
+      "civico": "8",
+      "barrato": "U"
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "VIA MAESTRI DEL LAVORO": [
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    }
+  ],
+  "VIA MARTINO CASSINI": [
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA MOLINO": [
+    {
+      "civico": "25",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    }
+  ],
+  "VIA MOSE' BIANCHI": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA PAPA GIOVANNI XXIII": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": "B"
+    },
+    {
+      "civico": "10",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": "B"
+    }
+  ],
+  "VIA PREMI NOBEL": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    }
+  ],
+  "VIA PRIMAVERA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": "A"
+    },
+    {
+      "civico": "27",
+      "barrato": "B"
+    },
+    {
+      "civico": "27",
+      "barrato": "C"
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "44",
+      "barrato": null
+    },
+    {
+      "civico": "46",
+      "barrato": null
+    },
+    {
+      "civico": "50",
+      "barrato": null
+    }
+  ],
+  "VIA SAN ROCCO": [
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA SANDRO PERTINI": [
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VIA TRENTO E TRIESTE": [
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "B"
+    }
+  ],
+  "VICOLO LODI": [
+    {
+      "civico": "24",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": "B"
+    }
+  ]
+}

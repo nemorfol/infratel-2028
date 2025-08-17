@@ -1,0 +1,796 @@
+{
+  "VIA BELLINGERA": [
+    {
+      "civico": "2",
+      "barrato": "C"
+    },
+    {
+      "civico": "2",
+      "barrato": "D"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    }
+  ],
+  "VIA COMO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": "A"
+    },
+    {
+      "civico": "38",
+      "barrato": "A"
+    },
+    {
+      "civico": "38",
+      "barrato": "A B"
+    },
+    {
+      "civico": "38",
+      "barrato": "C"
+    },
+    {
+      "civico": "44",
+      "barrato": null
+    },
+    {
+      "civico": "51",
+      "barrato": "A"
+    },
+    {
+      "civico": "53",
+      "barrato": null
+    },
+    {
+      "civico": "55",
+      "barrato": null
+    },
+    {
+      "civico": "56",
+      "barrato": null
+    },
+    {
+      "civico": "57",
+      "barrato": null
+    },
+    {
+      "civico": "59",
+      "barrato": null
+    },
+    {
+      "civico": "61",
+      "barrato": "A"
+    },
+    {
+      "civico": "67",
+      "barrato": null
+    },
+    {
+      "civico": "71",
+      "barrato": null
+    }
+  ],
+  "VIA DANTE ALIGHIERI": [
+    {
+      "civico": "43",
+      "barrato": "A"
+    },
+    {
+      "civico": "45",
+      "barrato": null
+    },
+    {
+      "civico": "47",
+      "barrato": "A"
+    },
+    {
+      "civico": "60",
+      "barrato": "A"
+    },
+    {
+      "civico": "62",
+      "barrato": "B"
+    },
+    {
+      "civico": "62",
+      "barrato": "C"
+    },
+    {
+      "civico": "64",
+      "barrato": "A"
+    },
+    {
+      "civico": "64",
+      "barrato": "B"
+    },
+    {
+      "civico": "64",
+      "barrato": "C"
+    },
+    {
+      "civico": "64",
+      "barrato": "D"
+    }
+  ],
+  "VIA DELL'ARTIGIANATO": [
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "12",
+      "barrato": "B"
+    }
+  ],
+  "VIA DELLA FORNACE": [
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "VIA GABRIO CASATI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    },
+    {
+      "civico": "36",
+      "barrato": null
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    },
+    {
+      "civico": "40",
+      "barrato": null
+    },
+    {
+      "civico": "42",
+      "barrato": null
+    }
+  ],
+  "VIA ISONZO": [
+    {
+      "civico": "14",
+      "barrato": "1"
+    },
+    {
+      "civico": "14",
+      "barrato": "2"
+    },
+    {
+      "civico": "14",
+      "barrato": "A 1"
+    },
+    {
+      "civico": "14",
+      "barrato": "A 2"
+    },
+    {
+      "civico": "18",
+      "barrato": "1"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    }
+  ],
+  "VIA MASCAZZA": [
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "1",
+      "barrato": "D"
+    },
+    {
+      "civico": "1",
+      "barrato": "E"
+    },
+    {
+      "civico": "1",
+      "barrato": "F"
+    },
+    {
+      "civico": "1",
+      "barrato": "G"
+    },
+    {
+      "civico": "1",
+      "barrato": "H"
+    },
+    {
+      "civico": "1",
+      "barrato": "O"
+    }
+  ],
+  "VIA MILANO": [
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": "B"
+    }
+  ],
+  "VIA PIATTI": [
+    {
+      "civico": "3",
+      "barrato": "1"
+    },
+    {
+      "civico": "4",
+      "barrato": "C"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "D"
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": "4"
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": "A"
+    },
+    {
+      "civico": "28",
+      "barrato": "B"
+    },
+    {
+      "civico": "28",
+      "barrato": "C"
+    },
+    {
+      "civico": "30",
+      "barrato": "1"
+    }
+  ],
+  "VIA SAN MARTINO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "B"
+    },
+    {
+      "civico": "4",
+      "barrato": "C"
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": "A"
+    },
+    {
+      "civico": "31",
+      "barrato": "A"
+    }
+  ],
+  "VIA SANT'AGOSTINO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": "28"
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "36",
+      "barrato": null
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    },
+    {
+      "civico": "39",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    },
+    {
+      "civico": "43",
+      "barrato": null
+    },
+    {
+      "civico": "45",
+      "barrato": null
+    },
+    {
+      "civico": "47",
+      "barrato": null
+    },
+    {
+      "civico": "49",
+      "barrato": null
+    },
+    {
+      "civico": "51",
+      "barrato": null
+    },
+    {
+      "civico": "57",
+      "barrato": null
+    }
+  ],
+  "VIA SANTA MARIA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "B"
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": "B"
+    },
+    {
+      "civico": "25",
+      "barrato": "C"
+    },
+    {
+      "civico": "29",
+      "barrato": "A"
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": "A"
+    },
+    {
+      "civico": "41",
+      "barrato": "A"
+    },
+    {
+      "civico": "42",
+      "barrato": "A"
+    },
+    {
+      "civico": "42",
+      "barrato": "B"
+    },
+    {
+      "civico": "44",
+      "barrato": "A"
+    },
+    {
+      "civico": "47",
+      "barrato": "A"
+    },
+    {
+      "civico": "48",
+      "barrato": null
+    },
+    {
+      "civico": "50",
+      "barrato": null
+    },
+    {
+      "civico": "56",
+      "barrato": "A"
+    }
+  ],
+  "VIA VARESE": [
+    {
+      "civico": "3",
+      "barrato": "A 1"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": "C"
+    },
+    {
+      "civico": "20",
+      "barrato": "D"
+    },
+    {
+      "civico": "20",
+      "barrato": "E"
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    },
+    {
+      "civico": "22",
+      "barrato": "A"
+    },
+    {
+      "civico": "22",
+      "barrato": "B"
+    },
+    {
+      "civico": "22",
+      "barrato": "C"
+    },
+    {
+      "civico": "23",
+      "barrato": "A"
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": "1"
+    },
+    {
+      "civico": "29",
+      "barrato": "2"
+    },
+    {
+      "civico": "29",
+      "barrato": "A"
+    },
+    {
+      "civico": "29",
+      "barrato": "A 1"
+    },
+    {
+      "civico": "29",
+      "barrato": "B"
+    },
+    {
+      "civico": "29",
+      "barrato": "C 1"
+    },
+    {
+      "civico": "29",
+      "barrato": "D"
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": "A"
+    },
+    {
+      "civico": "32",
+      "barrato": "A"
+    }
+  ],
+  "VIA VARESINA": [
+    {
+      "civico": "28",
+      "barrato": "A"
+    },
+    {
+      "civico": "32",
+      "barrato": "A"
+    },
+    {
+      "civico": "32",
+      "barrato": "B"
+    }
+  ]
+}

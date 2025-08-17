@@ -1,0 +1,684 @@
+{
+  "ISOLATO FONTANAZZA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "STRADA ACQUANEGRA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "2"
+    },
+    {
+      "civico": "3",
+      "barrato": "1"
+    }
+  ],
+  "STRADA ARDENGA": [
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "STRADA CANEPARA": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "3"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "STRADA CANTONAZZO": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "1"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "STRADA CINTURA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "3"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "1"
+    },
+    {
+      "civico": "4",
+      "barrato": "2"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "STRADA FILIGASCO": [
+    {
+      "civico": "3",
+      "barrato": "4"
+    }
+  ],
+  "STRADA MARCHESA": [
+    {
+      "civico": "1",
+      "barrato": "3"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": "1"
+    },
+    {
+      "civico": "10",
+      "barrato": "2"
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "STRADA PADELLINO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": "2"
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": "2"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "STRADA PANE E VINO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "1"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE 20": [
+    {
+      "civico": "2",
+      "barrato": "1"
+    },
+    {
+      "civico": "2",
+      "barrato": "2"
+    },
+    {
+      "civico": "2",
+      "barrato": "3"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "13"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": "1"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "2"
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    }
+  ],
+  "STRADA PROVINCIALE PER POLIGNANO": [
+    {
+      "civico": "2",
+      "barrato": "1"
+    },
+    {
+      "civico": "2",
+      "barrato": "2"
+    },
+    {
+      "civico": "2",
+      "barrato": "3"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "12"
+    },
+    {
+      "civico": "5",
+      "barrato": "2"
+    },
+    {
+      "civico": "5",
+      "barrato": "6"
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "2"
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    },
+    {
+      "civico": "46",
+      "barrato": null
+    },
+    {
+      "civico": "49",
+      "barrato": null
+    }
+  ],
+  "STRADA SANTINA": [
+    {
+      "civico": "1",
+      "barrato": "6"
+    },
+    {
+      "civico": "1",
+      "barrato": "7"
+    },
+    {
+      "civico": "3",
+      "barrato": "1"
+    },
+    {
+      "civico": "3",
+      "barrato": "2"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": "2"
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    }
+  ],
+  "STRADA TORRI PICCOLE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "1"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    }
+  ],
+  "VIA ALESSANDRO VOLTA": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA BOSCHI": [
+    {
+      "civico": "1",
+      "barrato": "6"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": "1"
+    },
+    {
+      "civico": "6",
+      "barrato": "3"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": "1"
+    },
+    {
+      "civico": "15",
+      "barrato": "2"
+    },
+    {
+      "civico": "15",
+      "barrato": "B"
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": "1"
+    },
+    {
+      "civico": "21",
+      "barrato": "3"
+    }
+  ],
+  "VIA CADUTI DI POLIGNANO": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA CAORSANA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "5"
+    },
+    {
+      "civico": "8",
+      "barrato": "2"
+    },
+    {
+      "civico": "45",
+      "barrato": "2"
+    }
+  ],
+  "VIA CARDINALE AGOSTINO CASAROLI": [
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": "2"
+    }
+  ],
+  "VIA CASTELLANA": [
+    {
+      "civico": "2",
+      "barrato": "5"
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    }
+  ],
+  "VIA CIRCONVALLAZIONE": [
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA CORTEMAGGIORE": [
+    {
+      "civico": "3",
+      "barrato": "1"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": "1"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": "2"
+    },
+    {
+      "civico": "8",
+      "barrato": "3"
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": "1"
+    },
+    {
+      "civico": "10",
+      "barrato": "2"
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "VIA CREMONA": [
+    {
+      "civico": "1",
+      "barrato": "2"
+    },
+    {
+      "civico": "3",
+      "barrato": "1"
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": "2"
+    }
+  ],
+  "VIA CROCIONE": [
+    {
+      "civico": "11",
+      "barrato": "1"
+    }
+  ],
+  "VIA DON GIOVANNI BOSCO": [
+    {
+      "civico": "1",
+      "barrato": "BIS"
+    }
+  ],
+  "VIA ENRICO FERMI": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA GIACOMO PUCCINI": [
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA GIOACHINO ROSSINI": [
+    {
+      "civico": "2",
+      "barrato": "1"
+    },
+    {
+      "civico": "2",
+      "barrato": "2"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA GUGLIELMO MARCONI": [
+    {
+      "civico": "8",
+      "barrato": "10"
+    },
+    {
+      "civico": "26",
+      "barrato": "1"
+    }
+  ],
+  "VIA MELCHIORRE GIOIA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    }
+  ],
+  "VIA PIETRO MASCAGNI": [
+    {
+      "civico": "52",
+      "barrato": null
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "8",
+      "barrato": "10"
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "40",
+      "barrato": "1"
+    },
+    {
+      "civico": "40",
+      "barrato": "2"
+    }
+  ],
+  "VIA VILLANOVA": [
+    {
+      "civico": "2",
+      "barrato": "3"
+    }
+  ]
+}

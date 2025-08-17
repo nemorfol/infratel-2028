@@ -1,0 +1,792 @@
+{
+  "LOCALITA' CA' SAN MARCO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "PIAZZA DELLA CHIESA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA A": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA CASTELLO": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "B"
+    },
+    {
+      "civico": "3",
+      "barrato": "C"
+    },
+    {
+      "civico": "3",
+      "barrato": "D"
+    },
+    {
+      "civico": "3",
+      "barrato": "E"
+    },
+    {
+      "civico": "3",
+      "barrato": "F"
+    },
+    {
+      "civico": "3",
+      "barrato": "G"
+    },
+    {
+      "civico": "3",
+      "barrato": "H"
+    }
+  ],
+  "VIA CENTRO": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": "B"
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "C"
+    },
+    {
+      "civico": "19",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": "B"
+    },
+    {
+      "civico": "23",
+      "barrato": "A"
+    },
+    {
+      "civico": "23",
+      "barrato": "B"
+    },
+    {
+      "civico": "31",
+      "barrato": "A"
+    },
+    {
+      "civico": "35",
+      "barrato": "A"
+    },
+    {
+      "civico": "37",
+      "barrato": "A"
+    },
+    {
+      "civico": "37",
+      "barrato": "B"
+    },
+    {
+      "civico": "43",
+      "barrato": "B"
+    },
+    {
+      "civico": "45",
+      "barrato": "B"
+    },
+    {
+      "civico": "47",
+      "barrato": "A"
+    },
+    {
+      "civico": "51",
+      "barrato": "A"
+    },
+    {
+      "civico": "51",
+      "barrato": "C"
+    },
+    {
+      "civico": "55",
+      "barrato": "A"
+    },
+    {
+      "civico": "57",
+      "barrato": "B"
+    },
+    {
+      "civico": "59",
+      "barrato": "A"
+    },
+    {
+      "civico": "61",
+      "barrato": "A"
+    },
+    {
+      "civico": "61",
+      "barrato": "B"
+    },
+    {
+      "civico": "63",
+      "barrato": "A"
+    },
+    {
+      "civico": "65",
+      "barrato": "A"
+    },
+    {
+      "civico": "65",
+      "barrato": "B"
+    },
+    {
+      "civico": "69",
+      "barrato": "A"
+    }
+  ],
+  "VIA COSTA": [
+    {
+      "civico": "3",
+      "barrato": "B"
+    },
+    {
+      "civico": "3",
+      "barrato": "C"
+    }
+  ],
+  "VIA DELLE CASCINE": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "B"
+    },
+    {
+      "civico": "4",
+      "barrato": "C"
+    },
+    {
+      "civico": "4",
+      "barrato": "D"
+    },
+    {
+      "civico": "4",
+      "barrato": "E"
+    },
+    {
+      "civico": "4",
+      "barrato": "F"
+    },
+    {
+      "civico": "4",
+      "barrato": "G"
+    },
+    {
+      "civico": "4",
+      "barrato": "H"
+    },
+    {
+      "civico": "4",
+      "barrato": "I"
+    },
+    {
+      "civico": "4",
+      "barrato": "L"
+    },
+    {
+      "civico": "4",
+      "barrato": "M"
+    },
+    {
+      "civico": "4",
+      "barrato": "N"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "B"
+    },
+    {
+      "civico": "5",
+      "barrato": "C"
+    },
+    {
+      "civico": "5",
+      "barrato": "D"
+    },
+    {
+      "civico": "5",
+      "barrato": "E"
+    },
+    {
+      "civico": "5",
+      "barrato": "F"
+    },
+    {
+      "civico": "5",
+      "barrato": "G"
+    },
+    {
+      "civico": "5",
+      "barrato": "H"
+    },
+    {
+      "civico": "5",
+      "barrato": "I"
+    },
+    {
+      "civico": "5",
+      "barrato": "L"
+    },
+    {
+      "civico": "5",
+      "barrato": "M"
+    },
+    {
+      "civico": "5",
+      "barrato": "N"
+    },
+    {
+      "civico": "5",
+      "barrato": "O"
+    },
+    {
+      "civico": "5",
+      "barrato": "P"
+    },
+    {
+      "civico": "5",
+      "barrato": "Q"
+    },
+    {
+      "civico": "5",
+      "barrato": "R"
+    },
+    {
+      "civico": "5",
+      "barrato": "S"
+    },
+    {
+      "civico": "5",
+      "barrato": "T"
+    },
+    {
+      "civico": "5",
+      "barrato": "U"
+    },
+    {
+      "civico": "5",
+      "barrato": "V"
+    },
+    {
+      "civico": "5",
+      "barrato": "Y"
+    },
+    {
+      "civico": "5",
+      "barrato": "Z"
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "B"
+    },
+    {
+      "civico": "6",
+      "barrato": "C"
+    },
+    {
+      "civico": "6",
+      "barrato": "D"
+    },
+    {
+      "civico": "6",
+      "barrato": "E"
+    },
+    {
+      "civico": "6",
+      "barrato": "F"
+    },
+    {
+      "civico": "6",
+      "barrato": "G"
+    },
+    {
+      "civico": "6",
+      "barrato": "H"
+    },
+    {
+      "civico": "6",
+      "barrato": "I"
+    },
+    {
+      "civico": "6",
+      "barrato": "L"
+    },
+    {
+      "civico": "7",
+      "barrato": "H"
+    },
+    {
+      "civico": "7",
+      "barrato": "I"
+    },
+    {
+      "civico": "7",
+      "barrato": "L"
+    },
+    {
+      "civico": "7",
+      "barrato": "M"
+    },
+    {
+      "civico": "7",
+      "barrato": "N"
+    },
+    {
+      "civico": "7",
+      "barrato": "O"
+    },
+    {
+      "civico": "7",
+      "barrato": "P"
+    },
+    {
+      "civico": "7",
+      "barrato": "Q"
+    },
+    {
+      "civico": "7",
+      "barrato": "R"
+    },
+    {
+      "civico": "7",
+      "barrato": "S"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "B"
+    },
+    {
+      "civico": "8",
+      "barrato": "C"
+    },
+    {
+      "civico": "8",
+      "barrato": "D"
+    },
+    {
+      "civico": "8",
+      "barrato": "E"
+    },
+    {
+      "civico": "8",
+      "barrato": "F"
+    },
+    {
+      "civico": "8",
+      "barrato": "G"
+    },
+    {
+      "civico": "8",
+      "barrato": "H"
+    },
+    {
+      "civico": "8",
+      "barrato": "I"
+    },
+    {
+      "civico": "8",
+      "barrato": "L"
+    },
+    {
+      "civico": "8",
+      "barrato": "M"
+    },
+    {
+      "civico": "8",
+      "barrato": "N"
+    },
+    {
+      "civico": "8",
+      "barrato": "O"
+    },
+    {
+      "civico": "8",
+      "barrato": "P"
+    },
+    {
+      "civico": "8",
+      "barrato": "Q"
+    },
+    {
+      "civico": "8",
+      "barrato": "R"
+    },
+    {
+      "civico": "8",
+      "barrato": "S"
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": "B"
+    },
+    {
+      "civico": "10",
+      "barrato": "C"
+    },
+    {
+      "civico": "10",
+      "barrato": "D"
+    },
+    {
+      "civico": "10",
+      "barrato": "E"
+    },
+    {
+      "civico": "10",
+      "barrato": "F"
+    }
+  ],
+  "VIA GHILARDA": [
+    {
+      "civico": "1",
+      "barrato": "F"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA LUNGO VALMORA": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": "B"
+    },
+    {
+      "civico": "5",
+      "barrato": "B"
+    },
+    {
+      "civico": "5",
+      "barrato": "C"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "B"
+    },
+    {
+      "civico": "7",
+      "barrato": "C"
+    },
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": "B"
+    }
+  ],
+  "VIA PIAZZA MOLINI": [
+    {
+      "civico": "2",
+      "barrato": "C"
+    },
+    {
+      "civico": "2",
+      "barrato": "D"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "10",
+      "barrato": "C"
+    },
+    {
+      "civico": "10",
+      "barrato": "D"
+    },
+    {
+      "civico": "10",
+      "barrato": "E"
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    },
+    {
+      "civico": "23",
+      "barrato": "A"
+    },
+    {
+      "civico": "23",
+      "barrato": "B"
+    },
+    {
+      "civico": "25",
+      "barrato": "A"
+    },
+    {
+      "civico": "25",
+      "barrato": "B"
+    },
+    {
+      "civico": "27",
+      "barrato": "A"
+    },
+    {
+      "civico": "29",
+      "barrato": "A"
+    },
+    {
+      "civico": "33",
+      "barrato": "A"
+    },
+    {
+      "civico": "33",
+      "barrato": "B"
+    },
+    {
+      "civico": "35",
+      "barrato": "B"
+    },
+    {
+      "civico": "37",
+      "barrato": "A"
+    }
+  ],
+  "VIA PIAZZOLA": [
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "B"
+    }
+  ],
+  "VIA REDIVO": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "C"
+    },
+    {
+      "civico": "2",
+      "barrato": "D"
+    },
+    {
+      "civico": "2",
+      "barrato": "E"
+    },
+    {
+      "civico": "20",
+      "barrato": "A"
+    }
+  ],
+  "VIA VALLE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "VIA VALMORESCA": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "4",
+      "barrato": "C"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "A"
+    },
+    {
+      "civico": "17",
+      "barrato": "B"
+    },
+    {
+      "civico": "19",
+      "barrato": "B"
+    },
+    {
+      "civico": "25",
+      "barrato": "A"
+    },
+    {
+      "civico": "25",
+      "barrato": "C"
+    }
+  ],
+  "VIA VALTOMASA": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "X"
+    }
+  ]
+}

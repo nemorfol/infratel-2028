@@ -1,0 +1,550 @@
+{
+  "TRAVERSA I DESTRA DI VIA POGGIOMARINO": [
+    {
+      "civico": "1",
+      "barrato": "3"
+    },
+    {
+      "civico": "8",
+      "barrato": "10"
+    }
+  ],
+  "TRAVERSA I SINISTRA DI VIA ROBERTO SERAFINO": [
+    {
+      "civico": "1",
+      "barrato": "3"
+    },
+    {
+      "civico": "2",
+      "barrato": "4"
+    }
+  ],
+  "TRAVERSA II SINISTRA DI VIA ROBERTO SERAFINO": [
+    {
+      "civico": "3",
+      "barrato": "5"
+    },
+    {
+      "civico": "4",
+      "barrato": "6"
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    }
+  ],
+  "TRAVERSA III SINISTRA DI VIA RISORGIMENTO": [
+    {
+      "civico": "6",
+      "barrato": "B"
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    }
+  ],
+  "VIA CAIONCHE": [
+    {
+      "civico": "49",
+      "barrato": null
+    },
+    {
+      "civico": "75",
+      "barrato": null
+    },
+    {
+      "civico": "77",
+      "barrato": null
+    },
+    {
+      "civico": "85",
+      "barrato": null
+    },
+    {
+      "civico": "99",
+      "barrato": null
+    },
+    {
+      "civico": "121",
+      "barrato": null
+    },
+    {
+      "civico": "123",
+      "barrato": null
+    }
+  ],
+  "VIA CERASO": [
+    {
+      "civico": "33",
+      "barrato": "B"
+    },
+    {
+      "civico": "33",
+      "barrato": "C"
+    },
+    {
+      "civico": "35",
+      "barrato": "1"
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    }
+  ],
+  "VIA CESINA": [
+    {
+      "civico": "3",
+      "barrato": "5"
+    }
+  ],
+  "VIA DIFESA": [
+    {
+      "civico": "25",
+      "barrato": "A"
+    }
+  ],
+  "VIA FURCHI": [
+    {
+      "civico": "41",
+      "barrato": "A"
+    },
+    {
+      "civico": "96",
+      "barrato": null
+    },
+    {
+      "civico": "128",
+      "barrato": null
+    }
+  ],
+  "VIA LE VECCHIE II": [
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA MULITIELLO": [
+    {
+      "civico": "4",
+      "barrato": "6"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "53",
+      "barrato": null
+    },
+    {
+      "civico": "55",
+      "barrato": "D"
+    },
+    {
+      "civico": "55",
+      "barrato": "E"
+    },
+    {
+      "civico": "55",
+      "barrato": "F"
+    },
+    {
+      "civico": "61",
+      "barrato": null
+    },
+    {
+      "civico": "133",
+      "barrato": null
+    },
+    {
+      "civico": "149",
+      "barrato": null
+    }
+  ],
+  "VIA ORTO DELLE FABBRICHE": [
+    {
+      "civico": "22",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": "C"
+    },
+    {
+      "civico": "24",
+      "barrato": "D"
+    },
+    {
+      "civico": "24",
+      "barrato": "E"
+    },
+    {
+      "civico": "24",
+      "barrato": "F"
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    },
+    {
+      "civico": "36",
+      "barrato": null
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    },
+    {
+      "civico": "74",
+      "barrato": null
+    },
+    {
+      "civico": "96",
+      "barrato": null
+    }
+  ],
+  "VIA PALMA": [
+    {
+      "civico": "2",
+      "barrato": "4"
+    },
+    {
+      "civico": "23",
+      "barrato": "A"
+    },
+    {
+      "civico": "198",
+      "barrato": "A"
+    },
+    {
+      "civico": "198",
+      "barrato": "B"
+    },
+    {
+      "civico": "228",
+      "barrato": "A"
+    },
+    {
+      "civico": "228",
+      "barrato": "B"
+    },
+    {
+      "civico": "234",
+      "barrato": "A"
+    },
+    {
+      "civico": "348",
+      "barrato": "B"
+    },
+    {
+      "civico": "498",
+      "barrato": null
+    },
+    {
+      "civico": "510",
+      "barrato": null
+    },
+    {
+      "civico": "520",
+      "barrato": null
+    },
+    {
+      "civico": "534",
+      "barrato": null
+    },
+    {
+      "civico": "538",
+      "barrato": null
+    },
+    {
+      "civico": "562",
+      "barrato": null
+    },
+    {
+      "civico": "636",
+      "barrato": "B"
+    },
+    {
+      "civico": "636",
+      "barrato": "H"
+    },
+    {
+      "civico": "652",
+      "barrato": null
+    }
+  ],
+  "VIA PIANO": [
+    {
+      "civico": "56",
+      "barrato": null
+    },
+    {
+      "civico": "76",
+      "barrato": null
+    }
+  ],
+  "VIA POGGIOMARINO PALMA": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": "A"
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "40",
+      "barrato": null
+    },
+    {
+      "civico": "46",
+      "barrato": null
+    },
+    {
+      "civico": "56",
+      "barrato": null
+    },
+    {
+      "civico": "64",
+      "barrato": null
+    },
+    {
+      "civico": "78",
+      "barrato": null
+    },
+    {
+      "civico": "80",
+      "barrato": null
+    },
+    {
+      "civico": "84",
+      "barrato": null
+    },
+    {
+      "civico": "88",
+      "barrato": null
+    },
+    {
+      "civico": "94",
+      "barrato": null
+    },
+    {
+      "civico": "98",
+      "barrato": "C"
+    },
+    {
+      "civico": "100",
+      "barrato": null
+    },
+    {
+      "civico": "114",
+      "barrato": null
+    },
+    {
+      "civico": "122",
+      "barrato": null
+    },
+    {
+      "civico": "128",
+      "barrato": null
+    }
+  ],
+  "VIA RIVOLTA": [
+    {
+      "civico": "29",
+      "barrato": "A"
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    },
+    {
+      "civico": "61",
+      "barrato": "A"
+    }
+  ],
+  "VIA SAN SEVERINO": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "43",
+      "barrato": null
+    }
+  ],
+  "VIA SAN VALENTINO": [
+    {
+      "civico": "92",
+      "barrato": null
+    },
+    {
+      "civico": "98",
+      "barrato": null
+    },
+    {
+      "civico": "104",
+      "barrato": null
+    },
+    {
+      "civico": "107",
+      "barrato": null
+    },
+    {
+      "civico": "113",
+      "barrato": null
+    },
+    {
+      "civico": "116",
+      "barrato": null
+    },
+    {
+      "civico": "118",
+      "barrato": null
+    }
+  ],
+  "VIA SANT'ARCANGELO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": "B"
+    },
+    {
+      "civico": "48",
+      "barrato": "A"
+    },
+    {
+      "civico": "48",
+      "barrato": "B"
+    },
+    {
+      "civico": "62",
+      "barrato": null
+    },
+    {
+      "civico": "66",
+      "barrato": null
+    },
+    {
+      "civico": "70",
+      "barrato": null
+    },
+    {
+      "civico": "72",
+      "barrato": null
+    },
+    {
+      "civico": "74",
+      "barrato": null
+    },
+    {
+      "civico": "76",
+      "barrato": null
+    },
+    {
+      "civico": "78",
+      "barrato": null
+    },
+    {
+      "civico": "88",
+      "barrato": null
+    },
+    {
+      "civico": "92",
+      "barrato": null
+    },
+    {
+      "civico": "94",
+      "barrato": null
+    },
+    {
+      "civico": "98",
+      "barrato": null
+    },
+    {
+      "civico": "100",
+      "barrato": null
+    },
+    {
+      "civico": "104",
+      "barrato": null
+    },
+    {
+      "civico": "106",
+      "barrato": null
+    },
+    {
+      "civico": "116",
+      "barrato": null
+    }
+  ],
+  "VIA SARNO": [
+    {
+      "civico": "208",
+      "barrato": null
+    }
+  ]
+}

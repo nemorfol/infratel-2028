@@ -1,0 +1,876 @@
+{
+  "CORSO ITALIA": [
+    {
+      "civico": "3",
+      "barrato": "5"
+    },
+    {
+      "civico": "7",
+      "barrato": "9"
+    },
+    {
+      "civico": "8",
+      "barrato": "A"
+    }
+  ],
+  "LOCALITA' MITZA SA ROCCA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' SPINARBA": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "LOCALITA'� PRANU E PREDI": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "PIAZZA ITALIA": [
+    {
+      "civico": "5",
+      "barrato": "6"
+    }
+  ],
+  "PIAZZA IV NOVEMBRE": [
+    {
+      "civico": "27",
+      "barrato": null
+    }
+  ],
+  "PIAZZA MARTIRI": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "6"
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "PIAZZA REGINA ELENA": [
+    {
+      "civico": "6",
+      "barrato": "7"
+    },
+    {
+      "civico": "8",
+      "barrato": "9"
+    },
+    {
+      "civico": "10",
+      "barrato": "11"
+    }
+  ],
+  "STRADA PROVINCIALE 46": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "STRADA PROVINCIALE 48": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA ADUA": [
+    {
+      "civico": "8",
+      "barrato": "A"
+    }
+  ],
+  "VIA ANTONIO SEGNI": [
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    }
+  ],
+  "VIA ARBOREA": [
+    {
+      "civico": "4",
+      "barrato": "2"
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "B"
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "46",
+      "barrato": null
+    }
+  ],
+  "VIA CAGLIARI": [
+    {
+      "civico": "3",
+      "barrato": "B"
+    }
+  ],
+  "VIA CARBONIA": [
+    {
+      "civico": "25",
+      "barrato": "B"
+    },
+    {
+      "civico": "30",
+      "barrato": "A"
+    },
+    {
+      "civico": "32",
+      "barrato": "B"
+    }
+  ],
+  "VIA ELEONORA D'ARBOREA": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "2"
+    },
+    {
+      "civico": "6",
+      "barrato": "1"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    },
+    {
+      "civico": "42",
+      "barrato": null
+    },
+    {
+      "civico": "48",
+      "barrato": null
+    },
+    {
+      "civico": "50",
+      "barrato": null
+    },
+    {
+      "civico": "54",
+      "barrato": null
+    },
+    {
+      "civico": "56",
+      "barrato": null
+    }
+  ],
+  "VIA EMILIA": [
+    {
+      "civico": "3",
+      "barrato": "5"
+    }
+  ],
+  "VIA EMILIO LUSSU": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "6"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    }
+  ],
+  "VIA FRATELLI BANDIERA": [
+    {
+      "civico": "4",
+      "barrato": "6"
+    },
+    {
+      "civico": "8",
+      "barrato": "10"
+    }
+  ],
+  "VIA GAETANO DONIZETTI": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "52",
+      "barrato": null
+    }
+  ],
+  "VIA GIACOMO PUCCINI": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    }
+  ],
+  "VIA GIOVANNI BATTISTA TUVERI": [
+    {
+      "civico": "8",
+      "barrato": "10"
+    },
+    {
+      "civico": "57",
+      "barrato": "A"
+    },
+    {
+      "civico": "78",
+      "barrato": null
+    },
+    {
+      "civico": "79",
+      "barrato": null
+    }
+  ],
+  "VIA GIUSEPPE GARIBALDI": [
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "20",
+      "barrato": "B"
+    }
+  ],
+  "VIA GIUSEPPE VERDI": [
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VIA GOFFREDO MAMELI": [
+    {
+      "civico": "5",
+      "barrato": "7"
+    }
+  ],
+  "VIA IGLESIAS": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA LAZIO": [
+    {
+      "civico": "4",
+      "barrato": "6"
+    }
+  ],
+  "VIA LINNARIS": [
+    {
+      "civico": "2",
+      "barrato": "4"
+    }
+  ],
+  "VIA MACALLE'": [
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "7",
+      "barrato": "C"
+    }
+  ],
+  "VIA MARMILLA": [
+    {
+      "civico": "4",
+      "barrato": "6"
+    },
+    {
+      "civico": "8",
+      "barrato": "B"
+    }
+  ],
+  "VIA MASSIMILIANO KOLBE": [
+    {
+      "civico": "1",
+      "barrato": "3"
+    },
+    {
+      "civico": "2",
+      "barrato": "4"
+    }
+  ],
+  "VIA MOGADISCIO": [
+    {
+      "civico": "5",
+      "barrato": "B"
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    }
+  ],
+  "VIA MORO": [
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "40",
+      "barrato": null
+    }
+  ],
+  "VIA NINO BIXIO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA OLBIA": [
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    }
+  ],
+  "VIA ORISTANO": [
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "33",
+      "barrato": "A"
+    },
+    {
+      "civico": "65",
+      "barrato": "A"
+    }
+  ],
+  "VIA PO": [
+    {
+      "civico": "78",
+      "barrato": null
+    },
+    {
+      "civico": "80",
+      "barrato": "A"
+    },
+    {
+      "civico": "82",
+      "barrato": null
+    },
+    {
+      "civico": "800",
+      "barrato": null
+    }
+  ],
+  "VIA RISORGIMENTO": [
+    {
+      "civico": "3",
+      "barrato": "5"
+    },
+    {
+      "civico": "6",
+      "barrato": "8"
+    },
+    {
+      "civico": "48",
+      "barrato": "A"
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "17",
+      "barrato": "D"
+    },
+    {
+      "civico": "17",
+      "barrato": "E"
+    },
+    {
+      "civico": "17",
+      "barrato": "F"
+    },
+    {
+      "civico": "17",
+      "barrato": "G"
+    }
+  ],
+  "VIA SA TURRITTA": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA SAN SEBASTIANO": [
+    {
+      "civico": "22",
+      "barrato": "A"
+    },
+    {
+      "civico": "22",
+      "barrato": "B"
+    },
+    {
+      "civico": "33",
+      "barrato": "A"
+    }
+  ],
+  "VIA SANLURI": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": "1"
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VIA SANT'ELIA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "4"
+    }
+  ],
+  "VIA SANTA GRECA": [
+    {
+      "civico": "26",
+      "barrato": "A"
+    }
+  ],
+  "VIA SANTA MARIA": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "20",
+      "barrato": "A"
+    }
+  ],
+  "VIA SARDEGNA": [
+    {
+      "civico": "7",
+      "barrato": "9"
+    }
+  ],
+  "VIA SASSARI": [
+    {
+      "civico": "15",
+      "barrato": "A"
+    }
+  ],
+  "VIA SICILIA": [
+    {
+      "civico": "10",
+      "barrato": "A"
+    }
+  ],
+  "VIA SOMALIA": [
+    {
+      "civico": "9",
+      "barrato": "A"
+    }
+  ],
+  "VIA TIRSO": [
+    {
+      "civico": "26",
+      "barrato": "A"
+    }
+  ],
+  "VIA TRENTO": [
+    {
+      "civico": "4",
+      "barrato": "6"
+    }
+  ],
+  "VIA TRIESTE": [
+    {
+      "civico": "2",
+      "barrato": "4"
+    },
+    {
+      "civico": "27",
+      "barrato": "A"
+    },
+    {
+      "civico": "29",
+      "barrato": "A"
+    },
+    {
+      "civico": "29",
+      "barrato": "B"
+    }
+  ],
+  "VIA UMBRIA": [
+    {
+      "civico": "1",
+      "barrato": "3"
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": "A"
+    },
+    {
+      "civico": "32",
+      "barrato": "A"
+    }
+  ],
+  "VIA VITTORIO EMANUELE": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "43",
+      "barrato": null
+    },
+    {
+      "civico": "46",
+      "barrato": null
+    },
+    {
+      "civico": "47",
+      "barrato": null
+    },
+    {
+      "civico": "74",
+      "barrato": null
+    },
+    {
+      "civico": "75",
+      "barrato": null
+    },
+    {
+      "civico": "79",
+      "barrato": null
+    }
+  ],
+  "VIA VITTORIO EMANUELE III": [
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": "A"
+    },
+    {
+      "civico": "25",
+      "barrato": "A"
+    },
+    {
+      "civico": "25",
+      "barrato": "B"
+    },
+    {
+      "civico": "25",
+      "barrato": "C"
+    },
+    {
+      "civico": "75",
+      "barrato": "C"
+    },
+    {
+      "civico": "75",
+      "barrato": "D"
+    },
+    {
+      "civico": "75",
+      "barrato": "E"
+    },
+    {
+      "civico": "79",
+      "barrato": "B"
+    }
+  ],
+  "VICO COTTOLENGO": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VICO GRUXI MARMURI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VICO LINNARIS": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VICOLO I SARDEGNA": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    }
+  ],
+  "VICOLO I VITTORIO EMANUELE III": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    }
+  ],
+  "VICOLO II RISORGIMENTO": [
+    {
+      "civico": "1",
+      "barrato": "3"
+    },
+    {
+      "civico": "7",
+      "barrato": "9"
+    }
+  ],
+  "VICOLO III RISORGIMENTO": [
+    {
+      "civico": "4",
+      "barrato": "6"
+    }
+  ],
+  "VICOLO III VITTORIO EMANUELE III": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VICOLO RISORGIMENTO": [
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "VICOLO SARDEGNA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VICOLO TRENTO": [
+    {
+      "civico": "11",
+      "barrato": "A"
+    }
+  ],
+  "ZONA INDUSTRIALE": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ]
+}

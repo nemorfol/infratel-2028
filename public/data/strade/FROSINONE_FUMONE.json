@@ -1,0 +1,566 @@
+{
+  "PIAZZA DELL'OLMO": [
+    {
+      "civico": "3",
+      "barrato": "5"
+    },
+    {
+      "civico": "9",
+      "barrato": "11"
+    }
+  ],
+  "STRADA VICINALE MONTE DI LAGO": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "6"
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "B"
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE POZZI ANAGNI": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "9",
+      "barrato": "B"
+    },
+    {
+      "civico": "10",
+      "barrato": "12"
+    },
+    {
+      "civico": "73",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE TOMBELLE": [
+    {
+      "civico": "18",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE VALLE STRETTA": [
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    }
+  ],
+  "STRADA VICINALE VIA PIANA": [
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VIA CANTERNO": [
+    {
+      "civico": "51",
+      "barrato": null
+    },
+    {
+      "civico": "69",
+      "barrato": null
+    },
+    {
+      "civico": "71",
+      "barrato": null
+    },
+    {
+      "civico": "73",
+      "barrato": null
+    },
+    {
+      "civico": "75",
+      "barrato": null
+    },
+    {
+      "civico": "77",
+      "barrato": null
+    },
+    {
+      "civico": "79",
+      "barrato": null
+    },
+    {
+      "civico": "99",
+      "barrato": null
+    }
+  ],
+  "VIA CONSOLARE": [
+    {
+      "civico": "1",
+      "barrato": "3"
+    },
+    {
+      "civico": "2",
+      "barrato": "4"
+    },
+    {
+      "civico": "8",
+      "barrato": "10"
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VIA DEL PONTE": [
+    {
+      "civico": "2",
+      "barrato": "4"
+    }
+  ],
+  "VIA MILANO": [
+    {
+      "civico": "1",
+      "barrato": "3"
+    }
+  ],
+  "VIA PROVINCIALE D'ACCESSO": [
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "63",
+      "barrato": null
+    }
+  ],
+  "VIA PROVINCIALE PER ALATRI": [
+    {
+      "civico": "14",
+      "barrato": "B"
+    },
+    {
+      "civico": "29",
+      "barrato": "A"
+    }
+  ],
+  "VIA RISORGIMENTO": [
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "VIA SCREMONI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    }
+  ],
+  "VIA SODINO": [
+    {
+      "civico": "2",
+      "barrato": "4"
+    }
+  ],
+  "VIA TORRICELLE": [
+    {
+      "civico": "6",
+      "barrato": "12"
+    }
+  ],
+  "VIA UMBERTO I": [
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": "9"
+    }
+  ],
+  "VIA VICINALE FORNACE": [
+    {
+      "civico": "4",
+      "barrato": "B"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    }
+  ],
+  "VIA VICINALE FOSSA ZOFFRENA": [
+    {
+      "civico": "16",
+      "barrato": "B"
+    },
+    {
+      "civico": "27",
+      "barrato": "A"
+    },
+    {
+      "civico": "27",
+      "barrato": "B"
+    },
+    {
+      "civico": "31",
+      "barrato": "A"
+    }
+  ],
+  "VIA VICINALE PER TRIVIGLIANO": [
+    {
+      "civico": "6",
+      "barrato": "A"
+    },
+    {
+      "civico": "6",
+      "barrato": "B"
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "VIA VICINALE PIE' DEL MONTE": [
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    }
+  ],
+  "VIA VICINALE SELVA": [
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "B"
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": "A"
+    },
+    {
+      "civico": "19",
+      "barrato": "B"
+    }
+  ],
+  "VIA VICINALE SURROGARA": [
+    {
+      "civico": "7",
+      "barrato": "9"
+    }
+  ],
+  "VIA VICINALE VALLE": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA VICINALE VALLE DEI PRETI": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": "A"
+    },
+    {
+      "civico": "5",
+      "barrato": "7"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    },
+    {
+      "civico": "21",
+      "barrato": "B"
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    }
+  ],
+  "VIA VICINALE VALLE MONOROSO": [
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "23",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    },
+    {
+      "civico": "93",
+      "barrato": null
+    }
+  ],
+  "VIA VICINALE VALLECCHIE": [
+    {
+      "civico": "12",
+      "barrato": "A"
+    },
+    {
+      "civico": "12",
+      "barrato": "B"
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": null
+    },
+    {
+      "civico": "34",
+      "barrato": null
+    }
+  ],
+  "VIA VICINALE VARANO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ]
+}

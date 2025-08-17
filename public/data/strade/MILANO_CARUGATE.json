@@ -1,0 +1,52 @@
+{
+  "CASCINA VALERA": [
+    {
+      "civico": "4",
+      "barrato": "B"
+    }
+  ],
+  "VIA ARTIGIANALE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA FRIULI": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "G"
+    }
+  ],
+  "VIA GIUSEPPE IMPASTATO": [
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "VIA GRAN SASSO": [
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ]
+}

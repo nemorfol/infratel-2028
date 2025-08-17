@@ -1,0 +1,106 @@
+{
+  "LOCALITA' MONTE SPARAU": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    }
+  ],
+  "VIA FLUMENDOSA": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    }
+  ],
+  "VIA GUGLIELMO MARCONI": [
+    {
+      "civico": "22",
+      "barrato": null
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "42",
+      "barrato": "A"
+    },
+    {
+      "civico": "42",
+      "barrato": "B"
+    },
+    {
+      "civico": "48",
+      "barrato": null
+    }
+  ],
+  "VIA SAN MARCO": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA SARDEGNA": [
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "VIA SU CORONGIU DE S'AIRI": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA TIRSO": [
+    {
+      "civico": "17",
+      "barrato": null
+    }
+  ],
+  "VIA TRENTO": [
+    {
+      "civico": "15",
+      "barrato": "A"
+    }
+  ],
+  "VIA VITTORIO EMANUELE III": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "52",
+      "barrato": "B"
+    }
+  ],
+  "VIA VITTORIO VENETO": [
+    {
+      "civico": "24",
+      "barrato": null
+    }
+  ],
+  "VICOLO I S.SUIA": [
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ]
+}

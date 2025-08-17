@@ -1,0 +1,906 @@
+{
+  "PIAZZA GUGLIELMO MARCONI": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "STRADA BOSCHETTO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA CERESA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": null
+    }
+  ],
+  "STRADA CHIUSURE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": "BIS"
+    }
+  ],
+  "STRADA DEL BARANO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA NOVELLO": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "1",
+      "barrato": "D"
+    },
+    {
+      "civico": "1",
+      "barrato": "E"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "STRADA PER AZEGLIO": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "STRADA PER MAGNANO": [
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "36",
+      "barrato": "B"
+    }
+  ],
+  "STRADA PER ZIMONE": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "21",
+      "barrato": "A"
+    },
+    {
+      "civico": "23",
+      "barrato": "B"
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "53",
+      "barrato": "B"
+    },
+    {
+      "civico": "54",
+      "barrato": null
+    },
+    {
+      "civico": "57",
+      "barrato": "D"
+    },
+    {
+      "civico": "57",
+      "barrato": null
+    },
+    {
+      "civico": "72",
+      "barrato": null
+    }
+  ],
+  "STRADA RAPELLA": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "STRADA SAN PIETRO": [
+    {
+      "civico": "13",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    }
+  ],
+  "STRADA STATALE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "B"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "B"
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    },
+    {
+      "civico": "39",
+      "barrato": null
+    },
+    {
+      "civico": "40",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    },
+    {
+      "civico": "57",
+      "barrato": null
+    },
+    {
+      "civico": "80",
+      "barrato": "A"
+    },
+    {
+      "civico": "80",
+      "barrato": null
+    },
+    {
+      "civico": "89",
+      "barrato": "B"
+    },
+    {
+      "civico": "92",
+      "barrato": null
+    },
+    {
+      "civico": "106",
+      "barrato": "A"
+    },
+    {
+      "civico": "106",
+      "barrato": null
+    },
+    {
+      "civico": "108",
+      "barrato": "A"
+    },
+    {
+      "civico": "110",
+      "barrato": "A"
+    },
+    {
+      "civico": "111",
+      "barrato": "A"
+    },
+    {
+      "civico": "111",
+      "barrato": "B"
+    },
+    {
+      "civico": "112",
+      "barrato": null
+    },
+    {
+      "civico": "113",
+      "barrato": "A"
+    },
+    {
+      "civico": "113",
+      "barrato": null
+    },
+    {
+      "civico": "120",
+      "barrato": null
+    },
+    {
+      "civico": "124",
+      "barrato": null
+    }
+  ],
+  "STRADA STATALE 228": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": "A"
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": "A"
+    },
+    {
+      "civico": "14",
+      "barrato": "B"
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": "A"
+    },
+    {
+      "civico": "16",
+      "barrato": "B"
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "17",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "19",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "24",
+      "barrato": "A"
+    },
+    {
+      "civico": "24",
+      "barrato": "B"
+    },
+    {
+      "civico": "24",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "24",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "29",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "31",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "31",
+      "barrato": null
+    },
+    {
+      "civico": "33",
+      "barrato": null
+    },
+    {
+      "civico": "35",
+      "barrato": null
+    },
+    {
+      "civico": "37",
+      "barrato": null
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    },
+    {
+      "civico": "39",
+      "barrato": null
+    },
+    {
+      "civico": "40",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    },
+    {
+      "civico": "57",
+      "barrato": null
+    },
+    {
+      "civico": "80",
+      "barrato": "A"
+    },
+    {
+      "civico": "80",
+      "barrato": null
+    },
+    {
+      "civico": "87",
+      "barrato": null
+    },
+    {
+      "civico": "89",
+      "barrato": "A"
+    },
+    {
+      "civico": "89",
+      "barrato": "B"
+    },
+    {
+      "civico": "89",
+      "barrato": null
+    },
+    {
+      "civico": "91",
+      "barrato": null
+    },
+    {
+      "civico": "92",
+      "barrato": null
+    },
+    {
+      "civico": "93",
+      "barrato": null
+    },
+    {
+      "civico": "94",
+      "barrato": null
+    },
+    {
+      "civico": "95",
+      "barrato": null
+    },
+    {
+      "civico": "96",
+      "barrato": null
+    },
+    {
+      "civico": "97",
+      "barrato": null
+    },
+    {
+      "civico": "106",
+      "barrato": "A"
+    },
+    {
+      "civico": "106",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "106",
+      "barrato": null
+    },
+    {
+      "civico": "108",
+      "barrato": "A"
+    },
+    {
+      "civico": "108",
+      "barrato": null
+    },
+    {
+      "civico": "109",
+      "barrato": null
+    },
+    {
+      "civico": "110",
+      "barrato": "A"
+    },
+    {
+      "civico": "110",
+      "barrato": null
+    },
+    {
+      "civico": "111",
+      "barrato": "A"
+    },
+    {
+      "civico": "111",
+      "barrato": "B"
+    },
+    {
+      "civico": "111",
+      "barrato": null
+    },
+    {
+      "civico": "112",
+      "barrato": null
+    },
+    {
+      "civico": "113",
+      "barrato": "A"
+    },
+    {
+      "civico": "113",
+      "barrato": null
+    },
+    {
+      "civico": "114",
+      "barrato": null
+    },
+    {
+      "civico": "116",
+      "barrato": null
+    },
+    {
+      "civico": "118",
+      "barrato": null
+    },
+    {
+      "civico": "119",
+      "barrato": null
+    },
+    {
+      "civico": "120",
+      "barrato": null
+    },
+    {
+      "civico": "124",
+      "barrato": null
+    },
+    {
+      "civico": "134",
+      "barrato": null
+    },
+    {
+      "civico": "228",
+      "barrato": null
+    }
+  ],
+  "STRADA ZUCCO": [
+    {
+      "civico": "7",
+      "barrato": "BIS"
+    }
+  ],
+  "VIA CALANDO": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA CASTELLAZZO": [
+    {
+      "civico": "28",
+      "barrato": null
+    }
+  ],
+  "VIA CELSO": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA CORRIDOIO": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "VIA DEL PESO": [
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "46",
+      "barrato": null
+    }
+  ],
+  "VIA DISCESA": [
+    {
+      "civico": "20",
+      "barrato": "A"
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    }
+  ],
+  "VIA GIOVANNI FLECCHIA": [
+    {
+      "civico": "12",
+      "barrato": "B"
+    }
+  ],
+  "VIA OSPIZIO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA PIANETTE": [
+    {
+      "civico": "5",
+      "barrato": "E"
+    },
+    {
+      "civico": "5",
+      "barrato": "F"
+    },
+    {
+      "civico": "12",
+      "barrato": "C"
+    },
+    {
+      "civico": "46",
+      "barrato": null
+    }
+  ],
+  "VIA REMONDINA": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA SAN LUIGI ORIONE": [
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "18",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "36",
+      "barrato": null
+    }
+  ],
+  "VIA SOLA'�": [
+    {
+      "civico": "32",
+      "barrato": "BIS"
+    }
+  ]
+}

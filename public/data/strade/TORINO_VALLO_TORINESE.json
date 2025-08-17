@@ -1,0 +1,110 @@
+{
+  "VIA ALESSANDRO OLIVERO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    }
+  ],
+  "VIA GATTINARA": [
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA MONASTEROLO": [
+    {
+      "civico": "12",
+      "barrato": "11"
+    }
+  ],
+  "VIA MONTE DRUINA": [
+    {
+      "civico": "25",
+      "barrato": "A"
+    }
+  ],
+  "VIA RIO TRONTA": [
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA RISORGIMENTO": [
+    {
+      "civico": "5",
+      "barrato": "15"
+    },
+    {
+      "civico": "5",
+      "barrato": "19"
+    },
+    {
+      "civico": "5",
+      "barrato": "21"
+    },
+    {
+      "civico": "5",
+      "barrato": "23"
+    }
+  ],
+  "VIA ROMA": [
+    {
+      "civico": "20",
+      "barrato": "BIS"
+    }
+  ],
+  "VIA VARISELLA": [
+    {
+      "civico": "5",
+      "barrato": "1 A"
+    },
+    {
+      "civico": "5",
+      "barrato": "4 A"
+    },
+    {
+      "civico": "27",
+      "barrato": null
+    },
+    {
+      "civico": "32",
+      "barrato": "BIS"
+    },
+    {
+      "civico": "43",
+      "barrato": null
+    },
+    {
+      "civico": "69",
+      "barrato": "B"
+    },
+    {
+      "civico": "104",
+      "barrato": null
+    }
+  ]
+}

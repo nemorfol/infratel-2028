@@ -1,0 +1,624 @@
+{
+  "CORTE SPERONA": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' CASTELTRIVELLINO": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "PIAZZA GUGLIELMO MARCONI": [
+    {
+      "civico": "1",
+      "barrato": "1"
+    },
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "2"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "PIAZZA TRENTO E TRIESTE": [
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "38",
+      "barrato": null
+    }
+  ],
+  "STRADA MANTOVANINA": [
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ],
+  "VIA ARGINE": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "A"
+    },
+    {
+      "civico": "18",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "28",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    }
+  ],
+  "VIA CAMPAGNA": [
+    {
+      "civico": "10",
+      "barrato": "A"
+    }
+  ],
+  "VIA CANTONI BELFIORE": [
+    {
+      "civico": "8",
+      "barrato": "A"
+    },
+    {
+      "civico": "8",
+      "barrato": "B"
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIA CARDINALA": [
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "11",
+      "barrato": null
+    }
+  ],
+  "VIA CARDINALA OVEST": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": "1"
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VIA CASELLE": [
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "1",
+      "barrato": "C"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA CASELLE I": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA CASELLE II": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    }
+  ],
+  "VIA CIMITERO": [
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "VIA COMUNA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA CORTE CASCINA": [
+    {
+      "civico": "1",
+      "barrato": "B"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    }
+  ],
+  "VIA DEL DUCA": [
+    {
+      "civico": "1",
+      "barrato": "A"
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA REPUBBLICA": [
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA DELLE VIGNE": [
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA FRANCESCO GADIOLI": [
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "25",
+      "barrato": null
+    }
+  ],
+  "VIA GLI ZINGARI": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA GROLA": [
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA MANTOVANA": [
+    {
+      "civico": "3",
+      "barrato": "3"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": "2"
+    },
+    {
+      "civico": "5",
+      "barrato": "3"
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "14",
+      "barrato": null
+    },
+    {
+      "civico": "16",
+      "barrato": null
+    },
+    {
+      "civico": "26",
+      "barrato": null
+    }
+  ],
+  "VIA OSTIGLIESE": [
+    {
+      "civico": "3",
+      "barrato": "2"
+    },
+    {
+      "civico": "3",
+      "barrato": "A"
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    },
+    {
+      "civico": "10",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": "A"
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    },
+    {
+      "civico": "15",
+      "barrato": "A"
+    },
+    {
+      "civico": "15",
+      "barrato": "B"
+    },
+    {
+      "civico": "15",
+      "barrato": null
+    },
+    {
+      "civico": "22",
+      "barrato": "A"
+    },
+    {
+      "civico": "22",
+      "barrato": null
+    },
+    {
+      "civico": "152",
+      "barrato": "1"
+    },
+    {
+      "civico": "152",
+      "barrato": "2"
+    },
+    {
+      "civico": "156",
+      "barrato": "1"
+    }
+  ],
+  "VIA PAPA GIOVANNI XXIII": [
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA PASCOLO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA PERSICARA": [
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "5",
+      "barrato": null
+    }
+  ],
+  "VIA PRADELLE": [
+    {
+      "civico": "1",
+      "barrato": null
+    }
+  ],
+  "VIA PROVINCIALE": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "41",
+      "barrato": null
+    }
+  ],
+  "VIA RISORGIMENTO": [
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "30",
+      "barrato": null
+    },
+    {
+      "civico": "48",
+      "barrato": null
+    },
+    {
+      "civico": "80",
+      "barrato": null
+    }
+  ],
+  "VIA SANT'EUROSIA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": "1"
+    },
+    {
+      "civico": "2",
+      "barrato": "A"
+    },
+    {
+      "civico": "2",
+      "barrato": "B"
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA SANTA CECILIA": [
+    {
+      "civico": "17",
+      "barrato": null
+    }
+  ],
+  "VIA SOCCORSO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA SORDELLO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VIA SOSCADE": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    }
+  ],
+  "VIA STORLINE": [
+    {
+      "civico": "19",
+      "barrato": "A"
+    }
+  ],
+  "VIA TEOFILO FOLENGO": [
+    {
+      "civico": "9",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    }
+  ],
+  "VIA TERZI": [
+    {
+      "civico": "6",
+      "barrato": "1"
+    },
+    {
+      "civico": "6",
+      "barrato": null
+    },
+    {
+      "civico": "8",
+      "barrato": null
+    }
+  ],
+  "VIALE IV NOVEMBRE": [
+    {
+      "civico": "20",
+      "barrato": null
+    },
+    {
+      "civico": "45",
+      "barrato": null
+    },
+    {
+      "civico": "47",
+      "barrato": null
+    },
+    {
+      "civico": "51",
+      "barrato": null
+    },
+    {
+      "civico": "57",
+      "barrato": null
+    },
+    {
+      "civico": "59",
+      "barrato": null
+    },
+    {
+      "civico": "65",
+      "barrato": null
+    }
+  ],
+  "VIALE XXV APRILE": [
+    {
+      "civico": "11",
+      "barrato": null
+    },
+    {
+      "civico": "12",
+      "barrato": null
+    },
+    {
+      "civico": "13",
+      "barrato": null
+    }
+  ],
+  "VICOLO DEL FORNO": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "3",
+      "barrato": null
+    }
+  ],
+  "VICOLO GONZAGA": [
+    {
+      "civico": "5",
+      "barrato": null
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    },
+    {
+      "civico": "9",
+      "barrato": null
+    }
+  ],
+  "VICOLO SANDRO PERTINI": [
+    {
+      "civico": "2",
+      "barrato": null
+    }
+  ]
+}

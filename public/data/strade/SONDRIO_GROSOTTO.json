@@ -1,0 +1,74 @@
+{
+  "LOCALITA' PRADA": [
+    {
+      "civico": "1",
+      "barrato": null
+    },
+    {
+      "civico": "2",
+      "barrato": null
+    },
+    {
+      "civico": "4",
+      "barrato": null
+    }
+  ],
+  "LOCALITA' SAN SEBASTIANO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA DELLA LIBERTA'": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "7",
+      "barrato": "A"
+    },
+    {
+      "civico": "7",
+      "barrato": null
+    }
+  ],
+  "VIA FILOCHET": [
+    {
+      "civico": "0",
+      "barrato": null
+    },
+    {
+      "civico": "20",
+      "barrato": null
+    }
+  ],
+  "VIA NUOVA PROVINCIALE": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA SAN MARTINO": [
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA SAN SEBASTIANO": [
+    {
+      "civico": "0",
+      "barrato": "SNC"
+    },
+    {
+      "civico": "0",
+      "barrato": null
+    }
+  ],
+  "VIA STATALE": [
+    {
+      "civico": "1",
+      "barrato": "B"
+    }
+  ]
+}
