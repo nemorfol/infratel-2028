@@ -2,81 +2,81 @@
   "PIAZZA VITTORIO VENETO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BORGO D'ALE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CIRCONVALLAZIONE EST": [
     {
-      "civico": "1",
-      "barrato": "BIS"
+      "civico": "1/BIS",
+      "stato": "B"
     }
   ],
   "VIA FRANCESCO FERRUCCIO": [
     {
-      "civico": "1",
-      "barrato": "BIS"
+      "civico": "1/BIS",
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "4",
-      "barrato": "BIS"
+      "civico": "4/BIS",
+      "stato": "B"
     }
   ],
   "VIA IVREA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "37",
-      "barrato": "BIS"
+      "civico": "37/BIS",
+      "stato": "C"
     }
   ],
   "VIA MAGLIONE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GIOVANNI BOSCO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN ROCCO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SOLFERINO": [
     {
-      "civico": "10",
-      "barrato": "BIS"
+      "civico": "10/BIS",
+      "stato": "B"
     }
   ],
   "VICOLO COSTANTINO NIGRA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "A"
     }
   ],
   "VICOLO DANTE": [
     {
-      "civico": "3",
-      "barrato": "BIS"
+      "civico": "3/BIS",
+      "stato": "B"
     }
   ]
 }

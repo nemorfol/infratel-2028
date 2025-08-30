@@ -2,65 +2,65 @@
   "REGIONE CASCINETTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BUROLO": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON FRANCESCO CABRIO": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "14",
-      "barrato": "BIS"
+      "civico": "14/BIS",
+      "stato": "B"
     }
   ]
 }

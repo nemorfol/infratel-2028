@@ -2,121 +2,121 @@
   "PIAZZA DEL MUNICIPIO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA AL LAGO": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     }
   ],
   "VIA ALBERA'�": [
     {
-      "civico": "56",
-      "barrato": "A"
+      "civico": "56/A",
+      "stato": "B"
     },
     {
-      "civico": "89",
-      "barrato": "A"
+      "civico": "89/A",
+      "stato": "B"
     },
     {
       "civico": "95",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BELVEDERE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAMPOLONGO": [
     {
-      "civico": "57",
-      "barrato": "B"
+      "civico": "57/B",
+      "stato": "B"
     },
     {
-      "civico": "76",
-      "barrato": "A"
+      "civico": "76/A",
+      "stato": "B"
     }
   ],
   "VIA CAVADA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SERAFINI": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VALDAGNI": [
     {
-      "civico": "43",
-      "barrato": "II"
+      "civico": "43/II",
+      "stato": "B"
     }
   ],
   "VIA VARIANTE": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "B"
     }
   ],
   "VIA VENEZIA": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

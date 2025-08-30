@@ -2,361 +2,361 @@
   "LOCALITA' CAMPE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' FOI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' STANDER": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA AL PEZZO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BATTISTERI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BELVEDERE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BETTOLA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BRUSCHI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAMPE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAMPOSILVANO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CHIARENZI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COLLINA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COLPER": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COMERLATI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA CORRE'": [
     {
-      "civico": "9",
-      "barrato": "1"
+      "civico": "9/1",
+      "stato": "B"
     }
   ],
   "VIA COVEL": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CROCE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA CUNEK": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FOI": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA FONDA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FONDI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FONTANI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GARZON DI SOPRA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GARZON DI SOTTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LINTE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MENOTTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOII": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTE ALTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA POZZE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RETZ": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SALAORNO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STALLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TEZZE DI SOPRA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA TEZZE DI SOTTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TURARI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA UCCHESI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA VAL DI VELO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "T"
+      "civico": "8/T",
+      "stato": "B"
     }
   ],
   "VIA VIAVERDE": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

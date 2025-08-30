@@ -2,125 +2,125 @@
   "STRADA PROVINCIALE 96": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CA' BERTONCINA": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FIUME SERIO": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIACOMO VENEZIAN": [
     {
       "civico": "110",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LEVATA": [
     {
-      "civico": "1",
-      "barrato": "S"
+      "civico": "1/S",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": "I"
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "L"
+      "civico": "3/I",
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "M"
+      "civico": "3/L",
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/M",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": null
-    },
-    {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "5/B",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "C"
+      "civico": "7/A",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": null
+      "civico": "7/B",
+      "stato": "B"
+    },
+    {
+      "civico": "7/C",
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROVERETO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SCAVEZZATA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STELLA ALPINA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

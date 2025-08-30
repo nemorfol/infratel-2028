@@ -1,18 +1,18 @@
 {
   "VIA DEL VILLAGGIO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA NOVALE": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "B"
+      "civico": "24/B",
+      "stato": "B"
     }
   ]
 }

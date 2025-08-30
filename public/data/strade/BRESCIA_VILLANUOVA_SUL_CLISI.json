@@ -2,141 +2,141 @@
   "VIA CANNETO": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CARPEN": [
     {
       "civico": "43",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "48",
-      "barrato": "A"
+      "civico": "48/A",
+      "stato": "C"
     },
     {
-      "civico": "48",
-      "barrato": "C"
+      "civico": "48/C",
+      "stato": "C"
     },
     {
-      "civico": "48",
-      "barrato": "D"
+      "civico": "48/D",
+      "stato": "C"
     }
   ],
   "VIA CASTELLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LUIGI COCCA": [
     {
       "civico": "59",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MEZZANE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "D"
-    },
-    {
-      "civico": "36",
-      "barrato": "A"
+      "civico": "17/D",
+      "stato": "B"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "36/A",
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "40",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": null
+      "civico": "40/A",
+      "stato": "B"
     },
     {
-      "civico": "41",
-      "barrato": "A"
+      "civico": "41/A",
+      "stato": "B"
     },
     {
-      "civico": "41",
-      "barrato": "B"
-    },
-    {
-      "civico": "45",
-      "barrato": "A"
+      "civico": "41/B",
+      "stato": "B"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "45/A",
+      "stato": "B"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "72",
-      "barrato": "A"
+      "civico": "72/A",
+      "stato": "B"
     },
     {
       "civico": "84",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "86",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "90",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PERACQUE": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/B",
+      "stato": "C"
     }
   ]
 }

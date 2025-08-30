@@ -2,27 +2,27 @@
   "VIA CAVOUR": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LIBERTA'": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MILANO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "BIS"
+      "civico": "4/BIS",
+      "stato": "B"
     }
   ]
 }

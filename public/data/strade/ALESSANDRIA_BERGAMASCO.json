@@ -2,125 +2,125 @@
   "CASCINA MANGUCCIA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA SAN CRISTOFORO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA SAN NICOLAO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 242": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 243": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALESSANDRIA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": null
+      "civico": "21/A",
+      "stato": "B"
     }
   ],
   "VIA ANTONIO GRAMSCI": [
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     }
   ],
   "VIA DANTE ALIGHIERI": [
     {
-      "civico": "38",
-      "barrato": "B"
+      "civico": "38/B",
+      "stato": "B"
     }
   ],
   "VIA DEL MOLINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

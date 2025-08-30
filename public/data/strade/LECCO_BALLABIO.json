@@ -2,81 +2,81 @@
   "VIA CHIESUOLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FILIPPO TURATI": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     }
   ],
   "VIA GRIGNA": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "A"
+      "civico": "20/A",
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LEONARDO DA VINCI": [
     {
       "civico": "10",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": null
+      "civico": "10/A",
+      "stato": "C"
     }
   ],
   "VIA RONCAIOLO ALTO": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ZUCCO": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

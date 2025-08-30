@@ -2,171 +2,171 @@
   "LARGO D'ANNUNZIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA BITTOLO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEI CASTAGNI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARTIRI DELLA LIBERTA'": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "28",
-      "barrato": "1"
+      "civico": "28/1",
+      "stato": "C"
     },
     {
-      "civico": "28",
-      "barrato": "2"
+      "civico": "28/2",
+      "stato": "C"
     }
   ],
   "VIA MOZZANA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PRIVATA CASTIGLIONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN GIUSEPPE": [
     {
-      "civico": "5",
-      "barrato": "E"
+      "civico": "5/E",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "H"
+      "civico": "5/H",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "I"
+      "civico": "5/I",
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "B"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": null
+      "civico": "7/B",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "C"
+      "civico": "9/B",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "D"
+      "civico": "9/C",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "F"
+      "civico": "9/D",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "G"
+      "civico": "9/F",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/G",
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "54",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

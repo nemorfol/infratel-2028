@@ -1,24 +1,24 @@
 {
   "VIA ALLA FONTE": [
     {
-      "civico": "32",
-      "barrato": "A"
+      "civico": "32/A",
+      "stato": "B"
     }
   ],
   "VIA BOFFALORA": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": "C"
+      "civico": "10/C",
+      "stato": "C"
     }
   ],
   "VIA XXV APRILE": [
     {
-      "civico": "28",
-      "barrato": "A"
+      "civico": "28/A",
+      "stato": "B"
     }
   ]
 }

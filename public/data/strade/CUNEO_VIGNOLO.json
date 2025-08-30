@@ -2,301 +2,301 @@
   "VIA BASSE DI STURA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     }
   ],
   "VIA BISALTA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CARAGLIO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
-    },
-    {
-      "civico": "27",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "27/A",
+      "stato": "B"
     },
     {
       "civico": "41",
-      "barrato": "1"
+      "stato": "B"
     },
     {
-      "civico": "41",
-      "barrato": null
+      "civico": "41/1",
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "1"
+      "civico": "43/1",
+      "stato": "C"
     },
     {
-      "civico": "88",
-      "barrato": "A"
+      "civico": "88/A",
+      "stato": "C"
     }
   ],
   "VIA CARESTIA": [
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CUNEO": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "B"
+      "civico": "11/B",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "A"
+      "civico": "34/A",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "B"
+      "civico": "34/B",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "BIS"
+      "civico": "34/BIS",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "C"
+      "civico": "34/C",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "D"
+      "civico": "34/D",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "F"
+      "civico": "34/F",
+      "stato": "B"
     }
   ],
   "VIA DEI CASTAGNI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA DEI PESCHI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLA VILLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "1"
+      "civico": "19/1",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "2"
+      "civico": "19/2",
+      "stato": "B"
     }
   ],
   "VIA FONGA": [
     {
-      "civico": "4",
-      "barrato": "BIS"
+      "civico": "4/BIS",
+      "stato": "B"
     }
   ],
   "VIA GIOVANNI GIOLITTI": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA I MAGGIO": [
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE BRAM": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE BUSSAIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTE TIBERT": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA NARBONA": [
     {
-      "civico": "15",
-      "barrato": "C"
+      "civico": "15/C",
+      "stato": "C"
     }
   ],
   "VIA NITTARDI": [
     {
-      "civico": "63",
-      "barrato": "A"
+      "civico": "63/A",
+      "stato": "B"
     },
     {
-      "civico": "63",
-      "barrato": "B"
+      "civico": "63/B",
+      "stato": "B"
     }
   ],
   "VIA PAVIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "71",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROCCASPARVERA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN MAURIZIO": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTA CROCE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "B"
+      "civico": "11/B",
+      "stato": "B"
     }
   ],
   "VIA SOTTANA": [
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     }
   ],
   "VIA TETTO PELLEGRINO": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "C"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TETTO RIBERI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     }
   ],
   "VIA VECCHIA DI CUNEO": [
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "B"
     }
   ]
 }

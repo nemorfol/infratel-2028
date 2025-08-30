@@ -2,175 +2,175 @@
   "CASCINA MADONASSO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA MAGAROTTO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA OLMELUCO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA SAN GIOVANNI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA VALPIRIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA COMUNALE CEREGOLE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA VICINALE BOSCHI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE CHIOZZI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE PRODONA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": "1"
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": null
-    },
-    {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "13/1",
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": null
+      "civico": "15/A",
+      "stato": "B"
+    },
+    {
+      "civico": "15/B",
+      "stato": "B"
     }
   ],
   "VIA BRUGO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BRUNO BUOZZI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FIUME": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA POZZO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "17",
-      "barrato": null
+      "civico": "17/1",
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

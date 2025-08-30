@@ -2,127 +2,127 @@
   "PIAZZA FRATELLI CALVI": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BORTOLO BELOTTI": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA CALEGARI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CURATO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LORENZO OBERTI": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTEBELLO": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     }
   ],
   "VIA PROVINCIALE": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VECCHIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

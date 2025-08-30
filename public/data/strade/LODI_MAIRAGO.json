@@ -2,281 +2,281 @@
   "CASCINA BELVIGNATE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "CASCINA BELVIGNATINO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "CASCINA CODAZZA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GUDIO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA ROMETTA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA TAIANA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "CASCINA VALLAZZA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZETTA GUGLIELMO MARCONI": [
     {
-      "civico": "1",
-      "barrato": "1"
+      "civico": "1/1",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "10"
+      "civico": "1/2",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "2"
+      "civico": "1/3",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "3"
+      "civico": "1/4",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "4"
+      "civico": "1/6",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "6"
+      "civico": "1/7",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "7"
+      "civico": "1/8",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "8"
+      "civico": "1/9",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "9"
+      "civico": "1/10",
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 26": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "STRADA STATALE 9": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA STATALE EMILIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ADA NEGRI": [
     {
-      "civico": "7",
-      "barrato": "3"
+      "civico": "7/3",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     }
   ],
   "VIA AGOSTINO BASSI": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALCIDE DE GASPERI": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "E"
+      "civico": "5/E",
+      "stato": "B"
     }
   ],
   "VIA ALDO MORO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEL BELTRAMINO": [
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "D"
+      "civico": "8/D",
+      "stato": "B"
     }
   ],
   "VIA DELL'ARTIGIANATO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "G"
+      "civico": "1/G",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLE CALLE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ENRICO BERLINGUER": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ENRICO MATTEI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FANFULLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LUIGI EINAUDI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LUIGI VIGNATI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAPA GIOVANNI XXIII": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "3"
+      "civico": "20/3",
+      "stato": "B"
     }
   ],
   "VICOLO CAVOUR": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

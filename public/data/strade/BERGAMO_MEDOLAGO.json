@@ -2,43 +2,43 @@
   "VIA CASCINA GRANDONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLE CAVE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA LOMBARDIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN PROTASIO": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VIA TORRE": [
     {
-      "civico": "16",
-      "barrato": "E"
+      "civico": "16/E",
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

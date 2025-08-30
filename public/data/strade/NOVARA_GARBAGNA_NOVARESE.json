@@ -2,105 +2,105 @@
   "CASCINA MARIINA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA DELLA BRUSATTINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA STATALE 211": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA VICINALE DEL CAPONA DOSSETTI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "TENUTA BUZZOLETTO NUOVO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": null
+      "civico": "6/A",
+      "stato": "C"
     }
   ],
   "VIA ALLA CHIESA": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CRISTOFORO COLOMBO": [
     {
-      "civico": "22",
-      "barrato": "C"
+      "civico": "22/C",
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "75",
-      "barrato": "A"
+      "civico": "75/A",
+      "stato": "C"
     },
     {
-      "civico": "79",
-      "barrato": "A"
+      "civico": "79/A",
+      "stato": "B"
     },
     {
-      "civico": "85",
-      "barrato": "A"
+      "civico": "85/A",
+      "stato": "B"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     }
   ],
   "VIA VERDI": [
     {
-      "civico": "15",
-      "barrato": "G"
+      "civico": "15/G",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "I"
+      "civico": "15/I",
+      "stato": "B"
     }
   ]
 }

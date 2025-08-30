@@ -2,117 +2,117 @@
   "CORSO GABRIELE CAMOZZI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "89",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "91",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CORSO MILANO": [
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "B"
+      "civico": "14/B",
+      "stato": "B"
     }
   ],
   "VIA ALBINO": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CARDELLINO": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ENEA TALPINO": [
     {
-      "civico": "75",
-      "barrato": "A"
+      "civico": "75/A",
+      "stato": "B"
     }
   ],
   "VIA GIACOMO LEOPARDI": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE CERVINO": [
     {
       "civico": "67",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "71",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTE GRAPPA": [
     {
       "civico": "55",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE PODONA": [
     {
       "civico": "4",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": null
-    },
-    {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "4/B",
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "32",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
+    },
+    {
+      "civico": "32/A",
+      "stato": "B"
     }
   ],
   "VIA PADOVA": [
     {
       "civico": "18",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "C"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": null
+      "civico": "18/C",
+      "stato": "B"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

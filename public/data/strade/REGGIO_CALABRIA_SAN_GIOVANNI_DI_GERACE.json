@@ -2,133 +2,133 @@
   "CONTRADA SAN PIETRO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LARGO DELLE GRAZIE": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "PIAZZA MUNICIPIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "TRAVERSA V DI VIA GIACOMO MATTEOTTI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DALMAZIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "87",
-      "barrato": "I"
+      "civico": "87/I",
+      "stato": "C"
     },
     {
-      "civico": "87",
-      "barrato": "P"
+      "civico": "87/P",
+      "stato": "C"
     },
     {
-      "civico": "110",
-      "barrato": "A"
+      "civico": "110/A",
+      "stato": "B"
     },
     {
-      "civico": "120",
-      "barrato": "A"
+      "civico": "120/A",
+      "stato": "B"
     },
     {
       "civico": "133",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIOVANNI DA PROCIDA": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VIA LIBERTA'": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA NAZARIO SAURO": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIAVE": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RAFFAELE PATA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANTA FILOMENA": [
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

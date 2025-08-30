@@ -2,411 +2,411 @@
   "PIAZZA FORTUNATI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 9": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA STATALE 28": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA AUTOSTRADA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "E"
+      "civico": "15/E",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "F"
+      "civico": "15/F",
+      "stato": "B"
     }
   ],
   "VIA BLENGINI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/A",
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CIMITERO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CIMITERO CARMINE": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VIA COLLE DI NAVA": [
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "P"
+      "civico": "24/P",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "A"
+      "civico": "29/A",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "A"
+      "civico": "38/A",
+      "stato": "B"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "61",
-      "barrato": "C"
+      "civico": "61/C",
+      "stato": "B"
     },
     {
-      "civico": "61",
-      "barrato": "D"
+      "civico": "61/D",
+      "stato": "B"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "68",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "69",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "70",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "76",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "147",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DOMENICO ROSSI": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "68",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "74",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FERRUA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE TOMATIS": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "C"
+      "civico": "24/C",
+      "stato": "B"
     },
     {
-      "civico": "36",
-      "barrato": "A"
+      "civico": "36/A",
+      "stato": "B"
     },
     {
-      "civico": "36",
-      "barrato": "B"
+      "civico": "36/B",
+      "stato": "B"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "81",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "97",
-      "barrato": "B"
+      "civico": "97/B",
+      "stato": "B"
     }
   ],
   "VIA LANGHE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     },
     {
-      "civico": "57",
-      "barrato": "2 A"
+      "civico": "57/2 A",
+      "stato": "B"
     },
     {
-      "civico": "57",
-      "barrato": "3 A"
+      "civico": "57/3 A",
+      "stato": "B"
     },
     {
       "civico": "141",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "193",
-      "barrato": "BIS 1"
+      "civico": "193/BIS 1",
+      "stato": "B"
     },
     {
-      "civico": "193",
-      "barrato": "BIS 2"
+      "civico": "193/BIS 2",
+      "stato": "B"
     },
     {
-      "civico": "201",
-      "barrato": "B"
+      "civico": "201/B",
+      "stato": "B"
     },
     {
-      "civico": "201",
-      "barrato": "BIS"
+      "civico": "201/BIS",
+      "stato": "B"
     },
     {
-      "civico": "256",
-      "barrato": "A"
+      "civico": "256/A",
+      "stato": "B"
     },
     {
-      "civico": "258",
-      "barrato": "A"
+      "civico": "258/A",
+      "stato": "B"
     },
     {
-      "civico": "258",
-      "barrato": "B"
+      "civico": "258/B",
+      "stato": "B"
     },
     {
-      "civico": "270",
-      "barrato": "A"
+      "civico": "270/A",
+      "stato": "B"
     }
   ],
   "VIA PIETRO BURDISSO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PROVINCIALE": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SAN GIUSEPPE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA STEFANO BLENGINO": [
     {
-      "civico": "1",
-      "barrato": "L"
+      "civico": "1/L",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "M"
+      "civico": "1/M",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "E"
+      "civico": "3/E",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "B"
     }
   ],
   "VIA VALLE": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA VALLOTTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VERDINO": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     }
   ]
 }

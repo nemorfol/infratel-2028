@@ -1,418 +1,418 @@
 {
   "VIA ALBAROLO": [
     {
-      "civico": "5",
-      "barrato": "1"
+      "civico": "5/1",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "2"
+      "civico": "5/2",
+      "stato": "C"
     }
   ],
   "VIA BORGOMALE": [
     {
-      "civico": "17",
-      "barrato": "1"
+      "civico": "17/1",
+      "stato": "B"
     }
   ],
   "VIA CAMPAGNOLA": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CARBON": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "1"
+      "civico": "27/1",
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CESARE CALIARI": [
     {
-      "civico": "29",
-      "barrato": "A"
+      "civico": "29/A",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "B"
+      "civico": "29/B",
+      "stato": "B"
     }
   ],
   "VIA CREE STORTE": [
     {
-      "civico": "8",
-      "barrato": "1"
+      "civico": "8/1",
+      "stato": "C"
     }
   ],
   "VIA DEL CREARO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     }
   ],
   "VIA DELL'ARTIGIANATO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA FORNETTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "20",
-      "barrato": "1"
+      "civico": "20/1",
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FRASSENARA": [
     {
-      "civico": "51",
-      "barrato": "A"
+      "civico": "51/A",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     }
   ],
   "VIA LIBERTA'": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "B"
+      "civico": "7/B",
+      "stato": "B"
     },
     {
       "civico": "54",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE DELLE PIUME": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOTTARELLA": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "B"
     }
   ],
   "VIA PARADISO": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PARADISO II": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA PONTICELLO": [
     {
       "civico": "3",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "C"
+      "civico": "3/B",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/C",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A A"
+      "civico": "7/A A",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A B"
+      "civico": "7/A B",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A C"
+      "civico": "7/A C",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A D"
+      "civico": "7/A D",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A E"
+      "civico": "7/A E",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A F"
+      "civico": "7/A F",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "B G"
+      "civico": "7/B G",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "B H"
+      "civico": "7/B H",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "B I"
+      "civico": "7/B I",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "B L"
+      "civico": "7/B L",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "B M"
+      "civico": "7/B M",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "B N"
+      "civico": "7/B N",
+      "stato": "B"
     }
   ],
   "VIA PRADONEGO": [
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "E"
+      "civico": "5/E",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "1"
+      "civico": "30/1",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "2"
+      "civico": "30/2",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "B"
+      "civico": "30/B",
+      "stato": "C"
     }
   ],
   "VIA RISORGIMENTO": [
     {
-      "civico": "29",
-      "barrato": "B"
+      "civico": "29/B",
+      "stato": "B"
     }
   ],
   "VIA ROMALISE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RONEGO": [
     {
-      "civico": "20",
-      "barrato": "A"
+      "civico": "20/A",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "B"
+      "civico": "20/B",
+      "stato": "B"
     }
   ],
   "VIA SABBIONI": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "A"
+      "civico": "20/A",
+      "stato": "C"
     },
     {
-      "civico": "20",
-      "barrato": "B"
+      "civico": "20/B",
+      "stato": "C"
     }
   ],
   "VIA SAN FELICIANO": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "1"
+      "civico": "7/1",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "B"
+      "civico": "7/B",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "C"
     }
   ],
   "VIA SAN FELICIANO ALTO": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/B",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN FELICIANO VECCHIA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN FRANCESCO": [
     {
-      "civico": "8",
-      "barrato": "C 1"
+      "civico": "8/C 1",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "C 2"
+      "civico": "8/C 2",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "C 3"
+      "civico": "8/C 3",
+      "stato": "B"
     }
   ],
   "VIA SAN SILO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA STAZIONE": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TEONGHIO": [
     {
-      "civico": "5",
-      "barrato": "1"
+      "civico": "5/1",
+      "stato": "B"
     },
     {
-      "civico": "32",
-      "barrato": "0"
+      "civico": "32/0",
+      "stato": "B"
     },
     {
-      "civico": "32",
-      "barrato": "1 B"
+      "civico": "32/1 B",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "1"
+      "civico": "34/1",
+      "stato": "B"
     },
     {
-      "civico": "68",
-      "barrato": "A"
+      "civico": "68/A",
+      "stato": "B"
     },
     {
-      "civico": "153",
-      "barrato": "B"
+      "civico": "153/B",
+      "stato": "B"
     }
   ],
   "VIALE EUROPA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

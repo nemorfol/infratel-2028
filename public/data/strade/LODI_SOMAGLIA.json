@@ -2,707 +2,707 @@
   "CASCINA BELVEDERE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA CANOVA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/B",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/C",
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA CANTONALE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "D"
+      "civico": "1/D",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "E"
+      "civico": "1/E",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "F"
+      "civico": "1/F",
+      "stato": "A"
     }
   ],
   "CASCINA CAREGGIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "D"
+      "civico": "1/C",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "E"
+      "civico": "1/D",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "F"
+      "civico": "1/E",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "G"
+      "civico": "1/F",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "O"
+      "civico": "1/G",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/O",
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA CASTELLINA DI SOPRA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA CASTELLO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/A",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "C"
+      "civico": "4/B",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "D"
+      "civico": "4/C",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/D",
+      "stato": "C"
     }
   ],
   "CASCINA CHIESA VECCHIA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA COLOMBARA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA COSTA SAN LUCA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA DOSSO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "C"
+      "civico": "3/C",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     }
   ],
   "CASCINA MAINARDA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA PILA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA PIZZOLANO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     }
   ],
   "CASCINA RANERE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA SAN GIOVANNI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA SANT'ISIDORO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "C"
     }
   ],
   "CASCINA SFORZA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA VITTORIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "LOCALITA' CASTELLINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' CASTELLINA DI SOTTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' CASTELNUOVO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' COSTA DELLA CHIESA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' COSTA FAGIOLI": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": null
-    },
-    {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "1/B",
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "2/A",
+      "stato": "A"
+    },
+    {
+      "civico": "3/B",
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' GARGATANO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' MULINO ALBERONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' PASSEROTTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' SAN MARCO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA DELLA CHIESA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA COMUNALE COSTE FAGIOLI": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     }
   ],
   "STRADA DEI CASTAGNONI": [
     {
       "civico": "77",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "79",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "81",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA LODIGIANA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA MANTOVANA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "38",
-      "barrato": "39"
+      "civico": "38/39",
+      "stato": "A"
     }
   ],
   "STRADA PER CASALPUSTERLENGO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ALDA MERINI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CHIESA VECCHIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA COSTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA EMILIA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GENERALE SAVERIO GRIFFINI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIUSEPPE VIGONI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MUILINO ALBERONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN ROCCO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA SANTA GIOVANNA BERETTA MOLLA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SOMAGLIA EST": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

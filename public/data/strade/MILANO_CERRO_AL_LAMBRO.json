@@ -2,59 +2,59 @@
   "CASCINA CASSINETTE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA GAZZERA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 165": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CENTRALE ENEL": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DELLE INDUSTRIE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": "E"
+      "stato": "A"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/E",
+      "stato": "A"
     }
   ],
   "VIA GENERALE ARMANDO DIAZ": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VILLAGGIO SAN CARLO": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

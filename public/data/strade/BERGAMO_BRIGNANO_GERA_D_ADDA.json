@@ -1,32 +1,32 @@
 {
   "VIA BOSCO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COLOGNO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LURANO": [
     {
-      "civico": "42",
-      "barrato": "D"
+      "civico": "42/D",
+      "stato": "B"
     }
   ]
 }

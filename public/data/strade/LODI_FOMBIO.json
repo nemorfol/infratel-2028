@@ -2,137 +2,137 @@
   "CASCINA ARGINE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA CAMPAGNETTA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MONTICCHIE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLE GEROLE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FRANCESCA CABRINI": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA SAN MICHELE": [
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIALE DEI CADUTI": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

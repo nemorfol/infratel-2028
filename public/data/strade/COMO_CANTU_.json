@@ -1,162 +1,162 @@
 {
   "VIA CASCINA COMUNE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "104",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "105",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCINA DEI PRATI": [
     {
       "civico": "64",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCINA GATTONA": [
     {
       "civico": "139",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCINA ROCOLINO": [
     {
       "civico": "164",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DEI CACCIATORI": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "31",
-      "barrato": null
+      "civico": "31/A",
+      "stato": "C"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEI PARTIGIANI": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA QUERCIA": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GOFFREDO MAMELI": [
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LAZZARETTO": [
     {
-      "civico": "17",
-      "barrato": "C"
+      "civico": "17/C",
+      "stato": "C"
     }
   ],
   "VIA MARCHE": [
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PESCHIERA": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     }
   ],
   "VIA SENZA FISSA DIMORA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA VARENNA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "128",
-      "barrato": "C"
+      "civico": "128/C",
+      "stato": "B"
     },
     {
-      "civico": "139",
-      "barrato": "A"
+      "civico": "139/A",
+      "stato": "B"
     }
   ],
   "VICOLO DEI FIORI": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

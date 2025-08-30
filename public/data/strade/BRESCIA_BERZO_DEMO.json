@@ -2,145 +2,145 @@
   "LOCALITA' BETTOLINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' FORNO D'ALLIONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' LORENGO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' SALETTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASTELLO": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA NAZIONALE": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": "BIS"
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": null
+      "civico": "13/BIS",
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAREDOL": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XXV APRILE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

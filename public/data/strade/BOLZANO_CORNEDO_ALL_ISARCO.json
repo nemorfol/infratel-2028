@@ -2,33 +2,33 @@
   "FRAZIONE COLLEPIETRA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' BRIE": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "205",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PRATO ALL'ISARCO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA SAN VALENTINO IN CAMPO PAESE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

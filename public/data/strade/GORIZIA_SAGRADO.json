@@ -2,181 +2,181 @@
   "ANDRONA CAMPOLONGO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LARGO CASTELVECCHIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' BOSCHINI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA GIUSEPPE MAZZINI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "SALITA SAN MICHELE": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ],
   "VIA BRIGATA SASSARI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CESARE BATTISTI": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     }
   ],
   "VIA DANTE ALIGHIERI": [
     {
-      "civico": "11",
-      "barrato": "SCA"
+      "civico": "11/SCA",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "SCB"
+      "civico": "11/SCB",
+      "stato": "B"
     }
   ],
   "VIA DEL BOSCO": [
     {
       "civico": "27",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DELLA VALLE": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ],
   "VIA FORNACI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO PUCCINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/B",
+      "stato": "B"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     },
     {
-      "civico": "44",
-      "barrato": "A"
+      "civico": "44/A",
+      "stato": "B"
     },
     {
-      "civico": "50",
-      "barrato": "C"
+      "civico": "50/C",
+      "stato": "B"
     },
     {
-      "civico": "66",
-      "barrato": "A"
+      "civico": "66/A",
+      "stato": "B"
     }
   ],
   "VIA JAMBO": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "C"
+      "civico": "27/C",
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PETEANO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/B",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/C",
+      "stato": "C"
     }
   ],
   "VIA ZONA SACRA": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIALE ALCIDE DE GASPERI": [
     {
-      "civico": "26",
-      "barrato": "B"
+      "civico": "26/B",
+      "stato": "B"
     }
   ]
 }

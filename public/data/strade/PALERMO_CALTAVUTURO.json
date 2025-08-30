@@ -2,163 +2,163 @@
   "CONTRADA ACQUACALDA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "CONTRADA BALATE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "CONTRADA COLLA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "CONTRADA GIOVANNAZZO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "CONTRADA GURGO SANT'ANTONIO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "CONTRADA PAGLIUZZA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA ZORBA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PROVINCIALE 8": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "STRADA STATALE 120": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA KENNEDY": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PADRE PIO": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": null
+      "civico": "7/A",
+      "stato": "C"
     }
   ],
   "VIA SANDRO PERTINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/A",
+      "stato": "C"
     }
   ],
   "VIA SANT'AGATA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

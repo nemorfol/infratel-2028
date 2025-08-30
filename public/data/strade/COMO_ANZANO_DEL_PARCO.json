@@ -2,145 +2,145 @@
   "STRADA STATALE BRIANTEA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALESSANDRO VOLTA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ARMANDO DIAZ": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     }
   ],
   "VIA BELVEDERE": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BOREGO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA REPUBBLICA": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     }
   ],
   "VIA FORNACETTA": [
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     }
   ],
   "VIA GALGINA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTICELLO": [
     {
       "civico": "60",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PER MONGUZZO": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "46",
-      "barrato": "D"
+      "civico": "46/D",
+      "stato": "C"
     },
     {
       "civico": "47",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PIAVE": [
     {
-      "civico": "30",
-      "barrato": "C"
+      "civico": "30/C",
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "D"
+      "civico": "30/D",
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "E"
+      "civico": "30/E",
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "F"
+      "civico": "30/F",
+      "stato": "B"
     }
   ],
   "VIA PROVINCIALE": [
     {
-      "civico": "0",
-      "barrato": "SNC 2"
+      "civico": "0/SNC 2",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VALERA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VERZINA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE ORTELLI": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

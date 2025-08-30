@@ -2,263 +2,263 @@
   "CASCINA PETITTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA IV NOVEMBRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA MONSIGNOR OSSOLA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "A"
     }
   ],
   "STRADA OZEGNA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PROVINCIALE OZEGNA - CALUSO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA BROGLIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CAMILLO BENSO CONTE DI CAVOUR": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CANDIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "BIS"
+      "civico": "18/BIS",
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CANONICO FROLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CETTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA EKATERINOVA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "VIA MARONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "11"
+      "civico": "5/2",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "2"
+      "civico": "5/3",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "3"
+      "civico": "5/9",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "9"
+      "civico": "5/11",
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE CHIARO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ORIO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RIASSOLO": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTO STEFANO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TORINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "B"
     },
     {
-      "civico": "23",
-      "barrato": "B"
+      "civico": "23/B",
+      "stato": "B"
     },
     {
-      "civico": "25",
-      "barrato": "BIS"
+      "civico": "25/BIS",
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO BROGLIO": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO DELLA VALLE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO MARCONI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -2,255 +2,255 @@
   "CASCINA MAGRESE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/A",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "C"
+      "civico": "4/B",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/C",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/A",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "70",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA PESCHIERA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "LOCALITA' SAN TOMMASO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "LOCALITA' VALLAZZE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
-    },
-    {
-      "civico": "1",
-      "barrato": "X"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "1/X",
+      "stato": "B"
     }
   ],
   "LOCALITA' VILLA CARLA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "VIA CANTONE DI SOPRA": [
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     }
   ],
   "VIA CASCINA PEZZANCHERA": [
     {
-      "civico": "9",
-      "barrato": "1"
+      "civico": "9/1",
+      "stato": "B"
     }
   ],
   "VIA CASE SPARSE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DELLE BETULLE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "A"
+      "civico": "34/A",
+      "stato": "B"
     },
     {
-      "civico": "36",
-      "barrato": "1"
+      "civico": "36/1",
+      "stato": "B"
     }
   ],
   "VIA MAGRESE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTICELLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "A"
+      "civico": "20/A",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "A"
+      "civico": "24/A",
+      "stato": "B"
     },
     {
-      "civico": "41",
-      "barrato": "H"
+      "civico": "41/H",
+      "stato": "B"
     }
   ],
   "VIA PARPANESE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PEZZANCHERA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "33",
-      "barrato": "1"
+      "civico": "33/1",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "8",
-      "barrato": "1"
+      "civico": "8/1",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "A"
+      "civico": "24/A",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "B"
+      "civico": "24/B",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "1"
+      "civico": "26/1",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "3"
+      "civico": "26/3",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "B"
+      "civico": "29/B",
+      "stato": "B"
     },
     {
-      "civico": "33",
-      "barrato": "A"
+      "civico": "33/A",
+      "stato": "B"
     },
     {
-      "civico": "35",
-      "barrato": "1"
+      "civico": "35/1",
+      "stato": "B"
     },
     {
-      "civico": "35",
-      "barrato": "D"
+      "civico": "35/D",
+      "stato": "B"
     },
     {
-      "civico": "35",
-      "barrato": "E"
+      "civico": "35/E",
+      "stato": "B"
     }
   ]
 }

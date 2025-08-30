@@ -1,164 +1,164 @@
 {
   "VIA ERIDANIA OVEST": [
     {
-      "civico": "9",
-      "barrato": "C"
+      "civico": "9/C",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "E"
+      "civico": "9/E",
+      "stato": "B"
     }
   ],
   "VIA GIACOMO PUCCINI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "313",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "323",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "333",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "335",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "340",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "341",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "343",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "357",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "441",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "571",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "577",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2845",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIORDANO BRUNO": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "290",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LEONARDO DA VINCI": [
     {
       "civico": "49",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PISANA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RENA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SELVA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "135",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "135",
-      "barrato": "B"
+      "civico": "135/A",
+      "stato": "C"
     },
     {
-      "civico": "135",
-      "barrato": null
+      "civico": "135/B",
+      "stato": "C"
     },
     {
       "civico": "683",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA XXV APRILE": [
     {
       "civico": "700",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

@@ -2,115 +2,115 @@
   "CONTRADA FAVOSCURO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CONTRADA MITTA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA PAOLO SALVATORE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CAFFUTI": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
-      "civico": "0",
-      "barrato": "SNC 18"
+      "civico": "0/SNC 18",
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": "SNC 19"
+      "civico": "0/SNC 19",
+      "stato": "B"
     }
   ],
   "VIA INDIPENDENZA": [
     {
       "civico": "29",
-      "barrato": "PAL B"
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": null
+      "civico": "29/PAL B",
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MAZZEO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA SALITA SANT'ANTONINO": [
     {
-      "civico": "17",
-      "barrato": "BIS"
+      "civico": "17/BIS",
+      "stato": "B"
     }
   ],
   "VIA SERRO MARCHESE": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA UMBERTO I": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "373",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICO II SANT'ANTONINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -1,114 +1,114 @@
 {
   "CONTRADA BAGNI": [
     {
-      "civico": "31",
-      "barrato": "A"
+      "civico": "31/A",
+      "stato": "A"
     }
   ],
   "CONTRADA SOLFURIO": [
     {
-      "civico": "7",
-      "barrato": "C"
+      "civico": "7/C",
+      "stato": "C"
     }
   ],
   "CONTRADA TRE ARIE": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     },
     {
-      "civico": "48",
-      "barrato": "C"
+      "civico": "48/C",
+      "stato": "B"
     }
   ],
   "STRADA B DI CONTRADA BAGNI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA CONSALVO": [
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
       "civico": "36",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LITTORIO": [
     {
-      "civico": "16",
-      "barrato": "B"
+      "civico": "16/B",
+      "stato": "B"
     },
     {
-      "civico": "72",
-      "barrato": "B"
+      "civico": "72/B",
+      "stato": "B"
     }
   ],
   "VIA MARRAPODI": [
     {
-      "civico": "34",
-      "barrato": "B"
+      "civico": "34/B",
+      "stato": "B"
     },
     {
-      "civico": "46",
-      "barrato": "B"
+      "civico": "46/B",
+      "stato": "B"
     }
   ],
   "VIA PIAVE": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VIA REGINA MARGHERITA": [
     {
-      "civico": "7",
-      "barrato": "BIS"
+      "civico": "7/BIS",
+      "stato": "B"
     },
     {
       "civico": "81",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TAMBURO": [
     {
       "civico": "4",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": null
-    },
-    {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "6/B",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO EMANUELE III": [
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     }
   ]
 }

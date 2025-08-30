@@ -2,81 +2,81 @@
   "STRADA CASCINA BALESTRERI": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     }
   ],
   "VIA MAGGIORE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "VIA SOMMI PICENARDI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "A"
-    },
-    {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "3/A",
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA XXV APRILE": [
     {
-      "civico": "18",
-      "barrato": "B"
+      "civico": "18/B",
+      "stato": "B"
     }
   ]
 }

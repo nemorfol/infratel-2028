@@ -2,119 +2,119 @@
   "VIA ALBERTO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "34",
-      "barrato": null
+      "civico": "34/A",
+      "stato": "B"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "67",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "69",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "87",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "89",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "348",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALESSANDRO MANZONI": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA CASCINA BOSCHI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASTELLO": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASTELLO INFERIORE": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO LEOPARDI": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "D"
+      "civico": "1/D",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA QUASSA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RONCHETTO": [
     {
-      "civico": "12",
-      "barrato": "14"
+      "civico": "12/14",
+      "stato": "C"
     }
   ],
   "VIA UPONNE": [
     {
-      "civico": "43",
-      "barrato": "F"
+      "civico": "43/F",
+      "stato": "B"
     }
   ]
 }

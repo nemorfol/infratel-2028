@@ -2,197 +2,197 @@
   "VIA CAVOUR": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CIMITERO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA ROCCA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ENRICO CARONTI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PER CATASCO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PONAGA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     }
   ],
   "VIA STATALE": [
     {
       "civico": "161",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "163",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "167",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "192",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "194",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "196",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "198",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "200",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "202",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "202",
-      "barrato": "B"
+      "civico": "202/A",
+      "stato": "B"
     },
     {
-      "civico": "202",
-      "barrato": null
+      "civico": "202/B",
+      "stato": "B"
     },
     {
       "civico": "204",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "206",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XX SETTEMBRE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -1,204 +1,204 @@
 {
   "STRADA BERTOLDE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "BIS"
+      "civico": "2/B",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/BIS",
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "E"
+      "civico": "13/E",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/B",
+      "stato": "B"
     }
   ],
   "STRADELLO ROMANE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALBERIA": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "C"
+      "civico": "19/C",
+      "stato": "C"
     },
     {
-      "civico": "19",
-      "barrato": "E"
+      "civico": "19/E",
+      "stato": "C"
     },
     {
-      "civico": "19",
-      "barrato": "F"
+      "civico": "19/F",
+      "stato": "C"
     }
   ],
   "VIA BASSA": [
     {
       "civico": "83",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "122",
-      "barrato": "A"
+      "civico": "122/A",
+      "stato": "B"
     },
     {
       "civico": "124",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "125",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "127",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "155",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "81",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "85",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MADONNINA": [
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAROLARA": [
     {
       "civico": "24",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "24",
-      "barrato": null
+      "civico": "24/B",
+      "stato": "C"
     }
   ],
   "VIA REGGIOLA": [
     {
       "civico": "35",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RUSTA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/A",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/B",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

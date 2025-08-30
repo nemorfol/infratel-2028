@@ -2,1227 +2,1227 @@
   "CORSO ASTI": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "G"
+      "civico": "2/G",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "H"
+      "civico": "2/H",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "I"
+      "civico": "2/I",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "L"
+      "civico": "2/L",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "M"
+      "civico": "2/M",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "N"
+      "civico": "2/N",
+      "stato": "C"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "68",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "76",
-      "barrato": "A"
-    },
-    {
-      "civico": "84",
-      "barrato": "B"
+      "civico": "76/A",
+      "stato": "C"
     },
     {
       "civico": "84",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "84/B",
+      "stato": "B"
     },
     {
       "civico": "88",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CORSO CANALE": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "D"
+      "civico": "15/D",
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "BIS"
+      "civico": "38/BIS",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "B"
+      "civico": "40/B",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "BIS"
+      "civico": "40/BIS",
+      "stato": "B"
     }
   ],
   "FRAZIONE CASTELROTTO": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "H"
+      "civico": "5/H",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "I"
+      "civico": "5/I",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "L"
+      "civico": "5/L",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "M"
+      "civico": "5/M",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "N"
+      "civico": "5/N",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "Q"
+      "civico": "5/Q",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/B",
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "44",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "44",
-      "barrato": "B"
+      "civico": "44/A",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "C"
+      "civico": "44/B",
+      "stato": "B"
     },
     {
-      "civico": "44",
-      "barrato": "D"
+      "civico": "44/C",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "E"
+      "civico": "44/D",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "F"
+      "civico": "44/E",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "G"
+      "civico": "44/F",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "H"
+      "civico": "44/G",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "I"
+      "civico": "44/H",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "L"
+      "civico": "44/I",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "M"
+      "civico": "44/L",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "N"
+      "civico": "44/M",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "O"
+      "civico": "44/N",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "P"
+      "civico": "44/O",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": "R"
+      "civico": "44/P",
+      "stato": "C"
     },
     {
-      "civico": "44",
-      "barrato": null
+      "civico": "44/R",
+      "stato": "C"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "60",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "60",
-      "barrato": null
+      "civico": "60/A",
+      "stato": "B"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' MONTE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' SOTTERI": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA CAVALIERI VITTORIO VENETO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA DON ANTONIO MORONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA ROMA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "REGIONE BASSI": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "D"
+      "civico": "18/D",
+      "stato": "C"
     }
   ],
   "REGIONE BIANO": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE COSCIA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     }
   ],
   "REGIONE CROERA": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "C"
     }
   ],
   "REGIONE FORCELLINI": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE LORA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "69",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE MONTEBELLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE OSTERIA": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "19",
-      "barrato": null
+      "civico": "19/A",
+      "stato": "C"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "REGIONE RIVI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": null
+      "civico": "12/A",
+      "stato": "C"
     }
   ],
   "STRADA ISOLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "C"
     }
   ],
   "STRADA PEDELMONTE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/A",
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/A",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "C"
+      "civico": "10/B",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "D"
+      "civico": "10/C",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "E"
+      "civico": "10/D",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "F"
+      "civico": "10/E",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": null
+      "civico": "10/F",
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "14",
-      "barrato": null
+      "civico": "14/A",
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PORINI": [
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "C"
+      "civico": "3/B",
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "D"
+      "civico": "3/C",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "E"
+      "civico": "3/D",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "F"
+      "civico": "3/E",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "M"
+      "civico": "3/F",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "O"
+      "civico": "3/M",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": null
-    },
-    {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "3/O",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "D"
+      "civico": "5/B",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "E"
+      "civico": "5/C",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "F"
+      "civico": "5/D",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "H"
+      "civico": "5/E",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "I"
+      "civico": "5/F",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "L"
+      "civico": "5/H",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/I",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "E"
+      "civico": "5/L",
+      "stato": "B"
+    },
+    {
+      "civico": "13/E",
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA RESSIETTO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA SOTTERI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BOELLA": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": null
-    },
-    {
-      "civico": "2",
-      "barrato": "E"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": "M"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/E",
+      "stato": "B"
+    },
+    {
+      "civico": "2/M",
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "B"
+      "civico": "16/B",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "C"
+      "civico": "16/C",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "D"
+      "civico": "16/D",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "F"
+      "civico": "16/F",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "G"
+      "civico": "16/G",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "I"
+      "civico": "16/I",
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": null
-    },
-    {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "B"
+      "civico": "30/A",
+      "stato": "B"
+    },
+    {
+      "civico": "30/B",
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "32",
-      "barrato": "E"
+      "civico": "32/E",
+      "stato": "B"
     },
     {
-      "civico": "32",
-      "barrato": "F"
+      "civico": "32/F",
+      "stato": "B"
     },
     {
-      "civico": "32",
-      "barrato": "G"
+      "civico": "32/G",
+      "stato": "B"
     },
     {
       "civico": "54",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CARMAGNOLA": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASTELROTTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "74",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "76",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "78",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAVOUR": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA COL DI LANA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CROERA": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
-    },
-    {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/A",
+      "stato": "C"
+    },
+    {
+      "civico": "4/B",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GARIBALDI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GORIZIA": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LUCCIO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARTIRI DELLA LIBERTA'": [
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MATTEOTTI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MONTE GRAPPA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "D"
+      "civico": "1/D",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "E"
+      "civico": "1/E",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "F"
+      "civico": "1/F",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "G"
+      "civico": "1/G",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MULINO VECCHIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ORTOLANI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "A"
+      "civico": "48/A",
+      "stato": "B"
     },
     {
-      "civico": "54",
-      "barrato": "A"
+      "civico": "54/A",
+      "stato": "C"
     }
   ],
   "VIA OSTERIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "47",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "59",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "67",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PLANA": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN SEBASTIANO": [
     {
-      "civico": "32",
-      "barrato": "A"
+      "civico": "32/A",
+      "stato": "C"
     },
     {
-      "civico": "32",
-      "barrato": "B"
+      "civico": "32/B",
+      "stato": "B"
     }
   ],
   "VIA URBANO PRUNOTTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VITTORIO MOLINO": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XX SETTEMBRE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE BOUILLARGUES": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": null
+      "civico": "30/B",
+      "stato": "B"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIALE MAZZINI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

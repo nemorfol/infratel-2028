@@ -2,171 +2,171 @@
   "CASCINA QUATTROVENTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 14": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 165": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ANTONIO GRAMSCI": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "VIA CASCINA MULINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA VALLAZZA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAVOUR": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLE MONDINE": [
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FILIPPO TURATI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": null
-    },
-    {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": null
+      "civico": "18/A",
+      "stato": "B"
+    },
+    {
+      "civico": "18/B",
+      "stato": "B"
     }
   ],
   "VIA LORENZO CASSANI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LUIGI LUZZI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN MARTINO": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "66",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "66",
-      "barrato": null
+      "civico": "66/A",
+      "stato": "B"
     }
   ],
   "VIA SOLFERINO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA UMBERTO I": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO CAMPO DEL PERO": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

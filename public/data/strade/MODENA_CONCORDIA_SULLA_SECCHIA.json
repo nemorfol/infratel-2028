@@ -2,35 +2,35 @@
   "STRADA DUGALE II": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CHIAVICHE SANTA CATERINA": [
     {
-      "civico": "44",
-      "barrato": "A"
+      "civico": "44/A",
+      "stato": "B"
     }
   ],
   "VIA PELOSA": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     }
   ],
   "VIA PER NOVI": [
     {
-      "civico": "50",
-      "barrato": "D"
+      "civico": "50/D",
+      "stato": "C"
     }
   ],
   "VIA TERZI E LIVELLI": [
     {
       "civico": "108",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

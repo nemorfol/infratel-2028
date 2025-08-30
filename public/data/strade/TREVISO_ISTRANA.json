@@ -2,45 +2,45 @@
   "VIA PESCHIERA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "20",
-      "barrato": null
+      "civico": "20/A",
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PIAVE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "84",
-      "barrato": "A"
+      "civico": "84/A",
+      "stato": "B"
     },
     {
       "civico": "98",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

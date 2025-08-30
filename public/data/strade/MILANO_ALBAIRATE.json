@@ -2,155 +2,155 @@
   "CASCINA BOZZA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GARAVAGLIA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "CASCINA GRASSINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA MOLINETTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA ROSIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA SCAMOZZINO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA VISCONTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA DEL CORSO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARCATUTTO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PER CASTELLETTO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RAVELLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "67",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "77",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "79",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "81",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "83",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "85",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RIAZZOLO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VALVASSORI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

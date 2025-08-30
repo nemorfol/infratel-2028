@@ -2,63 +2,63 @@
   "VIA ESCHIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA HINTERKOFL": [
     {
       "civico": "39",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "54",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "93",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "144",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PAESE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

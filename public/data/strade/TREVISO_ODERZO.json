@@ -2,445 +2,445 @@
   "CALLE DEA PIERA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ARMENTARESSA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BOSCHETTE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DAVIDE BUCCIOL": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLE ANIME": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     }
   ],
   "VIA FORNASE": [
     {
       "civico": "7",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": null
+      "civico": "7/A",
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FOSSA FORMOSA": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FOSSADELLE": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FRAINE DI COLFRANCUI": [
     {
-      "civico": "43",
-      "barrato": "B"
+      "civico": "43/B",
+      "stato": "B"
     },
     {
-      "civico": "45",
-      "barrato": "A"
+      "civico": "45/A",
+      "stato": "B"
     },
     {
-      "civico": "54",
-      "barrato": "A"
+      "civico": "54/A",
+      "stato": "C"
     }
   ],
   "VIA FRASSENE'": [
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": "3"
+      "civico": "16/3",
+      "stato": "C"
     }
   ],
   "VIA GAMBERO": [
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/B",
+      "stato": "C"
     }
   ],
   "VIA GHERLE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     }
   ],
   "VIA JACOPO MODA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "5"
+      "civico": "3/5",
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LUIGI GALVANI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MADONNA DELLA SALUTE": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MAGERA": [
     {
       "civico": "48",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MAGGIORE DI PIAVON": [
     {
-      "civico": "128",
-      "barrato": "A"
+      "civico": "128/A",
+      "stato": "C"
     },
     {
-      "civico": "128",
-      "barrato": "B"
+      "civico": "128/B",
+      "stato": "C"
     },
     {
-      "civico": "134",
-      "barrato": "A"
+      "civico": "134/A",
+      "stato": "C"
     },
     {
-      "civico": "140",
-      "barrato": "A"
+      "civico": "140/A",
+      "stato": "C"
     },
     {
-      "civico": "140",
-      "barrato": "B"
+      "civico": "140/B",
+      "stato": "C"
     },
     {
-      "civico": "140",
-      "barrato": "C"
+      "civico": "140/C",
+      "stato": "C"
     }
   ],
   "VIA MIGANZA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "20",
-      "barrato": null
+      "civico": "20/A",
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MIGANZA II TRONCO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "C"
     }
   ],
   "VIA PER PIAVON": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RONCHE SOPRA DI PIAVON": [
     {
-      "civico": "50",
-      "barrato": "A"
+      "civico": "50/A",
+      "stato": "C"
     },
     {
-      "civico": "54",
-      "barrato": "A"
+      "civico": "54/A",
+      "stato": "C"
     },
     {
-      "civico": "56",
-      "barrato": "A"
+      "civico": "56/A",
+      "stato": "C"
     },
     {
-      "civico": "56",
-      "barrato": "B"
-    },
-    {
-      "civico": "58",
-      "barrato": "A"
+      "civico": "56/B",
+      "stato": "C"
     },
     {
       "civico": "58",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "58",
-      "barrato": "C"
+      "civico": "58/A",
+      "stato": "C"
     },
     {
-      "civico": "58",
-      "barrato": null
+      "civico": "58/B",
+      "stato": "C"
     },
     {
-      "civico": "62",
-      "barrato": "A"
+      "civico": "58/C",
+      "stato": "C"
     },
     {
-      "civico": "64",
-      "barrato": "A"
+      "civico": "62/A",
+      "stato": "C"
     },
     {
-      "civico": "79",
-      "barrato": "D"
+      "civico": "64/A",
+      "stato": "C"
+    },
+    {
+      "civico": "79/D",
+      "stato": "C"
     },
     {
       "civico": "87",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RONCHE SOTTO DI PIAVON": [
     {
-      "civico": "23",
-      "barrato": "C"
+      "civico": "23/C",
+      "stato": "B"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "76",
-      "barrato": "A"
+      "civico": "76/A",
+      "stato": "B"
     },
     {
-      "civico": "86",
-      "barrato": "A"
+      "civico": "86/A",
+      "stato": "C"
     }
   ],
   "VIA SPINE'": [
     {
-      "civico": "50",
-      "barrato": "A"
+      "civico": "50/A",
+      "stato": "B"
     }
   ],
   "VIA STAZIONE DI RUSTIGNE'": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TORNARESSA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     }
   ],
   "VIA VALENTIGO DI SOTTO": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/B",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/B",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "C"
     },
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "C"
     }
   ]
 }

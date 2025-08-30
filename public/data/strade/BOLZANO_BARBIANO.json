@@ -1,28 +1,28 @@
 {
   "STRADA DELL'ALPE": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BARBIANO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VILLAGGIO SAN GIACOMO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -2,375 +2,375 @@
   "CASCINA ADDA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA BENPENSATA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CA' DEL BIS": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CASELLA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "CASCINA CAVETTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA DOSSO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA GERRE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA MONCUCCO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA PAOLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA ROGGIONE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA RONCAGLIA INFERIORE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA RONCAGLIA SUPERIORE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "D"
+      "civico": "2/B",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/D",
+      "stato": "A"
     }
   ],
   "LOCALITA' BELVEDERE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' CASELLE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA ACQUANEGRA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     },
     {
-      "civico": "23",
-      "barrato": "BIS"
+      "civico": "23/BIS",
+      "stato": "B"
     }
   ],
   "VIA ADDA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "BIS"
+      "civico": "17/BIS",
+      "stato": "B"
     }
   ],
   "VIA CASELLE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEI BARCAIOLI": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEL CAVALLATICO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEL PERTICATO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     }
   ],
   "VIA MARIS": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PORTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "93",
-      "barrato": "TER"
-    },
-    {
-      "civico": "95",
-      "barrato": "C"
+      "civico": "93/TER",
+      "stato": "B"
     },
     {
       "civico": "95",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "95/C",
+      "stato": "C"
     },
     {
       "civico": "97",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "97",
-      "barrato": "B"
+      "civico": "97/A",
+      "stato": "B"
     },
     {
-      "civico": "97",
-      "barrato": "BIS"
+      "civico": "97/B",
+      "stato": "B"
     },
     {
-      "civico": "97",
-      "barrato": null
+      "civico": "97/BIS",
+      "stato": "C"
     },
     {
-      "civico": "98",
-      "barrato": "IV"
+      "civico": "98/IV",
+      "stato": "B"
     },
     {
-      "civico": "98",
-      "barrato": "QUA"
+      "civico": "98/QUA",
+      "stato": "B"
     },
     {
-      "civico": "99",
-      "barrato": "A"
+      "civico": "99/A",
+      "stato": "C"
     },
     {
-      "civico": "99",
-      "barrato": "B"
+      "civico": "99/B",
+      "stato": "C"
     },
     {
-      "civico": "100",
-      "barrato": "X"
+      "civico": "100/X",
+      "stato": "B"
     },
     {
       "civico": "101",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "103",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "104",
-      "barrato": "A"
+      "civico": "104/A",
+      "stato": "C"
     },
     {
-      "civico": "104",
-      "barrato": "B"
+      "civico": "104/B",
+      "stato": "C"
     },
     {
-      "civico": "104",
-      "barrato": "C"
+      "civico": "104/C",
+      "stato": "C"
     },
     {
       "civico": "106",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO SAN VINCENZO": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

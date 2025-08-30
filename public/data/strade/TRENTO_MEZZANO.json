@@ -2,235 +2,235 @@
   "LOCALITA' FRATTE DI CANAZE'": [
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' MOLAREN": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "98",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PONTE FOLGA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA'� MARINE": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� MOLAREN": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "59",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� PRALONGHI": [
     {
       "civico": "30",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA A DOLTRA": [
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "17",
-      "barrato": null
+      "civico": "17/A",
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEL PIAN": [
     {
-      "civico": "25",
-      "barrato": "D"
+      "civico": "25/D",
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLE BASSE": [
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLE GIARE": [
     {
-      "civico": "91",
-      "barrato": "A"
+      "civico": "91/A",
+      "stato": "A"
     },
     {
       "civico": "107",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DELLE SCURE": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA DI SOPRA": [
     {
-      "civico": "51",
-      "barrato": "A"
+      "civico": "51/A",
+      "stato": "B"
     },
     {
       "civico": "54",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DOLOMITI": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GRISONI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     }
   ],
   "VIA MOLAREN": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "C"
+      "civico": "27/C",
+      "stato": "C"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "149",
-      "barrato": "A"
+      "civico": "149/A",
+      "stato": "B"
     },
     {
       "civico": "151",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "167",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "175",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "177",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GIOVANNI BATTISTA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANTA FOSCA": [
     {
-      "civico": "57",
-      "barrato": "A"
+      "civico": "57/A",
+      "stato": "B"
     }
   ],
   "VIA SEMEDELA": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     }
   ],
   "VIA VECCHIA": [
     {
-      "civico": "40",
-      "barrato": "A"
+      "civico": "40/A",
+      "stato": "B"
     }
   ]
 }

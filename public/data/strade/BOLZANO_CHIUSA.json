@@ -2,75 +2,75 @@
   "GERSTEIN": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' GUDON": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "PIAZZA FRAGHES": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VERDIGNES": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "95",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "96",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "99",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "100",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "101",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "102",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "103",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "104",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LAEND": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SEEBEGG": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STAZIONE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

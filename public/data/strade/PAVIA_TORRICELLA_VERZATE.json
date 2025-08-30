@@ -1,128 +1,128 @@
 {
   "VIA BELCREDI": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VIA CESARE PAVESE": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA EMILIA": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/B",
+      "stato": "C"
     }
   ],
   "VIA FAMIGLIA CIGNOLI": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FRAZIONE BOSCO MADIO SUPERIORE": [
     {
-      "civico": "21",
-      "barrato": "B"
+      "civico": "21/B",
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "2",
-      "barrato": "G"
+      "civico": "2/G",
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "D"
+      "civico": "5/D",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "E"
+      "civico": "5/E",
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "35",
-      "barrato": "C"
+      "civico": "35/C",
+      "stato": "B"
     }
   ],
   "VIA VALSORDA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": null
+      "civico": "11/A",
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": null
+      "civico": "19/A",
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

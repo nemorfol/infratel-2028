@@ -2,185 +2,185 @@
   "PIAZZA DELLA CHIESA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA XXV APRILE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA STATALE 565": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ARC EN BARROIS": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ARDUINO": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CARLO ALBERTO DALLA CHIESA": [
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "A"
     }
   ],
   "VIA DEL CASTELLO": [
     {
-      "civico": "4",
-      "barrato": "BIS"
+      "civico": "4/BIS",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA CHIESA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIORDANO": [
     {
-      "civico": "4",
-      "barrato": "1"
+      "civico": "4/1",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "2"
+      "civico": "4/2",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "3"
+      "civico": "4/3",
+      "stato": "B"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIAVE": [
     {
-      "civico": "4",
-      "barrato": "1"
+      "civico": "4/1",
+      "stato": "B"
     }
   ],
   "VIA PROVINCIALE": [
     {
-      "civico": "34",
-      "barrato": "3"
+      "civico": "34/3",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "A"
+      "civico": "34/A",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "B"
+      "civico": "34/B",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "C"
+      "civico": "34/C",
+      "stato": "B"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "78",
-      "barrato": "B"
+      "civico": "78/B",
+      "stato": "B"
     }
   ],
   "VIA RIBES": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "71",
-      "barrato": "A"
+      "civico": "71/A",
+      "stato": "B"
     }
   ],
   "VIA ROVAGNONE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TRIBIOGLIO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "C"
+      "civico": "6/C",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "D"
+      "civico": "6/D",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TRIPOLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "31",
-      "barrato": "I"
+      "civico": "31/I",
+      "stato": "B"
     },
     {
-      "civico": "31",
-      "barrato": "L"
+      "civico": "31/L",
+      "stato": "B"
     }
   ]
 }

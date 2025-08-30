@@ -1,388 +1,388 @@
 {
   "LOCALITA' TETTI CASCINA NUOVA": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     }
   ],
   "LOCALITA' TETTI GAFFOLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' TETTI GAIOTTI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' TETTI GERBIDO": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
-    },
-    {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "1/B",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "D"
+      "civico": "2/B",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/C",
+      "stato": "C"
+    },
+    {
+      "civico": "2/D",
+      "stato": "C"
     }
   ],
   "LOCALITA' TETTI QUAGLIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' TETTI REMONDA'": [
     {
-      "civico": "1",
-      "barrato": "BIS"
+      "civico": "1/BIS",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "BIS"
+      "civico": "5/BIS",
+      "stato": "B"
     }
   ],
   "LOCALITA' TETTI ROCCATI": [
     {
       "civico": "37",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "80",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' TETTI VERNAI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� TETTI QUAGLIA": [
     {
-      "civico": "1",
-      "barrato": "BI"
+      "civico": "1/BI",
+      "stato": "C"
     }
   ],
   "LOCALITA'� TETTI REMONDA'�": [
     {
-      "civico": "5",
-      "barrato": "BI"
+      "civico": "5/BI",
+      "stato": "B"
     }
   ],
   "VIA AIRALI": [
     {
-      "civico": "21",
-      "barrato": "BIS"
+      "civico": "21/BIS",
+      "stato": "B"
     }
   ],
   "VIA ANDEZENO": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BELVEDERE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEL CASTELLO": [
     {
-      "civico": "7",
-      "barrato": "BI"
+      "civico": "7/BI",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "BI"
+      "civico": "9/BI",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "BIS"
+      "civico": "16/BIS",
+      "stato": "B"
     }
   ],
   "VIA DEL POZZO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLE VIGNE": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MANDAMENTALE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "47",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARENTINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TETTI GERBIDO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TETTI TRINITA'": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "38",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "38",
-      "barrato": null
+      "civico": "38/A",
+      "stato": "C"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "57",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "57",
-      "barrato": "2"
+      "civico": "57/1",
+      "stato": "C"
     },
     {
-      "civico": "57",
-      "barrato": "3"
+      "civico": "57/2",
+      "stato": "C"
     },
     {
-      "civico": "57",
-      "barrato": "4"
+      "civico": "57/3",
+      "stato": "C"
     },
     {
-      "civico": "57",
-      "barrato": null
+      "civico": "57/4",
+      "stato": "C"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "68",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "70",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "92",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TETTI TRINITA'�": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

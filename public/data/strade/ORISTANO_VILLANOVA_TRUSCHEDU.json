@@ -1,72 +1,72 @@
 {
   "VIA BRIGATA SASSARI": [
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "B"
     },
     {
-      "civico": "46",
-      "barrato": "A"
+      "civico": "46/A",
+      "stato": "B"
     },
     {
-      "civico": "52",
-      "barrato": "A"
+      "civico": "52/A",
+      "stato": "B"
     },
     {
-      "civico": "54",
-      "barrato": "A"
+      "civico": "54/A",
+      "stato": "B"
     },
     {
-      "civico": "55",
-      "barrato": "A"
+      "civico": "55/A",
+      "stato": "B"
     }
   ],
   "VIA COSTITUZIONE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA LAMARMORA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SA SCALEDDA": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA SAN GEMILIANO": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "B"
+      "civico": "7/B",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     }
   ],
   "VIA STATUTO": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VIA TRIESTE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

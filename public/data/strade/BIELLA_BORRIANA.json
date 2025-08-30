@@ -1,64 +1,64 @@
 {
   "PIAZZA GIUSEPPE MAZZINI": [
     {
-      "civico": "85",
-      "barrato": "A"
+      "civico": "85/A",
+      "stato": "B"
     },
     {
-      "civico": "85",
-      "barrato": "B"
+      "civico": "85/B",
+      "stato": "B"
     }
   ],
   "VIA CASAZZA": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "C"
     }
   ],
   "VIA DURANDO NELSON": [
     {
-      "civico": "37",
-      "barrato": "A"
+      "civico": "37/A",
+      "stato": "B"
     }
   ],
   "VIA ELVO": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RIVALTA": [
     {
-      "civico": "29",
-      "barrato": "B"
+      "civico": "29/B",
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "10",
-      "barrato": "C"
+      "civico": "10/C",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "61",
-      "barrato": "A"
+      "civico": "61/A",
+      "stato": "C"
     }
   ],
   "VIA ROSSETTI": [
     {
-      "civico": "52",
-      "barrato": "A"
+      "civico": "52/A",
+      "stato": "B"
     },
     {
-      "civico": "86",
-      "barrato": "D"
+      "civico": "86/D",
+      "stato": "B"
     }
   ]
 }

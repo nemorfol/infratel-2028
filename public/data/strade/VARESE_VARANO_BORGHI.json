@@ -2,25 +2,25 @@
   "VIA DEI MARTIRI": [
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA REPUBBLICA": [
     {
-      "civico": "0",
-      "barrato": "SNC 106"
+      "civico": "0/SNC 106",
+      "stato": "B"
     }
   ],
   "VIA LUIGI EINAUDI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TORINO": [
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     }
   ]
 }

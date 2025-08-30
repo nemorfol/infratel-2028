@@ -1,174 +1,174 @@
 {
   "STRADA BOSCO": [
     {
-      "civico": "4",
-      "barrato": "1"
+      "civico": "4/1",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "2"
+      "civico": "4/2",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "3"
+      "civico": "4/3",
+      "stato": "B"
     }
   ],
   "VIA ASTI MARE": [
     {
-      "civico": "2",
-      "barrato": "R"
+      "civico": "2/R",
+      "stato": "B"
     }
   ],
   "VIA BOGLIETTO": [
     {
-      "civico": "9",
-      "barrato": "C"
+      "civico": "9/C",
+      "stato": "B"
     }
   ],
   "VIA BRAGLIA": [
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "B"
     }
   ],
   "VIA CAMICIA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LORENZO ADORNO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "B"
     }
   ],
   "VIA NALBISSANO": [
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "B"
+      "civico": "16/B",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "C"
+      "civico": "16/C",
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIETRO MICCA": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA POZZO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PROVINCIALE": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "70",
-      "barrato": "BIS"
+      "civico": "70/BIS",
+      "stato": "B"
     }
   ],
   "VIA QUASSOLO": [
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     }
   ],
   "VIA RAMELLO": [
     {
-      "civico": "18",
-      "barrato": "C"
+      "civico": "18/C",
+      "stato": "B"
     }
   ],
   "VIA RECINTO": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTA DELIBERATA": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "C"
     }
   ],
   "VIA VITTORIO ALFIERI": [
     {
-      "civico": "13",
-      "barrato": "C"
+      "civico": "13/C",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "C"
+      "civico": "19/C",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "G"
+      "civico": "20/G",
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

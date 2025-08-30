@@ -2,177 +2,177 @@
   "CASCINA CORDOLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' MOLINO FABBRICA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA PARROCCHIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "STRADA POZZOLO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALCIDE DE GASPERI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ANTONIO GRAMSCI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BORGO NUOVO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CARBONERA": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CESARE PAVESE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DELLA PARROCCHIA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA I MAGGIO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOLINO": [
     {
       "civico": "40",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MONTALENGHE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MORELLO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PATRIOTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GIOVANNI BOSCO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO SAN ROCCO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

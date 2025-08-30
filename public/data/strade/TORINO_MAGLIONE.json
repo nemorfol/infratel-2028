@@ -2,185 +2,185 @@
   "LOCALITA' FUMAGALLO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' RIVA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' SAN MAURIZIO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA BORGO D'ALE": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAMILLO CAVOUR": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VIA COSSANO": [
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "2"
+      "civico": "2/2",
+      "stato": "B"
     }
   ],
   "VIA MONCRIVELLO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VICOLO CESARE BATTISTI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO D'AZEGLIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO GIOBERTI": [
     {
-      "civico": "2",
-      "barrato": "3"
+      "civico": "2/3",
+      "stato": "B"
     }
   ],
   "VICOLO PIAVE": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO VITTORIO ALFIERI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -2,139 +2,139 @@
   "FRAZIONE MORIGLIONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' BANDIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA CADUTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 319": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA STATALE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA STATALE 21": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "C"
     }
   ],
   "STRADA STATALE DEL COLLE DELLA MADDALENA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BANDIA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAMPANILE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA CORTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CUNEO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "B"
+      "civico": "19/B",
+      "stato": "B"
     }
   ],
   "VIA MORIGLIONE": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VIA SERRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STRETTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA UMBERTO I": [
     {
-      "civico": "57",
-      "barrato": "A"
+      "civico": "57/A",
+      "stato": "C"
     }
   ]
 }

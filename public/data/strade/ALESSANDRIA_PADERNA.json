@@ -2,87 +2,87 @@
   "STRADA COMUNALE SCHIAPPAGRANELLO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA VICINALE VIGNASSA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ARGO": [
     {
-      "civico": "1",
-      "barrato": "1"
+      "civico": "1/1",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "2"
+      "civico": "1/2",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARCO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GIORGIO": [
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "B"
     }
   ],
   "VIA VILLALVERNIA": [
     {
-      "civico": "21",
-      "barrato": "1"
+      "civico": "21/1",
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": "2"
+      "civico": "21/2",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO VENETO": [
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "1"
+      "civico": "8/1",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "2"
+      "civico": "8/2",
+      "stato": "B"
     }
   ]
 }

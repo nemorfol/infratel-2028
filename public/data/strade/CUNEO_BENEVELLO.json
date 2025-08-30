@@ -2,221 +2,221 @@
   "BORGO MULINO BERRIA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' BRICCO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' CASCINOTTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' CAVALLO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' GHIGOROTTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' MANERA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "C"
+      "civico": "12/C",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' MONTRUCCHI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' MONZELLI": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' VALLONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� BRICCO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� MANERA": [
     {
-      "civico": "4",
-      "barrato": "C"
+      "civico": "4/C",
+      "stato": "B"
     }
   ],
   "LOCALITA'� MONZELLI": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA LUIGI EINAUDI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "REGIONE GRIMALDA": [
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": null
+      "civico": "12/A",
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "REGIONE SCIA' SOPRANA": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINOTTO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MAGGIORINO VIGOLUNGO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN ROCCO": [
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     }
   ],
   "VIA SCIA'": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SCUOLE": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

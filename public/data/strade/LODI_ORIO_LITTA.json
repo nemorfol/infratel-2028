@@ -2,509 +2,509 @@
   "CASCINA CANTARANA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MARMORA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA MARMORINA": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA NUOVA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA SAN PIETRO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA VENERE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA VILLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' BETTOLINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA DEI BENEDETTINI": [
     {
-      "civico": "45",
-      "barrato": "A"
+      "civico": "45/A",
+      "stato": "B"
     }
   ],
   "PIAZZA MERCATO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PER OSPEDALETTO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 206": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "206",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALCIDE DE GASPERI": [
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     }
   ],
   "VIA CORTE LUNGA": [
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     }
   ],
   "VIA DANTE ALIGHIERI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "Q"
+      "civico": "15/Q",
+      "stato": "B"
     }
   ],
   "VIA DELL'ARTIGIANATO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ENRICO FERMI": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE MAZZINI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
-      "civico": "77",
-      "barrato": "A"
+      "civico": "77/A",
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "3",
-      "barrato": "C"
+      "civico": "3/C",
+      "stato": "B"
     }
   ],
   "VIA MADONNINA": [
     {
-      "civico": "28",
-      "barrato": "A"
+      "civico": "28/A",
+      "stato": "C"
     }
   ],
   "VIA MANTOVANA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTEMALO": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "B"
+      "civico": "11/B",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "C"
+      "civico": "11/C",
+      "stato": "B"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA NUOVA ISOLA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     }
   ],
   "VIA PIO ROSSI": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PRIVATA PIETRO PARISIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "A"
+      "civico": "20/A",
+      "stato": "B"
     },
     {
-      "civico": "52",
-      "barrato": "B"
+      "civico": "52/B",
+      "stato": "B"
     },
     {
-      "civico": "88",
-      "barrato": "B"
+      "civico": "88/B",
+      "stato": "B"
     },
     {
-      "civico": "96",
-      "barrato": "A"
+      "civico": "96/A",
+      "stato": "C"
     },
     {
-      "civico": "119",
-      "barrato": "C"
+      "civico": "119/C",
+      "stato": "C"
     }
   ],
   "VIA SANDRO PERTINI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TRENTO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "A"
+      "civico": "28/A",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "C"
+      "civico": "28/C",
+      "stato": "B"
     }
   ],
   "VIA VIGNAZZA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "37",
-      "barrato": "A"
+      "civico": "37/A",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "A"
+      "civico": "39/A",
+      "stato": "B"
     },
     {
-      "civico": "59",
-      "barrato": "A"
+      "civico": "59/A",
+      "stato": "B"
     }
   ],
   "VIALE GORIZIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "A"
+      "civico": "40/A",
+      "stato": "B"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "49",
-      "barrato": "B"
+      "civico": "49/B",
+      "stato": "B"
     },
     {
-      "civico": "71",
-      "barrato": "A"
+      "civico": "71/A",
+      "stato": "B"
     }
   ],
   "VIALE VITTORIO VENETO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO CORTAZZA": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     }
   ]
 }

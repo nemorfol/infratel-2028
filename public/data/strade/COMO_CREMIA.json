@@ -2,383 +2,383 @@
   "FRAZIONE CADREGLIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE CANTONE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "FRAZIONE MARNINO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "FRAZIONE MOTTO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "FRAZIONE SAMAINO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "O"
+      "civico": "2/O",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "FRAZIONE SAN VITO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE SEMURANO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE SOMANO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "TRAVERSA DEL DOSSELLO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CADREGLIO": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEL MULINETTO": [
     {
       "civico": "238",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "288",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "310",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "400",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DELLA PEZZA": [
     {
       "civico": "64",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "95",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "262",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MARNINO": [
     {
       "civico": "220",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTE BREGAGNO": [
     {
       "civico": "540",
-      "barrato": "1"
+      "stato": "B"
     },
     {
-      "civico": "540",
-      "barrato": "2"
+      "civico": "540/1",
+      "stato": "B"
     },
     {
-      "civico": "540",
-      "barrato": null
-    },
-    {
-      "civico": "596",
-      "barrato": "1"
+      "civico": "540/2",
+      "stato": "B"
     },
     {
       "civico": "596",
-      "barrato": "2"
+      "stato": "B"
     },
     {
-      "civico": "596",
-      "barrato": null
+      "civico": "596/1",
+      "stato": "B"
+    },
+    {
+      "civico": "596/2",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "133",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "143",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "146",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "582",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "588",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "854",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "973",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1211",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1286",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1296",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1312",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1545",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1580",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1622",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1652",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1654",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1706",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1746",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1770",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1793",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1855",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1878",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1937",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1950",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1992",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2045",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2088",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2091",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2130",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SAMAINO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN VITO": [
     {
       "civico": "110",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "356",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

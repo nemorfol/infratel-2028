@@ -2,327 +2,327 @@
   "LOCALITA' AIALE": [
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' AVANO": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' STRAVIGNINO": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA PEZZAZOLE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "PIAZZA SAN GIOVANNI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA SANTA MARIA MADDALENA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA DEL MASCOLO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA DELLA FRERA": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 52": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA CAMPO SPORTIVO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASE SPARSE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASE SPARSE MONDARO": [
     {
       "civico": "52",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASE SPARSE MONDARO MONTE": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "59",
-      "barrato": "A"
+      "civico": "59/A",
+      "stato": "C"
     },
     {
       "civico": "79",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASE SPARSE MONDARO VALLE AVANO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASE SPARSE PEZZAZOLE": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASE SPARSE STRAVIGNINO": [
     {
       "civico": "43",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEL QUADRO": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": "C"
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": null
+      "civico": "17/C",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "B"
     }
   ],
   "VIA FONTANE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MAESTRA NINA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MINIERA": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MURERA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAPA PAOLO VI": [
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PARROCCHIA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PESCHADOIRES": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMANA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANT'APOLLONIO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTUARIO": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SERADELLO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

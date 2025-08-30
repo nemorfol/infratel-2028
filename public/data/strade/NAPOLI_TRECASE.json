@@ -1,116 +1,116 @@
 {
   "TRAVERSA I DI VIA BOSCO DEL MONACO": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     }
   ],
   "VIA BOSCO DEL MONACO": [
     {
-      "civico": "27",
-      "barrato": "B"
+      "civico": "27/B",
+      "stato": "B"
     },
     {
-      "civico": "35",
-      "barrato": "TER"
+      "civico": "35/TER",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "A"
+      "civico": "38/A",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "B"
+      "civico": "38/B",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "C"
+      "civico": "38/C",
+      "stato": "B"
     }
   ],
   "VIA CARLO PISACANE": [
     {
       "civico": "90",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CIFELLI": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "73",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CIRO MENOTTI": [
     {
       "civico": "114",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "154",
-      "barrato": "BIS"
+      "stato": "C"
     },
     {
-      "civico": "154",
-      "barrato": null
+      "civico": "154/BIS",
+      "stato": "C"
     }
   ],
   "VIA DELLE COLONNE": [
     {
-      "civico": "7",
-      "barrato": "B"
+      "civico": "7/B",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "D"
+      "civico": "7/D",
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FOSSA DELLA MONACA": [
     {
-      "civico": "1",
-      "barrato": "BIS"
+      "civico": "1/BIS",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "C"
     },
     {
-      "civico": "19",
-      "barrato": "B"
+      "civico": "19/B",
+      "stato": "C"
     },
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "B"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PANORAMICA": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VIA TIRONE DELLA GUARDIA": [
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "C"
     }
   ]
 }

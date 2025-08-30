@@ -2,93 +2,93 @@
   "CANTONE VILLANOVA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CASCINOTTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA FORNACETTA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA OLIVA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA PIZZI": [
     {
-      "civico": "3",
-      "barrato": "7"
+      "civico": "3/7",
+      "stato": "C"
     }
   ],
   "REGIONE RONCHI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA BIVIO SOLONGHELLO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA CASALE TORINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA MERLI": [
     {
-      "civico": "2",
-      "barrato": "BIS"
+      "civico": "2/BIS",
+      "stato": "B"
     }
   ],
   "VIA ALLA STAZIONE": [
     {
       "civico": "38",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ASILO MANACORDA": [
     {
-      "civico": "3",
-      "barrato": "11"
+      "civico": "3/11",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "B"
     }
   ]
 }

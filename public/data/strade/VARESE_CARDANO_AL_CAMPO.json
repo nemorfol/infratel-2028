@@ -2,79 +2,79 @@
   "PIAZZA LIBERAZIONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA BOAZZANA": [
     {
       "civico": "33",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DELLE BIOLLE": [
     {
       "civico": "80",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GRAN SASSO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VIA MADONNA DELLE FRAGOLE": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SILVIO CAPPELLETTI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA XXV APRILE": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

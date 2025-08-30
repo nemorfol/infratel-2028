@@ -2,59 +2,59 @@
   "STRADA CAGNASSI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": "B"
+      "civico": "16/B",
+      "stato": "C"
     }
   ],
   "STRADA FERRERI": [
     {
-      "civico": "8",
-      "barrato": "BIS"
+      "civico": "8/BIS",
+      "stato": "C"
     }
   ],
   "STRADA RITTANO": [
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "C"
     }
   ],
   "VIA MONTA'�": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     }
   ],
   "VIA SAN ROCCO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     },
     {
-      "civico": "33",
-      "barrato": "C"
+      "civico": "33/C",
+      "stato": "C"
     },
     {
-      "civico": "61",
-      "barrato": "BS"
+      "civico": "61/BS",
+      "stato": "C"
     },
     {
-      "civico": "71",
-      "barrato": "A"
+      "civico": "71/A",
+      "stato": "B"
     },
     {
       "civico": "73",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

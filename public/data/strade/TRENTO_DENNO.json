@@ -2,273 +2,273 @@
   "LOCALITA' ANGLAR": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' CASE SPARSE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "LOCALITA' ISCLE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' MASO CIMANA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' MASO DUSINI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "LOCALITA' MASO FORNACE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' MASO ISCHIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "LOCALITA' MASO LUZANA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' MASO SANT'ANGELO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' POZ": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "E"
+      "civico": "9/E",
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA'� ANGLAR": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA SAN GIOVANNI": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA VITTORIO EMANUELE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALBANO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALBERTI D'ENNO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ANTONIO QUETTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BORGO NUOVO": [
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     }
   ],
   "VIA CASE SPARSE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA CASTEL ENNO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COLLE VERDE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEI SANTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIOVANNI OSSANNA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTI GERVASIO E PROTASIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SEVERINI": [
     {
-      "civico": "5",
-      "barrato": "1"
+      "civico": "5/1",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "B"
+      "civico": "43/B",
+      "stato": "B"
     }
   ],
   "VIA TUAGEN": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "A"
-    },
-    {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "11/A",
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

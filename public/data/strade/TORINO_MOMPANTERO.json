@@ -2,207 +2,207 @@
   "BORGATA BIANCO INFERIORE": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "BORGATA BRAIDA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "FRAZIONE MARZANO": [
     {
-      "civico": "23",
-      "barrato": "BIS"
+      "civico": "23/BIS",
+      "stato": "B"
     }
   ],
   "FRAZIONE MARZANO GRANGIA": [
     {
-      "civico": "2",
-      "barrato": "BIS"
+      "civico": "2/BIS",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE PIETRASTRETTA": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "BIS"
+      "civico": "17/BIS",
+      "stato": "B"
     }
   ],
   "FRAZIONE SAN GIUSEPPE": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "BIS"
+      "civico": "2/BIS",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "P T"
+      "civico": "3/P T",
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE TRINITA'": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     }
   ],
   "NUCLEO CUGNO": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "NUCLEO NICOLETTI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE MOLET": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BOSCONERO": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BRICCHE": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA INVERSO": [
     {
-      "civico": "3",
-      "barrato": "BIS"
+      "civico": "3/BIS",
+      "stato": "B"
     }
   ],
   "VIA PAMPALU'": [
     {
-      "civico": "28",
-      "barrato": "P"
+      "civico": "28/P",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "T"
+      "civico": "28/T",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "32",
-      "barrato": "BIS"
+      "civico": "32/BIS",
+      "stato": "B"
     }
   ],
   "VIA TORRE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA URBIANO SUPERIORE": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "B"
+      "civico": "11/B",
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

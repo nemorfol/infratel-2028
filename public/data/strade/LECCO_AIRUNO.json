@@ -2,83 +2,83 @@
   "CASCINA RAPELLO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' ROCCA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA FENAROLI": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VIA CROCIONE": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEI NOBILI": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VIA ENRICO TOTI": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIAVE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA POSTALE VECCHIA": [
     {
-      "civico": "31",
-      "barrato": "B"
+      "civico": "31/B",
+      "stato": "B"
     }
   ],
   "VIA PRIVATA GUGLIELMO MARCONI": [
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     }
   ],
   "VIADOTTO ALCHERIO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE LEONARDO DA VINCI": [
     {
       "civico": "41",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

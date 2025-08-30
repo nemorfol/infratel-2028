@@ -1,288 +1,288 @@
 {
   "CONTRADA CARIDA'": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "CONTRADA FASIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "CONTRADA MERCATO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CORSO BUENOS AIRES": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LARGO MERCATO": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LARGO ZACCANOPOLI": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PARCO DELLE RIMEMBRANZE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BELLAVISTA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     }
   ],
   "VIA COLLIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA DEI COLLI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DIEGO BONAVINA": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA G.DE LEDDA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GRAMSCI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA I.LARUSSA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA M.SUSA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PORTICO DELLA PACE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA REGINA ELENA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TENENTE LOIACONO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA XI FEBBRAIO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VICO SAN FRANCESCO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

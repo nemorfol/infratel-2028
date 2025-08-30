@@ -2,81 +2,81 @@
   "LOCALITA' MONEC": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA AI MONTI": [
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAVOUR": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     }
   ],
   "VIA DEL CAPITANO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLA CONCA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA PAPA PIO XI": [
     {
-      "civico": "4",
-      "barrato": "I"
+      "civico": "4/I",
+      "stato": "B"
     }
   ],
   "VIA RISCEE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SUPERIORE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     }
   ],
   "VICOLO FAGIOLI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO GARDUZZI": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     }
   ]
 }

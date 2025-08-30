@@ -2,119 +2,119 @@
   "VIA DEI MORELL": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DEL COLOMBAIO": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VIA GUIDO ROSSA": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "A"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "A"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "A"
     }
   ],
   "VIA PER LE ORANE": [
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "59",
-      "barrato": "B"
+      "civico": "59/B",
+      "stato": "B"
     }
   ],
   "VIA TRECATE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "BIS"
+      "civico": "8/BIS",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "BIS"
+      "civico": "9/BIS",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "BIS"
+      "civico": "13/BIS",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "BIS"
+      "civico": "15/BIS",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "TER"
+      "civico": "15/TER",
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TRIESTE": [
     {
-      "civico": "27",
-      "barrato": "A"
+      "civico": "27/A",
+      "stato": "B"
     }
   ],
   "VIA VIGNOLA": [
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "B"
     }
   ]
 }

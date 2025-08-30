@@ -1,50 +1,50 @@
 {
   "VIA BONETTI": [
     {
-      "civico": "35",
-      "barrato": "A"
+      "civico": "35/A",
+      "stato": "C"
     }
   ],
   "VIA MADONNA D'ARGON": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTE GRUMELLO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO GIOACHINO ROSSINI": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

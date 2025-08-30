@@ -1,292 +1,292 @@
 {
   "CASCINA OROBONA": [
     {
-      "civico": "20",
-      "barrato": "B"
+      "civico": "20/B",
+      "stato": "C"
     }
   ],
   "CASCINA PALAZZINA": [
     {
       "civico": "2",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "2"
+      "civico": "2/1",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "3"
+      "civico": "2/2",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/3",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "5"
+      "civico": "2/4",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "6"
+      "civico": "2/5",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/6",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ANTONIO BANFI": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASTELLETTO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CONCORDIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "23",
-      "barrato": "C"
+      "civico": "23/C",
+      "stato": "B"
     },
     {
-      "civico": "58",
-      "barrato": "D"
+      "civico": "58/D",
+      "stato": "B"
     },
     {
-      "civico": "66",
-      "barrato": "A"
+      "civico": "66/A",
+      "stato": "B"
     },
     {
-      "civico": "74",
-      "barrato": "H"
+      "civico": "74/H",
+      "stato": "B"
     }
   ],
   "VIA DEL POZZO": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELL'ACQUA": [
     {
-      "civico": "20",
-      "barrato": "A"
+      "civico": "20/A",
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON GIOVANNI MINZONI": [
     {
-      "civico": "11",
-      "barrato": "1"
+      "civico": "11/1",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "2"
+      "civico": "11/2",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "3"
+      "civico": "11/3",
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DON LORENZO RADAELLI": [
     {
-      "civico": "6",
-      "barrato": "12"
+      "civico": "6/12",
+      "stato": "B"
     }
   ],
   "VIA EUGENIO CURIEL": [
     {
-      "civico": "1",
-      "barrato": "D"
+      "civico": "1/D",
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
-      "civico": "21",
-      "barrato": "12"
+      "civico": "21/12",
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": "13"
+      "civico": "21/13",
+      "stato": "B"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "62",
-      "barrato": "B"
+      "civico": "62/B",
+      "stato": "C"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "67",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PACE": [
     {
-      "civico": "14",
-      "barrato": "11"
+      "civico": "14/11",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "5 A"
+      "civico": "20/5 A",
+      "stato": "B"
     }
   ],
   "VIA PAPA GIOVANNI XXIII": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "7"
+      "civico": "5/7",
+      "stato": "B"
     }
   ],
   "VIA RIO VALLONE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/B",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "C"
+      "civico": "15/C",
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN FRANCESCO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "25",
-      "barrato": "B"
+      "civico": "25/B",
+      "stato": "B"
     }
   ],
   "VIA XXV APRILE": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VICOLO PERELLI": [
     {
-      "civico": "55",
-      "barrato": "B"
+      "civico": "55/B",
+      "stato": "B"
     }
   ],
   "VICOLO SAN VITTORE": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

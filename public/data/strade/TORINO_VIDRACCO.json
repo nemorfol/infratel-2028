@@ -1,178 +1,178 @@
 {
   "VIA BALDISSERO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA CAVOUR": [
     {
-      "civico": "9",
-      "barrato": "E"
+      "civico": "9/E",
+      "stato": "B"
     }
   ],
   "VIA FEIPIANO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "2"
+      "civico": "5/2",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "1",
-      "barrato": "7"
+      "civico": "1/7",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "4"
+      "civico": "6/4",
+      "stato": "B"
     }
   ],
   "VIA MONTIGLIO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MULINO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "8",
-      "barrato": "D"
+      "civico": "8/D",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "1"
+      "civico": "11/1",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "2"
+      "civico": "11/2",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "D"
+      "civico": "12/D",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "E"
+      "civico": "12/E",
+      "stato": "B"
     }
   ],
   "VIA SALER": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "2"
+      "civico": "3/2",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "2"
+      "civico": "5/2",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "5"
+      "civico": "5/5",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "1"
+      "civico": "7/1",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "2"
+      "civico": "7/2",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "3"
+      "civico": "7/3",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "6"
+      "civico": "7/6",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "1"
+      "civico": "9/1",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "2"
+      "civico": "9/2",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "3"
+      "civico": "9/3",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "4"
+      "civico": "9/4",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "5"
+      "civico": "9/5",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "6"
+      "civico": "9/6",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "7"
+      "civico": "9/7",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "8"
+      "civico": "9/8",
+      "stato": "B"
     }
   ],
   "VIA SAN MARCO": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VIA UMBERTO I": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     }
   ],
   "VIA VISTRORIO": [
     {
-      "civico": "9",
-      "barrato": "1"
+      "civico": "9/1",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO EMANUELE": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ]
 }

@@ -2,93 +2,93 @@
   "VIA ARGINE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BRAZZUOLO": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CANDELA": [
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "C"
     }
   ],
   "VIA CANTONE": [
     {
       "civico": "42",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DUGALE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VILLA PENTITA": [
     {
-      "civico": "28",
-      "barrato": "A"
+      "civico": "28/A",
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

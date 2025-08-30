@@ -1,106 +1,106 @@
 {
   "FRAZIONE ARTIGLIA": [
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "B"
+      "civico": "16/B",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "C"
+      "civico": "16/C",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "B"
+      "civico": "19/B",
+      "stato": "B"
     }
   ],
   "FRAZIONE CERIA": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "FRAZIONE CROSA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "A"
-    },
-    {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "17/A",
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": null
+      "civico": "22/A",
+      "stato": "B"
     }
   ],
   "FRAZIONE FOGLIA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "FRAZIONE MAGLIONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE TRABBIA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ]
 }

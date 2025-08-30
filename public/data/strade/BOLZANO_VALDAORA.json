@@ -2,123 +2,123 @@
   "IN DER LAENGE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' SORAFURCIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "MUEHLBACH": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "RIEDL": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BAGNI DI FORCELLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEL BORGO": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FURCIA": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PRACKEN": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RIED": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RIENZA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA SALLA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SORAFURCIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STOECKL": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

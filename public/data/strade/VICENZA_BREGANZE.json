@@ -2,159 +2,159 @@
   "STRADA DEL MOLINO": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA DELLA SETA": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BROGLIATI CONTRO": [
     {
       "civico": "58",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CHIZZALUNGA": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEI GELSI": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FRATTE": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GASPARONA": [
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARCO GUADAGNIN": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/B",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "D"
+      "civico": "15/D",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "E"
+      "civico": "15/E",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "F"
+      "civico": "15/F",
+      "stato": "B"
     }
   ],
   "VIA MONTEGOGGIO": [
     {
       "civico": "48",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN FELICE": [
     {
-      "civico": "117",
-      "barrato": "A"
+      "civico": "117/A",
+      "stato": "C"
     }
   ],
   "VIA SAN FILIPPO NERI": [
     {
       "civico": "33",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN GAETANO": [
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     }
   ],
   "VIA SAN MARTINO": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANTO STEFANO": [
     {
-      "civico": "30",
-      "barrato": "B"
+      "civico": "30/B",
+      "stato": "B"
     }
   ],
   "VIA TRENTO": [
     {
       "civico": "40",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

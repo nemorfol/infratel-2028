@@ -2,369 +2,369 @@
   "LOCALITA' AUDUVIN": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' BERTORINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' BONDON": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' CARSONEGA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' CIAPIN": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' MOLINELLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' MORGHETTA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "503",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PERAO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' PRATI DI GOUTE'": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' VEONIXI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA MARTIRI DELLA LIBERTA'": [
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     }
   ],
   "REGIONE BUNDA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE CAMEGNA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE CARTIERA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "REGIONE GAO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "149",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "999",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE MARCORA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "REGIONE MARRA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE PAPEIRA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE PERBONELLO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE SORBA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "STRADA PROVINCIALE 63": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA EMILIO VEZIANO": [
     {
-      "civico": "4",
-      "barrato": "BIS"
+      "civico": "4/BIS",
+      "stato": "B"
     },
     {
-      "civico": "31",
-      "barrato": "BIS"
+      "civico": "31/BIS",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "BIS"
+      "civico": "38/BIS",
+      "stato": "B"
     },
     {
       "civico": "47",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOLINO": [
     {
-      "civico": "24",
-      "barrato": "BIS"
+      "civico": "24/BIS",
+      "stato": "B"
     }
   ],
   "VIA MONTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ORSINI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PROVINCIALE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "BIS"
+      "civico": "3/BIS",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "C"
     },
     {
-      "civico": "27",
-      "barrato": "BIS"
+      "civico": "27/BIS",
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "32",
-      "barrato": "BIS"
+      "civico": "32/BIS",
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "88",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "95",
-      "barrato": "A"
+      "civico": "95/A",
+      "stato": "B"
     },
     {
       "civico": "102",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "127",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "229",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "271",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RUFFINI": [
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     }
   ],
   "VIA SANTO SPIRITO": [
     {
-      "civico": "6",
-      "barrato": "8"
+      "civico": "6/8",
+      "stato": "B"
     }
   ],
   "VICOLO CAMPANE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

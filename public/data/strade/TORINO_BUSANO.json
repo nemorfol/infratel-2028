@@ -2,195 +2,195 @@
   "CASCINA POMATTA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA MAIOLETTI": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLE NOCETTE": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "C"
+      "civico": "20/C",
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FRATELLI CHIAPETTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GALILEO GALILEI": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIOVANNI RASTELLI": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     }
   ],
   "VIA GIOVANNI SALATO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LUIGI EINAUDI": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIERO GOBETTI": [
     {
-      "civico": "18",
-      "barrato": "D"
+      "civico": "18/D",
+      "stato": "C"
     },
     {
-      "civico": "20",
-      "barrato": "ABIS"
+      "civico": "20/ABIS",
+      "stato": "C"
     }
   ],
   "VIA PINELLI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROLANDO PERINO": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STEFANO BRUDA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "A"
+      "civico": "27/A",
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SUOR IRMA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "F"
+      "civico": "9/F",
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TOSELLI": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VALPERGA": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
       "civico": "56",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA XXV APRILE": [
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     }
   ]
 }

@@ -2,225 +2,225 @@
   "CASCINA BELLAVISTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA MUNICIPIO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE PRATO DEL MULINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE RIBBIOLO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE TRAVENGO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "STRADA STATALE BIELLESE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ALLA CAMPAGNA": [
     {
       "civico": "2",
-      "barrato": "D"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "E"
+      "civico": "2/D",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/E",
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BARQUEDO": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA BORGO AGNELLO": [
     {
-      "civico": "19",
-      "barrato": "B"
+      "civico": "19/B",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "B"
+      "civico": "26/B",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "I"
+      "civico": "26/I",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "L"
+      "civico": "26/L",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "M"
+      "civico": "26/M",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "N"
+      "civico": "26/N",
+      "stato": "B"
     }
   ],
   "VIA BORGOMANERO": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "C"
+      "civico": "34/C",
+      "stato": "B"
     }
   ],
   "VIA ERRO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA INVORIO": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARASCA": [
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "B"
     }
   ],
   "VIA MONTE ROSA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ],
   "VIA OLEGGIO CASTELLO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN MARCELLO": [
     {
       "civico": "58",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANT'EUFEMIA": [
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAREIA": [
     {
       "civico": "1",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/C",
+      "stato": "B"
     }
   ],
   "VIA VISCONTI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

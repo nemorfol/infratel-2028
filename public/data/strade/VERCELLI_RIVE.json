@@ -2,85 +2,85 @@
   "CASCINA CASCINOTTA": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA BERNARDINO RATTAZZI": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA CAMILLO CAVOUR": [
     {
-      "civico": "3",
-      "barrato": "1 P"
+      "civico": "3/1 P",
+      "stato": "B"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
-      "civico": "2",
-      "barrato": "O"
+      "civico": "2/O",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "BIS"
+      "civico": "9/BIS",
+      "stato": "B"
     }
   ],
   "VIA MADONNINA": [
     {
-      "civico": "2",
-      "barrato": "1 P"
+      "civico": "2/1 P",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "3 P"
+      "civico": "2/3 P",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "13"
+      "civico": "11/13",
+      "stato": "B"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOLINARA": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "1 P"
+      "civico": "28/1 P",
+      "stato": "B"
     },
     {
-      "civico": "36",
-      "barrato": "B"
+      "civico": "36/B",
+      "stato": "B"
     }
   ],
   "VIA TRINO": [
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/B",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "PT"
+      "civico": "12/PT",
+      "stato": "B"
     }
   ]
 }

@@ -2,115 +2,115 @@
   "REGIONE CASCINE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "REGIONE RIVASSI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE SALET": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA DELLA FUCINA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA AOSTA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     }
   ],
   "VIA CARLO CATTANEO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAVOUR": [
     {
       "civico": "38",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CIMITERO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DORA BALTEA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA G.GANASSINI": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     }
   ],
   "VIA IVREA": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     }
   ],
   "VIA MASSIMO D'AZEGLIO": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIAVE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTA CECILIA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STAZIONE": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

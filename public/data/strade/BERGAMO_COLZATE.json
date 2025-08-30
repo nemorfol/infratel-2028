@@ -1,122 +1,122 @@
 {
   "VIA BONFANTI": [
     {
-      "civico": "0",
-      "barrato": "SNC 12"
+      "civico": "0/SNC 12",
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": "SNC 13"
+      "civico": "0/SNC 13",
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": "SNC 14"
+      "civico": "0/SNC 14",
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": "SNC 15"
+      "civico": "0/SNC 15",
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "B"
+      "civico": "22/B",
+      "stato": "B"
     },
     {
-      "civico": "65",
-      "barrato": "M"
+      "civico": "65/M",
+      "stato": "B"
     },
     {
-      "civico": "65",
-      "barrato": "P"
+      "civico": "65/P",
+      "stato": "B"
     }
   ],
   "VIA CASE SPARSE": [
     {
-      "civico": "20",
-      "barrato": "A"
+      "civico": "20/A",
+      "stato": "B"
     },
     {
-      "civico": "58",
-      "barrato": "A"
+      "civico": "58/A",
+      "stato": "B"
     }
   ],
   "VIA CAV.GIANNI RADICI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LUIGI RODIGARI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA MONSIGNOR ZENONE A.TESTA": [
     {
       "civico": "545",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "579",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA REZZO": [
     {
-      "civico": "8",
-      "barrato": "C"
+      "civico": "8/C",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "C"
+      "civico": "15/C",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "B"
+      "civico": "19/B",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "0",
-      "barrato": "SNC 6"
+      "civico": "0/SNC 6",
+      "stato": "B"
     }
   ],
   "VIA SAN BERNARDINO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "35",
-      "barrato": "A"
+      "civico": "35/A",
+      "stato": "B"
     }
   ],
   "VIA XI FEBBRAIO": [
     {
-      "civico": "16",
-      "barrato": "C"
+      "civico": "16/C",
+      "stato": "B"
     }
   ],
   "VIA XXV APRILE": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -1,56 +1,56 @@
 {
   "VIA ADDA": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     }
   ],
   "VIA GRIGNE": [
     {
-      "civico": "1",
-      "barrato": "F"
+      "civico": "1/F",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOGGIO": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA NOVELLA": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "137",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GEROLAMO": [
     {
-      "civico": "47",
-      "barrato": "A"
+      "civico": "47/A",
+      "stato": "B"
     }
   ],
   "VIALE PAPA GIOVANNI XXIII": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

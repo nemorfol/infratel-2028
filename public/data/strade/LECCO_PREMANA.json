@@ -1,72 +1,72 @@
 {
   "LOCALITA' GIABBIO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA PER GIABBIO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RISORGIMENTO": [
     {
-      "civico": "111",
-      "barrato": "A"
+      "civico": "111/A",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "B"
+      "civico": "111/B",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "C"
+      "civico": "111/C",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "D"
+      "civico": "111/D",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "E"
+      "civico": "111/E",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "F"
+      "civico": "111/F",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "G"
+      "civico": "111/G",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "H"
+      "civico": "111/H",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "I"
+      "civico": "111/I",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "L"
+      "civico": "111/L",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "M"
+      "civico": "111/M",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "N"
+      "civico": "111/N",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "O"
+      "civico": "111/O",
+      "stato": "B"
     }
   ]
 }

@@ -2,173 +2,173 @@
   "CONTRADA CARRARE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA PEDATA D'ORLANDO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CONTRADA PISCINA D'ISONZO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CONTRADA PISCINA MICHELE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA PONTE TROPPOLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA TORRE DON MARCELLO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 112 MOLFETTA-TERLIZZI": [
     {
-      "civico": "0",
-      "barrato": "SNC 53"
+      "civico": "0/SNC 53",
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE MOLFETTA TERLIZZI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE MACCHIA D'ORIGANO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "STRADA VICINALE MINO": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA VICINALE PISCINA CILEO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "STRADA VICINALE TORRE ROTONDA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA CAPPA VECCHIA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA DEI PESCATORI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA OLIERE E SAPONIERE MERIDIONALI": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PISCINA SER NICOLA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

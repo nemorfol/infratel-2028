@@ -2,399 +2,399 @@
   "LOCALITA' ISCHIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/A",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": null
-    },
-    {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "C"
+      "civico": "8/A",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "D"
+      "civico": "8/B",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "E"
+      "civico": "8/C",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "F"
+      "civico": "8/D",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "G"
+      "civico": "8/E",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/F",
+      "stato": "C"
+    },
+    {
+      "civico": "8/G",
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/A",
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' MASO GESUITI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PINZARELLE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA'� ALBERA PINA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     }
   ],
   "LOCALITA'� ISCHIA": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� MASO ALFONSO": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     }
   ],
   "LOCALITA'� NOVALI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "LOCALITA'� STRADA ALTA": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA SAN ROCCO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA UMBERTO NOBILE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ALCIDE DE GASPERI": [
     {
-      "civico": "21",
-      "barrato": "B"
+      "civico": "21/B",
+      "stato": "B"
     }
   ],
   "VIA DEGLI ALPINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     }
   ],
   "VIA DEI MULINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DON GIUSEPPE MAURINA": [
     {
       "civico": "40",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON MARIO PICHLER": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
-      "civico": "11",
-      "barrato": "B"
+      "civico": "11/B",
+      "stato": "A"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GUETTI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "B"
+      "civico": "20/B",
+      "stato": "B"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MERIGGI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PAGANELLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PER ZAMBANA VECCHIA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTI FABIANO E SEBASTIANO": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VERONA": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VICOLO DELLE ROSE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VICOLO XVI APRILE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ]
 }

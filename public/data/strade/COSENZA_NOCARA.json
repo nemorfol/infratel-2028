@@ -2,101 +2,101 @@
   "CONTRADA APPESA": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA CERASO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CONTRADA MASSICELLA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA PIANO DELLA NOCE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA RAGONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "RIONE CLAUSILE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA POLMO": [
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "2"
+      "civico": "6/2",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "3"
+      "civico": "6/3",
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "1"
+      "civico": "47/1",
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "2"
+      "civico": "47/2",
+      "stato": "B"
     }
   ],
   "VIA PORTA CAPUANA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTISSIMA ANNUNZIATA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO LUNGO": [
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "B"
     }
   ]
 }

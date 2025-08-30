@@ -2,79 +2,79 @@
   "VIA AI MONTI": [
     {
       "civico": "38",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "46",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "46",
-      "barrato": null
+      "civico": "46/A",
+      "stato": "C"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ANDREA PARRAVICINI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA IX AGOSTO 1160": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MILANO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA PARTIGIANA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

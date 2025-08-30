@@ -2,171 +2,171 @@
   "STRADA STATALE 589": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ARIOSTO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COSTA": [
     {
       "civico": "60",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "86",
-      "barrato": "1"
+      "civico": "86/1",
+      "stato": "B"
     },
     {
-      "civico": "86",
-      "barrato": "2"
+      "civico": "86/2",
+      "stato": "B"
     },
     {
       "civico": "92",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "98",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "107",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "115",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "119",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FROSSASCO": [
     {
       "civico": "49",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GALILEO GALILEI": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIOSUE' CARDUCCI": [
     {
-      "civico": "22",
-      "barrato": "2"
+      "civico": "22/2",
+      "stato": "B"
     }
   ],
   "VIA GIOVANNI PASCOLI": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARCONI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PAGANINI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "85",
-      "barrato": "1 A"
+      "civico": "85/1 A",
+      "stato": "B"
     },
     {
-      "civico": "93",
-      "barrato": "1"
+      "civico": "93/1",
+      "stato": "B"
     }
   ],
   "VIA RONCAGLIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ROSTAGNO": [
     {
-      "civico": "27",
-      "barrato": "5"
+      "civico": "27/5",
+      "stato": "B"
     }
   ],
   "VIA TORINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "1 A"
+      "civico": "15/1 A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "1 BIS"
+      "civico": "15/1 BIS",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "11"
+      "civico": "17/11",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "17"
+      "civico": "17/17",
+      "stato": "C"
     },
     {
-      "civico": "17",
-      "barrato": "19"
+      "civico": "17/19",
+      "stato": "C"
     },
     {
-      "civico": "17",
-      "barrato": "21"
+      "civico": "17/21",
+      "stato": "C"
     }
   ],
   "VIA VIVALDI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

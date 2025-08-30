@@ -2,145 +2,145 @@
   "CASCINA GRAVAGNINA USLONA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASCINA UCCELLONA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA FORNACE": [
     {
-      "civico": "4",
-      "barrato": "2"
+      "civico": "4/2",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "1"
+      "civico": "27/1",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "24",
-      "barrato": "1"
+      "civico": "24/1",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "2"
+      "civico": "24/2",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "1"
+      "civico": "28/1",
+      "stato": "B"
     },
     {
-      "civico": "37",
-      "barrato": "D"
+      "civico": "37/D",
+      "stato": "B"
     },
     {
-      "civico": "46",
-      "barrato": "A"
+      "civico": "46/A",
+      "stato": "B"
     },
     {
-      "civico": "63",
-      "barrato": "B"
+      "civico": "63/B",
+      "stato": "B"
     },
     {
-      "civico": "64",
-      "barrato": "A"
+      "civico": "64/A",
+      "stato": "B"
     },
     {
       "civico": "80",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "83",
-      "barrato": "1"
+      "civico": "83/1",
+      "stato": "B"
     },
     {
-      "civico": "90",
-      "barrato": "B"
+      "civico": "90/B",
+      "stato": "B"
     },
     {
       "civico": "95",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "136",
-      "barrato": "1"
+      "civico": "136/1",
+      "stato": "B"
     },
     {
-      "civico": "136",
-      "barrato": "2"
+      "civico": "136/2",
+      "stato": "B"
     },
     {
-      "civico": "167",
-      "barrato": "B"
+      "civico": "167/B",
+      "stato": "B"
     }
   ],
   "VIA NUOVA": [
     {
-      "civico": "10",
-      "barrato": "1"
+      "civico": "10/1",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "2"
+      "civico": "10/2",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "1"
+      "civico": "12/1",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "B"
+      "civico": "16/B",
+      "stato": "B"
     }
   ],
   "VIA PAPA LUCIANI": [
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "2"
+      "civico": "6/2",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "1"
+      "civico": "5/1",
+      "stato": "B"
     },
     {
-      "civico": "25",
-      "barrato": "1"
+      "civico": "25/1",
+      "stato": "B"
     },
     {
-      "civico": "25",
-      "barrato": "2"
+      "civico": "25/2",
+      "stato": "B"
     }
   ]
 }

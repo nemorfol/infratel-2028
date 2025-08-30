@@ -2,121 +2,121 @@
   "STRADA STATALE 340DIR REGINA": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "56",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA STATALE 36": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ADDA": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA AI MULINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CINQUE CASE": [
     {
       "civico": "83",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DALL'ALTO": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTEMEZZO": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "43",
-      "barrato": "A"
+      "civico": "43/A",
+      "stato": "C"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PARADISO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PER TREZZONE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PONTE DEL PASSO": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANT'AGATA": [
     {
-      "civico": "37",
-      "barrato": "B"
+      "civico": "37/B",
+      "stato": "C"
     }
   ],
   "VIA STALLONE VENINI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

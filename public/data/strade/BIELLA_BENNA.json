@@ -2,45 +2,45 @@
   "CASCINA ALBERICI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CINZIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA MOIETTA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA ALL'ANTICO MULINO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "STRADA TROSSI": [
     {
       "civico": "42",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RE UMBERTO I": [
     {
-      "civico": "27",
-      "barrato": "G"
+      "civico": "27/G",
+      "stato": "B"
     }
   ]
 }

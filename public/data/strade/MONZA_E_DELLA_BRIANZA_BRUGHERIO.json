@@ -1,428 +1,428 @@
 {
   "STRADA VICINALE BARAGGIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "VIA BERNINA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BRUNO BUOZZI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA GUZZINA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/A",
+      "stato": "B"
     }
   ],
   "VIA DELLA MORNERA": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DOLOMITI": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DON LUIGI STURZO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "VIA GHISALLO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MODESTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PAOLO ANDREANI": [
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "P 3"
+      "civico": "18/P 3",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "P 1"
+      "civico": "20/P 1",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "P 2"
+      "civico": "20/P 2",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "P 3"
+      "civico": "20/P 3",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "P 4"
+      "civico": "20/P 4",
+      "stato": "B"
     }
   ],
   "VIA PIER FRANCESCO MOIA": [
     {
-      "civico": "14",
-      "barrato": "5"
+      "civico": "14/5",
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "6"
+      "civico": "14/6",
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "P"
+      "civico": "14/P",
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN CRISTOFORO": [
     {
       "civico": "49",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "49",
-      "barrato": null
+      "civico": "49/A",
+      "stato": "B"
     }
   ],
   "VIA SAN FRANCESCO D'ASSISI": [
     {
       "civico": "80",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "140",
-      "barrato": "P 1"
+      "civico": "140/P 1",
+      "stato": "B"
     }
   ],
   "VIA SAN MAURIZIO AL LAMBRO": [
     {
-      "civico": "127",
-      "barrato": "B"
+      "civico": "127/B",
+      "stato": "B"
     },
     {
       "civico": "128",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "129",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "130",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "131",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "132",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "133",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "134",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "139",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "141",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "165",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "208",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "230",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TONALE": [
     {
       "civico": "30",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "B"
+      "civico": "30/A",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "C"
+      "civico": "30/B",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "D"
+      "civico": "30/C",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "S A"
+      "civico": "30/D",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "S C"
+      "civico": "30/S A",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "S D"
+      "civico": "30/S C",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "S F"
+      "civico": "30/S D",
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": null
+      "civico": "30/S F",
+      "stato": "C"
     }
   ],
   "VIA VOLTURNO CEDRI": [
     {
-      "civico": "2",
-      "barrato": "SC"
+      "civico": "2/SC",
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": "SC"
+      "civico": "3/SC",
+      "stato": "A"
     },
     {
-      "civico": "4",
-      "barrato": "SC"
+      "civico": "4/SC",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "SC"
+      "civico": "5/SC",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "SC"
+      "civico": "7/SC",
+      "stato": "A"
     },
     {
-      "civico": "8",
-      "barrato": "SC"
+      "civico": "8/SC",
+      "stato": "A"
     },
     {
-      "civico": "9",
-      "barrato": "SC"
+      "civico": "9/SC",
+      "stato": "A"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "80",
-      "barrato": "7"
+      "civico": "80/7",
+      "stato": "A"
     },
     {
-      "civico": "80",
-      "barrato": "9"
+      "civico": "80/9",
+      "stato": "A"
     },
     {
-      "civico": "80",
-      "barrato": "S 3"
+      "civico": "80/S 3",
+      "stato": "A"
     },
     {
       "civico": "661",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA VOLTURNO FONTANA": [
     {
-      "civico": "1",
-      "barrato": "SC"
+      "civico": "1/SC",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "SC"
+      "civico": "2/SC",
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": "SC"
+      "civico": "3/SC",
+      "stato": "A"
     },
     {
-      "civico": "4",
-      "barrato": "SC"
+      "civico": "4/SC",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "SC"
+      "civico": "5/SC",
+      "stato": "A"
     },
     {
-      "civico": "6",
-      "barrato": "SC"
+      "civico": "6/SC",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "SC"
+      "civico": "7/SC",
+      "stato": "A"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "80",
-      "barrato": "4"
+      "civico": "80/4",
+      "stato": "A"
     },
     {
-      "civico": "80",
-      "barrato": "P 1"
+      "civico": "80/P 1",
+      "stato": "A"
     }
   ],
   "VIA VOLTURNO MERIDIANA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "SC"
+      "civico": "1/SC",
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": "SC"
+      "civico": "3/SC",
+      "stato": "A"
     },
     {
-      "civico": "4",
-      "barrato": "SC"
+      "civico": "4/SC",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "SC"
+      "civico": "5/SC",
+      "stato": "A"
     },
     {
-      "civico": "6",
-      "barrato": "SC"
+      "civico": "6/SC",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "SC"
+      "civico": "7/SC",
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA VOLTURNO PORTICI I": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "80",
-      "barrato": "1"
+      "civico": "80/1",
+      "stato": "A"
     },
     {
-      "civico": "80",
-      "barrato": "S 4"
+      "civico": "80/S 4",
+      "stato": "A"
     }
   ],
   "VIA VOLTURNO PORTICI II": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "80",
-      "barrato": "S 1"
+      "civico": "80/S 1",
+      "stato": "A"
     }
   ],
   "VIA VOLTURNO PORTICI III": [
     {
-      "civico": "1",
-      "barrato": "SC"
+      "civico": "1/SC",
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "80",
-      "barrato": "P 4"
+      "civico": "80/P 4",
+      "stato": "A"
     }
   ]
 }

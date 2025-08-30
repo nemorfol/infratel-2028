@@ -2,195 +2,195 @@
   "CASCINA GARBOLINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA LIVIO SATEGNA": [
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     }
   ],
   "PIAZZA SAN MARTINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     }
   ],
   "PIAZZA UNITA' D'ITALIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PER TORRE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BETTOLINO": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINE TASSO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTE GRAPPA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PRAMARZO": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/B",
+      "stato": "C"
     },
     {
-      "civico": "11",
-      "barrato": "C"
+      "civico": "11/C",
+      "stato": "B"
     }
   ],
   "VIA PRAMONICO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "X"
+      "civico": "2/X",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RIMESA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GIOVANNI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TRUCCHI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO DEGLI ORAZI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "D"
+      "civico": "12/D",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "E"
+      "civico": "12/E",
+      "stato": "B"
     }
   ],
   "VICOLO DELLA CHIESA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": "C"
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/C",
+      "stato": "B"
     }
   ]
 }

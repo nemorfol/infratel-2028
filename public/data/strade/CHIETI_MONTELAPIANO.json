@@ -1,44 +1,44 @@
 {
   "PIAZZA DELLA REPUBBLICA": [
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     }
   ],
   "STRADA COMUNALE FONTANA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PROVINCIALE MONTELAPIANO FICORETTO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SALITA VITTORIO EMANUELE": [
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE CERRI": [
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     },
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "B"
     }
   ]
 }

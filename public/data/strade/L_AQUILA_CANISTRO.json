@@ -2,125 +2,125 @@
   "LARGO PIO": [
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA MUNICIPIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAMPO SPORTIVO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA STAZIONE VECCHIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA F.MARINETTI": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA III OTTOBRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ISONZO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA M.T.DE ANDREIS": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTELLO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     }
   ],
   "VIA PRATO FRANCO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PROVINCIALE": [
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "B"
     }
   ],
   "VIA VENETO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA VITTORIO VENETO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

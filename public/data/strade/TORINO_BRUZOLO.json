@@ -2,157 +2,157 @@
   "FRAZIONE CHIOTETTI": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' BIGIARDI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' COMBETTE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA DELLE MARERE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CARLO EMANUELE I": [
     {
-      "civico": "46",
-      "barrato": "A"
+      "civico": "46/A",
+      "stato": "B"
     },
     {
       "civico": "87",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAVOUR": [
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     }
   ],
   "VIA LAGO": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "C"
+      "civico": "8/C",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "E"
+      "civico": "8/E",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "F"
+      "civico": "8/F",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "G"
+      "civico": "8/G",
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LUIGI VAIR": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     }
   ],
   "VIA MONTEBELLO": [
     {
-      "civico": "1",
-      "barrato": "BIS"
+      "civico": "1/BIS",
+      "stato": "C"
     }
   ],
   "VIA UMBERTO I": [
     {
-      "civico": "59",
-      "barrato": "A"
+      "civico": "59/A",
+      "stato": "B"
     }
   ]
 }

@@ -2,77 +2,77 @@
   "LOCALITA'� BELVEDERE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� PARAFADA": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE GAROMBO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FOGLIO": [
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE MAZZINI": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "C"
     }
   ],
   "VIA RODDINO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": null
+      "civico": "22/B",
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

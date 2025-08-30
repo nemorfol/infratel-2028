@@ -2,35 +2,35 @@
   "LOCALITA' BARCA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA'� BARCA": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 29": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 68": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE DORNO": [
     {
       "civico": "1100",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1560",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

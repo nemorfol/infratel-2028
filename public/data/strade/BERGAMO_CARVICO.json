@@ -1,32 +1,32 @@
 {
   "VIA CAMPETTO": [
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "C"
     },
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "C"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "C"
     }
   ],
   "VIA LIBERTA'": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROCCOLI MEDOLAGO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

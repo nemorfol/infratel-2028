@@ -1,136 +1,136 @@
 {
   "VIA CASE NUOVE": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASTIONS": [
     {
-      "civico": "79",
-      "barrato": "A"
+      "civico": "79/A",
+      "stato": "B"
     },
     {
-      "civico": "87",
-      "barrato": "A"
+      "civico": "87/A",
+      "stato": "C"
     }
   ],
   "VIA CIRCONVALLAZIONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOLINO": [
     {
-      "civico": "7",
-      "barrato": "B"
+      "civico": "7/B",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "A"
+      "civico": "34/A",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "A"
+      "civico": "38/A",
+      "stato": "B"
     }
   ],
   "VIA PALAZZOLO": [
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     },
     {
-      "civico": "37",
-      "barrato": "B"
+      "civico": "37/B",
+      "stato": "B"
     },
     {
-      "civico": "52",
-      "barrato": "A"
+      "civico": "52/A",
+      "stato": "B"
     }
   ],
   "VIA POCENIA": [
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
-      "civico": "118",
-      "barrato": "A"
+      "civico": "118/A",
+      "stato": "B"
     }
   ],
   "VIA SAN GIORGIO": [
     {
-      "civico": "90",
-      "barrato": "A"
+      "civico": "90/A",
+      "stato": "C"
     }
   ],
   "VIA SELVOTTA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     },
     {
-      "civico": "110",
-      "barrato": "A"
+      "civico": "110/A",
+      "stato": "B"
     }
   ],
   "VIA SPESSA": [
     {
       "civico": "50",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA STRETTA": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STROPPAGALLO": [
     {
-      "civico": "33",
-      "barrato": "A"
+      "civico": "33/A",
+      "stato": "B"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VARIANTE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

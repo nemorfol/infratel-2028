@@ -2,133 +2,133 @@
   "ALZAIA NAVIGLIO MARTESANA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAVA ROSSA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
-      "civico": "40",
-      "barrato": "A"
+      "civico": "40/A",
+      "stato": "C"
     }
   ],
   "VIA GIOSUE' CARDUCCI": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "40",
-      "barrato": "M"
+      "stato": "C"
     },
     {
-      "civico": "40",
-      "barrato": "N"
+      "civico": "40/M",
+      "stato": "C"
     },
     {
-      "civico": "40",
-      "barrato": null
+      "civico": "40/N",
+      "stato": "C"
     },
     {
       "civico": "93",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "99",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "131",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "133",
-      "barrato": "A"
+      "civico": "133/A",
+      "stato": "C"
     },
     {
-      "civico": "133",
-      "barrato": "B"
+      "civico": "133/B",
+      "stato": "C"
     },
     {
       "civico": "135",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "141",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "147",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "155",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LEONARDO DA VINCI": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PIERO CALAMANDREI": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN MAURIZIO AL LAMBRO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA SANTA MARTA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIALE PIEMONTE": [
     {
       "civico": "36",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -2,201 +2,201 @@
   "CASCINA ACQUANERA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA BARAGGIA": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA BARAGGIOLA": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA BRAIA": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MARGHERITA": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA MULINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MULINO DELLE GRAZIE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA NUOVA": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CORSO VITTORIO VENETO": [
     {
-      "civico": "63",
-      "barrato": "B"
+      "civico": "63/B",
+      "stato": "B"
     }
   ],
   "PIAZZA ALBERTO GASTALDI": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA MONSIGNOR CARLO ALLORIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA VICINALE MARZAGATTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE VALLONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BORGO VERCELLI": [
     {
-      "civico": "7",
-      "barrato": "B"
+      "civico": "7/B",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "B"
     }
   ],
   "VIA CIRCONVALLAZIONE": [
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     }
   ],
   "VIA DEGLI ALPINI": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DON FRANCESCO CONTI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "T"
+      "civico": "6/T",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
       "civico": "93",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "103",
-      "barrato": "A"
+      "civico": "103/A",
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE MAZZINI": [
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "B"
     },
     {
-      "civico": "25",
-      "barrato": "A"
+      "civico": "25/A",
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PARCO DELLA RIMEMBRANZA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PIETRO BELLARDONE": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "60",
-      "barrato": "BIS"
+      "civico": "60/BIS",
+      "stato": "B"
     }
   ],
   "VIA RONCHETTI": [
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     }
   ],
   "VIA SAN GIOVANNI BOSCO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XX SETTEMBRE": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     }
   ]
 }

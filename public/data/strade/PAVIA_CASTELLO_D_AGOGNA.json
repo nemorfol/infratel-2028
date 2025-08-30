@@ -2,53 +2,53 @@
   "VIA CASCINA SANTA MARIA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIOVANNI PASCOLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PIEMONTE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "P 1"
+      "civico": "8/P 1",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "P 2"
+      "civico": "8/P 2",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "P 3"
+      "civico": "8/P 3",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "P 1"
+      "civico": "16/P 1",
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": "P 4"
+      "civico": "16/P 4",
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": "P 5"
+      "civico": "16/P 5",
+      "stato": "C"
     }
   ],
   "VIA UGO FOSCOLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

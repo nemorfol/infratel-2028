@@ -1,1448 +1,1448 @@
 {
   "LARGO DELLA BASTIGLIA": [
     {
-      "civico": "1",
-      "barrato": "2"
+      "civico": "1/2",
+      "stato": "B"
     }
   ],
   "LARGO LUCIA SARZI": [
     {
-      "civico": "4",
-      "barrato": "5"
+      "civico": "4/5",
+      "stato": "B"
     }
   ],
   "PIAZZA ANTONIO GRAMSCI": [
     {
-      "civico": "6",
-      "barrato": "7"
+      "civico": "6/7",
+      "stato": "B"
     }
   ],
   "PIAZZA DELLA REPUBBLICA": [
     {
-      "civico": "4",
-      "barrato": "5"
+      "civico": "4/5",
+      "stato": "B"
     }
   ],
   "PIAZZA MAGGIORE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ALESSANDRO PERTINI": [
     {
-      "civico": "10",
-      "barrato": "12"
+      "civico": "10/12",
+      "stato": "B"
     }
   ],
   "VIA ALESSANDRO VOLTA": [
     {
-      "civico": "4",
-      "barrato": "6"
+      "civico": "4/6",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "11"
+      "civico": "9/11",
+      "stato": "B"
     }
   ],
   "VIA BOSCO GRANAI": [
     {
-      "civico": "1",
-      "barrato": "3"
+      "civico": "1/3",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BOTTEGONE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "9"
+      "civico": "7/9",
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": "1"
+      "civico": "16/1",
+      "stato": "C"
     },
     {
-      "civico": "17",
-      "barrato": "1"
+      "civico": "17/1",
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "C"
     }
   ],
   "VIA CAVO DOGARO": [
     {
-      "civico": "3",
-      "barrato": "C"
+      "civico": "3/C",
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CHIAVICHE": [
     {
-      "civico": "1",
-      "barrato": "1"
+      "civico": "1/1",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "1"
+      "civico": "4/1",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "C"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "C"
     }
   ],
   "VIA CIRCONVALLAZIONE": [
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/A",
+      "stato": "B"
     }
   ],
   "VIA CIRO MENOTTI": [
     {
-      "civico": "1",
-      "barrato": "3"
+      "civico": "1/3",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "B"
     }
   ],
   "VIA DELL'ARTIGIANATO": [
     {
-      "civico": "29",
-      "barrato": "A"
+      "civico": "29/A",
+      "stato": "B"
     }
   ],
   "VIA DELLA MECCANICA": [
     {
       "civico": "40",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON GIOVANNI MINZONI": [
     {
-      "civico": "7",
-      "barrato": "9"
+      "civico": "7/9",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     }
   ],
   "VIA ENRICO FERMI": [
     {
       "civico": "65",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FALCONE": [
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "C"
     }
   ],
   "VIA FILIPPO TURATI": [
     {
-      "civico": "5",
-      "barrato": "7"
+      "civico": "5/7",
+      "stato": "B"
     }
   ],
   "VIA FINALE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/A",
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "22",
-      "barrato": "D"
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": null
+      "civico": "22/D",
+      "stato": "A"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "37",
-      "barrato": "BIS"
+      "stato": "A"
     },
     {
-      "civico": "37",
-      "barrato": null
+      "civico": "37/BIS",
+      "stato": "A"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "39",
-      "barrato": "1"
+      "stato": "A"
     },
     {
-      "civico": "39",
-      "barrato": null
+      "civico": "39/1",
+      "stato": "A"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "54",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "56",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "66",
-      "barrato": "BIS"
+      "stato": "A"
     },
     {
-      "civico": "66",
-      "barrato": null
+      "civico": "66/BIS",
+      "stato": "A"
     },
     {
       "civico": "86",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "170",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "213",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "215",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "219",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "221",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "225",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "227",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "239",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "241",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "243",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "255",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "263",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "265",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "273",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "295",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "297",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "377",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "379",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "381",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "397",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "421",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "617",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA FRANCESCO BARACCA": [
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "B"
     }
   ],
   "VIA FRATELLI CERVI": [
     {
-      "civico": "6",
-      "barrato": "8"
+      "civico": "6/8",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "12"
+      "civico": "10/12",
+      "stato": "B"
     }
   ],
   "VIA GALEAZZA": [
     {
-      "civico": "4",
-      "barrato": "6"
+      "civico": "4/6",
+      "stato": "B"
     }
   ],
   "VIA GHIRONE": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "385",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "401",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "403",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "459",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "475",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GOMMA": [
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     }
   ],
   "VIA GORZANO": [
     {
-      "civico": "14",
-      "barrato": "1"
+      "civico": "14/1",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "1"
+      "civico": "15/1",
+      "stato": "C"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "31",
-      "barrato": "D"
+      "civico": "31/D",
+      "stato": "B"
     }
   ],
   "VIA LEONARDO DA VINCI": [
     {
-      "civico": "12",
-      "barrato": "1"
+      "civico": "12/1",
+      "stato": "B"
     }
   ],
   "VIA MADONNA": [
     {
-      "civico": "10",
-      "barrato": "12"
+      "civico": "10/12",
+      "stato": "C"
     }
   ],
   "VIA MODENA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "47",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "75",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "77",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "79",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "81",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "83",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "87",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MOHANDAS KARAMCHAND GANDHI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PALAZZO MAGGIORE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PANARIA BASSA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "94",
-      "barrato": "2"
+      "civico": "94/2",
+      "stato": "B"
     },
     {
-      "civico": "94",
-      "barrato": "3"
+      "civico": "94/3",
+      "stato": "B"
     },
     {
       "civico": "236",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "322",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "379",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "381",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "385",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "391",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "393",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "401",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "403",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "405",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "407",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "409",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "411",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "419",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "489",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "569",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "583",
-      "barrato": "A"
+      "civico": "583/A",
+      "stato": "B"
     },
     {
       "civico": "605",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "607",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "619",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "621",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "625",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "627",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "629",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "631",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PANARIA EST": [
     {
-      "civico": "17",
-      "barrato": "1"
+      "civico": "17/1",
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "1"
+      "civico": "47/1",
+      "stato": "B"
     },
     {
-      "civico": "70",
-      "barrato": "1"
+      "civico": "70/1",
+      "stato": "B"
     },
     {
-      "civico": "70",
-      "barrato": "2"
+      "civico": "70/2",
+      "stato": "B"
     },
     {
       "civico": "81",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "83",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "85",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "87",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "89",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "284",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "290",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "298",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "312",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "314",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "316",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "318",
-      "barrato": "M"
+      "stato": "C"
     },
     {
-      "civico": "318",
-      "barrato": null
+      "civico": "318/M",
+      "stato": "C"
     },
     {
       "civico": "320",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "322",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "328",
-      "barrato": "1"
+      "civico": "328/1",
+      "stato": "C"
     },
     {
       "civico": "330",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "332",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "334",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "336",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "338",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "340",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "342",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "344",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "346",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "352",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "354",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "358",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "360",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "362",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "366",
-      "barrato": "A"
+      "civico": "366/A",
+      "stato": "B"
     },
     {
       "civico": "368",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "370",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "372",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PANARIA OVEST": [
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "1"
+      "civico": "8/1",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "12"
+      "civico": "10/12",
+      "stato": "B"
     }
   ],
   "VIA PAOLO BORSELLINO": [
     {
-      "civico": "10",
-      "barrato": "12"
+      "civico": "10/12",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "8"
+      "civico": "18/8",
+      "stato": "B"
     }
   ],
   "VIA PASSO PANARO": [
     {
       "civico": "59",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "67",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "69",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "73",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "75",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "77",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "87",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "101",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "107",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "109",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "111",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "115",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "123",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "135",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "215",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "367",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PASSO SOLARA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/A",
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "14",
-      "barrato": null
+      "civico": "14/A",
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "67",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "79",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "81",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "83",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "85",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "87",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "89",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "91",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "93",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "95",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "103",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "105",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "107",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "109",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "111",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "113",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "115",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "117",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "119",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "121",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "123",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "125",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "127",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "129",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "131",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "133",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "137",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "141",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PASSO VECCHIO FINALE": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PASSO VECCHIO PANARO": [
     {
-      "civico": "18",
-      "barrato": "B"
+      "civico": "18/B",
+      "stato": "A"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "223",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "239",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "257",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "263",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "291",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "311",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PER CAMPOSANTO": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "73",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PER SAN FELICE": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "73",
-      "barrato": "F"
+      "civico": "73/F",
+      "stato": "B"
     },
     {
-      "civico": "81",
-      "barrato": "B"
+      "civico": "81/B",
+      "stato": "B"
     }
   ],
   "VIA PONTE BIANCO": [
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "8"
+      "civico": "6/8",
+      "stato": "C"
     }
   ],
   "VIA PRATO GRASSO": [
     {
-      "civico": "6",
-      "barrato": "8"
+      "civico": "6/8",
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "17",
-      "barrato": "1"
+      "civico": "17/1",
+      "stato": "B"
     }
   ],
   "VIA SANT'ANNA PANARO": [
     {
       "civico": "43",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SAVERIO GADDA": [
     {
-      "civico": "5",
-      "barrato": "7"
+      "civico": "5/7",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "11"
+      "civico": "9/11",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "1"
+      "civico": "10/1",
+      "stato": "B"
     }
   ],
   "VIA TURATI": [
     {
-      "civico": "4",
-      "barrato": "4"
+      "civico": "4/4",
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA VALLICELLA BOSCO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

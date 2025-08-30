@@ -2,69 +2,69 @@
   "VIA AL MONTE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALESSANDRO MANZONI": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA AONEDIS": [
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "B"
     }
   ],
   "VIA CA' BUTTAZZONI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLA CHIESA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIETRO ZORUTTI": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "46",
-      "barrato": "A"
+      "civico": "46/A",
+      "stato": "B"
     }
   ],
   "VIA SAN GIOVANNI IN MONTE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

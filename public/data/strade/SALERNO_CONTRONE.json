@@ -2,91 +2,91 @@
   "CONTRADA PASTINELLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CONTRADA SANTA MARIA": [
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "C"
     }
   ],
   "CORSO GIUSEPPE GARIBALDI": [
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     }
   ],
   "CORSO NAZIONALE": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     }
   ],
   "PIAZZA SAN DONATO": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     }
   ],
   "VIA ALDO MORO": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PASTINELLA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SALVO D'ACQUISTO": [
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     }
   ],
   "VIA SAN LEONARDO": [
     {
-      "civico": "15",
-      "barrato": "BIS"
+      "civico": "15/BIS",
+      "stato": "B"
     }
   ],
   "VIA SAN SEBASTIANO": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ULIVETO": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VICO EUROPA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICO IV NOVEMBRE": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

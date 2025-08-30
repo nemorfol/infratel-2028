@@ -1,322 +1,322 @@
 {
   "CASCINA BELL'ITALIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "CASCINA BERLENDINA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA CA' VECCHIA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "CASCINA CREMOSAZZA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GARAVELLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/B",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/C",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GELSOMINA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MARGHERITA": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MEZZANINO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "CASCINA MOLINETTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PRIVATA CANOSSA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/A",
+      "stato": "A"
     },
     {
-      "civico": "12",
-      "barrato": null
+      "civico": "12/B",
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "22",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": null
+      "civico": "22/A",
+      "stato": "A"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PRIVATA CASCINA LA GRANDE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASCINA MILANESI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCINA OLMO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA DELLE FONTANE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MAGGIORE GIULIO PAGANI": [
     {
-      "civico": "31",
-      "barrato": "33"
+      "civico": "31/33",
+      "stato": "B"
     }
   ],
   "VIA PAOLO GORINI": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAPA GIOVANNI XXIII": [
     {
-      "civico": "15",
-      "barrato": "D"
+      "civico": "15/D",
+      "stato": "B"
     }
   ],
   "VIA PIETRO NENNI": [
     {
-      "civico": "24",
-      "barrato": "13"
+      "civico": "24/13",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "16"
+      "civico": "28/16",
+      "stato": "B"
     }
   ],
   "VIA PRIVATA CA' ROSSA": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "5",
-      "barrato": "E"
+      "civico": "5/E",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "G"
+      "civico": "5/G",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "L"
+      "civico": "5/L",
+      "stato": "B"
     }
   ],
   "VIA UMBERTO I": [
     {
-      "civico": "23",
-      "barrato": "6 A"
+      "civico": "23/6 A",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "C"
+      "civico": "28/C",
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "17"
+      "civico": "43/17",
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "17 B"
+      "civico": "43/17 B",
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "B"
+      "civico": "43/B",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO VENETO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     }
   ]
 }

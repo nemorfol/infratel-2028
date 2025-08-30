@@ -2,229 +2,229 @@
   "BORGATA MONCOLOMBONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "BORGO BARATONIA": [
     {
-      "civico": "1",
-      "barrato": "B 1"
+      "civico": "1/B 1",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "BI"
+      "civico": "1/BI",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "TER"
+      "civico": "1/TER",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "44"
+      "civico": "4/44",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "1"
+      "civico": "8/1",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "B"
     }
   ],
   "LOCALITA'� FILLIA'�": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FIANO": [
     {
-      "civico": "56",
-      "barrato": "1"
+      "civico": "56/1",
+      "stato": "B"
     },
     {
-      "civico": "56",
-      "barrato": "2"
+      "civico": "56/2",
+      "stato": "B"
     },
     {
       "civico": "102",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONCOLOMBONE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTELERA": [
     {
       "civico": "63",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "67",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "77",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "86",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "95",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "97",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RAMAI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "37",
-      "barrato": "37"
+      "civico": "37/37",
+      "stato": "B"
     },
     {
       "civico": "76",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "20",
-      "barrato": "A 1"
+      "civico": "20/A 1",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "B 2"
+      "civico": "20/B 2",
+      "stato": "B"
     },
     {
-      "civico": "36",
-      "barrato": "38"
+      "civico": "36/38",
+      "stato": "B"
     }
   ],
   "VIA TORINO": [
     {
-      "civico": "21",
-      "barrato": "33"
+      "civico": "21/33",
+      "stato": "B"
     },
     {
-      "civico": "61",
-      "barrato": "10"
+      "civico": "61/3",
+      "stato": "B"
     },
     {
-      "civico": "61",
-      "barrato": "3"
+      "civico": "61/10",
+      "stato": "B"
     },
     {
-      "civico": "77",
-      "barrato": "A"
+      "civico": "77/A",
+      "stato": "C"
     },
     {
-      "civico": "80",
-      "barrato": "S 1"
+      "civico": "80/S 1",
+      "stato": "C"
     }
   ],
   "VIA VALLO": [
     {
-      "civico": "29",
-      "barrato": "B"
+      "civico": "29/B",
+      "stato": "B"
     },
     {
-      "civico": "71",
-      "barrato": "P 2"
+      "civico": "71/P 2",
+      "stato": "B"
     },
     {
-      "civico": "71",
-      "barrato": "PT"
+      "civico": "71/PT",
+      "stato": "B"
     },
     {
-      "civico": "83",
-      "barrato": "1"
+      "civico": "83/1",
+      "stato": "B"
     },
     {
-      "civico": "83",
-      "barrato": "2"
+      "civico": "83/2",
+      "stato": "B"
     }
   ]
 }

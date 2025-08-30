@@ -2,179 +2,179 @@
   "LOCALITA' PALLAVICINA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA'� PALLAVICINA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA CADUTI": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BERNOCCHI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA BELVEDERE": [
     {
-      "civico": "3",
-      "barrato": "ABC"
+      "civico": "3/ABC",
+      "stato": "B"
     }
   ],
   "VIA CASCINA SAN PIETRO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEI GIARDINI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA DON ENRICO MAIOCCHI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON GUGLIELMO BALDINI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIUSEPPE MAZZINI": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LUDOVICO SCOLARI": [
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "C"
+      "civico": "48/C",
+      "stato": "B"
     },
     {
-      "civico": "56",
-      "barrato": "A"
+      "civico": "56/A",
+      "stato": "B"
     },
     {
-      "civico": "56",
-      "barrato": "B"
+      "civico": "56/B",
+      "stato": "B"
     },
     {
-      "civico": "56",
-      "barrato": "C"
+      "civico": "56/C",
+      "stato": "B"
     },
     {
-      "civico": "56",
-      "barrato": "D"
+      "civico": "56/D",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "AB"
+      "civico": "2/AB",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "22"
+      "civico": "20/22",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "B"
+      "civico": "28/B",
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "B"
     },
     {
       "civico": "83",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XXV APRILE": [
     {
-      "civico": "2",
-      "barrato": "BE"
+      "civico": "2/BE",
+      "stato": "B"
     }
   ],
   "VICOLO BORGO": [
     {
-      "civico": "29",
-      "barrato": "A"
+      "civico": "29/A",
+      "stato": "B"
     }
   ],
   "VICOLO GIUSEPPE MAZZINI": [
     {
-      "civico": "4",
-      "barrato": "68"
+      "civico": "4/68",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "9"
+      "civico": "7/9",
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "22"
+      "civico": "20/22",
+      "stato": "B"
     }
   ]
 }

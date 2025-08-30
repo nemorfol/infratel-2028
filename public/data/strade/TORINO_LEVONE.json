@@ -2,337 +2,337 @@
   "BORGO CROSAROGLIO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "BORGO VIETTONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/A",
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALLE FORNACI": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BERNARDO CHIATELLO": [
     {
-      "civico": "8",
-      "barrato": "12"
+      "civico": "8/12",
+      "stato": "B"
     }
   ],
   "VIA DEGLI STOVIGLIAI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DELLA LIBERTA'": [
     {
       "civico": "101",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "107",
-      "barrato": "109"
+      "civico": "107/109",
+      "stato": "B"
     },
     {
-      "civico": "112",
-      "barrato": "114"
+      "civico": "112/114",
+      "stato": "B"
     },
     {
-      "civico": "130",
-      "barrato": "132"
+      "civico": "130/132",
+      "stato": "B"
     },
     {
-      "civico": "142",
-      "barrato": "144"
+      "civico": "142/144",
+      "stato": "B"
     }
   ],
   "VIA DELLA REPUBBLICA": [
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "B"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "80",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIOVANNI BURLANDO": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     }
   ],
   "VIA GORIZIA": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE VALLE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA RIVARA": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": "BIS"
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": null
-    },
-    {
-      "civico": "23",
-      "barrato": "BIS"
+      "civico": "17/BIS",
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "23/BIS",
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "17",
-      "barrato": "19"
+      "civico": "17/19",
+      "stato": "B"
     }
   ],
   "VIA VASSALLO DEMILSIE": [
     {
-      "civico": "69",
-      "barrato": "A"
+      "civico": "69/A",
+      "stato": "B"
     },
     {
       "civico": "71",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO DEL CASTELLO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO PIAVE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO PRIVATO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

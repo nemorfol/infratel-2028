@@ -2,161 +2,161 @@
   "CASCINA GANDOLETTA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GREPPI": [
     {
       "civico": "59",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA MORO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PORTICO CAMOZZI": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PORTICO TESTA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": "X"
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": null
+      "civico": "6/X",
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 91": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ALLA CAMPAGNA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DON ANGELO CAVAGNA": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FOPPE": [
     {
       "civico": "47",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "49",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "49",
-      "barrato": null
-    },
-    {
-      "civico": "51",
-      "barrato": "A"
+      "civico": "49/A",
+      "stato": "C"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "51/A",
+      "stato": "C"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "55",
-      "barrato": "C"
+      "stato": "C"
     },
     {
-      "civico": "55",
-      "barrato": null
+      "civico": "55/C",
+      "stato": "C"
     },
     {
-      "civico": "56",
-      "barrato": "H"
+      "civico": "56/H",
+      "stato": "C"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "59",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LANDRI": [
     {
-      "civico": "1",
-      "barrato": "F"
+      "civico": "1/F",
+      "stato": "B"
     }
   ],
   "VIA MONTICELLI": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

@@ -2,215 +2,215 @@
   "LOCALITA' BROSEDA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA MUNICIPIO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA ROMA": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BERGAMO": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "D"
+      "civico": "4/D",
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CADORIANO": [
     {
-      "civico": "16",
-      "barrato": "D"
+      "civico": "16/D",
+      "stato": "B"
     }
   ],
   "VIA CANDRIETTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE MAZZINI": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GROPPINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": "B"
+      "civico": "22/B",
+      "stato": "C"
     }
   ],
   "VIA MAZZOLETTI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA MILANO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA MONSIGNOR LUIGI SPERANZA": [
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": "C"
+      "civico": "21/C",
+      "stato": "B"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAPA GIOVANNI XXIII": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN ROC": [
     {
       "civico": "1",
-      "barrato": "C"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/C",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SORGENTE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "X"
+      "civico": "16/A",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": null
+      "civico": "16/X",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TRIESTE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

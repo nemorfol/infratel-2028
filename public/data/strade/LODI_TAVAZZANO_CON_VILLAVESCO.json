@@ -2,177 +2,177 @@
   "CASCINA ANTEGNATICA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA CA' CESAREO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GARIBOLDA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA NEBBIOLO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LARGO PAOLO GORINI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "A"
     }
   ],
   "LOCALITA' CA' DE ZECCHI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASTELLOTTI": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DEL GUADO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DON GIOVANNI MINZONI": [
     {
-      "civico": "25",
-      "barrato": "A"
+      "civico": "25/A",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "B"
+      "civico": "27/B",
+      "stato": "B"
     }
   ],
   "VIA FRANCESCO DE LEMENE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA FRANCESCO ROVIDA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIANCARLO BELLOLI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE DOSSETTI": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIUSEPPINA STREPPONI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA LEOPOLDO PENAGINI": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIERO ACHILLE": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE DELLE INDUSTRIE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO MARIO BASSI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

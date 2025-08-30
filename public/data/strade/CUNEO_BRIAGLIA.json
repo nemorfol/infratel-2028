@@ -2,131 +2,131 @@
   "VIA ANDREA BORSARELLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "18"
+      "civico": "16/18",
+      "stato": "B"
     },
     {
-      "civico": "31",
-      "barrato": "A"
+      "civico": "31/A",
+      "stato": "B"
     },
     {
-      "civico": "33",
-      "barrato": "35"
+      "civico": "33/35",
+      "stato": "B"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "37",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "37",
-      "barrato": null
+      "civico": "37/A",
+      "stato": "B"
     }
   ],
   "VIA NIELLA TANARO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "B"
-    },
-    {
-      "civico": "36",
-      "barrato": "A"
+      "civico": "22/B",
+      "stato": "B"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "A"
+      "civico": "36/A",
+      "stato": "B"
+    },
+    {
+      "civico": "40/A",
+      "stato": "C"
     }
   ],
   "VIA OTTERIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "54",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "56",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TETTI ELLERO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/B",
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": "D"
+      "civico": "23/D",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "B"
     }
   ]
 }

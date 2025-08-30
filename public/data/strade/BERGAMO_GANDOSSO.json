@@ -2,133 +2,133 @@
   "CASCINA RIVIERO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA RONCATO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' COLLI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' DOSSONE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALCIDE DE GASPERI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "810"
+      "civico": "6/810",
+      "stato": "B"
     }
   ],
   "VIA AVIS": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BOSSOLETTI": [
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     }
   ],
   "VIA CAPORALI": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CELATICA": [
     {
-      "civico": "23",
-      "barrato": "25"
+      "civico": "23/25",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "26"
+      "civico": "24/26",
+      "stato": "B"
     },
     {
-      "civico": "33",
-      "barrato": "353"
+      "civico": "33/353",
+      "stato": "B"
     },
     {
-      "civico": "60",
-      "barrato": "626"
+      "civico": "60/626",
+      "stato": "B"
     }
   ],
   "VIA CRESSA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA I MAGGIO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAPA GIOVANNI XXIII": [
     {
       "civico": "49",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANDRO PERTINI": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ZANOLI": [
     {
-      "civico": "4",
-      "barrato": "68"
+      "civico": "4/68",
+      "stato": "B"
     },
     {
       "civico": "78",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

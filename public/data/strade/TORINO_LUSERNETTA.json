@@ -2,147 +2,147 @@
   "BORGO OLIVA": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "120",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA OLIVA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "19",
-      "barrato": "C"
+      "civico": "19/C",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "E"
+      "civico": "19/E",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "H"
+      "civico": "19/H",
+      "stato": "B"
     }
   ],
   "STRADA SAN ROCCO": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA TRAVERSERO": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     }
   ],
   "VIA BIBIANA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA D'ANNA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONCUCCO": [
     {
-      "civico": "34",
-      "barrato": "BIS"
+      "civico": "34/BIS",
+      "stato": "B"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PONTE PIETRA": [
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "B"
     }
   ],
   "VIA ROCCHE FINESTRE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SAN BERNARDINO": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     }
   ],
   "VIA SAN BERNARDO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VIASSA": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VISTA": [
     {
-      "civico": "19",
-      "barrato": "BIS"
+      "civico": "19/BIS",
+      "stato": "B"
     },
     {
-      "civico": "58",
-      "barrato": "A"
+      "civico": "58/A",
+      "stato": "C"
     }
   ]
 }

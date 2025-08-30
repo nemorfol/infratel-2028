@@ -2,145 +2,145 @@
   "PIAZZA CESARE BATTISTI": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA RUALE": [
     {
-      "civico": "50",
-      "barrato": "10"
+      "civico": "50/2",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "11"
+      "civico": "50/3",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "12"
+      "civico": "50/4",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "2"
+      "civico": "50/5",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "3"
+      "civico": "50/6",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "4"
+      "civico": "50/7",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "5"
+      "civico": "50/8",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "6"
+      "civico": "50/9",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "7"
+      "civico": "50/10",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "8"
+      "civico": "50/11",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "9"
+      "civico": "50/12",
+      "stato": "C"
     }
   ],
   "VIA GIOVANNI PAOLO II": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MARENGO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PANERO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SANDRO PERTINI": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TORINO": [
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "C"
     }
   ],
   "VIA XXIV MAGGIO": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIALE XXV LUGLIO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
-      "civico": "82",
-      "barrato": "A"
+      "civico": "82/A",
+      "stato": "B"
     }
   ],
   "VICOLO CAVALIER CESARE BASSI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO GIULIO": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VICOLO GIUSEPPE VERDI": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO MATTIA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VICOLO PETRINI": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "C"
     }
   ]
 }

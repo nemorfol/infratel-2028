@@ -1,154 +1,154 @@
 {
   "VIA ANTONIO VIVALDI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "X"
-    },
-    {
-      "civico": "5",
-      "barrato": "X"
+      "civico": "1/X",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "X"
+      "civico": "5/X",
+      "stato": "C"
+    },
+    {
+      "civico": "7/X",
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": "X"
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/X",
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BREMBO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "B"
+      "civico": "14/B",
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "C"
+      "civico": "14/C",
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "D"
+      "civico": "14/D",
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
       "civico": "75",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MOHANDAS KARAMCHAND GANDHI": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

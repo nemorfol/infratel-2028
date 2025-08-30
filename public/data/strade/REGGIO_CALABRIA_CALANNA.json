@@ -2,279 +2,279 @@
   "PIAZZA PIANO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BARACCAMENTO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     }
   ],
   "VIA BRUCA": [
     {
-      "civico": "7",
-      "barrato": "9"
+      "civico": "7/9",
+      "stato": "B"
     }
   ],
   "VIA CANCELLO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASARSA": [
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "B"
     }
   ],
   "VIA CAVOUR": [
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "B"
     }
   ],
   "VIA CROCEVIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DE NAVA": [
     {
-      "civico": "35",
-      "barrato": "A"
+      "civico": "35/A",
+      "stato": "B"
     }
   ],
   "VIA FONTANA": [
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "8"
+      "civico": "6/8",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA IMPERIO INFERIORE": [
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     },
     {
-      "civico": "59",
-      "barrato": "C"
+      "civico": "59/C",
+      "stato": "B"
     }
   ],
   "VIA IMPERIO SUPERIORE": [
     {
-      "civico": "10",
-      "barrato": "12"
+      "civico": "10/12",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "A"
+      "civico": "29/A",
+      "stato": "B"
     }
   ],
   "VIA MARINELLA": [
     {
-      "civico": "4",
-      "barrato": "6"
+      "civico": "4/6",
+      "stato": "B"
     }
   ],
   "VIA MULINI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "83",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "88",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "101",
-      "barrato": "A"
+      "civico": "101/A",
+      "stato": "C"
     },
     {
-      "civico": "105",
-      "barrato": "A"
+      "civico": "105/A",
+      "stato": "C"
     },
     {
-      "civico": "105",
-      "barrato": "B"
+      "civico": "105/B",
+      "stato": "C"
     },
     {
-      "civico": "119",
-      "barrato": "A"
+      "civico": "119/A",
+      "stato": "C"
     },
     {
-      "civico": "119",
-      "barrato": "B"
+      "civico": "119/B",
+      "stato": "C"
     },
     {
       "civico": "123",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PIA": [
     {
-      "civico": "1",
-      "barrato": "3"
+      "civico": "1/3",
+      "stato": "B"
     }
   ],
   "VIA PROVINCIALE": [
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "8"
+      "civico": "6/8",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA ROSANITI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
-      "civico": "49",
-      "barrato": "B"
+      "civico": "49/B",
+      "stato": "B"
     }
   ],
   "VIA SCIANCATO": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SELLA": [
     {
-      "civico": "1",
-      "barrato": "3"
+      "civico": "1/3",
+      "stato": "B"
     }
   ],
   "VIA SOTIRA": [
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     }
   ]
 }

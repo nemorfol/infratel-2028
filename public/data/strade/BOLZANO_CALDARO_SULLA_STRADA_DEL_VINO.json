@@ -1,76 +1,76 @@
 {
   "CASTELVECCHIO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "LOCALITA' SAN GIUSEPPE AL LAGO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PALUDE DI CALDARO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PASSO MENDOLA": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIANIZZA DI SOPRA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "PIANIZZA DI SOTTO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "STRADA DEL VINO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA BARLEIT": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA EUROPA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA GANDA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "VIA TRUCCI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ]
 }

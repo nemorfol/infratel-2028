@@ -2,135 +2,135 @@
   "FRAZIONE BAVASTRELLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "143",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE CAFFARENA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
       "civico": "86",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE CAPRILE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "A"
+      "civico": "47/A",
+      "stato": "B"
     },
     {
-      "civico": "53",
-      "barrato": "A"
+      "civico": "53/A",
+      "stato": "B"
     },
     {
-      "civico": "66",
-      "barrato": "A"
+      "civico": "66/A",
+      "stato": "B"
     },
     {
-      "civico": "94",
-      "barrato": "A"
+      "civico": "94/A",
+      "stato": "C"
     },
     {
-      "civico": "99",
-      "barrato": "A"
+      "civico": "99/A",
+      "stato": "C"
     }
   ],
   "LOCALITA' PIAZA'": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' VACCAREZZA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' VAGLIE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA'� VAGLIE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     }
   ],
   "VIA CARREGA": [
     {
       "civico": "63",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA NAZIONALE": [
     {
       "civico": "88",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

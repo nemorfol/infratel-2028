@@ -2,177 +2,177 @@
   "VIA BASSE CASTELLETTO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CANTALOVO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": null
+      "civico": "16/A",
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "B"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "C"
+      "civico": "18/B",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "D"
+      "civico": "18/C",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": null
+      "civico": "18/D",
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CODALUNGA": [
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "655",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GRANZE": [
     {
       "civico": "1188",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1257",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1519",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1526",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA NUVOLEA": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PONTE PITOCCO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": "B"
+      "civico": "21/A",
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": null
+      "civico": "21/B",
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "576",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "668",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA POZZOTTO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VICOLO DEL MUNICIPIO": [
     {
       "civico": "44",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "84",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

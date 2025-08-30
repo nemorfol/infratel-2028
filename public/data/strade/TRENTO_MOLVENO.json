@@ -2,105 +2,105 @@
   "LOCALITA' VALBIOLE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA SAN CARLO": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     }
   ],
   "VIA ANTONIO FOGAZZARO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA BELVEDERE": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "B"
     },
     {
-      "civico": "49",
-      "barrato": "A"
+      "civico": "49/A",
+      "stato": "B"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BETTEGA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "C"
     }
   ],
   "VIA DOLOMITI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "T"
+      "civico": "17/T",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "C"
+      "civico": "38/C",
+      "stato": "B"
     },
     {
-      "civico": "58",
-      "barrato": "A"
+      "civico": "58/A",
+      "stato": "B"
     }
   ],
   "VIA LUNGOLAGO": [
     {
-      "civico": "50",
-      "barrato": "A"
+      "civico": "50/A",
+      "stato": "B"
     }
   ],
   "VIA NAZIONALE": [
     {
-      "civico": "25",
-      "barrato": "A"
+      "civico": "25/A",
+      "stato": "B"
     }
   ],
   "VIA PAGANELLA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "C"
+      "civico": "10/C",
+      "stato": "B"
     }
   ]
 }

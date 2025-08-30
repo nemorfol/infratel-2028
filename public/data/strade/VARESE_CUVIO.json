@@ -2,185 +2,185 @@
   "LOCALITA' FORNACI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PORA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CA' DI GNEM": [
     {
-      "civico": "11",
-      "barrato": "E"
+      "civico": "11/E",
+      "stato": "C"
     },
     {
-      "civico": "11",
-      "barrato": "G"
+      "civico": "11/G",
+      "stato": "C"
     }
   ],
   "VIA CANTONE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAVOUR": [
     {
-      "civico": "11",
-      "barrato": "I"
+      "civico": "11/I",
+      "stato": "C"
     },
     {
-      "civico": "11",
-      "barrato": "T"
+      "civico": "11/T",
+      "stato": "C"
     }
   ],
   "VIA DELLA CHIESA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ERMINIA MAGGI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "C"
+      "civico": "24/B",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": null
+      "civico": "24/C",
+      "stato": "B"
     }
   ],
   "VIA GEMONIO": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO PUCCINI": [
     {
-      "civico": "3",
-      "barrato": "D"
+      "civico": "3/D",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "E"
+      "civico": "3/E",
+      "stato": "B"
     }
   ],
   "VIA GINO MAGGI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE MAGGI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PORA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/B",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/A",
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RONCHETTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

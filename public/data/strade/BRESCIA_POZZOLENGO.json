@@ -2,213 +2,213 @@
   "CASCINA ZUCCAL": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' BALLINO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     }
   ],
   "LOCALITA' BAZZOLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' BELVEDERE": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' CASCINA TRENTO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "C"
+      "civico": "6/C",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' CISMON": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' FENIL GAMBE": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "C"
     }
   ],
   "LOCALITA' LE BENEDETTE": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     }
   ],
   "LOCALITA' MARTELOSIO DI SOPRA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' MONTE GRONDINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' MOSCATELLO DI SOTTO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' PRENDAINO SOTTO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' SAN GIACOMO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": "X"
+      "civico": "3/X",
+      "stato": "A"
     }
   ],
   "LOCALITA' UCCELLANDA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA'� BOSCO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "LOCALITA'� CASCINA TRENTO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA'� PIGNO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     }
   ],
   "LOCALITA'� PRENDAINO SOPRA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� ROVEGLIA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     }
   ],
   "LOCALITA'� SAN GIACOMO SOTTO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA UGO MULAS": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZALE AUGUSTE PICCARD": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MAESTRO S.GEREVINI": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PASSEGGIATA": [
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "C"
     }
   ]
 }

@@ -2,233 +2,233 @@
   "LOCALITA' ALPE GERA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' ALPE MUSELLA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "LOCALITA' BOCCHETTA DELLE FORBICI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' CAMPOFRANSCIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' CAMPOMORO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "LOCALITA' DOSSO DEI VETTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' FORCELLA DI CRESTA GUZZA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "LOCALITA' FRANSCIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PALU' DEI CASPOGGI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' PONTE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' VALBRUTTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA DEL MAGNAN": [
     {
       "civico": "114",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALPE FELLARIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA BELLAVISTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "291",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BERNINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "171",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CA' NOVA": [
     {
       "civico": "119",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "129",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAMPASCIO": [
     {
       "civico": "295",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CENTRO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "679",
-      "barrato": "3"
+      "civico": "679/3",
+      "stato": "A"
     },
     {
       "civico": "943",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DON BEPP": [
     {
       "civico": "230",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "542",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FELLARIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "226",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "279",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "375",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LANTERNA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOIZI": [
     {
       "civico": "230",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PALA'�": [
     {
-      "civico": "95",
-      "barrato": "A"
+      "civico": "95/A",
+      "stato": "B"
     },
     {
-      "civico": "119",
-      "barrato": "A"
+      "civico": "119/A",
+      "stato": "B"
     },
     {
-      "civico": "119",
-      "barrato": "B"
+      "civico": "119/B",
+      "stato": "B"
     }
   ],
   "VIA PIZZO SCALINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "473",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GIOVANNI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SASSO ROSSO": [
     {
       "civico": "105",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SCERSCEN": [
     {
       "civico": "511",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SPINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -2,83 +2,83 @@
   "FRAZIONE CARPENETO": [
     {
       "civico": "66",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE CASSINGHENO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "3"
+      "civico": "2/3",
+      "stato": "B"
     },
     {
-      "civico": "80",
-      "barrato": "1"
+      "civico": "80/1",
+      "stato": "B"
     },
     {
-      "civico": "80",
-      "barrato": "E 1"
+      "civico": "80/E 1",
+      "stato": "B"
     },
     {
-      "civico": "81",
-      "barrato": "B"
+      "civico": "81/B",
+      "stato": "B"
     },
     {
-      "civico": "81",
-      "barrato": "B 1"
+      "civico": "81/B 1",
+      "stato": "B"
     },
     {
-      "civico": "81",
-      "barrato": "B 2"
+      "civico": "81/B 2",
+      "stato": "B"
     },
     {
-      "civico": "89",
-      "barrato": "A"
+      "civico": "89/A",
+      "stato": "B"
     }
   ],
   "LOCALITA' BEINASCHI": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "2"
+      "civico": "4/1",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "3"
+      "civico": "4/2",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/3",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/A",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

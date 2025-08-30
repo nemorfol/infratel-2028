@@ -2,51 +2,51 @@
   "LOCALITA'� GANZETTA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� SERIGOLA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "C"
     }
   ],
   "VIA BRIANZA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CITERNA": [
     {
-      "civico": "1",
-      "barrato": "D"
+      "civico": "1/D",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "E"
+      "civico": "1/E",
+      "stato": "A"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MILANO": [
     {
       "civico": "63",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XXV APRILE": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

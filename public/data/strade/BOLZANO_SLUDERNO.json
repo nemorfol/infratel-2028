@@ -2,13 +2,13 @@
   "PATZTAU": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TRE CROCI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

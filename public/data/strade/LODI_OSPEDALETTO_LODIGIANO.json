@@ -2,299 +2,299 @@
   "AUTOSTRADA DEL SOLE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA BONINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GRIONA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MALPENSATA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "CASCINA MANDELLA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA VILLAFRANCA DI MEZZO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA VILLAFRANCA DI SOPRA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' MOLINAZZO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA GEROLOMINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA ROMA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 107": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 126": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/1",
+      "stato": "C"
     }
   ],
   "STRADA STATALE 234": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA ADA NEGRI": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ANTONIO PAGANI": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "95",
-      "barrato": "B"
+      "civico": "95/B",
+      "stato": "C"
     },
     {
-      "civico": "95",
-      "barrato": "G"
+      "civico": "95/G",
+      "stato": "C"
     },
     {
       "civico": "105",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CESARE BALBI": [
     {
-      "civico": "29",
-      "barrato": "31"
+      "civico": "29/31",
+      "stato": "B"
     },
     {
-      "civico": "83",
-      "barrato": "A"
+      "civico": "83/A",
+      "stato": "B"
     },
     {
-      "civico": "83",
-      "barrato": "E"
+      "civico": "83/E",
+      "stato": "B"
     },
     {
-      "civico": "128",
-      "barrato": "H"
+      "civico": "128/H",
+      "stato": "B"
     }
   ],
   "VIA DEL CRISTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "23",
-      "barrato": null
+      "civico": "23/B",
+      "stato": "B"
     }
   ],
   "VIA DELLA COSTA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": "C"
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/C",
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLA STAZIONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON ANDREA SFONDRINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ENRICO FERMI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA EUROPA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "A"
+      "civico": "29/A",
+      "stato": "B"
     }
   ],
   "VIA GIACOMO PUCCINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
-      "civico": "6",
-      "barrato": "G"
+      "civico": "6/G",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "H"
+      "civico": "6/H",
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LA LODIGIANA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LIBERTA'": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MADRE TERESA DI CALCUTTA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MANTOVANA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "C"
     }
   ],
   "VIA TRIESTE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "C"
+      "civico": "7/C",
+      "stato": "B"
     }
   ],
   "VIA XXV APRILE": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "13"
+      "civico": "11/13",
+      "stato": "B"
     }
   ],
   "VIALE FRANCHINO GAFFURIO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -2,173 +2,173 @@
   "LOCALITA' CASCINA BRICCO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CANTONE DEL VILLARO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": "BIS"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
-    },
-    {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "4/BIS",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "6/A",
+      "stato": "C"
     }
   ],
   "VIA COSTA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FORNACA": [
     {
       "civico": "2",
-      "barrato": "BIS"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/BIS",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": "4"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/4",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "BIS"
+      "civico": "4/B",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "QUA"
+      "civico": "4/BIS",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "TER"
+      "civico": "4/QUA",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/TER",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": "BIS"
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "TER"
+      "civico": "7/BIS",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": null
+      "civico": "7/TER",
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "62",
-      "barrato": "A"
+      "civico": "62/A",
+      "stato": "C"
     },
     {
       "civico": "68",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PERLETTA": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "TER"
+      "civico": "9/TER",
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": "BIS"
+      "stato": "C"
     },
     {
-      "civico": "25",
-      "barrato": null
+      "civico": "25/BIS",
+      "stato": "C"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VILLARO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "BIS"
+      "civico": "14/BIS",
+      "stato": "C"
     }
   ]
 }

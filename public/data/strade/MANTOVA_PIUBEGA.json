@@ -2,225 +2,225 @@
   "STRADA BOLDRACCA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA CASALOLDO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA DELL'OLZA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ],
   "STRADA FABREZZA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA GAZOLDO": [
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/A",
+      "stato": "C"
     }
   ],
   "STRADA GOITE": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA NEGRISOLI": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA SAN CASSIANO": [
     {
       "civico": "41",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA SAN CASSIANO INTERNO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA SAN FERMO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "B"
     },
     {
-      "civico": "94",
-      "barrato": "B"
+      "civico": "94/B",
+      "stato": "B"
     },
     {
       "civico": "99",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "105",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "107",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "131",
-      "barrato": "A"
+      "civico": "131/A",
+      "stato": "B"
     }
   ],
   "STRADA SELVA": [
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "C"
     }
   ],
   "STRADA SELVA BERGAMASCA": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA 1 MAGGIO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DELL'INDUSTRIA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "A"
     }
   ],
   "VIA DON LINO MIGLIARI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DON LUIGI GIUSSANI": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "E"
+      "civico": "6/E",
+      "stato": "B"
     }
   ],
   "VIA LOMBARDIA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SAN GIACOMO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

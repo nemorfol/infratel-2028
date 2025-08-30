@@ -1,348 +1,348 @@
 {
   "LOCALITA' BELVEDERE": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": null
+      "civico": "12/A",
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' CASALE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "9"
+      "civico": "8/9",
+      "stato": "C"
     }
   ],
   "LOCALITA' GIARDINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
-    },
-    {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "1/B",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
+    },
+    {
+      "civico": "2/B",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
-    },
-    {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/A",
+      "stato": "C"
+    },
+    {
+      "civico": "5/B",
+      "stato": "C"
     }
   ],
   "LOCALITA' VALLE": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     }
   ],
   "LOCALITA'� CASALE": [
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "BISA"
+      "civico": "7/BISA",
+      "stato": "C"
     }
   ],
   "LOCALITA'� VALLE": [
     {
-      "civico": "1",
-      "barrato": "BIS"
+      "civico": "1/BIS",
+      "stato": "B"
     }
   ],
   "STRADA BREDE": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "C"
     }
   ],
   "STRADA CA' DE PASSERI": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "C"
     }
   ],
   "STRADA CASALE": [
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BREDE BEDUSCHI": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "BIS"
+      "civico": "5/BIS",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     }
   ],
   "VIA CAMPAGNE": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": null
+      "civico": "14/A",
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "B"
+      "civico": "19/A",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "BIS"
+      "civico": "19/B",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "BIS A"
+      "civico": "19/BIS",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "BISA"
+      "civico": "19/BIS A",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "BISB"
+      "civico": "19/BISA",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": null
+      "civico": "19/BISB",
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": "BIS"
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": null
+      "civico": "23/BIS",
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "25",
-      "barrato": null
+      "civico": "25/A",
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "29",
-      "barrato": "B"
+      "civico": "29/A",
+      "stato": "C"
     },
     {
-      "civico": "29",
-      "barrato": "BIS"
+      "civico": "29/B",
+      "stato": "C"
     },
     {
-      "civico": "29",
-      "barrato": null
+      "civico": "29/BIS",
+      "stato": "C"
     }
   ],
   "VIA VIII MARZO": [
     {
-      "civico": "11",
-      "barrato": "BIS"
+      "civico": "11/BIS",
+      "stato": "B"
     },
     {
-      "civico": "41",
-      "barrato": "C"
+      "civico": "41/C",
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "QUA TER"
+      "civico": "47/QUA TER",
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "QUINQ"
+      "civico": "47/QUINQ",
+      "stato": "B"
     }
   ],
   "VIALE DANTE ALIGHIERI": [
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "47",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "56",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

@@ -2,135 +2,135 @@
   "CASCINA DOGANA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA PAOLETTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA RASCAROLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA RUSSIA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA VALLAZZA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA ZENDONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA STATALE 32 TICINESE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CESARE BATTISTI": [
     {
-      "civico": "2",
-      "barrato": "BIS"
+      "civico": "2/BIS",
+      "stato": "B"
     }
   ],
   "VIA DEL PORTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FORTINA": [
     {
-      "civico": "8",
-      "barrato": "C"
+      "civico": "8/C",
+      "stato": "B"
     }
   ],
   "VIA MEZZOMERICO": [
     {
-      "civico": "27",
-      "barrato": "BIS"
+      "civico": "27/BIS",
+      "stato": "B"
     }
   ],
   "VIA MONTE ROSA": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     }
   ],
   "VIA PAPA GIOVANNI PAOLO II": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SEMPIONE": [
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
-      "civico": "80",
-      "barrato": "BIS"
+      "civico": "80/BIS",
+      "stato": "B"
     },
     {
-      "civico": "82",
-      "barrato": "BIS"
+      "civico": "82/BIS",
+      "stato": "C"
     }
   ],
   "VIA UNITA' D'ITALIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

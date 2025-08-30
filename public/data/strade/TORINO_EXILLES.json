@@ -2,147 +2,147 @@
   "AUTOSTRADA TORINO - BARDONECCHIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "FRAZIONE CELS-MORLIERE": [
     {
-      "civico": "7",
-      "barrato": "BIS"
+      "civico": "7/BIS",
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "BIS"
+      "civico": "30/BIS",
+      "stato": "B"
     },
     {
       "civico": "118",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 213": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 232": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 256": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA STATALE 24": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CHATELLARD": [
     {
-      "civico": "35",
-      "barrato": "A"
+      "civico": "35/A",
+      "stato": "B"
     }
   ],
   "VIA DOTTORE AUDISIO": [
     {
-      "civico": "57",
-      "barrato": "A"
+      "civico": "57/A",
+      "stato": "B"
     }
   ],
   "VIA FRAZIONE CELS RIF": [
     {
-      "civico": "15",
-      "barrato": "BIS"
+      "civico": "15/BIS",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     },
     {
-      "civico": "98",
-      "barrato": "BIS"
+      "civico": "98/BIS",
+      "stato": "B"
     },
     {
       "civico": "121",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "137",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "141",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "143",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "31",
-      "barrato": "A"
+      "civico": "31/A",
+      "stato": "B"
     },
     {
-      "civico": "93",
-      "barrato": "BIS"
+      "civico": "93/BIS",
+      "stato": "B"
     }
   ],
   "VIA ROMEAN": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO ROMEAN COLOMBANO": [
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "B"
     }
   ],
   "VICOLO SAN PIETRO": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ]
 }

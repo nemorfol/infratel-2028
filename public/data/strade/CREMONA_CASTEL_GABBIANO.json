@@ -2,333 +2,333 @@
   "CASCINA CASELLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' BETTOLA": [
     {
       "civico": "1",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "2"
+      "civico": "1/1",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "3"
+      "civico": "1/2",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "4"
+      "civico": "1/3",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
-    },
-    {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "1/4",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "2/1",
+      "stato": "C"
     }
   ],
   "LOCALITA' FRANA": [
     {
       "civico": "1",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "2"
+      "civico": "1/1",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/2",
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 15": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA STATALE 11": [
     {
-      "civico": "13",
-      "barrato": "15"
+      "civico": "13/15",
+      "stato": "C"
     }
   ],
   "VIA AIMO DA GABBIANO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CREMA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA DON GIOVANNI BOSCO": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DORINA MOSCONI": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": null
+      "civico": "6/A",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "1"
+      "civico": "8/1",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "2"
+      "civico": "8/2",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "3"
+      "civico": "8/3",
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FIENILI": [
     {
-      "civico": "1",
-      "barrato": "1"
+      "civico": "1/1",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "1"
+      "civico": "9/1",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "1"
+      "civico": "13/1",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "1"
+      "civico": "28/1",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "2"
+      "civico": "28/2",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "3"
+      "civico": "28/3",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "4"
+      "civico": "28/4",
+      "stato": "B"
     }
   ],
   "VIA GAETANO DONIZETTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": "A"
-    },
-    {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
+    },
+    {
+      "civico": "5/A",
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": null
-    },
-    {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
+    },
+    {
+      "civico": "9/A",
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "2"
+      "civico": "2/2",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VIA MONTE GRAPPA": [
     {
-      "civico": "4",
-      "barrato": "2"
+      "civico": "4/2",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "1",
-      "barrato": "1"
+      "civico": "1/1",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "2"
+      "civico": "1/2",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "3"
+      "civico": "1/3",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "4"
+      "civico": "1/4",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "2"
+      "civico": "2/2",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "3"
+      "civico": "2/3",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "6"
+      "civico": "2/6",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "2"
+      "civico": "6/2",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "3"
+      "civico": "6/3",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "4"
+      "civico": "6/4",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "5"
+      "civico": "6/5",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "6"
+      "civico": "6/6",
+      "stato": "B"
     }
   ]
 }

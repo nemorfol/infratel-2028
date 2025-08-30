@@ -1,40 +1,40 @@
 {
   "VIA AIROLDI DI ROBBIATE": [
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "A"
     }
   ],
   "VIA PRIVATA DEL RONCO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "A"
+      "civico": "47/A",
+      "stato": "B"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "ZONA ARTIGIANALE": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

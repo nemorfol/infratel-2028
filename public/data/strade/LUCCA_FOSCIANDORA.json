@@ -2,617 +2,617 @@
   "CASE SPARSE BORA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASE SPARSE CAMPO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/A",
+      "stato": "C"
     }
   ],
   "CASE SPARSE CARLO DEL PRETE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASE SPARSE CASCIANELLE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/A",
+      "stato": "C"
     }
   ],
   "CASE SPARSE CASETTE": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASE SPARSE CASONZA": [
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
-    },
-    {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "5/A",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASE SPARSE CASTAGNOLA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASE SPARSE CIVACO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASE SPARSE COLLACCIA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASE SPARSE COLLE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASE SPARSE COLLETTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASE SPARSE COSTA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASE SPARSE COSTIA": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASE SPARSE CROCE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASE SPARSE GIACCETTI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASE SPARSE PEGGI": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASE SPARSE PIANDAGLI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": null
+      "civico": "13/A",
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASE SPARSE PIANI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASE SPARSE PONTE DI CESERANA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASE SPARSE PRETALE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASE SPARSE RONCO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASE SPARSE SAN PIETRO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/A",
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASE SPARSE SEGA": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASE SPARSE STAZIONE FERROVIARIA": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASE SPARSE STRADA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' FONDONI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' LA CAPANNELLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' LE SOLCHE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' MONTI": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' PONTE DI CESERANA": [
     {
       "civico": "15",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "C"
+      "civico": "15/B",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "D"
+      "civico": "15/C",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "E"
+      "civico": "15/D",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "F"
+      "civico": "15/E",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "G"
+      "civico": "15/F",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "H"
+      "civico": "15/G",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "I"
+      "civico": "15/H",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": null
+      "civico": "15/I",
+      "stato": "C"
     }
   ],
   "LOCALITA' SEPULICCHIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' TINEGGIORI": [
     {
       "civico": "21",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "21",
-      "barrato": "B"
+      "civico": "21/A",
+      "stato": "C"
     },
     {
-      "civico": "21",
-      "barrato": null
+      "civico": "21/B",
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' VALIMORI": [
     {
       "civico": "12",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/A",
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "BIS"
+      "civico": "12/B",
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": null
-    },
-    {
-      "civico": "13",
-      "barrato": null
+      "civico": "12/BIS",
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": "B"
+      "stato": "C"
+    },
+    {
+      "civico": "13/B",
+      "stato": "C"
     }
   ],
   "LOCALITA' VALISCIONE": [
     {
       "civico": "24",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "24",
-      "barrato": null
+      "civico": "24/A",
+      "stato": "C"
     }
   ],
   "LOCALITA'� FELICIONI": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     }
   ],
   "VIA CESARE BATTISTI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FORTINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": null
+      "civico": "10/B",
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "4",
-      "barrato": "BIS"
+      "civico": "4/BIS",
+      "stato": "B"
     }
   ],
   "VIA MIGLIANO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PORTA VECCHIA": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN PIETRO": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "BIS"
+      "civico": "9/BIS",
+      "stato": "B"
     }
   ],
   "VIA SAN SILVESTRO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTA CROCE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANTA MARIA": [
     {
-      "civico": "4",
-      "barrato": "I"
+      "civico": "4/I",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "S"
+      "civico": "4/S",
+      "stato": "B"
     }
   ]
 }

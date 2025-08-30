@@ -2,51 +2,51 @@
   "CORSO BERNARDO LEONE": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "31",
-      "barrato": "A"
+      "civico": "31/A",
+      "stato": "C"
     },
     {
-      "civico": "35",
-      "barrato": "A"
+      "civico": "35/A",
+      "stato": "C"
     },
     {
       "civico": "56",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE NEGI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA DORMIELLO": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PER NEGI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CROSE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

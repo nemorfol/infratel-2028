@@ -2,23 +2,23 @@
   "LOCALITA' AVERT": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CRISTOFORO COLOMBO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GERINI": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     }
   ]
 }

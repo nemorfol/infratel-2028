@@ -1,74 +1,74 @@
 {
   "STRADA AGA'": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "STRADA ARTEJANALA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA BURJE'": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA CIAULUNCH": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA COSTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PLANAC": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "73",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "119",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "166",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA ROENN": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "ZONA ARTIGIANALE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

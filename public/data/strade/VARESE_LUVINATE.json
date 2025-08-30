@@ -2,61 +2,61 @@
   "PIAZZALE FORTE BELBEDERE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASTELLO": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "C"
+      "civico": "4/C",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     }
   ],
   "VIA DEL PIANEZZO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MARISA ROSSI": [
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     }
   ],
   "VIA PADRE UMBERTO BIANCHI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA POSTALE VECCHIA": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "150",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

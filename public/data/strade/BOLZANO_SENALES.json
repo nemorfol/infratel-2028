@@ -2,29 +2,29 @@
   "FRAZIONE CERTOSA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE MADONNA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "FRAZIONE SANTA CATERINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' MASO CORTO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

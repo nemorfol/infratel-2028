@@ -2,203 +2,203 @@
   "BORGO CROCERA": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "FRAZIONE TETTI CAMBIANO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/A",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/B",
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' VALLECHIARA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA MARCONEISA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "STRADA VICINALE MORIONDO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA BROGLIA": [
     {
-      "civico": "47",
-      "barrato": "A"
+      "civico": "47/A",
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "B"
-    },
-    {
-      "civico": "49",
-      "barrato": "A"
+      "civico": "47/B",
+      "stato": "B"
     },
     {
       "civico": "49",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "49",
-      "barrato": null
+      "civico": "49/A",
+      "stato": "B"
     },
     {
-      "civico": "50",
-      "barrato": "B"
+      "civico": "49/B",
+      "stato": "B"
     },
     {
-      "civico": "51",
-      "barrato": "6"
-    },
-    {
-      "civico": "51",
-      "barrato": "A"
+      "civico": "50/B",
+      "stato": "B"
     },
     {
       "civico": "51",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "51",
-      "barrato": null
+      "civico": "51/6",
+      "stato": "B"
+    },
+    {
+      "civico": "51/A",
+      "stato": "B"
+    },
+    {
+      "civico": "51/B",
+      "stato": "B"
     }
   ],
   "VIA CONTE DAL POZZO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARIA TERESA RENALDI": [
     {
-      "civico": "11",
-      "barrato": "BIS"
+      "civico": "11/BIS",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "35",
-      "barrato": "BIS"
+      "civico": "35/BIS",
+      "stato": "B"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TETTI CAMBIANO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VALLE ANDREA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

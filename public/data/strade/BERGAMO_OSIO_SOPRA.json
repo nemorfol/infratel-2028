@@ -2,107 +2,107 @@
   "AUTOSTRADA A4": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA RASPALUPO": [
     {
       "civico": "15",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": null
+      "civico": "15/A",
+      "stato": "C"
     }
   ],
   "VIA CAPRA": [
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     }
   ],
   "VIA CASE SPARSE": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DEI GELSI": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FONTANA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PEZZA": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RASICA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RASPALUPO": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

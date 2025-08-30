@@ -2,135 +2,135 @@
   "LOCALITA' CA' OLTE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' MONTE TORCOLA SOLIVA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' PALERA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' SAMBIER": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' SCALUGGIO PIAZZI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA AVIS AIDO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 1": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 10": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALLE GROTTE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CENTRO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "24"
+      "civico": "14/24",
+      "stato": "B"
     }
   ],
   "VIA FRASSA": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE SECCO": [
     {
       "civico": "27",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": null
+      "civico": "27/A",
+      "stato": "B"
     }
   ],
   "VIA PEGROS": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIAZZOLE": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GIACOMO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTA LUCIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XX SETTEMBRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ZAPPATA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE DEI TIGLI": [
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -2,523 +2,523 @@
   "AUTOSTRADA A4 TORINO TRIESTE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "LOCALITA' AUTOSTRADA GONARS NORD": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' AUTOSTRADA GONARS SUD": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA CONCORDATO": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "PIAZZA MUNICIPIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA SAN ROCCO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZALE ANTONIO GANDIN": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA STATALE 252 NAPOLEONICA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "CAVA"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/CAVA",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA AUSSA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "1"
+      "civico": "18/1",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     }
   ],
   "VIA AVENALE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CORMONS": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "B"
     }
   ],
   "VIA CORTE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA DEGLI OLMI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/A",
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLA LIBERAZIONE": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     }
   ],
   "VIA FILIPPO CORRIDONI": [
     {
-      "civico": "60",
-      "barrato": "B"
+      "civico": "60/B",
+      "stato": "B"
     }
   ],
   "VIA FRIULI": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA G.F.RENATI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     }
   ],
   "VIA GORIZIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "87",
-      "barrato": "B"
+      "civico": "87/B",
+      "stato": "B"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "74",
-      "barrato": "A"
+      "civico": "74/A",
+      "stato": "B"
     },
     {
-      "civico": "88",
-      "barrato": "B"
+      "civico": "88/B",
+      "stato": "B"
     }
   ],
   "VIA JACOPO TOMADINI": [
     {
-      "civico": "19",
-      "barrato": "D"
+      "civico": "19/D",
+      "stato": "B"
     }
   ],
   "VIA MADONNA DELLA SALUTE": [
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MOLINI": [
     {
-      "civico": "3",
-      "barrato": "C"
+      "civico": "3/C",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "B"
+      "civico": "30/B",
+      "stato": "C"
     }
   ],
   "VIA MONTE GRAPPA": [
     {
-      "civico": "46",
-      "barrato": "A"
+      "civico": "46/A",
+      "stato": "B"
     }
   ],
   "VIA MONTE NERO": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     }
   ],
   "VIA MONTE SANTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "67",
-      "barrato": "A"
+      "civico": "67/A",
+      "stato": "C"
     }
   ],
   "VIA MORTEGLIANO": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     }
   ],
   "VIA NAJARUT": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA NAZARIO SAURO": [
     {
-      "civico": "73",
-      "barrato": "D"
+      "civico": "73/D",
+      "stato": "C"
     }
   ],
   "VIA PALMANOVA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAOLO DIACONO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PARADISO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RAMUT": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA REMIS": [
     {
-      "civico": "14",
-      "barrato": "B"
+      "civico": "14/B",
+      "stato": "C"
     },
     {
-      "civico": "20",
-      "barrato": "A"
+      "civico": "20/A",
+      "stato": "C"
     },
     {
-      "civico": "20",
-      "barrato": "B"
+      "civico": "20/B",
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": "B"
+      "civico": "22/B",
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SCHIAVONA": [
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     }
   ],
   "VIA STRADALTA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TINA MODOTTI": [
     {
-      "civico": "7",
-      "barrato": "4"
+      "civico": "7/4",
+      "stato": "B"
     }
   ],
   "VIA TORVISCOSA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "B"
+      "civico": "11/B",
+      "stato": "B"
     },
     {
-      "civico": "32",
-      "barrato": "A"
+      "civico": "32/A",
+      "stato": "B"
     },
     {
-      "civico": "36",
-      "barrato": "A"
+      "civico": "36/A",
+      "stato": "B"
     }
   ],
   "VIA TRIESTE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "B"
     },
     {
-      "civico": "118",
-      "barrato": "2"
+      "civico": "118/2",
+      "stato": "B"
     }
   ],
   "VIA VINCENZO BELLINI": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "B"
     },
     {
-      "civico": "31",
-      "barrato": "A"
+      "civico": "31/A",
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "A"
+      "civico": "43/A",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO VENETO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

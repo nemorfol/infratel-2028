@@ -1,26 +1,26 @@
 {
   "VIA ALESSANDRO MANZONI": [
     {
-      "civico": "24",
-      "barrato": "C 1"
+      "civico": "24/C 1",
+      "stato": "B"
     }
   ],
   "VIA DON CARLO GNOCCHI": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ],
   "VIA FOPPA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "40",
-      "barrato": "B"
+      "civico": "40/B",
+      "stato": "B"
     }
   ]
 }

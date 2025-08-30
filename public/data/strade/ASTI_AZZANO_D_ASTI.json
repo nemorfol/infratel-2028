@@ -2,57 +2,57 @@
   "STRADA PER MONTEMARZO": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BORGONUOVO": [
     {
-      "civico": "17",
-      "barrato": "BIS"
+      "civico": "17/BIS",
+      "stato": "B"
     }
   ],
   "VIA CASE SPARSE": [
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAVOUR": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FREISO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA STRADALE PER ASTI": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "54",
-      "barrato": "BIS"
+      "civico": "54/BIS",
+      "stato": "B"
     }
   ]
 }

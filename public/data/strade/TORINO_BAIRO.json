@@ -2,45 +2,45 @@
   "STRADA PROVINCIALE PER BAIRO": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA AGLIE'": [
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "B"
+      "civico": "14/B",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     }
   ],
   "VIA BARELLO": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ZINZOLANO": [
     {
       "civico": "9",
-      "barrato": "BIS"
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/BIS",
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

@@ -2,251 +2,251 @@
   "CASCINA ARNABOLDI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CALVI": [
     {
       "civico": "36",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA DOGALI SAATI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA MALOSSETTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA RONCHI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA SAN LUIGI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ALBIGNANO": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BROLO": [
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CIMITERO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA DEI GELSI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEL LAVATOIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DON FRANCESCO DONATI": [
     {
       "civico": "15",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "C"
+      "civico": "15/B",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "D"
+      "civico": "15/C",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "E"
+      "civico": "15/D",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "F"
+      "civico": "15/E",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": null
+      "civico": "15/F",
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA EUROPA": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA I MAGGIO": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ITALIA": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA JOHN FITZGERALD KENNEDY": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PRIVATA FRANCESCO DONATI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PRIVATA JOHN FITZGERALD KENNEDY": [
     {
       "civico": "26",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "26",
-      "barrato": null
+      "civico": "26/A",
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VICOLO PASSERERO": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

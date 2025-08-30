@@ -2,37 +2,37 @@
   "LOCALITA' COCCAVEGLIE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 113": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALESSANDRO MANZONI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DANTE ALIGHIERI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

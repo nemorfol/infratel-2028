@@ -2,65 +2,65 @@
   "CONTRADA CAVALLARO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CONTRADA MONTELUNGO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA SELVA PIANA": [
     {
       "civico": "307",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CONTRADA SERRITELLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "TRAVERSA II DI VIA SANTA LUCIA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VILLANELLA": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "2"
+      "civico": "28/2",
+      "stato": "B"
     }
   ]
 }

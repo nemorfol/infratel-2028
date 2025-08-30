@@ -1,372 +1,372 @@
 {
   "CASCINA CAPANNONE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA CASTIONA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CAVA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA FRATI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GARDINO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA GHINELLA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MOLINO MOLGORA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MOLINO TORCHIO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA NUOVA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA ROVERE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA CADUTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA ITALIA": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "14",
-      "barrato": "E"
+      "civico": "14/E",
+      "stato": "A"
     }
   ],
   "STRADA PROVINCIALE 201": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CONTE CAMILLO BENSO DI CAVOUR": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON ANDREA POLENGHI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON GIOVANNI MINZONI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     }
   ],
   "VIA ENRICO BERLINGUER": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA FILIPPO DA LEVANIA": [
     {
       "civico": "35",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "41"
+      "civico": "39/41",
+      "stato": "B"
     }
   ],
   "VIA GIACOMO LEOPARDI": [
     {
-      "civico": "7",
-      "barrato": "B"
+      "civico": "7/B",
+      "stato": "C"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "4",
-      "barrato": "6"
+      "civico": "4/6",
+      "stato": "B"
     }
   ],
   "VIA MADRE GELTRUDE COMENSOLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MOLINO MOLGORA": [
     {
       "civico": "28",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PALAZZO PERTUSATI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAPA GIOVANNI XXIII": [
     {
-      "civico": "2",
-      "barrato": "E"
+      "civico": "2/E",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PRINCIPALE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "39",
-      "barrato": "1 A"
+      "civico": "39/1 A",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "1 B"
+      "civico": "39/1 B",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "1 C"
+      "civico": "39/1 C",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "10 B"
+      "civico": "39/2 A",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "2 A"
+      "civico": "39/2 B",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "2 B"
+      "civico": "39/5 A",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "5 A"
+      "civico": "39/5 B",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "5 B"
+      "civico": "39/5 C",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "5 C"
+      "civico": "39/6 A",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "6 A"
+      "civico": "39/6 B",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "6 B"
+      "civico": "39/7 A",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "7 A"
+      "civico": "39/7 B",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "7 B"
+      "civico": "39/8 A",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "8 A"
+      "civico": "39/8 B",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "8 B"
+      "civico": "39/9 A",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "9 A"
+      "civico": "39/9 B",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "9 B"
+      "civico": "39/10 B",
+      "stato": "B"
     },
     {
-      "civico": "49",
-      "barrato": "51"
+      "civico": "49/51",
+      "stato": "B"
     }
   ],
   "VIA ROSSATE": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN MICHELE DEL CARSO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN ROCCO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

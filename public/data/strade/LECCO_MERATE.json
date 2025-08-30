@@ -1,108 +1,108 @@
 {
   "CASCINA CASA GEROLAMA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "A"
     }
   ],
   "CASCINA CASIGNOLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' CANDEGGIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ANTONIO STOPPANI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": "SNC 2"
+      "civico": "0/SNC 2",
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": "SNC 3"
+      "civico": "0/SNC 3",
+      "stato": "B"
     }
   ],
   "VIA DEL CIOT": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     }
   ],
   "VIA DELLA MOLGORA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "105",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MADONNA DELLA TAZZA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE ROSA": [
     {
-      "civico": "60",
-      "barrato": "1"
+      "civico": "60/1",
+      "stato": "C"
     }
   ],
   "VIA SAN GIUSEPPE": [
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "C"
     }
   ],
   "VIA SANTA GIANNA BERETTA MOLLA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA STATALE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
-      "civico": "165",
-      "barrato": "1"
+      "civico": "165/1",
+      "stato": "C"
     }
   ],
   "VIA VALLE INFERIORE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

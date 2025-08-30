@@ -2,285 +2,285 @@
   "CASCINA CAPPADINO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA GUARDASOLE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA MASSARA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA SAN MICHELE": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "FRAZIONE BARAGIOTTA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "LOCALITA' TRAVERSAGNA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE MADONNA": [
     {
       "civico": "56",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA VICINALE DELLA BARAGGIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ANTONIO GRAMSCI": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     }
   ],
   "VIA CIRCONVALLAZIONE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEI PARTIGIANI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "QUINQ"
+      "civico": "22/QUINQ",
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "QUINQUES"
+      "civico": "22/QUINQUES",
+      "stato": "B"
     }
   ],
   "VIA DELLA LIBERTA'": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA EDMONDO DE AMICIS": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "BIS"
+      "civico": "18/BIS",
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     }
   ],
   "VIA FRA' DOLCINO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "E"
+      "civico": "13/E",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "H"
+      "civico": "13/H",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "I"
+      "civico": "13/I",
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "B"
+      "civico": "43/B",
+      "stato": "B"
     },
     {
-      "civico": "57",
-      "barrato": "A"
+      "civico": "57/A",
+      "stato": "B"
     },
     {
-      "civico": "57",
-      "barrato": "B"
+      "civico": "57/B",
+      "stato": "B"
     },
     {
-      "civico": "57",
-      "barrato": "C"
+      "civico": "57/C",
+      "stato": "B"
     },
     {
-      "civico": "57",
-      "barrato": "D"
+      "civico": "57/D",
+      "stato": "B"
     },
     {
-      "civico": "57",
-      "barrato": "E"
+      "civico": "57/E",
+      "stato": "B"
     },
     {
       "civico": "70",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "88",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "90",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "121",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "133",
-      "barrato": "D"
+      "stato": "B"
     },
     {
-      "civico": "133",
-      "barrato": null
+      "civico": "133/D",
+      "stato": "B"
     }
   ],
   "VIA MOLINO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE ROSA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "B"
+      "civico": "22/B",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "C"
+      "civico": "22/C",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "D"
+      "civico": "22/D",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "E"
+      "civico": "22/E",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "F"
+      "civico": "22/F",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "G"
+      "civico": "22/G",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "H"
+      "civico": "22/H",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "I"
+      "civico": "22/I",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "L"
+      "civico": "22/L",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "M"
+      "civico": "22/M",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "N"
+      "civico": "22/N",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "O"
+      "civico": "22/O",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "P"
+      "civico": "22/P",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "Q"
+      "civico": "22/Q",
+      "stato": "A"
     },
     {
-      "civico": "22",
-      "barrato": "R"
+      "civico": "22/R",
+      "stato": "A"
     }
   ],
   "VIA PRIVATA SOTTO COLLE": [
     {
       "civico": "62",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA TENUTA SPAZZACAMINI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VAGLIO": [
     {
-      "civico": "2",
-      "barrato": "BIS"
+      "civico": "2/BIS",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "BIS"
+      "civico": "7/BIS",
+      "stato": "B"
     }
   ]
 }

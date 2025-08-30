@@ -1,74 +1,74 @@
 {
   "VIA CANONICI": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA SANT'ANTONIO": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     }
   ],
   "VIA CASTELLANA": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CREMA": [
     {
-      "civico": "16",
-      "barrato": "B"
+      "civico": "16/B",
+      "stato": "C"
     }
   ],
   "VIA FIUME": [
     {
-      "civico": "17",
-      "barrato": "V"
+      "civico": "17/V",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "Z"
+      "civico": "17/Z",
+      "stato": "B"
     }
   ],
   "VIA MOLINO DEL BOSCO": [
     {
       "civico": "12",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/A",
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": null
+      "civico": "12/B",
+      "stato": "C"
     }
   ],
   "VIA ORIO": [
     {
       "civico": "43",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PRADONE": [
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "C"
     }
   ]
 }

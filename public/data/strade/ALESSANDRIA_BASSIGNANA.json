@@ -2,397 +2,397 @@
   "CASCINA BORSALINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA SAN LORENZO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "STRADA COMUNALE DEL PORTO": [
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "B"
     }
   ],
   "STRADA DI PUENT": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PER FIONDI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PROVINCIALE VALENZA - PONTECURONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": null
+      "civico": "14/A",
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "56",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA SERRA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
-    },
-    {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "4/A",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "5/B",
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE DELLA SERRA": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALESSANDRIA": [
     {
-      "civico": "4",
-      "barrato": "C"
+      "civico": "4/C",
+      "stato": "B"
     },
     {
-      "civico": "52",
-      "barrato": "B"
+      "civico": "52/B",
+      "stato": "B"
     }
   ],
   "VIA BOSCONE": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA DANTE ALIGHIERI": [
     {
-      "civico": "10",
-      "barrato": "8"
+      "civico": "10/8",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "D"
+      "civico": "11/D",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "13"
+      "civico": "15/13",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "17"
+      "civico": "19/17",
+      "stato": "B"
     }
   ],
   "VIA DEL CASTELLO": [
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEL CIMITERO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ],
   "VIA DEL TEMPIO": [
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     }
   ],
   "VIA DELLA FONTANA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA ROVERE": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FIONDI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "45",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "45",
-      "barrato": null
+      "civico": "45/A",
+      "stato": "B"
     },
     {
       "civico": "54",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE MAZZINI": [
     {
-      "civico": "5",
-      "barrato": "4"
+      "civico": "5/4",
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "20"
+      "civico": "22/20",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "24"
+      "civico": "26/24",
+      "stato": "B"
     },
     {
-      "civico": "32",
-      "barrato": "30"
+      "civico": "32/30",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "38"
+      "civico": "40/38",
+      "stato": "B"
     },
     {
-      "civico": "50",
-      "barrato": "A 50"
+      "civico": "50/A 50",
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MAESTRA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "59",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MUGARONE": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PER BASSIGNANA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIAVE": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VALENZA": [
     {
-      "civico": "45",
-      "barrato": "A"
+      "civico": "45/A",
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "A"
+      "civico": "47/A",
+      "stato": "B"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "57",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "57",
-      "barrato": null
+      "civico": "57/A",
+      "stato": "C"
     },
     {
-      "civico": "74",
-      "barrato": "BIS"
+      "civico": "74/BIS",
+      "stato": "B"
     },
     {
-      "civico": "80",
-      "barrato": "P T"
+      "civico": "80/P T",
+      "stato": "C"
     }
   ],
   "VICOLO FRACCHIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO PAGELLA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

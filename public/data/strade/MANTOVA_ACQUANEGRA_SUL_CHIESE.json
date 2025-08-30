@@ -2,643 +2,643 @@
   "STRADA ALBERE": [
     {
       "civico": "129",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA ALBERTO BELLINI": [
     {
       "civico": "180",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "335",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA BINE": [
     {
       "civico": "300",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "350",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1424",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA CALVATONE VOLTA MANTOVANA": [
     {
       "civico": "53",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1350",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA COMUNALE MOLINO": [
     {
       "civico": "110",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "632",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "632",
-      "barrato": "B"
+      "civico": "632/A",
+      "stato": "C"
     },
     {
-      "civico": "632",
-      "barrato": null
+      "civico": "632/B",
+      "stato": "C"
     }
   ],
   "STRADA DEL BOSCO": [
     {
       "civico": "1870",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA MARCARIA": [
     {
       "civico": "2070",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2070",
-      "barrato": "B"
+      "civico": "2070/A",
+      "stato": "C"
     },
     {
-      "civico": "2070",
-      "barrato": null
+      "civico": "2070/B",
+      "stato": "C"
     },
     {
-      "civico": "2295",
-      "barrato": "A"
+      "civico": "2295/A",
+      "stato": "C"
     },
     {
-      "civico": "2295",
-      "barrato": "B"
+      "civico": "2295/B",
+      "stato": "C"
     },
     {
-      "civico": "2295",
-      "barrato": "C"
+      "civico": "2295/C",
+      "stato": "C"
     },
     {
-      "civico": "2295",
-      "barrato": "D"
+      "civico": "2295/D",
+      "stato": "C"
     }
   ],
   "STRADA MULINO": [
     {
       "civico": "623",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "632",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "632",
-      "barrato": null
+      "civico": "632/B",
+      "stato": "C"
     }
   ],
   "STRADA PER MOSIO": [
     {
       "civico": "385",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "895",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA POLESINE": [
     {
-      "civico": "455",
-      "barrato": "B"
+      "civico": "455/B",
+      "stato": "C"
     },
     {
       "civico": "728",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "925",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 7": [
     {
       "civico": "53",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "67",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "491",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1109",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1350",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1549",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE CALVATONE": [
     {
       "civico": "491",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA SAN SALVATORE": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "250",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "500",
-      "barrato": "A"
+      "civico": "500/A",
+      "stato": "C"
     },
     {
-      "civico": "500",
-      "barrato": "B"
+      "civico": "500/B",
+      "stato": "C"
     },
     {
-      "civico": "500",
-      "barrato": "C"
+      "civico": "500/C",
+      "stato": "C"
     },
     {
-      "civico": "500",
-      "barrato": "D"
-    },
-    {
-      "civico": "875",
-      "barrato": "A"
+      "civico": "500/D",
+      "stato": "C"
     },
     {
       "civico": "875",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "875/A",
+      "stato": "C"
     },
     {
       "civico": "915",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "924",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "945",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "945",
-      "barrato": "B"
+      "civico": "945/A",
+      "stato": "C"
     },
     {
-      "civico": "945",
-      "barrato": null
+      "civico": "945/B",
+      "stato": "C"
     },
     {
       "civico": "960",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1050",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA STATALE 343": [
     {
       "civico": "840",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VALLI": [
     {
       "civico": "60",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "78",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA VICINALE DEI QUAZZOLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE DEI ROSTIZZONI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE DEI VEGRETTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE DEL CHIOSO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE DEL PERO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE DELLA FORNACE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE DELLE VALLAZZE": [
     {
       "civico": "117",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE DELLE VALLI": [
     {
       "civico": "117",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA VICINALE DOSSO DEL CAVALLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA VICINALE SABBIONI": [
     {
       "civico": "59",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "323",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "780",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALDO MORO": [
     {
-      "civico": "1320",
-      "barrato": "A"
+      "civico": "1320/A",
+      "stato": "C"
     }
   ],
   "VIA DELL'ARTIGIANATO": [
     {
       "civico": "118",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DIAZ": [
     {
       "civico": "393",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ENRICO TOTI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA GIOSUA'� CARDUCCI": [
     {
       "civico": "101",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIOSUE' CARDUCCI": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "54",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "68",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "70",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "72",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "74",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "76",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "78",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "80",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "90",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA I MAGGIO": [
     {
       "civico": "327",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA II GIUGNO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "116",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "228",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "228",
-      "barrato": null
+      "civico": "228/B",
+      "stato": "B"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
       "civico": "202",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA JOHN FITZGERALD KENNEDY": [
     {
       "civico": "56",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MANZONI": [
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MUTILATI E CADUTI DEL LAVORO": [
     {
       "civico": "166",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PADRE GIOVAN FRANCESCO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAOLO BORSELLINO": [
     {
       "civico": "68",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAPA GIOVANNI XXIII": [
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "111",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA TRIESTE": [
     {
       "civico": "470",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "497",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "544",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XI SETTEMBRE": [
     {
       "civico": "76",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "161",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO CORNELIO BERTOLI": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO FRATELLI SCAGLIONI": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "83",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO FRATELLI ZANELLA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO GIOVANNI CERESA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

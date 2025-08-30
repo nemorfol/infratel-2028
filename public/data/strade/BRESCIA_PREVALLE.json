@@ -1,78 +1,78 @@
 {
   "VIA CASE SPARSE": [
     {
-      "civico": "28",
-      "barrato": "I"
+      "civico": "28/I",
+      "stato": "B"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COMBATTUTA": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DANTE ALIGHIERI": [
     {
       "civico": "120",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "120",
-      "barrato": null
+      "civico": "120/A",
+      "stato": "C"
     },
     {
-      "civico": "122",
-      "barrato": "A"
+      "civico": "122/A",
+      "stato": "C"
     }
   ],
   "VIA DEI MARESSI": [
     {
       "civico": "63",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DESA": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA FENILETTI": [
     {
-      "civico": "7",
-      "barrato": "F"
+      "civico": "7/F",
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOTELLA": [
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "C"
     }
   ],
   "VIA XI FEBBRAIO": [
     {
-      "civico": "71",
-      "barrato": "A"
+      "civico": "71/A",
+      "stato": "C"
     }
   ]
 }

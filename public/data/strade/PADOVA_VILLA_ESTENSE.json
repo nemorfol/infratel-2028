@@ -2,297 +2,297 @@
   "VIA ACHILLE CARRARA": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ANGELIERA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA ARBONCELLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ARGINE CONSELVANO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "C"
     }
   ],
   "VIA ARGINE VALGRANDE": [
     {
-      "civico": "16",
-      "barrato": "A 1"
+      "civico": "16/A 1",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "B"
+      "civico": "16/B",
+      "stato": "B"
     }
   ],
   "VIA ARZARINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BERTUOLO": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     }
   ],
   "VIA CARLO ALBERTO DALLA CHIESA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA CAVOUR": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CIMITERO VECCHIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VIA DANTE ALIGHIERI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEI BERSAGLIERI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": null
+      "civico": "7/A",
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ENRICO FERMI": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ESTE LENDINARA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "1"
+      "civico": "10/1",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "1"
+      "civico": "16/1",
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "33",
-      "barrato": "C 1"
+      "civico": "33/C 1",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "A 1"
-    },
-    {
-      "civico": "49",
-      "barrato": "A"
+      "civico": "42/A 1",
+      "stato": "B"
     },
     {
       "civico": "49",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "49",
-      "barrato": null
+      "civico": "49/A",
+      "stato": "B"
+    },
+    {
+      "civico": "49/B",
+      "stato": "B"
     }
   ],
   "VIA FINALE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "C 1"
+      "civico": "5/C 1",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "L"
+      "civico": "11/L",
+      "stato": "B"
     },
     {
-      "civico": "37",
-      "barrato": "B"
+      "civico": "37/B",
+      "stato": "B"
     }
   ],
   "VIA FORNASETTE DI SOPRA": [
     {
-      "civico": "14",
-      "barrato": "A 1"
+      "civico": "14/A 1",
+      "stato": "B"
     }
   ],
   "VIA FORNASETTE DI SOTTO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA GIORGIO PERLASCA": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA LEGNARO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARZARE": [
     {
       "civico": "54",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PAPA GIOVANNI XXIII": [
     {
-      "civico": "1",
-      "barrato": "4"
+      "civico": "1/4",
+      "stato": "B"
     }
   ],
   "VIA PIO LA TORRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "35",
-      "barrato": "2"
+      "civico": "35/2",
+      "stato": "B"
     }
   ],
   "VIA STRADONE VALGRANDE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIALE MUNICIPIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

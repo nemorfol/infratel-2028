@@ -2,359 +2,359 @@
   "LOCALITA' CUSIANO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' FUCINE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' SALAR": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "C"
-    },
-    {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "17/C",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "C"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": null
+      "civico": "18/B",
+      "stato": "B"
+    },
+    {
+      "civico": "18/C",
+      "stato": "B"
     }
   ],
   "PIAZZA DI SAN VIGILIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA DEI BOSCHI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA DELLA FORNAS": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA DELLE COSTE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA DI VALPIANA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA AL CASTELLO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BARTOLOMEO BEZZI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BRESCIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEL SALAR": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELL'ARTIGIANATO": [
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLE PENDEGE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DI ISCLACIA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "C"
+      "civico": "8/C",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "E"
+      "civico": "8/E",
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DI SANT'ANTONIO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DI SANTA MARIA MADDALENA": [
     {
-      "civico": "15",
-      "barrato": "M"
+      "civico": "15/M",
+      "stato": "B"
     }
   ],
   "VIA ERGISTO BEZZI": [
     {
-      "civico": "40",
-      "barrato": "D"
+      "civico": "40/D",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "C"
+      "civico": "42/B",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "B"
+      "civico": "42/C",
+      "stato": "B"
     }
   ],
   "VIA GIOVANNI PRATI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "32",
-      "barrato": "B"
+      "civico": "32/B",
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "A"
+      "civico": "43/A",
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "B"
+      "civico": "43/B",
+      "stato": "B"
     },
     {
-      "civico": "44",
-      "barrato": "C"
+      "civico": "44/C",
+      "stato": "B"
     },
     {
-      "civico": "45",
-      "barrato": "A"
+      "civico": "45/A",
+      "stato": "B"
     },
     {
-      "civico": "45",
-      "barrato": "C"
+      "civico": "45/C",
+      "stato": "B"
     },
     {
-      "civico": "45",
-      "barrato": "D"
+      "civico": "45/D",
+      "stato": "B"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA III NOVEMBRE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA NOVAL": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SAN CARLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN MICHELE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VENEZIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VERONA": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO DELL'ORA": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/B",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

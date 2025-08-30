@@ -2,77 +2,77 @@
   "LOCALITA' AGHER": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' SERENO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PALESTER": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BRESCIA": [
     {
-      "civico": "52",
-      "barrato": "A"
+      "civico": "52/A",
+      "stato": "B"
     },
     {
       "civico": "80",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CANALE": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTE COLMO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "99",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PASSO DEL GIOVO": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PROVINCIALE": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "61",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "100",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTA MARIA": [
     {
       "civico": "139",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

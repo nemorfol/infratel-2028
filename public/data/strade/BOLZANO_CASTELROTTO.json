@@ -1,76 +1,76 @@
 {
   "FRAZIONE SAN MICHELE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIZ-ALPE SIUSI": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "SALTRIA": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "SAN VIGILIO": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "SIUSI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "TAGUSA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "TISANA": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COMPATSCH": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "C"
     },
     {
       "civico": "85",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "86",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TIOSLER": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

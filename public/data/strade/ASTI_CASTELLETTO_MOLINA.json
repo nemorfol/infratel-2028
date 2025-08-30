@@ -2,205 +2,205 @@
   "REGIONE MOLINA": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE MOLINO ROSSO": [
     {
       "civico": "34",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE SERRA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA BRICCO ODDONE": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCINA BARBARA": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASE SPARSE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COMMENDATOR MICHELE THEA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FONTANA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GABUTTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIUSEPPE MAZZINI": [
     {
-      "civico": "3",
-      "barrato": "2"
+      "civico": "3/2",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "2"
+      "civico": "7/2",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE SARACCO": [
     {
-      "civico": "8",
-      "barrato": "2"
+      "civico": "8/2",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "3"
+      "civico": "8/3",
+      "stato": "B"
     }
   ],
   "VIA MONSIGNOR ALESSANDRO THEA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "11",
-      "barrato": "1"
+      "civico": "11/1",
+      "stato": "B"
     }
   ],
   "VIA SOTTO CHIESA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "4"
+      "civico": "12/4",
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE DELLA RIMEMBRANZA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO RAVERA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

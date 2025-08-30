@@ -2,305 +2,305 @@
   "CASCINA PRIMAVERA": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA REISERA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "BIS"
+      "civico": "17/BIS",
+      "stato": "A"
     }
   ],
   "CASCINA RUETTO": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA SCUGNASCA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' LUISETTA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PRAOLINO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": "1"
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/1",
+      "stato": "A"
     }
   ],
   "LOCALITA' RISERA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "PIAZZA SANTA MARTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "BIS"
+      "civico": "2/BIS",
+      "stato": "B"
     }
   ],
   "PIAZZA UMBERTO I": [
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     }
   ],
   "REGIONE BOGO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PER CICONIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "F"
+      "civico": "2/F",
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE CHIVASSO - OZEGNA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA SAN SALVATORE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA VECCHIA DI RIVAROLO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "70",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAMILLO CAVOUR": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "BIS"
+      "civico": "22/BIS",
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "A"
+      "civico": "38/A",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "B"
+      "civico": "38/B",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "BIS"
+      "civico": "38/BIS",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "C"
+      "civico": "38/C",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "E"
+      "civico": "42/E",
+      "stato": "B"
     }
   ],
   "VIA DEL CASTELLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEL MUNICIPIO": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     }
   ],
   "VIA DEL VALLETTO": [
     {
-      "civico": "4",
-      "barrato": "BIS"
+      "civico": "4/BIS",
+      "stato": "B"
     }
   ],
   "VIA DON GUGLIELMO BACCHIO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FAULENTA": [
     {
-      "civico": "9",
-      "barrato": "BIS"
+      "civico": "9/BIS",
+      "stato": "B"
     }
   ],
   "VIA FRATELLI BERRA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ],
   "VIA PER RIVAROLO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "BIS"
+      "civico": "7/BIS",
+      "stato": "B"
     }
   ],
   "VIA SAN ROCCO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XX SETTEMBRE": [
     {
-      "civico": "3",
-      "barrato": "F"
+      "civico": "3/F",
+      "stato": "B"
     },
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "B"
     },
     {
-      "civico": "23",
-      "barrato": "B"
+      "civico": "23/B",
+      "stato": "B"
     }
   ],
   "VIALE MAGGIORE PEROTTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO BERTINI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

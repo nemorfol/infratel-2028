@@ -1,64 +1,64 @@
 {
   "FRAZIONE CAURIA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     }
   ],
   "POCHI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MOLINI": [
     {
       "civico": "67",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "69",
-      "barrato": "2"
+      "stato": "C"
     },
     {
-      "civico": "69",
-      "barrato": "A"
+      "civico": "69/2",
+      "stato": "C"
     },
     {
-      "civico": "69",
-      "barrato": null
+      "civico": "69/A",
+      "stato": "C"
     },
     {
       "civico": "71",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA NAZIONALE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA POIT": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROVERE' DELLA LUNA": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA STAZIONE": [
     {
       "civico": "53",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

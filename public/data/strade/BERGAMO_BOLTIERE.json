@@ -2,97 +2,97 @@
   "CASCINA BUGINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA DOGANA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA DURELLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA LEGRENZI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA LIMONTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MAGNI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA PASSERA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA PELLICIOLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA ROSSI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA TESTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "125",
-      "barrato": "B"
+      "civico": "125/B",
+      "stato": "B"
     }
   ],
   "LOCALITA' MILANO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON GIULIO CARMINATI": [
     {
       "civico": "65",
-      "barrato": "S"
+      "stato": "C"
     },
     {
-      "civico": "65",
-      "barrato": null
+      "civico": "65/S",
+      "stato": "C"
     }
   ],
   "VIA MILANO": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PONTIROLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     }
   ]
 }

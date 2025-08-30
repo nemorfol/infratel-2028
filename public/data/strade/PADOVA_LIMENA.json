@@ -2,245 +2,245 @@
   "STRADA VALSUGANA": [
     {
       "civico": "101",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "101",
-      "barrato": null
+      "civico": "101/A",
+      "stato": "A"
     }
   ],
   "VIA BRENTA": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BRUSONI": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "C"
     }
   ],
   "VIA CA' ROSSA": [
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CERESARA": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "A"
-    },
-    {
-      "civico": "16",
-      "barrato": "1"
+      "civico": "12/A",
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": null
+      "civico": "16/1",
+      "stato": "C"
     },
     {
-      "civico": "27",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "C"
     },
     {
-      "civico": "35",
-      "barrato": "A"
+      "civico": "27/A",
+      "stato": "C"
+    },
+    {
+      "civico": "35/A",
+      "stato": "C"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "70",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "70",
-      "barrato": null
+      "civico": "70/A",
+      "stato": "C"
     }
   ],
   "VIA CONCETTO MARCHESI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": null
+      "civico": "14/A",
+      "stato": "C"
     }
   ],
   "VIA FAUSTO ROSSI": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FORNACE": [
     {
-      "civico": "108",
-      "barrato": "A"
+      "civico": "108/A",
+      "stato": "C"
     },
     {
-      "civico": "108",
-      "barrato": "B"
+      "civico": "108/B",
+      "stato": "C"
     },
     {
-      "civico": "108",
-      "barrato": "C"
+      "civico": "108/C",
+      "stato": "C"
     },
     {
-      "civico": "120",
-      "barrato": "B"
+      "civico": "120/B",
+      "stato": "B"
     },
     {
-      "civico": "128",
-      "barrato": "C"
+      "civico": "128/C",
+      "stato": "B"
     }
   ],
   "VIA GORIZIA": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/B",
+      "stato": "C"
     },
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "C"
     }
   ],
   "VIA GUIDO TRIESTE": [
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/A",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/B",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PAPA LUCIANI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PONTEROTTO": [
     {
       "civico": "108",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTA MARIA DI NON": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA TAVELLO": [
     {
       "civico": "8",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/A",
+      "stato": "C"
     }
   ]
 }

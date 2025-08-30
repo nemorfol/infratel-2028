@@ -2,139 +2,139 @@
   "PIAZZA SENATORE PIETRO GROCCO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA STATALE 211": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA DELLA BILANCIA": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON VITTORINO QUAGLINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "9",
-      "barrato": "D"
+      "civico": "9/D",
+      "stato": "B"
     }
   ],
   "VIA PIETRO GROCCO": [
     {
-      "civico": "41",
-      "barrato": "B"
+      "civico": "41/B",
+      "stato": "B"
     },
     {
-      "civico": "41",
-      "barrato": "L"
+      "civico": "41/L",
+      "stato": "B"
     },
     {
-      "civico": "41",
-      "barrato": "Q"
+      "civico": "41/Q",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO VENETO": [
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO CAMILLO CAVOUR": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO DANTE ALIGHIERI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "C"
+      "civico": "13/C",
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO FRATELLI CAIROLI": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     }
   ],
   "VICOLO GALILEO GALILEI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

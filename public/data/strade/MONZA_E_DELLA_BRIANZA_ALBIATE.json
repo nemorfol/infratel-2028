@@ -2,139 +2,139 @@
   "VIA CASTELLO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DOSSO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GENERALE ARMANDO DIAZ": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GUGLIELMO OBERDAN": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MALPENSATA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MARTIN LUTHER KING": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "VIA PEDONALE ORIANA FALLACI": [
     {
-      "civico": "1",
-      "barrato": "E"
+      "civico": "1/E",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "F"
+      "civico": "1/F",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "G"
+      "civico": "1/G",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "H"
+      "civico": "1/H",
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "A"
     }
   ],
   "VIA RESEGONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN CARLO": [
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN MICHELE AL CARSO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIALE DELLA REPUBBLICA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

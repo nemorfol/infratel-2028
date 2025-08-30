@@ -2,543 +2,543 @@
   "CASCINA ANGIOLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CANTONATA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CAPRERA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA FAVORITA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA FORNACE": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA LA MAGGIOLINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA MALDOSSETTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MALDOSSO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "CASCINA SERIANA": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA SERIANINA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CIRCONVALLAZIONE CAMPO D'OCHO": [
     {
-      "civico": "24",
-      "barrato": "D"
+      "civico": "24/D",
+      "stato": "B"
     }
   ],
   "STRADA DEL GERRO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALDO MORO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "17"
+      "civico": "19/17",
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": "D"
+      "civico": "21/D",
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": "E"
+      "civico": "21/E",
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "L"
+      "civico": "22/L",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "H"
+      "civico": "24/H",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "B"
+      "civico": "29/B",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "C"
+      "civico": "29/C",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "E"
+      "civico": "29/E",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "G"
+      "civico": "29/G",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "H"
+      "civico": "29/H",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "I"
+      "civico": "29/I",
+      "stato": "B"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALESSANDRO PERTINI": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ANTONIO LOCATELLI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BROLO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAMILLO BENSO DI CAVOUR": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     }
   ],
   "VIA DANTE ALIGHIERI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "T"
+      "civico": "11/T",
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "41",
-      "barrato": "E"
+      "civico": "41/E",
+      "stato": "B"
     }
   ],
   "VIA EUROPA": [
     {
-      "civico": "8",
-      "barrato": "E"
+      "civico": "8/E",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "H"
+      "civico": "8/H",
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GAETANO DONIZETTI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIACOMO PUCCINI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "56",
-      "barrato": "D"
+      "civico": "56/D",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ITALIA": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     }
   ],
   "VIA LOMBARDIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAPA GIOVANNI XXIII": [
     {
-      "civico": "8",
-      "barrato": "C"
+      "civico": "8/C",
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN FRANCESCO D'ASSISI": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GIOVANNI BOSCO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN ROCCO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/B",
+      "stato": "B"
     }
   ],
   "VIA SAN SALVATORE": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANT'AGATA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "B"
+      "civico": "16/B",
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SERIANINA": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TORQUATO TASSO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA UMBERTO PRIMO": [
     {
       "civico": "52",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "99",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "99",
-      "barrato": null
+      "civico": "99/B",
+      "stato": "B"
     },
     {
       "civico": "101",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "103",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "105",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "107",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "109",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "110",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "119",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "121",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "123",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "125",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "127",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "129",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "131",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "133",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "135",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "137",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "139",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "141",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "143",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "145",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "147",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "149",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "151",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "153",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VENETO": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "75",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

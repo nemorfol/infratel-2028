@@ -2,169 +2,169 @@
   "LOCALITA' CASTEI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' FONTANADINO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "A"
     }
   ],
   "LUNGO LAGO PISANELLO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DEI CAMPIANI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PER LA ROCCA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA POIANO": [
     {
-      "civico": "27",
-      "barrato": "D"
+      "civico": "27/D",
+      "stato": "B"
     }
   ],
   "VIA SAN BERNARDO": [
     {
       "civico": "156",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "166",
-      "barrato": "A"
+      "civico": "166/A",
+      "stato": "B"
     },
     {
-      "civico": "176",
-      "barrato": "A"
+      "civico": "176/A",
+      "stato": "B"
     },
     {
-      "civico": "176",
-      "barrato": "B"
+      "civico": "176/B",
+      "stato": "B"
     },
     {
-      "civico": "178",
-      "barrato": "B"
+      "civico": "178/B",
+      "stato": "B"
     }
   ],
   "VIA VAL MORA": [
     {
-      "civico": "85",
-      "barrato": "A"
+      "civico": "85/A",
+      "stato": "C"
     },
     {
-      "civico": "89",
-      "barrato": "A"
+      "civico": "89/A",
+      "stato": "C"
     },
     {
-      "civico": "91",
-      "barrato": "A"
+      "civico": "91/A",
+      "stato": "C"
     }
   ]
 }

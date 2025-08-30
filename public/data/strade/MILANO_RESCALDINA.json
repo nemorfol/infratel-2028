@@ -2,77 +2,77 @@
   "VIA BARBARA MELZI": [
     {
       "civico": "182",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "184",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BOZZENTE": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CARDINALE SCHUSTER": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "29",
-      "barrato": "A"
+      "civico": "29/A",
+      "stato": "C"
     }
   ],
   "VIA DON LUIGI REPETTI": [
     {
       "civico": "123",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "125",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MOZZONI": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PALMIRO TOGLIATTI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "50",
-      "barrato": "A"
+      "civico": "50/A",
+      "stato": "C"
     }
   ],
   "VIA XXV APRILE": [
     {
-      "civico": "29",
-      "barrato": "A"
+      "civico": "29/A",
+      "stato": "C"
     }
   ]
 }

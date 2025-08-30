@@ -2,89 +2,89 @@
   "LOCALITA' AIAREI": [
     {
       "civico": "94",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "97",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "99",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "100",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "101",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "104",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' PICEDAC": [
     {
       "civico": "103",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "217",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "307",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PEDEROA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ARCIARA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COSTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "ZONA ARTEJANALA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

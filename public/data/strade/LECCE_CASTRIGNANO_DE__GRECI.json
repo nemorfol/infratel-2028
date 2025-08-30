@@ -1,68 +1,68 @@
 {
   "LARGO PADRE PIO": [
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "B"
     }
   ],
   "STRADA VICINALE MELPIGNANO": [
     {
       "civico": "54",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CORAFFIA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     }
   ],
   "VIA DEGLI ARTIGIANI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA GIOVANNI BOCCACCIO": [
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     }
   ],
   "VIA PIETRO MASCAGNI": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "B"
+      "civico": "11/B",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "18"
+      "civico": "16/18",
+      "stato": "B"
     }
   ],
   "VIA REDIPUGLIA": [
     {
-      "civico": "106",
-      "barrato": "108"
+      "civico": "106/108",
+      "stato": "B"
     }
   ]
 }

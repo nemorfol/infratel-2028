@@ -1,32 +1,32 @@
 {
   "VIA ALLA TORRE": [
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE MAZZINI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RISTOCCO": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "VIA SAN GIOVANNI": [
     {
-      "civico": "31",
-      "barrato": "A"
+      "civico": "31/A",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO EMANUELE": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

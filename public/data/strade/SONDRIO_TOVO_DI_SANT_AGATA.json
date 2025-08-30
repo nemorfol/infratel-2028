@@ -1,94 +1,94 @@
 {
   "VIA ADDA": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VIA DELL'INDUSTRIA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON PEDROTTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PRESTINO": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PROVINCIALE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "72",
-      "barrato": "A"
+      "civico": "72/A",
+      "stato": "B"
     }
   ],
   "VIA SAN MARCO": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SPINEDA": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA STELVIO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "68",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "70",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TRENTO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

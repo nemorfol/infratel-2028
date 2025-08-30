@@ -1,34 +1,34 @@
 {
   "CASCINA FORMOSA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "CASCINA SAN GIUSEPPE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PER LA CASCINA GOGNA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "STRADA VICINALE DELLA BARAGHETTA": [
     {
       "civico": "50",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

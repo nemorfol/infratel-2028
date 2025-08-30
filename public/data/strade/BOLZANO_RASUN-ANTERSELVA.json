@@ -1,104 +1,104 @@
 {
   "LOCALITA' AUE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "LOCALITA' GRASSLAHNE": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PITZAECKER": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "RASUN DI SOTTO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "135",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "160",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "180",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ANTERSELVA DI MEZZO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "75",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "120",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "121",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "150",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "159",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ANTERSELVA DI SOTTO": [
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RASUN DI SOPRA": [
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -1,64 +1,64 @@
 {
   "STRADA COMUNALE FONTANA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE NOCIGLIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA ARTURO TOSCANINI": [
     {
       "civico": "61",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GUGLIELMO OBERDAN": [
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PICCINNI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA RISORGIMENTO": [
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "47",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TRENTO": [
     {
       "civico": "74",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

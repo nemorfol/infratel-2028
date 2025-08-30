@@ -2,249 +2,249 @@
   "CASCINA CANTABERTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA SPAGNOLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA VITTORIO EMANUELE II": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "BIS"
+      "civico": "12/BIS",
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA CASONE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ARCIPRETURA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ARGINE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASALE BONESCA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCINA POZZA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA CASTELLO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COOPERATIVA": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CRAVIOLO": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "41",
-      "barrato": "BIS"
+      "civico": "41/BIS",
+      "stato": "B"
     },
     {
-      "civico": "61",
-      "barrato": "A"
+      "civico": "61/A",
+      "stato": "B"
     }
   ],
   "VIA FRAZIONE S.GAUDENZIO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     },
     {
       "civico": "77",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "118",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "124",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "126",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "128",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "130",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "132",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "134",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "190",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "234",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "236",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LOCALITA' TENUTA ISOLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PANCARANA": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RINO RADICE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA UMBERTO I": [
     {
-      "civico": "68",
-      "barrato": "A"
+      "civico": "68/A",
+      "stato": "B"
     },
     {
       "civico": "82",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

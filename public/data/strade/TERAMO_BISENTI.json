@@ -2,197 +2,197 @@
   "CIRCONVALLAZIONE NORD": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CONTRADA BIVIO TROIANO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA CHIOVIANO ALTO": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CONTRADA CHIOVIANO BASSO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "CONTRADA CHIOVIANO I": [
     {
       "civico": "68",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CONTRADA CHIOVIANO II": [
     {
       "civico": "63",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "63",
-      "barrato": null
+      "civico": "63/B",
+      "stato": "C"
     },
     {
-      "civico": "76",
-      "barrato": "BIS"
+      "civico": "76/BIS",
+      "stato": "C"
     }
   ],
   "CONTRADA CHIOVIANO III": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "77",
-      "barrato": "A"
+      "civico": "77/A",
+      "stato": "B"
     }
   ],
   "CONTRADA CHIOVIANO IV": [
     {
       "civico": "60",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "60",
-      "barrato": null
+      "civico": "60/A",
+      "stato": "C"
     }
   ],
   "CONTRADA PIEDIFINATI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA RUFIANO IV": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CONTRADA SAN PIETRO": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CONTRADA SCIPIONE RUFIANO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "CONTRADA TROIANO II": [
     {
       "civico": "75",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CONTRADA TROIANO PRIMO": [
     {
-      "civico": "35",
-      "barrato": "B"
+      "civico": "35/B",
+      "stato": "B"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "42",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "42",
-      "barrato": "B"
+      "civico": "42/A",
+      "stato": "C"
     },
     {
-      "civico": "42",
-      "barrato": null
+      "civico": "42/B",
+      "stato": "C"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CONTRADA TROIANO QUARTO": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA SILVIO FORCELLESE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CESARE BATTISTI": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "VIA DEL SUPPORTO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "B"
     }
   ],
   "VIA GIOSUE' CARDUCCI": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIANO GRANDE": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "25",
-      "barrato": "B"
+      "civico": "25/B",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "181",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RUFIANO": [
     {
       "civico": "40",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -2,135 +2,135 @@
   "CASCINA MOLINO": [
     {
       "civico": "4",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "2"
+      "civico": "4/1",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/2",
+      "stato": "C"
     }
   ],
   "VIA CASCINA ERBOGNA": [
     {
-      "civico": "1",
-      "barrato": "10"
+      "civico": "1/10",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "14"
+      "civico": "1/14",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA TESSERA": [
     {
       "civico": "2",
-      "barrato": "23"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "24"
+      "civico": "2/23",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/24",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": null
+      "civico": "23/B",
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE CAMERA": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VITTORIO EMANUELE II": [
     {
       "civico": "2",
-      "barrato": "1"
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "2"
+      "civico": "2/1",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "3"
+      "civico": "2/2",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/3",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "5"
+      "civico": "2/4",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "7"
+      "civico": "2/5",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "8"
+      "civico": "2/7",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/8",
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

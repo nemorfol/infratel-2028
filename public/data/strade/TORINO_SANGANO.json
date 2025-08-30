@@ -2,217 +2,217 @@
   "PIAZZA MARCO MATTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA BOLOGNA": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     }
   ],
   "VIA BRAIDA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/B",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/C",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BRUINO": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLE ROSE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEVESIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "41",
-      "barrato": "1"
+      "civico": "41/1",
+      "stato": "B"
     }
   ],
   "VIA GIOVANNI BERT": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIOVANNI GINO": [
     {
-      "civico": "4",
-      "barrato": "H"
+      "civico": "4/H",
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "62",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "62",
-      "barrato": null
+      "civico": "62/A",
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE BONINO": [
     {
-      "civico": "80",
-      "barrato": "12"
+      "civico": "80/3",
+      "stato": "B"
     },
     {
-      "civico": "80",
-      "barrato": "3"
+      "civico": "80/12",
+      "stato": "B"
     }
   ],
   "VIA PINEROLO SUSA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN ROCCO": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANGONE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SERENA": [
     {
-      "civico": "42",
-      "barrato": "10"
+      "civico": "42/4",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "11"
+      "civico": "42/10",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "12"
+      "civico": "42/11",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "14"
+      "civico": "42/12",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "15"
+      "civico": "42/14",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "17"
+      "civico": "42/15",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "18"
+      "civico": "42/17",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "20"
+      "civico": "42/18",
+      "stato": "B"
     },
     {
-      "civico": "42",
-      "barrato": "4"
+      "civico": "42/20",
+      "stato": "B"
     }
   ],
   "VIA VILLARBASSE": [
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

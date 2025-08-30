@@ -2,61 +2,61 @@
   "CASCINA CANALONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA DI SOTTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA ERMINIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "116",
-      "barrato": "A"
+      "civico": "116/A",
+      "stato": "C"
     },
     {
-      "civico": "116",
-      "barrato": "B"
+      "civico": "116/B",
+      "stato": "C"
     }
   ],
   "VIA DEI TULIPANI": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA COMUNITA'": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA NILDE IOTTI": [
     {
       "civico": "90",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

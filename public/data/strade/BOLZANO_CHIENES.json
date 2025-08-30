@@ -2,47 +2,47 @@
   "CASTELDARNE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CORTI DI SOTTO": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "IM SANTL": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "STRADA DEL SOLE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA CHIENES": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA HUBEN": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA SCHOENECK": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

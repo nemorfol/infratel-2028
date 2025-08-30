@@ -2,187 +2,187 @@
   "LOCALITA' BOCCAGNANO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "35",
-      "barrato": "B"
+      "civico": "35/B",
+      "stato": "C"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "76",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PONTE ALLE FORCHE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' RENACCI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BADIOLA": [
     {
-      "civico": "4",
-      "barrato": "TER"
+      "civico": "4/TER",
+      "stato": "B"
     }
   ],
   "VIA BORRO AL QUERCIO": [
     {
-      "civico": "28",
-      "barrato": "A"
+      "civico": "28/A",
+      "stato": "C"
     }
   ],
   "VIA BORRO AL SOLE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BORRO BARULLI": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BORRO DELLA QUERCIA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/A",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/B",
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": null
+      "civico": "10/A",
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BORRO MADONNA": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "74",
-      "barrato": "B"
+      "civico": "74/B",
+      "stato": "C"
     },
     {
       "civico": "90",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "100",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEL MUNICIPIO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GRUCCIA": [
     {
       "civico": "88",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "123",
-      "barrato": "A"
+      "civico": "123/A",
+      "stato": "B"
     }
   ],
   "VIA MARTIRI DELLA LIBERTA'": [
     {
       "civico": "95",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTECARLO": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/B",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "C"
+      "civico": "10/C",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "C"
     }
   ],
   "VIA PONTE ALLE FORCHE": [
     {
-      "civico": "35",
-      "barrato": "B"
+      "civico": "35/B",
+      "stato": "C"
     }
   ],
   "VIA VACCHERECCIA": [
     {
       "civico": "18",
-      "barrato": "D"
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": null
+      "civico": "18/D",
+      "stato": "B"
     }
   ],
   "VICOLO CORBOLI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO DI BITA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

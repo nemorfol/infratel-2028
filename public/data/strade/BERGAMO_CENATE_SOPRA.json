@@ -2,137 +2,137 @@
   "CASCINA CA' D'ALTO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA DRERE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA MISMA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCO": [
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     }
   ],
   "VIA DEI PRATI MOLINI": [
     {
       "civico": "46",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GINO SARTORI": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     }
   ],
   "VIA LAZZARINO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LORENZO LOTTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOIOLI": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     }
   ],
   "VIA ODAS": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "C"
+      "civico": "27/C",
+      "stato": "B"
     }
   ],
   "VIA PADRE PAOLO BELOTTI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PROVINCIALE": [
     {
-      "civico": "25",
-      "barrato": "E"
+      "civico": "25/E",
+      "stato": "B"
     }
   ],
   "VIA SANT'AMBROGIO": [
     {
-      "civico": "3",
-      "barrato": "E"
+      "civico": "3/E",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "F"
+      "civico": "3/F",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "F"
+      "civico": "15/F",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "G"
+      "civico": "15/G",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "H"
+      "civico": "15/H",
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

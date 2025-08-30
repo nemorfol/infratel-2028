@@ -2,119 +2,119 @@
   "VIA ALFREDO DI DIO": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BUONCOMASO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DANTE ALIGHIERI": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": "D"
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": null
-    },
-    {
-      "civico": "11",
-      "barrato": "6"
+      "civico": "10/D",
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "11/6",
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FRANCESCO CRISPI": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIOSUA'� CARDUCCI": [
     {
-      "civico": "31",
-      "barrato": "A"
+      "civico": "31/A",
+      "stato": "C"
     },
     {
-      "civico": "31",
-      "barrato": "B"
+      "civico": "31/B",
+      "stato": "C"
     }
   ],
   "VIA MASSIMO D'AZEGLIO": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA QUINTINO SELLA": [
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "C"
+      "civico": "3/A",
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/C",
+      "stato": "C"
     }
   ]
 }

@@ -1,140 +1,140 @@
 {
   "BORGATA MALPASSO": [
     {
-      "civico": "11",
-      "barrato": "BIS"
+      "civico": "11/BIS",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "B"
+      "civico": "27/B",
+      "stato": "B"
     }
   ],
   "BORGATA POGNANT GRANGIA": [
     {
-      "civico": "24",
-      "barrato": "BIS"
+      "civico": "24/BIS",
+      "stato": "B"
     }
   ],
   "CASE SPARSE DURANDO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "FRAZIONE BALMA": [
     {
-      "civico": "2",
-      "barrato": "BI"
+      "civico": "2/BI",
+      "stato": "B"
     }
   ],
   "FRAZIONE CITTA'": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE CITTA' ADRIT": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE CITTA' AIRASSA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE CITTA' RE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE MARTINETTI VIGLIETTI": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "B"
+      "civico": "43/B",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "BIS"
+      "civico": "48/BIS",
+      "stato": "B"
     },
     {
-      "civico": "50",
-      "barrato": "B"
+      "civico": "50/B",
+      "stato": "B"
     },
     {
-      "civico": "54",
-      "barrato": "B"
+      "civico": "54/B",
+      "stato": "B"
     },
     {
-      "civico": "60",
-      "barrato": "A"
+      "civico": "60/A",
+      "stato": "B"
     },
     {
-      "civico": "80",
-      "barrato": "A"
+      "civico": "80/A",
+      "stato": "B"
     }
   ],
   "VIA MARTINETTI": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MURETTE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

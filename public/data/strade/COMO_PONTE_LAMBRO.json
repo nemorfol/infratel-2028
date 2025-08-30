@@ -2,127 +2,127 @@
   "PIAZZA BRESSI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PIAZZA LANZANI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA DELLA CUBBIA": [
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/A",
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LEONARDO DA VINCI": [
     {
       "civico": "76",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "78",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "78",
-      "barrato": null
+      "civico": "78/B",
+      "stato": "B"
     },
     {
       "civico": "82",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LUIGI CADORNA": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTELLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN GIORGIO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN SALVATORE": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

@@ -1,80 +1,80 @@
 {
   "CORSO GARIBALDI": [
     {
-      "civico": "99",
-      "barrato": "BIS"
+      "civico": "99/BIS",
+      "stato": "B"
     },
     {
-      "civico": "105",
-      "barrato": "BIS"
+      "civico": "105/BIS",
+      "stato": "B"
     },
     {
       "civico": "117",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "119",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "121",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEL PALAZZO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PROFESSOR INNOCENZO GARRONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "BIS"
+      "civico": "15/BIS",
+      "stato": "B"
     },
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     }
   ],
   "VIA REGIONE VALLE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": "BIS"
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/BIS",
+      "stato": "B"
     }
   ],
   "VIA SERRA CASTELLO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "BIS"
+      "civico": "16/BIS",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "TER"
+      "civico": "16/TER",
+      "stato": "B"
     }
   ]
 }

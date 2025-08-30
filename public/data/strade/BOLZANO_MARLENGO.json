@@ -1,26 +1,26 @@
 {
   "VIA MONTE": [
     {
-      "civico": "22",
-      "barrato": "1"
+      "civico": "22/1",
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VICOLO GIOVO": [
     {
-      "civico": "1",
-      "barrato": "II"
+      "civico": "1/II",
+      "stato": "B"
     }
   ]
 }

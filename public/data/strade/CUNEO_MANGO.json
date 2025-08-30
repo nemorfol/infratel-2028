@@ -2,131 +2,131 @@
   "BORGATA BONGIOVANNI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "BORGATA GARASSINO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "BORGATA OLANO": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": "BIS"
+      "civico": "10/BIS",
+      "stato": "C"
     }
   ],
   "BORGATA STERPONE": [
     {
       "civico": "21",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "21",
-      "barrato": null
+      "civico": "21/B",
+      "stato": "C"
     }
   ],
   "LOCALITA' LUIGI": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "21",
-      "barrato": "B"
+      "civico": "21/A",
+      "stato": "C"
     },
     {
-      "civico": "21",
-      "barrato": null
+      "civico": "21/B",
+      "stato": "C"
     }
   ],
   "LOCALITA' PIAGE": [
     {
       "civico": "53",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' PRASSOTERE": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' SCARZELLINO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "56",
-      "barrato": "BIS"
+      "stato": "C"
     },
     {
-      "civico": "56",
-      "barrato": null
+      "civico": "56/BIS",
+      "stato": "C"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� VERLOSSA": [
     {
       "civico": "35",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� VOLPINI": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "NUCLEO AL BOSCO": [
     {
       "civico": "39",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "41",
-      "barrato": "A"
+      "civico": "41/A",
+      "stato": "A"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA COSSANO BELBO": [
     {
-      "civico": "3",
-      "barrato": "BI"
+      "civico": "3/BI",
+      "stato": "B"
     }
   ],
   "VIA SANT'AMBROGIO": [
     {
-      "civico": "4",
-      "barrato": "TER"
+      "civico": "4/TER",
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

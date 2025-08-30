@@ -2,663 +2,663 @@
   "LOCALITA' BADDE TALE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "LOCALITA' SANTA MARGHERITA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' SANTA VITTORIA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "LOCALITA' SU LITTU": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA PIETRO CASU": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "C"
     }
   ],
   "PROLUNGAMENTO DI VIA SEBASTIANO SATTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE BOGU MASSESU": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE SU PADRU": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA VICINALE SU CAMPU MANNU MANDRA E SA GIUA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": "C"
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": null
+      "civico": "14/C",
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALDO MORO": [
     {
-      "civico": "3",
-      "barrato": "1"
+      "civico": "3/1",
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": "1"
+      "civico": "23/1",
+      "stato": "C"
     }
   ],
   "VIA BELVEDERE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "25",
-      "barrato": "A"
+      "civico": "25/A",
+      "stato": "C"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BOLOGNA": [
     {
-      "civico": "20",
-      "barrato": "1"
+      "civico": "20/1",
+      "stato": "C"
     },
     {
-      "civico": "24",
-      "barrato": "1"
+      "civico": "24/1",
+      "stato": "C"
     },
     {
-      "civico": "24",
-      "barrato": "2"
+      "civico": "24/2",
+      "stato": "C"
     }
   ],
   "VIA BUGGERRU": [
     {
-      "civico": "1",
-      "barrato": "1"
+      "civico": "1/1",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "1"
+      "civico": "5/1",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "2"
+      "civico": "5/2",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "3"
+      "civico": "5/3",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "4"
+      "civico": "5/4",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "5"
+      "civico": "5/5",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "6"
+      "civico": "5/6",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "7"
+      "civico": "5/7",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "8"
+      "civico": "5/8",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "C"
     },
     {
-      "civico": "11",
-      "barrato": "1"
+      "civico": "11/1",
+      "stato": "C"
     }
   ],
   "VIA COLUMBARI": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CORTE E LOTTENE": [
     {
-      "civico": "38",
-      "barrato": "1"
+      "civico": "38/1",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "1 P"
+      "civico": "38/1 P",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "2"
+      "civico": "38/2",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "3"
+      "civico": "38/3",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "P T"
+      "civico": "38/P T",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "1"
+      "civico": "40/1",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "2"
+      "civico": "40/2",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "3"
+      "civico": "40/3",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "4"
+      "civico": "40/4",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "1"
+      "civico": "48/1",
+      "stato": "C"
     },
     {
-      "civico": "48",
-      "barrato": "2"
+      "civico": "48/2",
+      "stato": "C"
     },
     {
-      "civico": "48",
-      "barrato": "3"
+      "civico": "48/3",
+      "stato": "C"
     }
   ],
   "VIA DON PIETRO DEMARTIS": [
     {
-      "civico": "1",
-      "barrato": "1"
+      "civico": "1/1",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "2"
+      "civico": "1/2",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "3"
+      "civico": "1/3",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "2"
+      "civico": "2/2",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "3"
+      "civico": "2/3",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "1"
+      "civico": "4/1",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "1"
-    },
-    {
-      "civico": "7",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "1"
+      "civico": "7/1",
+      "stato": "C"
+    },
+    {
+      "civico": "8/1",
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/1",
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": "1"
+      "civico": "10/1",
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA EUGENIO MONTALE": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIANUARIO CARTA MANTIGLIA": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LITTOS LONGOS": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MARIO MELIS": [
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "C"
     }
   ],
   "VIA MISSIONARIO BARTOLOMEO PILO": [
     {
-      "civico": "4",
-      "barrato": "1"
+      "civico": "4/1",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "1"
+      "civico": "7/1",
+      "stato": "C"
     }
   ],
   "VIA MONSIGNOR G.USAI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/A",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "1"
+      "civico": "9/1",
+      "stato": "C"
     }
   ],
   "VIA NOEDDALE": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "1"
+      "civico": "14/1",
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA OTTANA": [
     {
-      "civico": "8",
-      "barrato": "1"
+      "civico": "8/1",
+      "stato": "C"
     }
   ],
   "VIA PALMIRO TOGLIATTI": [
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "B"
     }
   ],
   "VIA PORTO TORRES": [
     {
-      "civico": "3",
-      "barrato": "1"
+      "civico": "3/1",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "1"
+      "civico": "18/1",
+      "stato": "C"
     }
   ],
   "VIA SARDEGNA": [
     {
-      "civico": "29",
-      "barrato": "A"
+      "civico": "29/A",
+      "stato": "C"
     }
   ],
   "VIA SUOR FIORDALISO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA VENERABILE EDVIGE CARBONI": [
     {
-      "civico": "27",
-      "barrato": "1"
+      "civico": "27/1",
+      "stato": "B"
     }
   ],
   "VIA VENETO": [
     {
       "civico": "43",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO ANGIOY": [
     {
       "civico": "50",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "92",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "93",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "94",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "119",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "120",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "121",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "123",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "126",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "128",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "132",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "134",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "135",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "136",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "137",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "138",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "139",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "140",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "142",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "143",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "144",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "148",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "150",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

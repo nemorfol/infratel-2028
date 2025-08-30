@@ -2,79 +2,79 @@
   "LARGO BRENTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASA OLDANI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PER CISLIANO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA SAN FRANCESCO": [
     {
-      "civico": "22",
-      "barrato": "B 11"
+      "civico": "22/B 6",
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": "B 12"
+      "civico": "22/B 7",
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": "B 13"
+      "civico": "22/B 11",
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": "B 16"
+      "civico": "22/B 12",
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": "B 6"
+      "civico": "22/B 13",
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": "B 7"
+      "civico": "22/B 16",
+      "stato": "C"
     }
   ],
   "VIA SAN FRANCESCO D'ASSISI": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA STRADA STATALE 11": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TONALE": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

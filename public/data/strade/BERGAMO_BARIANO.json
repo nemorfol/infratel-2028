@@ -2,85 +2,85 @@
   "CASCINA BIGLIARDA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA FADA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA LIMBO": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA PARADISINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA PARADISO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE DEL RASPANTE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GUIDO GALLI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
       "civico": "48",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LOMBARDIA": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO DELLE AIE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

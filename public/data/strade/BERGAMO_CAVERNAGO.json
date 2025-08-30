@@ -2,65 +2,65 @@
   "CASCINA CASSANDRA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA DOROTINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA MEDEA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA RICCADONNA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "101",
-      "barrato": "X"
+      "civico": "101/X",
+      "stato": "C"
     }
   ],
   "CASCINA SPERANZINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA URSINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PER MALPAGA": [
     {
-      "civico": "1",
-      "barrato": "X"
+      "civico": "1/X",
+      "stato": "A"
     }
   ],
   "VIA PER MULINO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

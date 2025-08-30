@@ -2,135 +2,135 @@
   "PIAZZA LUIGI EINAUDI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA COMUNALE SAN NICOLO'": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "TRAVERSA NUMERO 5": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA AUSTRIA": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BELGIO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLA RESISTENZA": [
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ENRICO FERMI": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE SARAGAT": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MELINGONNA": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PARADISO": [
     {
-      "civico": "5",
-      "barrato": "PAL B"
+      "civico": "5/PAL B",
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PETRAGLIONE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANDRO PERTINI": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SPAGNA": [
     {
-      "civico": "36",
-      "barrato": "A"
+      "civico": "36/A",
+      "stato": "B"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

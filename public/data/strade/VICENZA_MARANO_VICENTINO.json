@@ -1,40 +1,40 @@
 {
   "VIA CA' BOSCO": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     }
   ],
   "VIA ELISABETTA MANEA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PROLE": [
     {
-      "civico": "22",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "A"
+      "civico": "50/A",
+      "stato": "C"
     },
     {
-      "civico": "50",
-      "barrato": "B"
+      "civico": "50/B",
+      "stato": "C"
     }
   ],
   "VIA SAN PIETRO": [
     {
       "civico": "96",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANTA MARIA": [
     {
       "civico": "82",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

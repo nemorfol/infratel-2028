@@ -1,108 +1,108 @@
 {
   "VIA AMERIGO VESPUCCI": [
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/B",
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "C"
     }
   ],
   "VIA CRISTOFORO COLOMBO": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLA OROMBELLA": [
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "E"
+      "civico": "29/E",
+      "stato": "B"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "C"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "45",
-      "barrato": "A"
+      "civico": "45/A",
+      "stato": "C"
     }
   ],
   "VIA MONTELLO": [
     {
       "civico": "26",
-      "barrato": "E"
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "G"
+      "civico": "26/E",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "I"
+      "civico": "26/G",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "L"
+      "civico": "26/I",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": null
+      "civico": "26/L",
+      "stato": "B"
     }
   ],
   "VIA PIAVE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TIZIANO VECELLIO": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

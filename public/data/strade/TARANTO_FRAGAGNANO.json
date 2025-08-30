@@ -1,50 +1,50 @@
 {
   "CONTRADA POZZUOLO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 89": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA GIOVANNI BOCCACCIO": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PER LIZZANO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PER TORRICELLA": [
     {
-      "civico": "0",
-      "barrato": "LOTTO 22"
+      "civico": "0/LOTTO 22",
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA POZZUOLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

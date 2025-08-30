@@ -1,24 +1,24 @@
 {
   "GUGGENBERG": [
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     }
   ],
   "MARIOLBERG": [
     {
-      "civico": "61",
-      "barrato": "A"
+      "civico": "61/A",
+      "stato": "B"
     },
     {
       "civico": "69",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STAFELSBERG": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

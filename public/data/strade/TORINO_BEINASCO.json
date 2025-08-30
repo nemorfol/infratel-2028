@@ -2,69 +2,69 @@
   "STRADA BORGARETTO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BERNARDO RONDO'": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "1"
+      "civico": "12/1",
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "C"
     }
   ],
   "VIA DELLE LOSE": [
     {
       "civico": "65",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "71",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "73",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "73",
-      "barrato": null
+      "civico": "73/A",
+      "stato": "C"
     }
   ],
   "VIA PADOVA": [
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "E"
+      "civico": "1/E",
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

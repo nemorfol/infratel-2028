@@ -2,87 +2,87 @@
   "STRADA SAN MARCO": [
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALDO MORO": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "B"
     },
     {
-      "civico": "63",
-      "barrato": "A"
+      "civico": "63/A",
+      "stato": "B"
     }
   ],
   "VIA BRIGATA MANTOVA": [
     {
-      "civico": "68",
-      "barrato": "A"
+      "civico": "68/A",
+      "stato": "B"
     }
   ],
   "VIA DELLA CROCE": [
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MAGLIO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTE GRAPPA": [
     {
-      "civico": "53",
-      "barrato": "B"
+      "civico": "53/B",
+      "stato": "B"
     },
     {
-      "civico": "88",
-      "barrato": "A"
+      "civico": "88/A",
+      "stato": "B"
     }
   ],
   "VIA MONTELLO": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "C"
     }
   ],
   "VIA RABOSO": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SENTIER": [
     {
-      "civico": "28",
-      "barrato": "A"
+      "civico": "28/A",
+      "stato": "C"
     }
   ]
 }

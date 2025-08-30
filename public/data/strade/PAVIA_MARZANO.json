@@ -1,118 +1,118 @@
 {
   "VIA CASCINA DE FRATI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MILANO": [
     {
-      "civico": "2",
-      "barrato": "R"
+      "civico": "2/R",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "W"
+      "civico": "2/W",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "Y"
+      "civico": "2/Y",
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PER GATTINARA": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/B",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "D"
+      "civico": "1/C",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
-    },
-    {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "1/D",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/A",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/B",
+      "stato": "C"
+    },
+    {
+      "civico": "2/C",
+      "stato": "C"
     }
   ],
   "VIA PER SPIRAGO": [
     {
       "civico": "2",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/B",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "D"
+      "civico": "2/C",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/D",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PONTE VECCHIO": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "77",
-      "barrato": "G"
+      "civico": "77/G",
+      "stato": "B"
     },
     {
-      "civico": "77",
-      "barrato": "H"
+      "civico": "77/H",
+      "stato": "B"
     }
   ]
 }

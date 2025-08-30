@@ -2,23 +2,23 @@
   "CAPRILE": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' CENTRO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "VIA PASSO DELLE PALADE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

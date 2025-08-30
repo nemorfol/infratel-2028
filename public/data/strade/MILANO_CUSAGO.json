@@ -2,193 +2,193 @@
   "CASCINA EMILIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA MOLINELLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA NAVIGLIETTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA ROBAIONE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA STAMPA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CORTE DEI RUMI": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' CAVA MANARA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' LAGO CAPANNA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCINA DI SOTTO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CISLIANO": [
     {
-      "civico": "48",
-      "barrato": "A 1"
+      "civico": "48/A 1",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "A 2"
+      "civico": "48/A 2",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "A 3"
+      "civico": "48/A 3",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "A 4"
+      "civico": "48/A 4",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "A 5"
+      "civico": "48/A 5",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "A 7"
+      "civico": "48/A 7",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 1"
+      "civico": "48/B 1",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 10"
+      "civico": "48/B 2",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 11"
+      "civico": "48/B 3",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 12"
+      "civico": "48/B 4",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 13"
+      "civico": "48/B 5",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 2"
+      "civico": "48/B 6",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 3"
+      "civico": "48/B 7",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 4"
+      "civico": "48/B 8",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 5"
+      "civico": "48/B 9 A",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 6"
+      "civico": "48/B 10",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 7"
+      "civico": "48/B 11",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 8"
+      "civico": "48/B 12",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B 9 A"
+      "civico": "48/B 13",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "C 1"
+      "civico": "48/C 1",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "C 3"
+      "civico": "48/C 3",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "C 4"
+      "civico": "48/C 4",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "C 6"
+      "civico": "48/C 6",
+      "stato": "B"
     }
   ],
   "VIA FRANCESCO PETRARCA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA FRATELLI CERVI": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

@@ -2,245 +2,245 @@
   "BORGATA BERT": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "BORGATA MOLINO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "BORGATA MONTECOMPOSTO": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "51",
-      "barrato": "B"
+      "civico": "51/B",
+      "stato": "B"
     }
   ],
   "BORGATA RICHETTO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     }
   ],
   "BORGATA TORRE DEL COLLE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "BORGATA VINDROLA": [
     {
-      "civico": "2",
-      "barrato": "F"
+      "civico": "2/F",
+      "stato": "B"
     }
   ],
   "STRADA CUMINIE": [
     {
-      "civico": "36",
-      "barrato": "A"
+      "civico": "36/A",
+      "stato": "B"
     },
     {
       "civico": "100",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA AL CERRONE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "D E"
+      "civico": "7/D E",
+      "stato": "B"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALL'ASILO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALMESE": [
     {
-      "civico": "35",
-      "barrato": "E 2"
+      "civico": "35/E 2",
+      "stato": "B"
     }
   ],
   "VIA ANDRUINO": [
     {
       "civico": "50",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BORGIONERA": [
     {
-      "civico": "89",
-      "barrato": "A"
+      "civico": "89/A",
+      "stato": "B"
     },
     {
-      "civico": "89",
-      "barrato": "B"
+      "civico": "89/B",
+      "stato": "B"
     },
     {
-      "civico": "89",
-      "barrato": "C"
+      "civico": "89/C",
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": "A"
+      "civico": "111/A",
+      "stato": "B"
     }
   ],
   "VIA CANAVERE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CELLE": [
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "B"
     },
     {
       "civico": "112",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEI VERNETI": [
     {
       "civico": "102",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FORTUNATO PERINO": [
     {
-      "civico": "5",
-      "barrato": "E"
+      "civico": "5/E",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "I"
+      "civico": "5/I",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "L"
+      "civico": "5/L",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "M"
+      "civico": "5/M",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "N"
+      "civico": "5/N",
+      "stato": "B"
     }
   ],
   "VIA MOLINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PELISSERE": [
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     }
   ],
   "VIA SANT'AMBROGIO": [
     {
       "civico": "79",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TORRE DEL COLLE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO COLETTO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO MARCHETTI": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

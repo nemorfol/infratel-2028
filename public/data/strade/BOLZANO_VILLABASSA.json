@@ -2,17 +2,17 @@
   "VIA BRAIES": [
     {
       "civico": "180",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STAZIONE": [
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

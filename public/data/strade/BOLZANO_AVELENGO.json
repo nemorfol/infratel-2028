@@ -2,25 +2,25 @@
   "LOCALITA' FALZEBEN": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA AVELENGO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANTA CATERINA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA WURZ": [
     {
       "civico": "44",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

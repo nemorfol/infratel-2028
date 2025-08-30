@@ -2,443 +2,443 @@
   "FRAZIONE LA CLEYVAZ": [
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "BIS"
+      "civico": "3/B",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "BISA"
+      "civico": "3/BIS",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/BISA",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "C"
+      "civico": "6/C",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "BIS"
+      "civico": "9/BIS",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "B"
+      "civico": "11/B",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "BIS"
+      "civico": "12/BIS",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "BISA"
+      "civico": "12/BISA",
+      "stato": "B"
     }
   ],
   "FRAZIONE LE CHOSOD": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/B",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "C"
+      "civico": "9/C",
+      "stato": "B"
     }
   ],
   "FRAZIONE LES GONTES": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "FRAZIONE LES PRAILLES": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "S"
-    },
-    {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "7/S",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "C"
+      "civico": "8/A",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "E"
+      "civico": "8/B",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "F"
+      "civico": "8/C",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "G"
+      "civico": "8/E",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "H"
+      "civico": "8/F",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/G",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "8/H",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "D"
+      "civico": "13/B",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "E"
+      "civico": "13/D",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "F"
+      "civico": "13/E",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "G"
+      "civico": "13/F",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "13/G",
+      "stato": "C"
+    },
+    {
+      "civico": "15/A",
+      "stato": "C"
     }
   ],
   "FRAZIONE LES PRELES": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": null
+      "civico": "7/A",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' ARLIOD": [
     {
-      "civico": "4",
-      "barrato": "C"
+      "civico": "4/C",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     }
   ],
   "LOCALITA' BERIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' CAPOLUOGO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "BIS"
-    },
-    {
-      "civico": "20",
-      "barrato": "A"
+      "civico": "16/BIS",
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "C"
+      "civico": "20/A",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": null
+      "civico": "20/B",
+      "stato": "B"
     },
     {
-      "civico": "31",
-      "barrato": "BISA"
+      "civico": "20/C",
+      "stato": "B"
     },
     {
-      "civico": "31",
-      "barrato": "BISB"
+      "civico": "31/BISA",
+      "stato": "B"
     },
     {
-      "civico": "31",
-      "barrato": "BISC"
+      "civico": "31/BISB",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "C"
+      "civico": "31/BISC",
+      "stato": "B"
     },
     {
-      "civico": "49",
-      "barrato": "BIS"
+      "civico": "38/C",
+      "stato": "B"
+    },
+    {
+      "civico": "49/BIS",
+      "stato": "B"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "62",
-      "barrato": "A"
+      "civico": "62/A",
+      "stato": "B"
     },
     {
-      "civico": "62",
-      "barrato": "B"
+      "civico": "62/B",
+      "stato": "B"
     },
     {
-      "civico": "71",
-      "barrato": "C"
+      "civico": "71/C",
+      "stato": "B"
     },
     {
-      "civico": "75",
-      "barrato": "A"
+      "civico": "75/A",
+      "stato": "B"
     }
   ],
   "LOCALITA' CHEZ LES CHUC": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' FRISSONIA SOPRA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' LA CLAYVA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' PRAVILLAIR": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' SEMON": [
     {
-      "civico": "1",
-      "barrato": "ABS"
+      "civico": "1/ABS",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "BBS"
+      "civico": "1/BBS",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "BIS A"
+      "civico": "1/BIS A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "CBS"
+      "civico": "1/CBS",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "E"
+      "civico": "5/E",
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' THOULES SOPRA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' THOULES SOTTO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' VESEY": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� LAVOD": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     }
   ]
 }

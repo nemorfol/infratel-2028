@@ -5,7 +5,7 @@ import 'leaflet/dist/leaflet.css';
 
 // Type definitions
 type LatLngTuple = [number, number];
-type Civico = { civico: string; barrato: string | null; };
+type Civico = { civico: string; stato: string | null; };
 
 interface MapProps {
   center: LatLngTuple;
@@ -22,8 +22,8 @@ function ChangeView({ center, zoom }: { center: LatLngTuple; zoom: number }) {
 }
 
 // Helper to get color based on status
-const getColorForStato = (barrato: string | null): string => {
-  switch (barrato) {
+const getColorForStato = (stato: string | null): string => {
+  switch (stato) {
     case 'A': return 'red';
     case 'B': return 'green';
     case 'C': return 'yellow';
@@ -43,7 +43,7 @@ const Map = ({ center, markerPosition, zoom, selectedCivico }: MapProps) => {
         <CircleMarker
           center={markerPosition}
           radius={8}
-          pathOptions={{ color: getColorForStato(selectedCivico.barrato), fillColor: getColorForStato(selectedCivico.barrato), fillOpacity: 0.8 }}
+          pathOptions={{ color: getColorForStato(selectedCivico.stato), fillColor: getColorForStato(selectedCivico.stato), fillOpacity: 0.8 }}
         >
           <Popup>
             Civico: {selectedCivico.civico}

@@ -2,77 +2,77 @@
   "CASCINA MAZZUCCO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA OLTREPO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ADUA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CARLO NOE'": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAVOUR": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DUCA D'AOSTA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE GRAPPA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RIVALBA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VITTORIO EMANUELE": [
     {
-      "civico": "23",
-      "barrato": "1"
+      "civico": "23/1",
+      "stato": "B"
     },
     {
-      "civico": "23",
-      "barrato": "3"
+      "civico": "23/3",
+      "stato": "B"
     }
   ],
   "VIALE MARCHESI DELLA VALLE": [
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     }
   ]
 }

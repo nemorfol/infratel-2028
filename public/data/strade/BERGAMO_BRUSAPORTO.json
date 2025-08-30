@@ -2,43 +2,43 @@
   "STRADA STATALE 42": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ALBANO": [
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "C"
     },
     {
-      "civico": "26",
-      "barrato": "D"
+      "civico": "26/D",
+      "stato": "C"
     },
     {
-      "civico": "28",
-      "barrato": "B"
+      "civico": "28/B",
+      "stato": "C"
     },
     {
-      "civico": "28",
-      "barrato": "E"
+      "civico": "28/E",
+      "stato": "C"
     }
   ],
   "VIA ANNA FRANK": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BEDER": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLE ROBINIE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

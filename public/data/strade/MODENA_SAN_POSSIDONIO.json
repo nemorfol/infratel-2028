@@ -2,33 +2,33 @@
   "STRADA PER CAVEZZO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALCIDE DE GASPERI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
-      "civico": "216",
-      "barrato": "A"
+      "civico": "216/A",
+      "stato": "C"
     },
     {
       "civico": "319",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SECCHIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

@@ -2,337 +2,337 @@
   "LOCALITA' BONDATI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' CANNELLETO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' IN COSTA": [
     {
       "civico": "99",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "101",
-      "barrato": "A"
+      "civico": "101/A",
+      "stato": "A"
     }
   ],
   "LOCALITA' MAZZALUCCHIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' POLISINA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' TOMBOLI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' VIGNOLI": [
     {
       "civico": "97",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA'� MAZZALUCCHIO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA AGNANELLO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CALDERAIO": [
     {
-      "civico": "25",
-      "barrato": "B"
+      "civico": "25/B",
+      "stato": "C"
     }
   ],
   "VIA CANFITTORI": [
     {
-      "civico": "70",
-      "barrato": "2"
+      "civico": "70/2",
+      "stato": "A"
     },
     {
-      "civico": "70",
-      "barrato": "A"
+      "civico": "70/A",
+      "stato": "A"
     }
   ],
   "VIA CASORINO": [
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "B"
     }
   ],
   "VIA CROCI": [
     {
-      "civico": "18",
-      "barrato": "A 1"
+      "civico": "18/A 1",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "A 2"
+      "civico": "18/A 2",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "A 3"
+      "civico": "18/A 3",
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLA CASA COMUNALE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DI MALOCCHIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DON LUIGI STURZO": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "VIA FILIPPO TURATI": [
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "C"
+      "civico": "8/C",
+      "stato": "B"
     }
   ],
   "VIA FRATELLI CERVI": [
     {
-      "civico": "17",
-      "barrato": "A 1"
+      "civico": "17/A 1",
+      "stato": "B"
     }
   ],
   "VIA GAMBERAIOLO": [
     {
-      "civico": "151",
-      "barrato": "A"
+      "civico": "151/A",
+      "stato": "C"
     }
   ],
   "VIA GRAZIA DELEDDA": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "16",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": null
+      "civico": "16/A",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA IN COSTA": [
     {
       "civico": "99",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "100",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "101",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "101",
-      "barrato": null
+      "civico": "101/A",
+      "stato": "B"
     }
   ],
   "VIA MACCHINO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "B"
+      "civico": "12/B",
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": "BIS"
+      "civico": "12/BIS",
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": null
+      "civico": "14/A",
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PEPPINO IMPASTATO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA RIMONDINI": [
     {
       "civico": "77",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TIGNANA": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "VIA VETRIANO": [
     {
-      "civico": "27",
-      "barrato": "B"
+      "civico": "27/B",
+      "stato": "B"
     },
     {
-      "civico": "72",
-      "barrato": "D"
+      "civico": "72/D",
+      "stato": "B"
     }
   ],
   "VIA VIGNOLI": [
     {
       "civico": "97",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

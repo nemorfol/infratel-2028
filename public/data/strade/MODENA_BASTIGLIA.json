@@ -2,77 +2,77 @@
   "VIA CANALETTO": [
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "41",
-      "barrato": "A"
+      "civico": "41/A",
+      "stato": "B"
     },
     {
-      "civico": "56",
-      "barrato": "A"
+      "civico": "56/A",
+      "stato": "B"
     },
     {
       "civico": "72",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "74",
-      "barrato": "A"
+      "civico": "74/A",
+      "stato": "B"
     }
   ],
   "VIA CHIAVICHE": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/B",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "C"
+      "civico": "15/C",
+      "stato": "C"
     },
     {
-      "civico": "21",
-      "barrato": "B"
+      "civico": "21/B",
+      "stato": "C"
     },
     {
-      "civico": "21",
-      "barrato": "D"
+      "civico": "21/D",
+      "stato": "C"
     }
   ],
   "VIA DEI MESTIERI": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FIUMICELLO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN CLEMENTE VALLE": [
     {
-      "civico": "14",
-      "barrato": "B"
+      "civico": "14/B",
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA STAZIONE": [
     {
-      "civico": "27",
-      "barrato": "I"
+      "civico": "27/I",
+      "stato": "C"
     }
   ]
 }

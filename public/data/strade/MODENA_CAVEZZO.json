@@ -2,83 +2,83 @@
   "VIA CANTONE": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DI MEZZO": [
     {
-      "civico": "29",
-      "barrato": "A"
+      "civico": "29/A",
+      "stato": "B"
     },
     {
-      "civico": "79",
-      "barrato": "A"
+      "civico": "79/A",
+      "stato": "B"
     }
   ],
   "VIA DOSSO": [
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "C"
     }
   ],
   "VIA GAVIOLI": [
     {
       "civico": "62",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LUNARDINA": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "VIA MALASPINA": [
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "B"
     },
     {
-      "civico": "33",
-      "barrato": "A"
+      "civico": "33/A",
+      "stato": "B"
     }
   ],
   "VIA NUOVA TRENTINI": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA RONCHI": [
     {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "6/1",
+      "stato": "B"
     },
     {
-      "civico": "25",
-      "barrato": "A"
+      "civico": "25/A",
+      "stato": "B"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SOTTARGINE": [
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "44",
-      "barrato": "B"
+      "civico": "44/B",
+      "stato": "C"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

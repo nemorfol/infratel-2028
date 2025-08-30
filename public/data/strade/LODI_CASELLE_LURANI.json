@@ -2,123 +2,123 @@
   "LARGO ROSARIO LIVATINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "B"
     }
   ],
   "VIA GAETANO DONIZETTI": [
     {
-      "civico": "13",
-      "barrato": "C"
+      "civico": "13/C",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "D"
+      "civico": "13/D",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "E"
+      "civico": "13/E",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "F"
+      "civico": "13/F",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "G"
+      "civico": "13/G",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "H"
-    },
-    {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "13/H",
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "C"
+      "civico": "15/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "D"
+      "civico": "15/B",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "E"
+      "civico": "15/C",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "F"
+      "civico": "15/D",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": null
+      "civico": "15/E",
+      "stato": "C"
+    },
+    {
+      "civico": "15/F",
+      "stato": "C"
     }
   ],
   "VIA GANDHI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LAGHETTO": [
     {
-      "civico": "5",
-      "barrato": "F"
+      "civico": "5/F",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "G"
+      "civico": "5/G",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "H"
+      "civico": "5/H",
+      "stato": "B"
     }
   ],
   "VIA LISONE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "58",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GEMINIANO": [
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "C"
     }
   ]
 }

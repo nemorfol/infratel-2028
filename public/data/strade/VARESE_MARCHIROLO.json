@@ -1,38 +1,38 @@
 {
   "VIA PROVINCIALE PER MARZIO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SCOGNO": [
     {
-      "civico": "16",
-      "barrato": "18"
+      "civico": "16/18",
+      "stato": "C"
     }
   ],
   "VIA SIGNO E CARPIO": [
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "B"
+      "civico": "18/B",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "C"
+      "civico": "18/C",
+      "stato": "B"
     }
   ],
   "VIA VICOLO CHIUSO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

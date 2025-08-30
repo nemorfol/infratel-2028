@@ -1,82 +1,82 @@
 {
   "VIA CA' D'ORO": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "C"
     }
   ],
   "VIA CESARE BATTISTI": [
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "B"
     }
   ],
   "VIA CHIESOLINE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEL LAVORO": [
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     }
   ],
   "VIA DELL'INDUSTRIA": [
     {
       "civico": "194",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FABIO FILZI": [
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "B"
     }
   ],
   "VIA RONEGO": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "VIA SAN MARTINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "2"
+      "civico": "17/2",
+      "stato": "B"
     }
   ],
   "VIA VELA": [
     {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "C"
+      "civico": "30/C",
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "D"
+      "civico": "30/D",
+      "stato": "B"
     }
   ],
   "VIA VICENTINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

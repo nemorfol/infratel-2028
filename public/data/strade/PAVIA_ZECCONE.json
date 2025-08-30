@@ -2,23 +2,23 @@
   "VIA CAVONE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GENERALE AMBROGIO CLERICI": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN ROCCO": [
     {
-      "civico": "16",
-      "barrato": "X"
+      "civico": "16/X",
+      "stato": "B"
     }
   ]
 }

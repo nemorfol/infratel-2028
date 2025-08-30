@@ -2,145 +2,145 @@
   "LOCALITA' DOTTE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' MULINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PRINCIPI": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' RUGGIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� GEIROLO": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "B"
     },
     {
-      "civico": "25",
-      "barrato": "A"
+      "civico": "25/A",
+      "stato": "C"
     }
   ],
   "LOCALITA'� MULINO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA'� PIANO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAIROLI": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ],
   "VIA CAVE": [
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "C"
+      "civico": "9/C",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "D"
+      "civico": "9/D",
+      "stato": "B"
     }
   ],
   "VIA CESARE BATTISTI": [
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/B",
+      "stato": "B"
     },
     {
-      "civico": "36",
-      "barrato": "BIS"
+      "civico": "36/BIS",
+      "stato": "B"
     }
   ],
   "VIA MAZZINI": [
     {
-      "civico": "43",
-      "barrato": "A"
+      "civico": "43/A",
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "A"
+      "civico": "47/A",
+      "stato": "B"
     },
     {
-      "civico": "102",
-      "barrato": "A"
+      "civico": "102/A",
+      "stato": "B"
     }
   ],
   "VIA PICCONE": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     }
   ],
   "VIA PRINCIPI": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     }
   ],
   "VIA ROMANA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

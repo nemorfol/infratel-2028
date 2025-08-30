@@ -1,244 +1,244 @@
 {
   "CASCINA CASSINETTA": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "A"
     }
   ],
   "CASCINA GANDINA": [
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "A"
     }
   ],
   "CASCINA GRUGNETTINO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA PILA BELVEDERE": [
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "C"
     }
   ],
   "CASCINA SOLDATI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA TASSI": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/B",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "D"
+      "civico": "1/C",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "E"
+      "civico": "1/D",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "F"
+      "civico": "1/E",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "G"
+      "civico": "1/F",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "H"
+      "civico": "1/G",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "I"
+      "civico": "1/H",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "L"
+      "civico": "1/I",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "M"
+      "civico": "1/L",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "N"
+      "civico": "1/M",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "O"
+      "civico": "1/N",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "P"
+      "civico": "1/O",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/P",
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "FRAZIONE MANDRINO": [
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "20"
+      "civico": "18/20",
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "FRAZIONE PONTELUNGO": [
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": null
-    },
-    {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/A",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "D"
+      "civico": "5/B",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/C",
+      "stato": "C"
+    },
+    {
+      "civico": "5/D",
+      "stato": "C"
     }
   ],
   "VIA BRESCIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "11"
+      "civico": "9/11",
+      "stato": "C"
     }
   ],
   "VIA DELLE GARZETTE": [
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": "B"
+      "civico": "23/B",
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": "E"
+      "civico": "23/E",
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": "F"
+      "civico": "23/F",
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": "G"
+      "civico": "23/G",
+      "stato": "C"
     }
   ],
   "VIA GIOVANNI AMENDOLA": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GORIZIA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "A"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "A"
     }
   ],
   "VIA GRUGNETTO": [
     {
-      "civico": "21",
-      "barrato": "B"
+      "civico": "21/B",
+      "stato": "B"
     }
   ],
   "VIA L.MANENTI": [
     {
-      "civico": "45",
-      "barrato": "A"
+      "civico": "45/A",
+      "stato": "B"
     },
     {
-      "civico": "45",
-      "barrato": "C"
+      "civico": "45/C",
+      "stato": "B"
     }
   ],
   "VIA TASSI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

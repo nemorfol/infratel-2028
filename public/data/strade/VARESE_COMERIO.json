@@ -1,36 +1,36 @@
 {
   "VIA ENEA SACCONAGHI": [
     {
-      "civico": "91",
-      "barrato": "B"
+      "civico": "91/B",
+      "stato": "B"
     }
   ],
   "VIA GIANCARLO FIDANZA": [
     {
-      "civico": "38",
-      "barrato": "T"
+      "civico": "38/T",
+      "stato": "C"
     }
   ],
   "VIA MATTELLO": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "C"
+      "civico": "26/C",
+      "stato": "B"
     }
   ],
   "VIA MONTE ROSA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SASSELLO": [
     {
-      "civico": "9",
-      "barrato": "G"
+      "civico": "9/G",
+      "stato": "C"
     }
   ]
 }

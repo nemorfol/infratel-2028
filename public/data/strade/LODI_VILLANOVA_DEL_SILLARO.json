@@ -2,225 +2,225 @@
   "AUTOSTRADA DEL SOLE": [
     {
       "civico": "999",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CASCINETTA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA CHIARAVALLE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GALEOTTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA MONGIARDINO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA POSTINO": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "999",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA SAN TOMMASO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA SANTA MARIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "999",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 188": [
     {
       "civico": "999",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 190": [
     {
       "civico": "999",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEGLI OLIVETANI": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA VITTORIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DON GIORGIO GELMINI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FRATELLI SOMMARIVA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA JOHN FITZGERARD KENNEDY": [
     {
-      "civico": "12",
-      "barrato": "C"
+      "civico": "12/C",
+      "stato": "C"
     }
   ],
   "VIA MADINI": [
     {
-      "civico": "42",
-      "barrato": "A"
+      "civico": "42/A",
+      "stato": "C"
     },
     {
-      "civico": "42",
-      "barrato": "B"
+      "civico": "42/B",
+      "stato": "C"
     },
     {
-      "civico": "42",
-      "barrato": "D"
+      "civico": "42/D",
+      "stato": "C"
     }
   ],
   "VIA MONSIGNOR LIVRAGHI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SAN LEONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     }
   ],
   "VIA SANT'ANGELO": [
     {
-      "civico": "5",
-      "barrato": "G"
+      "civico": "5/G",
+      "stato": "B"
     }
   ],
   "VIA XI FEBBRAIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO CHIARAVALLE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO G.MINOIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

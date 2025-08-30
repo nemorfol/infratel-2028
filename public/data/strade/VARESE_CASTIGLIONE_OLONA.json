@@ -1,92 +1,92 @@
 {
   "PIAZZA VILLE D'ETUPES": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DEI BOSCHI": [
     {
       "civico": "38",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLE STELLE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIOVANNI BOCCACCIO": [
     {
-      "civico": "18",
-      "barrato": "B"
+      "civico": "18/B",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GIUSTI": [
     {
-      "civico": "0",
-      "barrato": "SNC 3"
+      "civico": "0/SNC 3",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "T"
+      "civico": "11/T",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "6 B"
+      "civico": "13/6 B",
+      "stato": "C"
     }
   ],
   "VIA MADESIMO": [
     {
       "civico": "72",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MERANO": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ORTIGARA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA VAL SCURA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

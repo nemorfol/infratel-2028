@@ -44,7 +44,8 @@ Papa.parse(fileStream, {
                 comune: header.indexOf('comune'),
                 strada: header.indexOf('strada'),
                 civico: header.indexOf('civico'),
-                barrato: header.indexOf('barrato'), // Added barrato
+                barrato: header.indexOf('barrato'),
+                caratteristica: header.indexOf('caratteristica'),
             };
             if (Object.values(colIndices).some(v => v === -1)) {
                 console.error("FATAL ERROR: Could not find required columns in header.", colIndices);
@@ -58,7 +59,9 @@ Papa.parse(fileStream, {
             const comune = record[colIndices.comune];
             const strada = record[colIndices.strada];
             const civico = record[colIndices.civico];
-            const barrato = record[colIndices.barrato] || null; // Get barrato, default to null
+            const barrato = record[colIndices.barrato] || null;
+            const caratteristica = record[colIndices.caratteristica] || null;
+            const fullCivico = barrato ? `${civico}/${barrato}` : civico;
 
             // Populate Regioni -> Province
             if (regione && provincia) {
@@ -78,7 +81,7 @@ Papa.parse(fileStream, {
                 const comKey = toSafeFilename(`${provincia}_${comune}`);
                 if (!comuneStradeECivici[comKey]) comuneStradeECivici[comKey] = {};
                 if (!comuneStradeECivici[comKey][strada]) comuneStradeECivici[comKey][strada] = [];
-                comuneStradeECivici[comKey][strada].push({ civico, barrato });
+                comuneStradeECivici[comKey][strada].push({ civico: fullCivico, stato: caratteristica });
             }
         }
         rowCounter++;

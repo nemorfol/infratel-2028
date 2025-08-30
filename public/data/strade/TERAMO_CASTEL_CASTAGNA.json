@@ -1,92 +1,92 @@
 {
   "CONTRADA CASTAGNA VECCHIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "CONTRADA CHIAVONI": [
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     }
   ],
   "CONTRADA COLLE MACCARONE": [
     {
-      "civico": "2",
-      "barrato": "I 1"
+      "civico": "2/I 1",
+      "stato": "A"
     }
   ],
   "CONTRADA CUPO DI NOCE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA MARCONI": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     }
   ],
   "CONTRADA PAPPAFICO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA RONZANO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CONTRADA SCARICASALE": [
     {
-      "civico": "8",
-      "barrato": "I 1"
+      "civico": "8/I 1",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/B",
+      "stato": "B"
     }
   ],
   "CONTRADA VASTO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CONTRADA VILLA SALSA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "FRAZIONE SANTA MARIA": [
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

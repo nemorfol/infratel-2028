@@ -1,50 +1,50 @@
 {
   "STRADA SAN LORENZO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA CASA DELL'ALPINO": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA NENVILLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIAZZALE CHIESA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIAZZETTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VEZZALE": [
     {
       "civico": "112",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO FONTANINO": [
     {
       "civico": "87",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO LAZERE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

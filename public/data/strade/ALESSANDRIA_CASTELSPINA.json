@@ -2,123 +2,123 @@
   "PIAZZA BOCCASSO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA DELLA LIBERTA'": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA DELLA LIBERTA'�": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 184": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALDO MORO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASTELFORTE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAVOUR": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CIRCONVALLAZIONE": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "C"
     }
   ],
   "VIA FELICE CAVALLOTTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "17"
+      "civico": "15/17",
+      "stato": "B"
     }
   ],
   "VIA GATTARA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GRAMSCI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MADRE CHIARA RICCI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MAZZINI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     }
   ],
   "VIA PADRE GAMALERO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "59",
-      "barrato": "BIS"
+      "civico": "59/BIS",
+      "stato": "B"
     },
     {
-      "civico": "65",
-      "barrato": "67"
+      "civico": "65/67",
+      "stato": "B"
     }
   ],
   "VIA SAN BERNARDINO": [
     {
-      "civico": "19",
-      "barrato": "C"
+      "civico": "19/C",
+      "stato": "B"
     }
   ],
   "VIA TORRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

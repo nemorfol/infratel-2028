@@ -1,116 +1,116 @@
 {
   "CASCINA BARBISONA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CARLO CATTANEO": [
     {
       "civico": "71",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "111",
-      "barrato": "18"
+      "civico": "111/4",
+      "stato": "A"
     },
     {
-      "civico": "111",
-      "barrato": "25"
+      "civico": "111/18",
+      "stato": "A"
     },
     {
-      "civico": "111",
-      "barrato": "33"
+      "civico": "111/25",
+      "stato": "A"
     },
     {
-      "civico": "111",
-      "barrato": "39"
+      "civico": "111/33",
+      "stato": "A"
     },
     {
-      "civico": "111",
-      "barrato": "4"
+      "civico": "111/39",
+      "stato": "A"
     },
     {
-      "civico": "111",
-      "barrato": "41"
+      "civico": "111/41",
+      "stato": "A"
     },
     {
-      "civico": "111",
-      "barrato": "51"
+      "civico": "111/51",
+      "stato": "A"
     },
     {
-      "civico": "111",
-      "barrato": "53"
+      "civico": "111/53",
+      "stato": "A"
     },
     {
       "civico": "131",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "133",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "141",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "149",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "155",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "157",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCINA CAVAGNA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "C"
     }
   ],
   "VIA DELLE FADINE": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN GIOVANNI BOSCO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN QUIRICO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANT'ALESSANDRO": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

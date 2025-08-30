@@ -2,51 +2,51 @@
   "STRADA CORPO DEGLI ALPINI": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA III NOVEMBRE": [
     {
-      "civico": "6",
-      "barrato": "22"
+      "civico": "6/22",
+      "stato": "B"
     }
   ],
   "VIA LORANZE'": [
     {
-      "civico": "3",
-      "barrato": "2"
+      "civico": "3/2",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MOLA DI LARISSE'": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

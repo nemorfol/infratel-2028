@@ -1,138 +1,138 @@
 {
   "VIA BELLOTTI": [
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "B"
+      "civico": "18/B",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "C"
+      "civico": "18/C",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "D"
+      "civico": "18/D",
+      "stato": "B"
     }
   ],
   "VIA CARROBBIO": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FORNACI": [
     {
-      "civico": "28",
-      "barrato": "A"
+      "civico": "28/A",
+      "stato": "B"
     }
   ],
   "VIA FRATELLI CARO": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GASTALDI": [
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "60",
-      "barrato": "P T"
+      "civico": "60/P T",
+      "stato": "C"
     }
   ],
   "VIA GIROLA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "T"
+      "civico": "9/T",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     }
   ],
   "VIA LUIGI PIRANDELLO": [
     {
-      "civico": "7",
-      "barrato": "PR"
+      "civico": "7/PR",
+      "stato": "B"
     }
   ],
   "VIA NOVELLINA": [
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ORESTE ALBERTINI": [
     {
-      "civico": "1",
-      "barrato": "T"
+      "civico": "1/T",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "PT"
+      "civico": "4/PT",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "B"
     }
   ],
   "VIA RAFFAELLO SANZIO": [
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     }
   ],
   "VIA SCERA'�": [
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "B"
     }
   ],
   "VIA VIGNAZZA": [
     {
-      "civico": "8",
-      "barrato": "PT"
+      "civico": "8/PT",
+      "stato": "B"
     }
   ],
   "VIA VOLPI": [
     {
-      "civico": "52",
-      "barrato": "A"
+      "civico": "52/A",
+      "stato": "B"
     }
   ],
   "VIA XXIV MAGGIO": [
     {
-      "civico": "57",
-      "barrato": "A"
+      "civico": "57/A",
+      "stato": "B"
     },
     {
       "civico": "71",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -2,109 +2,109 @@
   "VIA ALESSANDRO OLIVERO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GATTINARA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONASTEROLO": [
     {
-      "civico": "12",
-      "barrato": "11"
+      "civico": "12/11",
+      "stato": "B"
     }
   ],
   "VIA MONTE DRUINA": [
     {
-      "civico": "25",
-      "barrato": "A"
+      "civico": "25/A",
+      "stato": "B"
     }
   ],
   "VIA RIO TRONTA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RISORGIMENTO": [
     {
-      "civico": "5",
-      "barrato": "15"
+      "civico": "5/15",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "19"
+      "civico": "5/19",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "21"
+      "civico": "5/21",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "23"
+      "civico": "5/23",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "20",
-      "barrato": "BIS"
+      "civico": "20/BIS",
+      "stato": "B"
     }
   ],
   "VIA VARISELLA": [
     {
-      "civico": "5",
-      "barrato": "1 A"
+      "civico": "5/1 A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "4 A"
+      "civico": "5/4 A",
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "32",
-      "barrato": "BIS"
+      "civico": "32/BIS",
+      "stato": "B"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "69",
-      "barrato": "B"
+      "civico": "69/B",
+      "stato": "B"
     },
     {
       "civico": "104",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

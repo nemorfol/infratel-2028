@@ -1,80 +1,80 @@
 {
   "BORGO RIGHINI": [
     {
-      "civico": "65",
-      "barrato": "A"
+      "civico": "65/A",
+      "stato": "B"
     },
     {
       "civico": "72",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA VITTORIO EMANUELE": [
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BORGO BELLO": [
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "C"
     }
   ],
   "VIA CENTIS": [
     {
       "civico": "103",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "105",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA NOGAREDO": [
     {
-      "civico": "61",
-      "barrato": "A"
+      "civico": "61/A",
+      "stato": "B"
     }
   ],
   "VIA NUOVA": [
     {
-      "civico": "132",
-      "barrato": "A"
+      "civico": "132/A",
+      "stato": "B"
     }
   ],
   "VIA PLASENCIS": [
     {
-      "civico": "64",
-      "barrato": "A"
+      "civico": "64/A",
+      "stato": "B"
     },
     {
-      "civico": "80",
-      "barrato": "B"
+      "civico": "80/B",
+      "stato": "B"
     }
   ],
   "VIA SAN DANIELE": [
     {
-      "civico": "96",
-      "barrato": "A"
+      "civico": "96/A",
+      "stato": "B"
     },
     {
-      "civico": "103",
-      "barrato": "A"
+      "civico": "103/A",
+      "stato": "C"
     },
     {
-      "civico": "103",
-      "barrato": "B"
+      "civico": "103/B",
+      "stato": "C"
     }
   ],
   "VIA UNICA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

@@ -2,47 +2,47 @@
   "VIA ALBARONE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CORTE MORONATI": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PALAZZO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     }
   ],
   "VIA ROVIZZA VECCHIA": [
     {
-      "civico": "0",
-      "barrato": "SNC 3"
+      "civico": "0/SNC 3",
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": "SNC 4"
+      "civico": "0/SNC 4",
+      "stato": "B"
     }
   ],
   "VIA SAN MARTINO DELLA BATTAGLIA": [
     {
-      "civico": "176",
-      "barrato": "C"
+      "civico": "176/C",
+      "stato": "C"
     }
   ]
 }

@@ -2,123 +2,123 @@
   "CASCINA MONETA": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "GALLERIA VOLTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA VICINALE CASCINA PAOLINA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DON LUIGI STURZO": [
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "A"
     },
     {
-      "civico": "4",
-      "barrato": "C"
+      "civico": "4/C",
+      "stato": "A"
     }
   ],
   "VIA FILIPPO TURATI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA I MAGGIO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PALMIRO TOGLIATTI": [
     {
       "civico": "6",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/A",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "C"
+      "civico": "6/B",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "D"
+      "civico": "6/C",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": null
+      "civico": "6/D",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "B"
     }
   ],
   "VIALE GERMANIA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "21/A",
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": "E"
+      "stato": "C"
     },
     {
-      "civico": "26",
-      "barrato": null
+      "civico": "26/E",
+      "stato": "C"
     }
   ],
   "VIALE RICCARDO GAVAZZI": [
     {
-      "civico": "114",
-      "barrato": "A"
+      "civico": "114/A",
+      "stato": "B"
     },
     {
-      "civico": "114",
-      "barrato": "B"
+      "civico": "114/B",
+      "stato": "B"
     }
   ]
 }

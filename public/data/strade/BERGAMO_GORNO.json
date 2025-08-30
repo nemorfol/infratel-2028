@@ -1,90 +1,90 @@
 {
   "PIAZZA CALCHERA": [
     {
-      "civico": "1",
-      "barrato": "A SNC 1"
+      "civico": "1/A SNC 1",
+      "stato": "B"
     }
   ],
   "PIAZZA MINATORI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA CAMPELLO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CORNELLO": [
     {
-      "civico": "8",
-      "barrato": "F"
+      "civico": "8/F",
+      "stato": "B"
     }
   ],
   "VIA DEI MOLINI": [
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MUNICIPIO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PER CHIGNOLO": [
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     }
   ],
   "VIA POZZO": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PREALPINA INFERIORE": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "B"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RIPA": [
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANT'ANTONIO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ZUCCO ALBE": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     }
   ]
 }

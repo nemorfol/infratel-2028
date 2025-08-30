@@ -2,463 +2,463 @@
   "PARCO RIMEMBRANZA": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA A.CATALDI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ARGELATO": [
     {
-      "civico": "12",
-      "barrato": "1"
+      "civico": "12/1",
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "B"
+      "civico": "14/B",
+      "stato": "C"
     }
   ],
   "VIA BOLOGNA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "24",
-      "barrato": "2"
+      "stato": "A"
     },
     {
-      "civico": "24",
-      "barrato": null
-    },
-    {
-      "civico": "26",
-      "barrato": "3"
+      "civico": "24/2",
+      "stato": "A"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "A"
+    },
+    {
+      "civico": "26/3",
+      "stato": "A"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASADIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": "2"
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": "3"
+      "civico": "4/2",
+      "stato": "C"
     },
     {
-      "civico": "4",
-      "barrato": null
+      "civico": "4/3",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "2"
+      "civico": "8/1",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "3"
+      "civico": "8/2",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/3",
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CHIESA": [
     {
-      "civico": "10",
-      "barrato": "12"
+      "civico": "10/12",
+      "stato": "C"
     }
   ],
   "VIA CINQUANTA": [
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     }
   ],
   "VIA CODINI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": "2"
+      "civico": "13/1",
+      "stato": "C"
     },
     {
-      "civico": "13",
-      "barrato": null
-    },
-    {
-      "civico": "15",
-      "barrato": "1"
+      "civico": "13/2",
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": "2"
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "3"
+      "civico": "15/1",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/2",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/3",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": null
+      "civico": "15/A",
+      "stato": "C"
+    },
+    {
+      "civico": "15/B",
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CODRONCHI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": "2"
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/2",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/B",
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "2"
+      "civico": "14/1",
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": null
+      "civico": "14/2",
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": null
+      "civico": "16/A",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     }
   ],
   "VIA GIUDEI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "10",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "C"
+      "civico": "10/A",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": null
+      "civico": "10/C",
+      "stato": "B"
     }
   ],
   "VIA LARGA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     }
   ],
   "VIA LEPRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MASCHERINO": [
     {
-      "civico": "7",
-      "barrato": "1"
+      "civico": "7/1",
+      "stato": "C"
     }
   ],
   "VIA PALAZZACCIO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA POGGIO RENATICO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PROVINCIALE BOLOGNA": [
     {
-      "civico": "8",
-      "barrato": "6"
+      "civico": "8/6",
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN BENEDETTO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANTA MARIA IN DUNO": [
     {
       "civico": "3",
-      "barrato": "2"
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/2",
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": null
-    },
-    {
-      "civico": "4",
-      "barrato": "2"
+      "civico": "3/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "4/2",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": "2"
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "3"
+      "civico": "5/2",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": null
-    },
-    {
-      "civico": "6",
-      "barrato": "1"
+      "civico": "5/3",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": "2"
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": null
+      "civico": "6/1",
+      "stato": "C"
+    },
+    {
+      "civico": "6/2",
+      "stato": "C"
     }
   ],
   "VIA SELVATICO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "1"
+      "civico": "14/1",
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": "2"
-    },
-    {
-      "civico": "26",
-      "barrato": "A"
+      "civico": "14/2",
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "26/A",
+      "stato": "C"
+    },
+    {
+      "civico": "30/A",
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STIATICO": [
     {
-      "civico": "1",
-      "barrato": "2 A"
+      "civico": "1/2 A",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "2 B"
+      "civico": "1/2 B",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "C"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA STRADELLO SAN GIORGIO": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "C"
     }
   ],
   "VIA XXV APRILE 1945": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

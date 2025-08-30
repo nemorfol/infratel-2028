@@ -1,66 +1,66 @@
 {
   "LOCALITA' GENIAU": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA DON EFISIO SIDDI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA REGINA ELENA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "43",
-      "barrato": "A"
+      "civico": "43/A",
+      "stato": "B"
     }
   ],
   "VIA SANT'ANTIOCO": [
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO EMANUELE": [
     {
-      "civico": "89",
-      "barrato": "A"
+      "civico": "89/A",
+      "stato": "B"
     },
     {
-      "civico": "91",
-      "barrato": "A"
+      "civico": "91/A",
+      "stato": "B"
     },
     {
-      "civico": "147",
-      "barrato": "A"
+      "civico": "147/A",
+      "stato": "B"
     }
   ]
 }

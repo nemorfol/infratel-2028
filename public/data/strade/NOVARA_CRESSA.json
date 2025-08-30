@@ -2,265 +2,265 @@
   "CASCINA CANOVA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' SAN GIOVANNI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALBERTO SAINI": [
     {
-      "civico": "8",
-      "barrato": "TER"
+      "civico": "8/TER",
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "34",
-      "barrato": "BIS"
+      "stato": "C"
     },
     {
-      "civico": "34",
-      "barrato": null
+      "civico": "34/BIS",
+      "stato": "C"
     }
   ],
   "VIA BORGOMANERO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
-      "civico": "80",
-      "barrato": "BIS"
+      "civico": "80/BIS",
+      "stato": "B"
     }
   ],
   "VIA CANOVA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CARBONESCA": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASTELLO": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEI PARTIGIANI": [
     {
-      "civico": "8",
-      "barrato": "BIS"
+      "civico": "8/BIS",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "TER"
+      "civico": "8/TER",
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": "BIS"
+      "civico": "24/BIS",
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FRATELLI FERRI": [
     {
-      "civico": "8",
-      "barrato": "BIS"
+      "civico": "8/BIS",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "BIS"
+      "civico": "20/BIS",
+      "stato": "B"
     }
   ],
   "VIA GAETANO SALVEMINI": [
     {
-      "civico": "5",
-      "barrato": "TER"
+      "civico": "5/TER",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA NOVARA": [
     {
-      "civico": "16",
-      "barrato": "BIS"
+      "civico": "16/BIS",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "BIS"
+      "civico": "18/BIS",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "BIS"
+      "civico": "26/BIS",
+      "stato": "B"
     }
   ],
   "VIA SAN GIULIO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANT'ALESSANDRO": [
     {
       "civico": "12",
-      "barrato": "BIS"
+      "stato": "C"
     },
     {
-      "civico": "12",
-      "barrato": null
+      "civico": "12/BIS",
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SUNO": [
     {
-      "civico": "19",
-      "barrato": "BIS"
+      "civico": "19/BIS",
+      "stato": "B"
     }
   ],
   "VICOLO CARLO MARX": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "BIS"
+      "civico": "9/BIS",
+      "stato": "B"
     }
   ],
   "VICOLO DEI GELSI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO FERRI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO I MAGGIO": [
     {
-      "civico": "7",
-      "barrato": "BIS"
+      "civico": "7/BIS",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "TER"
+      "civico": "7/TER",
+      "stato": "B"
     }
   ]
 }

@@ -2,19 +2,19 @@
   "AUTOSTRADA AREA SERVIZIO BARACCA EST": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "AUTOSTRADA AREA SERVIZIO BARACCA OVEST": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "AUTOSTRADA STAZIONE DI SERVIZIO BARACCA OVEST": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ]
 }

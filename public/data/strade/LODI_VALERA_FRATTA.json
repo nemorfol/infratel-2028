@@ -2,203 +2,203 @@
   "CASCINA BOSCATA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CANOVA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA CASTELLO": [
     {
-      "civico": "4",
-      "barrato": "G"
+      "civico": "4/G",
+      "stato": "C"
     }
   ],
   "CASCINA SACCHELLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' CARROBBIO": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA'� CARROBBIO": [
     {
       "civico": "9",
-      "barrato": "24"
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "27"
+      "civico": "9/24",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/27",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "17"
+      "civico": "15/17",
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 123": [
     {
       "civico": "999",
-      "barrato": "999"
+      "stato": "B"
     },
     {
-      "civico": "999",
-      "barrato": null
+      "civico": "999/999",
+      "stato": "B"
     }
   ],
   "STRADA STATALE 412": [
     {
       "civico": "999",
-      "barrato": "999"
+      "stato": "C"
     },
     {
-      "civico": "999",
-      "barrato": null
+      "civico": "999/999",
+      "stato": "C"
     }
   ],
   "VIA ANTONIO ENRICO MONTI": [
     {
-      "civico": "2",
-      "barrato": "PT"
+      "civico": "2/PT",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "1 P"
+      "civico": "6/1 P",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "P T"
+      "civico": "6/P T",
+      "stato": "B"
     }
   ],
   "VIA CANOVA": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "B"
     }
   ],
   "VIA DEL CIMITERO": [
     {
       "civico": "999",
-      "barrato": "999"
+      "stato": "B"
     },
     {
-      "civico": "999",
-      "barrato": null
+      "civico": "999/999",
+      "stato": "B"
     }
   ],
   "VIA DEL GALLARATE": [
     {
-      "civico": "5",
-      "barrato": "A B"
+      "civico": "5/A B",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "P 3"
+      "civico": "7/P 3",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "1 P"
+      "civico": "8/1 P",
+      "stato": "B"
     }
   ],
   "VIA DON LUIGI STURZO": [
     {
-      "civico": "23",
-      "barrato": "C"
+      "civico": "23/C",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
-      "civico": "14",
-      "barrato": "16"
+      "civico": "14/16",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "20"
+      "civico": "18/20",
+      "stato": "B"
     }
   ],
   "VIA JOHN E ROBERT KENNEDY": [
     {
-      "civico": "1",
-      "barrato": "P 2"
+      "civico": "1/P 2",
+      "stato": "B"
     }
   ],
   "VIA MILANO": [
     {
-      "civico": "10",
-      "barrato": "12"
+      "civico": "10/12",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "E"
+      "civico": "19/E",
+      "stato": "B"
     }
   ],
   "VIA SAN ZENONE": [
     {
-      "civico": "10",
-      "barrato": "12"
+      "civico": "10/12",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "17"
+      "civico": "15/17",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "18"
+      "civico": "16/18",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "29"
+      "civico": "27/29",
+      "stato": "B"
     }
   ],
   "VIA SANT'ANGELO": [
     {
-      "civico": "14",
-      "barrato": "16"
+      "civico": "14/16",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO EMANUELE II": [
     {
-      "civico": "20",
-      "barrato": "22"
+      "civico": "20/22",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "2 P"
+      "civico": "27/2 P",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "2 P 1"
+      "civico": "27/2 P 1",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "2 P 2"
+      "civico": "27/2 P 2",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "2 PA"
+      "civico": "27/2 PA",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "2 PB"
+      "civico": "27/2 PB",
+      "stato": "B"
     }
   ]
 }

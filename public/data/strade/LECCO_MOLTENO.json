@@ -2,39 +2,39 @@
   "PIAZZA DON GIUSEPPE BIFFI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DON LUIGI GUANELLA": [
     {
-      "civico": "9",
-      "barrato": "1"
+      "civico": "9/1",
+      "stato": "C"
     }
   ],
   "VIA GIACOMO PUCCINI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIALE ADOLFO CONSOLINI": [
     {
       "civico": "82",
-      "barrato": "2"
+      "stato": "C"
     },
     {
-      "civico": "82",
-      "barrato": null
+      "civico": "82/2",
+      "stato": "C"
     }
   ],
   "VIALE LOMBARDIA": [
     {
-      "civico": "7",
-      "barrato": "9"
+      "civico": "7/9",
+      "stato": "B"
     }
   ]
 }

@@ -2,25 +2,25 @@
   "VIA AREDO": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA BIORCA": [
     {
-      "civico": "0",
-      "barrato": "SNC 1"
+      "civico": "0/SNC 1",
+      "stato": "B"
     }
   ],
   "VIA VOLTA": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO SCURO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

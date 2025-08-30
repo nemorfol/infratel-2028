@@ -2,71 +2,71 @@
   "VIA CHIESA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GRAZIA DELEDDA": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": "X"
+      "stato": "B"
     },
     {
-      "civico": "30",
-      "barrato": null
-    },
-    {
-      "civico": "32",
-      "barrato": "X"
+      "civico": "30/X",
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "32/X",
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": "X"
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": null
+      "civico": "34/X",
+      "stato": "B"
     }
   ],
   "VIA NIGARZOLA": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

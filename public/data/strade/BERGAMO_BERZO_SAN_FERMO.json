@@ -1,84 +1,84 @@
 {
   "VIA BERGAMO": [
     {
-      "civico": "19",
-      "barrato": "B"
+      "civico": "19/B",
+      "stato": "B"
     }
   ],
   "VIA BESCASOLO": [
     {
-      "civico": "27",
-      "barrato": "A"
+      "civico": "27/A",
+      "stato": "B"
     },
     {
-      "civico": "35",
-      "barrato": "B"
+      "civico": "35/B",
+      "stato": "B"
     }
   ],
   "VIA CAVALIERI DI VITTORIO VENETO": [
     {
-      "civico": "53",
-      "barrato": "B"
+      "civico": "53/B",
+      "stato": "B"
     }
   ],
   "VIA EUROPA UNITA": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "D"
+      "civico": "5/D",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "F"
+      "civico": "19/F",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "G"
+      "civico": "19/G",
+      "stato": "B"
     },
     {
       "civico": "37",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "A"
+      "civico": "38/A",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "B"
+      "civico": "38/B",
+      "stato": "B"
     }
   ],
   "VIA SAN GIOVANNI BOSCO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANT'ANNA": [
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "B"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO CHIUSO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

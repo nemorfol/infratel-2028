@@ -2,425 +2,425 @@
   "CASCINA ARLUGO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA BERTORA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CASSINETTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CAVOLETTO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "B"
+      "civico": "7/B",
+      "stato": "B"
     }
   ],
   "CASCINA CITTADINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA CONTINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA CROSINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA DI MEZZO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GAGGIANESE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "25",
-      "barrato": "A"
+      "civico": "25/A",
+      "stato": "B"
     },
     {
-      "civico": "25",
-      "barrato": "B"
+      "civico": "25/B",
+      "stato": "B"
     },
     {
       "civico": "250",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA LONGONA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA MELGHERA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "1"
+      "civico": "15/1",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "2"
+      "civico": "15/2",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "3"
+      "civico": "15/3",
+      "stato": "C"
     }
   ],
   "CASCINA MENTIRONE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA MICONA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "1"
+      "civico": "17/1",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "10"
+      "civico": "17/2",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "2"
+      "civico": "17/3",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "3"
+      "civico": "17/4",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "4"
+      "civico": "17/5",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "5"
+      "civico": "17/6",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "6"
+      "civico": "17/7",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "7"
+      "civico": "17/8",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "8"
+      "civico": "17/9",
+      "stato": "B"
     },
     {
-      "civico": "17",
-      "barrato": "9"
+      "civico": "17/10",
+      "stato": "B"
     }
   ],
   "CASCINA MOTTAIOLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA PAU'": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA ROTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA SANTA CATERINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA TRINCHERA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA VILLANOVA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA VITTORIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CORSO CANOBBIA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ALDO MORO": [
     {
-      "civico": "20",
-      "barrato": "A"
+      "civico": "20/A",
+      "stato": "B"
     }
   ],
   "VIA CANTORI E ALLIEVI": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA FEDERICO CONFALONIERI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "16",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": null
+      "civico": "16/A",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "B"
+      "civico": "18/B",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "C"
+      "civico": "18/C",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "D"
+      "civico": "18/D",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "E"
+      "civico": "18/E",
+      "stato": "C"
     }
   ],
   "VIA LEA GAROFALO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "C"
+      "civico": "17/C",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "E"
+      "civico": "17/E",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "F"
+      "civico": "17/F",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "H"
+      "civico": "17/H",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "I"
+      "civico": "17/I",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "L"
+      "civico": "17/L",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "M"
+      "civico": "17/M",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "N"
+      "civico": "17/N",
+      "stato": "A"
     }
   ],
   "VIA ORTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": "BIS"
+      "stato": "A"
     },
     {
-      "civico": "9",
-      "barrato": null
+      "civico": "9/BIS",
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SANDRO PERTINI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/A",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "D"
+      "civico": "2/C",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "E"
+      "civico": "2/D",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "F"
+      "civico": "2/E",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "G"
+      "civico": "2/F",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "H"
+      "civico": "2/G",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/H",
+      "stato": "A"
     }
   ]
 }

@@ -1,150 +1,150 @@
 {
   "BORGATA MOLLA": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "C"
     }
   ],
   "BORGATA SCARIONE": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LARGO EUROPA": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "47",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "49",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LARGO ITALIA": [
     {
-      "civico": "8",
-      "barrato": "2"
+      "civico": "8/2",
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "3"
+      "civico": "8/3",
+      "stato": "C"
     }
   ],
   "PIAZZA DON MILANI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PEDEMONTANA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "A"
     }
   ],
   "STRADA STATALE 565": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALFREDO GIANOTTI": [
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CIRCONVALLAZIONE": [
     {
-      "civico": "57",
-      "barrato": "B"
+      "civico": "57/B",
+      "stato": "B"
     },
     {
-      "civico": "59",
-      "barrato": "A"
+      "civico": "59/A",
+      "stato": "B"
     },
     {
-      "civico": "59",
-      "barrato": "E"
+      "civico": "59/E",
+      "stato": "B"
     }
   ],
   "VIA DIETRO CASTELLO": [
     {
       "civico": "84",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "86",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ENRICO FERMI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE QUILICO": [
     {
-      "civico": "28",
-      "barrato": "1"
+      "civico": "28/1",
+      "stato": "C"
     },
     {
-      "civico": "28",
-      "barrato": "5"
+      "civico": "28/5",
+      "stato": "C"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE GRAPPA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA NOSETTA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIAZZO": [
     {
-      "civico": "9",
-      "barrato": "2"
+      "civico": "9/2",
+      "stato": "B"
     }
   ],
   "VIA SAN GRATO": [
     {
       "civico": "6",
-      "barrato": "2"
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": null
+      "civico": "6/2",
+      "stato": "C"
     }
   ],
   "VIA TRIPOLI": [
     {
       "civico": "45",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

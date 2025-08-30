@@ -2,127 +2,127 @@
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA NAZIONALE DELLE PUGLIE": [
     {
       "civico": "309",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "331",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "333",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "335",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "339",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "341",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "343",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "347",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "359",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "369",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "371",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PROVINCIALE PER NOLA": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     }
   ],
   "VIA QUARANTA MOGGIA": [
     {
       "civico": "57",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANT'ELENA": [
     {
-      "civico": "2",
-      "barrato": "BIS"
+      "civico": "2/BIS",
+      "stato": "C"
     }
   ],
   "VIA SELVA": [
     {
       "civico": "1",
-      "barrato": "3"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/3",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VARIANTE 7 BIS": [
     {
       "civico": "122",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "126",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VINCENZO MENNA": [
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "C"
     }
   ],
   "VIA VITALIANO D'ALESSANDRO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

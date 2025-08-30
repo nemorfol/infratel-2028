@@ -1,50 +1,50 @@
 {
   "TRAVERSA DI VIA DELLA RESISTENZA": [
     {
-      "civico": "9",
-      "barrato": "LOT"
+      "civico": "9/LOT",
+      "stato": "A"
     }
   ],
   "VIA ANTONIO GRAMSCI": [
     {
       "civico": "78",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "78",
-      "barrato": null
+      "civico": "78/B",
+      "stato": "C"
     },
     {
       "civico": "86",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "88",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "90",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PALMIRO TOGLIATTI": [
     {
-      "civico": "1",
-      "barrato": "LOTTO"
+      "civico": "1/LOTTO",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "L"
+      "civico": "2/L",
+      "stato": "A"
     },
     {
-      "civico": "8",
-      "barrato": "L"
+      "civico": "8/L",
+      "stato": "A"
     }
   ],
   "VIALE FRATELLI ROSSETTI": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

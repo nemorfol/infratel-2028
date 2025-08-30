@@ -1,90 +1,90 @@
 {
   "CONTRADA BASIA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "CONTRADA PAPINA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "C"
     }
   ],
   "PIAZZA GIACOMO MATTEOTTI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "TRAVERSA DI VIA FACCIOLA'": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ADUA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA COLACA'": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     }
   ],
   "VIA FACCIOLA'": [
     {
-      "civico": "4",
-      "barrato": "C"
+      "civico": "4/C",
+      "stato": "B"
     },
     {
-      "civico": "4",
-      "barrato": "O"
+      "civico": "4/O",
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTALTO": [
     {
       "civico": "60",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ORAZIO LUPIS": [
     {
-      "civico": "26",
-      "barrato": "B"
+      "civico": "26/B",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "16",
-      "barrato": "A"
+      "civico": "16/A",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO EMANUELE": [
     {
-      "civico": "67",
-      "barrato": "A"
+      "civico": "67/A",
+      "stato": "B"
     }
   ],
   "VICOLO I IDO CROCE": [
     {
       "civico": "131",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

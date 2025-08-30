@@ -1,64 +1,64 @@
 {
   "PIAZZETTA GIORDANO BRUNO": [
     {
-      "civico": "3",
-      "barrato": "5"
+      "civico": "3/5",
+      "stato": "A"
     }
   ],
   "VIA CARACCIOLO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA NUOVA SAN CLEMENTE": [
     {
-      "civico": "2",
-      "barrato": "4"
+      "civico": "2/4",
+      "stato": "C"
     }
   ],
   "VIA OLIVELLA": [
     {
-      "civico": "6",
-      "barrato": "8"
+      "civico": "6/8",
+      "stato": "C"
     },
     {
-      "civico": "10",
-      "barrato": "12"
+      "civico": "10/12",
+      "stato": "C"
     }
   ],
   "VIA PROFESSORE MARIO TORTORA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA STARZA": [
     {
-      "civico": "3",
-      "barrato": "5"
+      "civico": "3/5",
+      "stato": "B"
     }
   ],
   "VICOLO CURTI": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

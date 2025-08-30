@@ -2,355 +2,355 @@
   "LOCALITA' CENTRALE AL TARTANO": [
     {
       "civico": "1",
-      "barrato": "G"
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/G",
+      "stato": "A"
     }
   ],
   "LOCALITA' PREMIANA": [
     {
-      "civico": "20",
-      "barrato": "454"
+      "civico": "20/454",
+      "stato": "C"
     },
     {
-      "civico": "20",
-      "barrato": "529"
+      "civico": "20/529",
+      "stato": "C"
     }
   ],
   "LOCALITA' TORRACCIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' TORRENTE TARTANO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ALLA PROVINCIALE": [
     {
       "civico": "15",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "B"
+      "civico": "15/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "C"
+      "civico": "15/B",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "D"
+      "civico": "15/C",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "E"
+      "civico": "15/D",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "F"
+      "civico": "15/E",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": null
-    },
-    {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "15/F",
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": "F"
+      "stato": "C"
     },
     {
-      "civico": "19",
-      "barrato": null
+      "civico": "19/A",
+      "stato": "C"
+    },
+    {
+      "civico": "19/F",
+      "stato": "C"
     },
     {
       "civico": "749",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "755",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "801",
-      "barrato": "H"
+      "civico": "801/H",
+      "stato": "C"
     }
   ],
   "VIA CA' BARRI": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "113",
-      "barrato": "O"
+      "civico": "113/O",
+      "stato": "C"
     },
     {
-      "civico": "113",
-      "barrato": "P"
+      "civico": "113/P",
+      "stato": "C"
     },
     {
       "civico": "219",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CA' DUL MARTUL": [
     {
       "civico": "105",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASE RICCI": [
     {
       "civico": "527",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CERRI": [
     {
       "civico": "170",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "332",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "356",
-      "barrato": "D"
+      "civico": "356/D",
+      "stato": "B"
     },
     {
-      "civico": "356",
-      "barrato": "L"
+      "civico": "356/L",
+      "stato": "B"
     },
     {
       "civico": "429",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "460",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CIVASCA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
-      "civico": "85",
-      "barrato": "G"
+      "civico": "85/G",
+      "stato": "B"
     },
     {
-      "civico": "85",
-      "barrato": "M"
+      "civico": "85/M",
+      "stato": "B"
     }
   ],
   "VIA CIVO": [
     {
       "civico": "50",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CLETO CIOCCHINI": [
     {
       "civico": "484",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COLOMBERA": [
     {
-      "civico": "269",
-      "barrato": "C"
+      "civico": "269/C",
+      "stato": "B"
     },
     {
-      "civico": "384",
-      "barrato": "A"
+      "civico": "384/A",
+      "stato": "B"
     }
   ],
   "VIA COSEGGIO DI MEZZO": [
     {
-      "civico": "229",
-      "barrato": "A"
+      "civico": "229/A",
+      "stato": "B"
     }
   ],
   "VIA DON CUSINI": [
     {
-      "civico": "87",
-      "barrato": "A"
+      "civico": "87/A",
+      "stato": "C"
     },
     {
-      "civico": "87",
-      "barrato": "B"
+      "civico": "87/B",
+      "stato": "C"
     },
     {
-      "civico": "875",
-      "barrato": "A"
+      "civico": "875/A",
+      "stato": "C"
     },
     {
-      "civico": "875",
-      "barrato": "B"
+      "civico": "875/B",
+      "stato": "C"
     }
   ],
   "VIA DON VINCENZO PASSAMONTI": [
     {
       "civico": "93",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "95",
-      "barrato": "B"
+      "civico": "95/B",
+      "stato": "A"
     },
     {
       "civico": "137",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "145",
-      "barrato": "C"
+      "civico": "145/C",
+      "stato": "A"
     }
   ],
   "VIA DONATORI DI SANGUE": [
     {
-      "civico": "27",
-      "barrato": "B"
+      "civico": "27/B",
+      "stato": "C"
     },
     {
-      "civico": "27",
-      "barrato": "C"
+      "civico": "27/C",
+      "stato": "C"
     }
   ],
   "VIA GORC": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ISOLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "170",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MALASCA": [
     {
       "civico": "78",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "173",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RANCIGA": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SASSO GROSSO": [
     {
       "civico": "47",
-      "barrato": "E"
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": null
+      "civico": "47/E",
+      "stato": "B"
     }
   ],
   "VIA SPINI": [
     {
       "civico": "18",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "E"
+      "civico": "18/A",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": null
+      "civico": "18/E",
+      "stato": "C"
     },
     {
       "civico": "59",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TARTANO": [
     {
-      "civico": "24",
-      "barrato": "B"
+      "civico": "24/B",
+      "stato": "B"
     },
     {
       "civico": "77",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "730",
-      "barrato": "C"
+      "civico": "730/C",
+      "stato": "B"
     },
     {
       "civico": "774",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "862",
-      "barrato": "A"
+      "civico": "862/A",
+      "stato": "B"
     },
     {
-      "civico": "862",
-      "barrato": "B"
+      "civico": "862/B",
+      "stato": "B"
     },
     {
-      "civico": "862",
-      "barrato": "D"
+      "civico": "862/D",
+      "stato": "B"
     },
     {
-      "civico": "862",
-      "barrato": "F"
+      "civico": "862/F",
+      "stato": "B"
     }
   ],
   "VIA TORRACCIA": [
     {
       "civico": "220",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "860",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

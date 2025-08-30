@@ -2,47 +2,47 @@
   "LOCALITA' CERCA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA CERCA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE MAZZINI": [
     {
-      "civico": "21",
-      "barrato": "2"
+      "civico": "21/2",
+      "stato": "B"
     }
   ],
   "VIA STRADA PROVINCIALE 39 CERCA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA TRIESTE": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

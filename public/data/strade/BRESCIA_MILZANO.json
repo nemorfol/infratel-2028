@@ -1,208 +1,208 @@
 {
   "CASCINA CAMPAGNOLA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CASALE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA SQUADRE": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' PONTE MELLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA PROVINCIALE 7": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/A",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/B",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "D"
+      "civico": "5/C",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "E"
+      "civico": "5/D",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "F"
+      "civico": "5/E",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "G"
+      "civico": "5/F",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/G",
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "B"
+      "civico": "7/A",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "C"
+      "civico": "7/B",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": null
+      "civico": "7/C",
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "12",
-      "barrato": null
-    },
-    {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": "B"
+      "stato": "A"
     },
     {
-      "civico": "14",
-      "barrato": null
+      "civico": "14/A",
+      "stato": "A"
+    },
+    {
+      "civico": "14/B",
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "16",
-      "barrato": null
+      "civico": "16/A",
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "26",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "46",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "46",
-      "barrato": null
+      "civico": "46/A",
+      "stato": "A"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

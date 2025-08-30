@@ -1,118 +1,118 @@
 {
   "VIA CARPANEDO": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     }
   ],
   "VIA CASOLINA": [
     {
       "civico": "90",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "92",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "94",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "111",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "111",
-      "barrato": null
-    },
-    {
-      "civico": "113",
-      "barrato": "A"
+      "civico": "111/A",
+      "stato": "B"
     },
     {
       "civico": "113",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "113/A",
+      "stato": "B"
     },
     {
       "civico": "115",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "117",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "119",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "121",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "123",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "125",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "125",
-      "barrato": null
-    },
-    {
-      "civico": "127",
-      "barrato": "A"
+      "civico": "125/A",
+      "stato": "C"
     },
     {
       "civico": "127",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "127/A",
+      "stato": "C"
     },
     {
       "civico": "129",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FRANCESCO PETRARCA": [
     {
       "civico": "41",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA POLA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SABBIONI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     }
   ],
   "VIA SANTA GIUSTINA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

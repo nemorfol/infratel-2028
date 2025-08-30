@@ -2,185 +2,185 @@
   "STRADA DI ROMANZANO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASCINA RONCHETTI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DEI VALER": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLE SELVE": [
     {
-      "civico": "12",
-      "barrato": "D"
+      "civico": "12/D",
+      "stato": "B"
     }
   ],
   "VIA ETTORE STOCCHETTI": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "C"
     },
     {
-      "civico": "67",
-      "barrato": "A"
+      "civico": "67/A",
+      "stato": "C"
     }
   ],
   "VIA F.BRUGNONI": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "B"
+      "civico": "34/B",
+      "stato": "B"
     }
   ],
   "VIA LAGO": [
     {
-      "civico": "104",
-      "barrato": "A"
+      "civico": "104/A",
+      "stato": "B"
     }
   ],
   "VIA LOCALITA' CASCINA CASTELLETTO": [
     {
       "civico": "36",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MASSERANO": [
     {
-      "civico": "39",
-      "barrato": "A"
+      "civico": "39/A",
+      "stato": "C"
     },
     {
-      "civico": "39",
-      "barrato": "B"
-    },
-    {
-      "civico": "43",
-      "barrato": "A"
+      "civico": "39/B",
+      "stato": "C"
     },
     {
       "civico": "43",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "43",
-      "barrato": "C"
+      "civico": "43/A",
+      "stato": "C"
     },
     {
-      "civico": "43",
-      "barrato": "D"
+      "civico": "43/B",
+      "stato": "C"
     },
     {
-      "civico": "43",
-      "barrato": null
+      "civico": "43/C",
+      "stato": "C"
     },
     {
-      "civico": "53",
-      "barrato": "D"
+      "civico": "43/D",
+      "stato": "C"
+    },
+    {
+      "civico": "53/D",
+      "stato": "C"
     }
   ],
   "VIA MASSINO": [
     {
-      "civico": "13",
-      "barrato": "C"
+      "civico": "13/C",
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTE BIANCO": [
     {
-      "civico": "7",
-      "barrato": "C"
+      "civico": "7/C",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "E"
+      "civico": "7/E",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "B"
+      "civico": "18/B",
+      "stato": "C"
     },
     {
-      "civico": "18",
-      "barrato": "C"
+      "civico": "18/C",
+      "stato": "C"
     }
   ],
   "VIA MONTELLO": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PER CASTELLETTO": [
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "E"
+      "civico": "6/E",
+      "stato": "B"
     }
   ],
   "VIA PREALPI": [
     {
       "civico": "42",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA REGINA PIRINOLI": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RONCHITTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN GOTTARDO": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "C"
     }
   ],
   "VIA SELVA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

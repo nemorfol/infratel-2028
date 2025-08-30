@@ -2,83 +2,83 @@
   "LUNGOLAGO ALESSANDRO VANNI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASA MORA": [
     {
-      "civico": "0",
-      "barrato": "SNC 5"
+      "civico": "0/SNC 5",
+      "stato": "B"
     },
     {
       "civico": "87",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FARIOLI": [
     {
-      "civico": "22",
-      "barrato": "B"
+      "civico": "22/B",
+      "stato": "C"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GUIDO BUTTI": [
     {
-      "civico": "14",
-      "barrato": "12"
+      "civico": "14/12",
+      "stato": "C"
     }
   ],
   "VIA MONTE GENEROSO": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "C"
+      "civico": "5/C",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "25",
-      "barrato": "23"
+      "civico": "25/23",
+      "stato": "B"
     },
     {
       "civico": "104",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SERPIANO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

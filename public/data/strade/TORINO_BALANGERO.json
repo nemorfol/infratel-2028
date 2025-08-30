@@ -2,109 +2,109 @@
   "REGIONE BETTOLE": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "67",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "71",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA CORIO - MONTEGIOVETTO": [
     {
       "civico": "33",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CORSANI": [
     {
-      "civico": "2",
-      "barrato": "BIS"
+      "civico": "2/BIS",
+      "stato": "C"
     }
   ],
   "VIA DELLE VIGNE": [
     {
-      "civico": "7",
-      "barrato": "10"
+      "civico": "7/10",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "11"
+      "civico": "7/11",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "13"
+      "civico": "7/13",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "15"
+      "civico": "7/15",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "17"
+      "civico": "7/17",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "21"
+      "civico": "7/21",
+      "stato": "C"
     },
     {
-      "civico": "7",
-      "barrato": "23"
+      "civico": "7/23",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "25"
+      "civico": "7/25",
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GRANGE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANT'ANNA": [
     {
       "civico": "100",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA STRADALE LANZO": [
     {
       "civico": "42",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "92",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VALLE DI SEA": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     }
   ]
 }

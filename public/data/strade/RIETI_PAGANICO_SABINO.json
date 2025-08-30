@@ -2,489 +2,489 @@
   "LOCALITA' ARAVECCHIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' CAMPO DI GROTTE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "4",
-      "barrato": null
-    },
-    {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": "B"
+      "stato": "A"
     },
     {
-      "civico": "6",
-      "barrato": null
+      "civico": "6/A",
+      "stato": "A"
     },
     {
-      "civico": "8",
-      "barrato": "A"
-    },
-    {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": "C"
+      "stato": "A"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/A",
+      "stato": "A"
+    },
+    {
+      "civico": "8/B",
+      "stato": "A"
+    },
+    {
+      "civico": "8/C",
+      "stato": "A"
     }
   ],
   "LOCALITA' COLLEPETRONE": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "23",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "23",
-      "barrato": "B"
+      "civico": "23/A",
+      "stato": "A"
     },
     {
-      "civico": "23",
-      "barrato": "C"
+      "civico": "23/B",
+      "stato": "A"
     },
     {
-      "civico": "23",
-      "barrato": null
+      "civico": "23/C",
+      "stato": "A"
     }
   ],
   "LOCALITA' GRUGNALETTA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/A",
+      "stato": "A"
     },
     {
-      "civico": "13",
-      "barrato": null
-    },
-    {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "13/B",
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": "B"
+      "stato": "A"
     },
     {
-      "civico": "15",
-      "barrato": null
+      "civico": "15/A",
+      "stato": "A"
+    },
+    {
+      "civico": "15/B",
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": null
+      "civico": "17/A",
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' LESCHE": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' MARCASSICCIA": [
     {
       "civico": "10",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/A",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "C"
+      "civico": "10/B",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "D"
+      "civico": "10/C",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "E"
+      "civico": "10/D",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "F"
+      "civico": "10/E",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": null
-    },
-    {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "10/F",
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": "B"
+      "stato": "A"
     },
     {
-      "civico": "12",
-      "barrato": "C"
+      "civico": "12/A",
+      "stato": "A"
     },
     {
-      "civico": "12",
-      "barrato": "D"
+      "civico": "12/B",
+      "stato": "A"
     },
     {
-      "civico": "12",
-      "barrato": "E"
+      "civico": "12/C",
+      "stato": "A"
     },
     {
-      "civico": "12",
-      "barrato": null
+      "civico": "12/D",
+      "stato": "A"
+    },
+    {
+      "civico": "12/E",
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' PONTE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "18",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "18",
-      "barrato": "B"
+      "civico": "18/A",
+      "stato": "A"
     },
     {
-      "civico": "18",
-      "barrato": "C"
+      "civico": "18/B",
+      "stato": "A"
     },
     {
-      "civico": "18",
-      "barrato": null
+      "civico": "18/C",
+      "stato": "A"
     }
   ],
   "LOCALITA' ULPIA": [
     {
       "civico": "25",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "25",
-      "barrato": "B"
+      "civico": "25/A",
+      "stato": "A"
     },
     {
-      "civico": "25",
-      "barrato": "C"
+      "civico": "25/B",
+      "stato": "A"
     },
     {
-      "civico": "25",
-      "barrato": "D"
+      "civico": "25/C",
+      "stato": "A"
     },
     {
-      "civico": "25",
-      "barrato": "E"
+      "civico": "25/D",
+      "stato": "A"
     },
     {
-      "civico": "25",
-      "barrato": "F"
+      "civico": "25/E",
+      "stato": "A"
     },
     {
-      "civico": "25",
-      "barrato": "G"
+      "civico": "25/F",
+      "stato": "A"
     },
     {
-      "civico": "25",
-      "barrato": null
+      "civico": "25/G",
+      "stato": "A"
     }
   ],
   "PIAZZA VITTORIO EMANUELE III": [
     {
-      "civico": "10",
-      "barrato": "B"
+      "civico": "10/B",
+      "stato": "B"
     }
   ],
   "VIA ACQUA CORONA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA COSTA ASPO": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "A"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "A"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "A"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DELLA MADONNA": [
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     },
     {
-      "civico": "33",
-      "barrato": "B"
+      "civico": "33/B",
+      "stato": "B"
     }
   ],
   "VIA DELLA ROCCA": [
     {
-      "civico": "17",
-      "barrato": "A"
+      "civico": "17/A",
+      "stato": "B"
     }
   ],
   "VIA GARIBALDI": [
     {
-      "civico": "23",
-      "barrato": "B"
+      "civico": "23/B",
+      "stato": "B"
     },
     {
-      "civico": "68",
-      "barrato": "A"
+      "civico": "68/A",
+      "stato": "B"
     },
     {
-      "civico": "75",
-      "barrato": "A"
+      "civico": "75/A",
+      "stato": "B"
     },
     {
-      "civico": "75",
-      "barrato": "B"
+      "civico": "75/B",
+      "stato": "B"
     },
     {
-      "civico": "75",
-      "barrato": "C"
+      "civico": "75/C",
+      "stato": "B"
     },
     {
-      "civico": "75",
-      "barrato": "D"
+      "civico": "75/D",
+      "stato": "B"
     },
     {
-      "civico": "75",
-      "barrato": "E"
+      "civico": "75/E",
+      "stato": "B"
     },
     {
-      "civico": "75",
-      "barrato": "F"
+      "civico": "75/F",
+      "stato": "B"
     },
     {
-      "civico": "85",
-      "barrato": "B"
+      "civico": "85/B",
+      "stato": "B"
     }
   ],
   "VIA GORIZIA": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "C"
+      "civico": "3/C",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     },
     {
-      "civico": "28",
-      "barrato": "A"
+      "civico": "28/A",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "B"
+      "civico": "38/B",
+      "stato": "B"
     }
   ],
   "VIA MILITE IGNOTO": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     }
   ],
   "VIA MONTE CERVIA": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     }
   ],
   "VIA SAN GIORGIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "C"
+      "civico": "22/C",
+      "stato": "B"
     }
   ],
   "VIA TURANENSE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA UMBERTO I": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "A"
+      "civico": "34/A",
+      "stato": "B"
     },
     {
-      "civico": "34",
-      "barrato": "B"
+      "civico": "34/B",
+      "stato": "B"
     }
   ],
   "VIALE TRIESTE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "B"
+      "civico": "19/B",
+      "stato": "B"
     }
   ]
 }

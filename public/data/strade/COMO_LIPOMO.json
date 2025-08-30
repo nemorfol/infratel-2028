@@ -1,98 +1,98 @@
 {
   "CORTE GRANDE": [
     {
-      "civico": "49",
-      "barrato": "17"
+      "civico": "49/4",
+      "stato": "A"
     },
     {
-      "civico": "49",
-      "barrato": "19"
+      "civico": "49/17",
+      "stato": "A"
     },
     {
-      "civico": "49",
-      "barrato": "4"
+      "civico": "49/19",
+      "stato": "A"
     }
   ],
   "CORTE TERLIZZA": [
     {
       "civico": "7",
-      "barrato": "18"
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "19"
+      "civico": "7/3",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "20"
+      "civico": "7/6",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "3"
+      "civico": "7/7",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "6"
+      "civico": "7/18",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": "7"
+      "civico": "7/19",
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": null
+      "civico": "7/20",
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CORTE VECCHIA": [
     {
-      "civico": "4",
-      "barrato": "1"
+      "civico": "4/1",
+      "stato": "A"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA BELVEDERE": [
     {
       "civico": "661",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "680",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "716",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "750",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "754",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "768",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

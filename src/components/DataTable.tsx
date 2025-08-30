@@ -3,7 +3,7 @@ import React from 'react';
 type CivicoConStrada = {
   strada: string;
   civico: string;
-  barrato: string | null;
+  stato: string | null;
 };
 
 interface DataTableProps {
@@ -12,15 +12,15 @@ interface DataTableProps {
   onCivicoSelect: (civico: CivicoConStrada) => void;
 }
 
-const barratoStatusMap: { [key: string]: string } = {
+const statoStatusMap: { [key: string]: string } = {
   A: 'Civico con scarsa qualità della coordinata',
   B: 'Civico entro 50m da reti > 300Mbit/s',
   C: 'Civico oltre 50m da reti > 300Mbit/s',
 };
 
-const getStatusDescription = (barrato: string | null) => {
-  if (!barrato || barrato.trim() === '') return 'N/A';
-  return barratoStatusMap[barrato] || 'Stato non definito';
+const getStatusDescription = (stato: string | null) => {
+  if (!stato || stato.trim() === '') return 'N/A';
+  return statoStatusMap[stato] || 'Stato non definito';
 };
 
 const DataTable = ({ civici, selectedCivico, onCivicoSelect }: DataTableProps) => {
@@ -47,7 +47,7 @@ const DataTable = ({ civici, selectedCivico, onCivicoSelect }: DataTableProps) =
             >
               <td>{item.strada}</td>
               <td>{item.civico}</td>
-              <td>{getStatusDescription(item.barrato)}</td>
+              <td>{getStatusDescription(item.stato)}</td>
             </tr>
           ))}
         </tbody>

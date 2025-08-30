@@ -2,53 +2,53 @@
   "LOCALITA' ROVEDOLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ALESSANDRO VOLTA": [
     {
-      "civico": "126",
-      "barrato": "A"
+      "civico": "126/A",
+      "stato": "B"
     },
     {
-      "civico": "126",
-      "barrato": "B"
+      "civico": "126/B",
+      "stato": "B"
     },
     {
-      "civico": "126",
-      "barrato": "C"
+      "civico": "126/C",
+      "stato": "B"
     }
   ],
   "VIA CAREGNO": [
     {
       "civico": "58",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "97",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "120",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIOVANNI PASCOLI": [
     {
       "civico": "49",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

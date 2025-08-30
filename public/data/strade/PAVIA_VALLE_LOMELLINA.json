@@ -2,375 +2,375 @@
   "CASCINA BAZZANA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA BIRINA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GATTA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA SGRAFFIGNA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA CORTE GRANDA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "PIAZZA DELLA RESISTENZA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA CASCINA PRATI": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA ROGGIA DI VALLE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA RORETO": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALLA PISTA": [
     {
-      "civico": "14",
-      "barrato": "3"
+      "civico": "14/3",
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "4"
+      "civico": "14/4",
+      "stato": "B"
     }
   ],
   "VIA BREME": [
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CANDIA": [
     {
       "civico": "37",
-      "barrato": "2"
+      "stato": "B"
     },
     {
-      "civico": "37",
-      "barrato": null
+      "civico": "37/2",
+      "stato": "B"
     }
   ],
   "VIA CASCINA BRUCIATA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA GIOIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA MACEDONIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA MIRELLA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CESARE ANGELINI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CONTRADA DELLA VALLE": [
     {
-      "civico": "9",
-      "barrato": "2"
+      "civico": "9/2",
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "1"
+      "civico": "20/1",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "2"
+      "civico": "20/2",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "4"
+      "civico": "20/4",
+      "stato": "B"
     }
   ],
   "VIA COSTA": [
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA COZZO": [
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA EUROPA": [
     {
-      "civico": "4",
-      "barrato": "1 P"
+      "civico": "4/1 P",
+      "stato": "B"
     }
   ],
   "VIA FRATELLI CAIROLI": [
     {
-      "civico": "11",
-      "barrato": "1"
+      "civico": "11/1",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "2"
+      "civico": "11/2",
+      "stato": "B"
     }
   ],
   "VIA MORONATA": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "14",
-      "barrato": "7"
+      "civico": "14/7",
+      "stato": "B"
     }
   ],
   "VIA PAPA GIOVANNI XXIII": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PREVOSTINA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SARTIRANA": [
     {
-      "civico": "11",
-      "barrato": "1"
+      "civico": "11/1",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "1"
+      "civico": "20/1",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "2"
+      "civico": "20/2",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "3"
+      "civico": "20/3",
+      "stato": "B"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "28",
-      "barrato": null
+      "civico": "28/1",
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA STAGNOLI G.": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA STAZIONE": [
     {
-      "civico": "32",
-      "barrato": "BIS"
+      "civico": "32/BIS",
+      "stato": "B"
     },
     {
-      "civico": "45",
-      "barrato": "BIS"
+      "civico": "45/BIS",
+      "stato": "B"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "119",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "137",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "139",
-      "barrato": "2"
+      "civico": "139/2",
+      "stato": "B"
     },
     {
       "civico": "151",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VECCHIA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE DELLA LOMELLINA": [
     {
       "civico": "55",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO CERRA": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO DELLE MONDINE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO PRIGIONI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO SAN MICHELE": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

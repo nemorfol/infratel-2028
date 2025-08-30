@@ -1,50 +1,50 @@
 {
   "FRAZIONE CEVES": [
     {
-      "civico": "59",
-      "barrato": "B"
+      "civico": "59/B",
+      "stato": "C"
     }
   ],
   "FRAZIONE NOVALE": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "FRAZIONE TUNES": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     }
   ],
   "VIA BRENNERO": [
     {
       "civico": "62",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "63",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "66",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "66",
-      "barrato": null
+      "civico": "66/A",
+      "stato": "C"
     },
     {
       "civico": "70",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

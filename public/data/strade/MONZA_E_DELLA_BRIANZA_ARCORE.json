@@ -1,132 +1,132 @@
 {
   "GIARDINI RAVIZZA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "E"
+      "civico": "1/E",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "F"
+      "civico": "1/F",
+      "stato": "A"
     }
   ],
   "VIA ALFONSO CASATI": [
     {
       "civico": "163",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "165",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "167",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "169",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CASA COLOMBAROLLI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCINA EUGENIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAZZOLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIUSEPPE CAPPELLOTTO": [
     {
       "civico": "50",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GRAN SASSO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MISURATO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PAPINA": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VILLA FOSSATI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIALE BRIANZA": [
     {
-      "civico": "155",
-      "barrato": "A"
+      "civico": "155/A",
+      "stato": "C"
     },
     {
-      "civico": "155",
-      "barrato": "B"
+      "civico": "155/B",
+      "stato": "C"
     },
     {
       "civico": "204",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

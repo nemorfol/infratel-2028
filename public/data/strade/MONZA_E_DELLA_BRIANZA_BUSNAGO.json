@@ -2,67 +2,67 @@
   "VIA DEL COMMERCIO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DEL LAVORO": [
     {
       "civico": "58",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLE INDUSTRIE": [
     {
-      "civico": "19",
-      "barrato": "B"
+      "civico": "19/B",
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FRATEL MARIO SALVATORI": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "C"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIOSUA'� CARDUCCI": [
     {
-      "civico": "69",
-      "barrato": "D"
+      "civico": "69/D",
+      "stato": "C"
     }
   ],
   "VIA PIEMONTE": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     }
   ]
 }

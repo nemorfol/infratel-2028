@@ -1,180 +1,180 @@
 {
   "CASCINA LANFROIA": [
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "C"
     }
   ],
   "CASCINA PONTEROLA": [
     {
       "civico": "55",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA VIGANA": [
     {
-      "civico": "21",
-      "barrato": "C"
+      "civico": "21/C",
+      "stato": "B"
     }
   ],
   "LOCALITA' CHIESUOLO": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "I"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": null
-    },
-    {
-      "civico": "16",
-      "barrato": "B"
+      "civico": "8/I",
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": "C"
+      "stato": "C"
     },
     {
-      "civico": "16",
-      "barrato": null
+      "civico": "16/B",
+      "stato": "C"
+    },
+    {
+      "civico": "16/C",
+      "stato": "C"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "LOCALITA' TRIPOLI": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA LONGA 809": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 187": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAMILLO BENSO CONTE DI CAVOUR": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELL'ARTIGIANATO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "29",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLE INDUSTRIE": [
     {
-      "civico": "0",
-      "barrato": "SNC 2"
+      "civico": "0/SNC 2",
+      "stato": "B"
     }
   ],
   "VIA ENRICO FERMI": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     }
   ],
   "VIA FRANCESCO AGELLO": [
     {
-      "civico": "9",
-      "barrato": "C"
+      "civico": "9/C",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "G"
+      "civico": "9/G",
+      "stato": "B"
     }
   ],
   "VIA PAOLO BORSELLINO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SALVATORE MARAZZINA": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     }
   ],
   "VIA SAN COLOMBANO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN PIO DA PIETRELCINA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "C"
+      "civico": "3/C",
+      "stato": "B"
     }
   ],
   "VIA UNITA'� D'ITALIA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

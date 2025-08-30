@@ -1,30 +1,30 @@
 {
   "VIA MAGLIO": [
     {
-      "civico": "52",
-      "barrato": "A"
+      "civico": "52/A",
+      "stato": "B"
     },
     {
-      "civico": "52",
-      "barrato": "B"
+      "civico": "52/B",
+      "stato": "B"
     },
     {
-      "civico": "62",
-      "barrato": "B"
+      "civico": "62/B",
+      "stato": "C"
     },
     {
-      "civico": "68",
-      "barrato": "A"
+      "civico": "68/A",
+      "stato": "B"
     }
   ],
   "VICOLO LAVANDURA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

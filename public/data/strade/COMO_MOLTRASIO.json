@@ -1,62 +1,62 @@
 {
   "VIA AL MULINO": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE BIANCHI": [
     {
-      "civico": "40",
-      "barrato": "41"
+      "civico": "40/41",
+      "stato": "B"
     }
   ],
   "VIA PER BISBINO": [
     {
       "civico": "45",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "46",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "52",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RANZATO": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/B",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "E"
+      "civico": "12/E",
+      "stato": "B"
     }
   ],
   "VIA REGINA VECCHIA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "51",
-      "barrato": "F"
+      "civico": "51/F",
+      "stato": "B"
     },
     {
-      "civico": "51",
-      "barrato": "H"
+      "civico": "51/H",
+      "stato": "B"
     }
   ]
 }

@@ -1,50 +1,50 @@
 {
   "LOCALITA' CASETTA": [
     {
-      "civico": "37",
-      "barrato": "39"
+      "civico": "37/39",
+      "stato": "C"
     }
   ],
   "LOCALITA'� CASETTA": [
     {
-      "civico": "11",
-      "barrato": "P T"
+      "civico": "11/P T",
+      "stato": "C"
     }
   ],
   "VIA ALLE ZUNAGHE": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DANTE ALIGHIERI": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DEI PRAI MAGRI": [
     {
-      "civico": "6",
-      "barrato": "P T"
+      "civico": "6/P T",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "P T"
+      "civico": "27/P T",
+      "stato": "B"
     }
   ],
   "VIA DEL CANTON BORGO": [
     {
-      "civico": "35",
-      "barrato": "A"
+      "civico": "35/A",
+      "stato": "B"
     }
   ]
 }

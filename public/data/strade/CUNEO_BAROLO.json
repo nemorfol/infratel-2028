@@ -2,51 +2,51 @@
   "VIA AIE SOTTANE": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ALBA": [
     {
       "civico": "71",
-      "barrato": "BIS"
+      "stato": "C"
     },
     {
-      "civico": "71",
-      "barrato": null
+      "civico": "71/BIS",
+      "stato": "C"
     }
   ],
   "VIA ENRICO GHISOLFI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LOMONDO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VITTORIO VENETO": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

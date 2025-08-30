@@ -2,13 +2,14 @@
 
 import { useState, useEffect, useMemo } from 'react';
 import dynamic from 'next/dynamic';
+import Papa from 'papaparse';
 import AddressSelector from '@/components/AddressSelector';
 import DataTable from '@/components/DataTable';
 import Legend from '@/components/Legend';
 
 // Type definitions
-type Civico = { civico: string; barrato: string | null; };
-type CivicoConStrada = { strada: string; civico: string; barrato: string | null; };
+type Civico = { civico: string; stato: string | null; };
+type CivicoConStrada = { strada: string; civico: string; stato: string | null; };
 type RegioniProvince = { [key: string]: string[]; };
 
 const ITALY_CENTER: [number, number] = [41.9027835, 12.4963655];
@@ -57,13 +58,46 @@ export default function Home() {
     if (selectedStrada) { filteredData = filteredData.filter(c => c.strada === selectedStrada); }
     if (selectedStato) {
       if (selectedStato === 'N/A') {
-        filteredData = filteredData.filter(c => !c.barrato || c.barrato.trim() === '');
+        filteredData = filteredData.filter(c => !c.stato || c.stato.trim() === '');
       } else {
-        filteredData = filteredData.filter(c => c.barrato === selectedStato);
+        filteredData = filteredData.filter(c => c.stato === selectedStato);
       }
     }
     setCiviciInTabella(filteredData);
   }, [selectedStrada, selectedStato, allCivici]);
+
+  const handleExportCsv = () => {
+    if (civiciInTabella.length === 0) {
+      alert('Nessun dato da esportare.');
+      return;
+    }
+    const statoStatusMap: { [key: string]: string } = {
+      A: 'Civico con scarsa qualità della coordinata',
+      B: 'Civico entro 50m da reti > 300Mbit/s',
+      C: 'Civico oltre 50m da reti > 300Mbit/s',
+    };
+    const getStatusDescription = (stato: string | null) => {
+      if (!stato || stato.trim() === '') return 'N/A';
+      return statoStatusMap[stato] || 'Stato non definito';
+    };
+
+    const dataToExport = civiciInTabella.map(c => ({
+      strada: c.strada,
+      civico: c.civico,
+      stato: getStatusDescription(c.stato),
+    }));
+
+    const csv = Papa.unparse(dataToExport);
+    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    const url = URL.createObjectURL(blob);
+    link.setAttribute('href', url);
+    link.setAttribute('download', 'export_civici.csv');
+    link.style.visibility = 'hidden';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
 
   // Geocoding function for map view changes
   const geocodeAndSetView = async (locationName: string, zoomLevel: number) => {
@@ -204,6 +238,11 @@ export default function Home() {
         {loading && <div className="loading-overlay"><h4>Ricerca coordinate...</h4></div>}
       </div>
       <div className="table-wrapper">
+        <div style={{ marginBottom: '10px', padding: '0 1rem', display: 'flex', justifyContent: 'flex-end' }}>
+          <button onClick={handleExportCsv} style={{ padding: '8px 12px', borderRadius: '4px', border: '1px solid #007bff', backgroundColor: '#007bff', color: 'white', cursor: 'pointer' }}>
+            Esporta CSV
+          </button>
+        </div>
         <DataTable civici={civiciInTabella} selectedCivico={selectedCivico} onCivicoSelect={handleCivicoSelect} />
       </div>
     </main>

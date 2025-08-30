@@ -2,207 +2,207 @@
   "LARGO DANTE": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "A"
+      "civico": "40/A",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "B"
+      "civico": "40/B",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "C"
+      "civico": "40/C",
+      "stato": "B"
     },
     {
-      "civico": "40",
-      "barrato": "D"
+      "civico": "40/D",
+      "stato": "B"
     },
     {
       "civico": "41",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "55",
-      "barrato": "A"
+      "civico": "55/A",
+      "stato": "B"
     },
     {
       "civico": "84",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "96",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ANTONIO PIGLIARU": [
     {
       "civico": "11",
-      "barrato": "11"
+      "stato": "A"
     },
     {
-      "civico": "11",
-      "barrato": null
+      "civico": "11/11",
+      "stato": "A"
     },
     {
-      "civico": "13",
-      "barrato": "13"
+      "civico": "13/13",
+      "stato": "A"
     },
     {
-      "civico": "15",
-      "barrato": "15"
+      "civico": "15/15",
+      "stato": "A"
     },
     {
-      "civico": "17",
-      "barrato": "17"
+      "civico": "17/17",
+      "stato": "A"
     }
   ],
   "VIA DANTE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "VIA GREDARZU": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/A",
+      "stato": "B"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "6",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/A",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "C"
+      "civico": "6/B",
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": null
+      "civico": "6/C",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA NAZIONALE": [
     {
-      "civico": "21",
-      "barrato": "21"
+      "civico": "21/21",
+      "stato": "B"
     }
   ],
   "VIA NUORO": [
     {
-      "civico": "14",
-      "barrato": "14"
+      "civico": "14/14",
+      "stato": "B"
     }
   ],
   "VIA NURAGHE": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PADRE DEMELAS": [
     {
-      "civico": "8",
-      "barrato": "10"
+      "civico": "8/10",
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIGLIARU": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN GIORGIO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -2,49 +2,49 @@
   "CONTRADA MONTEVERGINE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 235 PALMARIGGI-GIUGGIANELLO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE DEL VECCHIO O MONTE VERGINE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA VICINALE SCURTI PALMARIGGI": [
     {
       "civico": "6",
-      "barrato": "G"
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": null
+      "civico": "6/G",
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

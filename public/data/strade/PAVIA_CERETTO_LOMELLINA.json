@@ -2,23 +2,23 @@
   "CASCINA OLAI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA BOVILE": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "C"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA CASCINA VENERIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

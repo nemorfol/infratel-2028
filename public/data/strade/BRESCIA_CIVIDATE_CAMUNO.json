@@ -2,31 +2,31 @@
   "VIA BERETTA": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CUCHE": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FRATE INNOCENZO VANGELISTI": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PIEVE": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE DONATORI VOLONTARI DEL SANGUE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

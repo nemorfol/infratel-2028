@@ -2,155 +2,155 @@
   "VIA BATTAGLIA": [
     {
       "civico": "52",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "205",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "205",
-      "barrato": null
+      "civico": "205/A",
+      "stato": "B"
     },
     {
       "civico": "207",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "209",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "211",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "211",
-      "barrato": null
+      "civico": "211/A",
+      "stato": "B"
     },
     {
       "civico": "217",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "219",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "223",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "273",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "275",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE PASUBIO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA NICOLO' PAGANINI": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SANTA CECILIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA VINCENZO BELLINI": [
     {
       "civico": "5",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/A",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICOLO FRANCESCO BARACCA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "ANT"
+      "civico": "12/ANT",
+      "stato": "B"
     }
   ],
   "VICOLO PO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

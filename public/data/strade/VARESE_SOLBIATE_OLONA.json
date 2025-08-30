@@ -2,33 +2,33 @@
   "VIA FEDERICO TOBLER": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE MAZZINI": [
     {
-      "civico": "94",
-      "barrato": "96"
+      "civico": "94/96",
+      "stato": "B"
     }
   ],
   "VIA VENEZIA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VESPUCCI": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

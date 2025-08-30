@@ -2,99 +2,99 @@
   "AUTOSTRADA DEL BRENNERO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "DOSSO": [
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "29",
-      "barrato": "M"
+      "stato": "C"
     },
     {
-      "civico": "29",
-      "barrato": null
+      "civico": "29/M",
+      "stato": "C"
     }
   ],
   "FULDRES": [
     {
       "civico": "37",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "38",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "38",
-      "barrato": null
+      "civico": "38/A",
+      "stato": "C"
     }
   ],
   "MULES": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "88",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "88",
-      "barrato": "B"
+      "civico": "88/A",
+      "stato": "C"
     },
     {
-      "civico": "88",
-      "barrato": "C"
+      "civico": "88/B",
+      "stato": "C"
     },
     {
-      "civico": "88",
-      "barrato": null
+      "civico": "88/C",
+      "stato": "C"
     }
   ],
   "NOVALE BASSO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PRUNO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STILVES": [
     {
       "civico": "57",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA STATALE 12": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "ZONA ARTIGIANALE REIFENSTEIN": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ]
 }

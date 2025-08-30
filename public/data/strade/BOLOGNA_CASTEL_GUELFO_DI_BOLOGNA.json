@@ -2,299 +2,299 @@
   "VIA ANNALENA TONELLI": [
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/A",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/B",
+      "stato": "A"
     },
     {
-      "civico": "4",
-      "barrato": "F"
+      "civico": "4/F",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "B"
+      "civico": "5/B",
+      "stato": "A"
     },
     {
-      "civico": "5",
-      "barrato": "D"
-    },
-    {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "5/D",
+      "stato": "A"
     },
     {
       "civico": "6",
-      "barrato": "B"
+      "stato": "A"
     },
     {
-      "civico": "6",
-      "barrato": "D"
+      "civico": "6/A",
+      "stato": "A"
     },
     {
-      "civico": "6",
-      "barrato": "E"
+      "civico": "6/B",
+      "stato": "A"
     },
     {
-      "civico": "6",
-      "barrato": null
+      "civico": "6/D",
+      "stato": "A"
+    },
+    {
+      "civico": "6/E",
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": "C"
+      "stato": "A"
     },
     {
-      "civico": "7",
-      "barrato": null
+      "civico": "7/C",
+      "stato": "A"
     }
   ],
   "VIA BOARA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ],
   "VIA CROCETTA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DEL COMMERCIO": [
     {
-      "civico": "20",
-      "barrato": "B"
+      "civico": "20/B",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "E"
+      "civico": "20/E",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "F"
+      "civico": "20/F",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "G"
+      "civico": "20/G",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "H"
+      "civico": "20/H",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "I"
+      "civico": "20/I",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "L"
+      "civico": "20/L",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "M"
+      "civico": "20/M",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "N"
+      "civico": "20/N",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "O"
+      "civico": "20/O",
+      "stato": "B"
     },
     {
-      "civico": "20",
-      "barrato": "P"
+      "civico": "20/P",
+      "stato": "B"
     }
   ],
   "VIA DOZZA": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE MASSARENTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MEDESANO": [
     {
       "civico": "52",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "52",
-      "barrato": null
-    },
-    {
-      "civico": "54",
-      "barrato": "A"
+      "civico": "52/A",
+      "stato": "C"
     },
     {
       "civico": "54",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "54",
-      "barrato": "C"
+      "civico": "54/A",
+      "stato": "C"
     },
     {
-      "civico": "54",
-      "barrato": "D"
+      "civico": "54/B",
+      "stato": "C"
     },
     {
-      "civico": "54",
-      "barrato": null
+      "civico": "54/C",
+      "stato": "C"
+    },
+    {
+      "civico": "54/D",
+      "stato": "C"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "64",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "68",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "70",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "72",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "74",
-      "barrato": "A"
+      "civico": "74/A",
+      "stato": "C"
     },
     {
-      "civico": "74",
-      "barrato": "B"
+      "civico": "74/B",
+      "stato": "C"
     },
     {
-      "civico": "74",
-      "barrato": "C"
+      "civico": "74/C",
+      "stato": "C"
     },
     {
-      "civico": "74",
-      "barrato": "D"
+      "civico": "74/D",
+      "stato": "C"
     }
   ],
   "VIA MODONI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MOLINO": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "14",
-      "barrato": null
-    },
-    {
-      "civico": "21",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "C"
     },
     {
       "civico": "21",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "21/A",
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "30",
-      "barrato": "A"
+      "civico": "30/A",
+      "stato": "B"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTANARA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "C"
+      "civico": "3/C",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "D"
+      "civico": "3/D",
+      "stato": "B"
     }
   ],
   "VIA SAN VITALE": [
     {
       "civico": "24",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "24",
-      "barrato": null
+      "civico": "24/B",
+      "stato": "B"
     }
   ],
   "VIA STRADONE": [
     {
       "civico": "23",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "23",
-      "barrato": null
+      "civico": "23/A",
+      "stato": "C"
     }
   ],
   "VIA VECCHIA SAN VITALE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

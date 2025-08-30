@@ -2,47 +2,47 @@
   "LOCALITA' DAZZE SOPRA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' PADOO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA LODEN": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MARCOLANO": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA NAVETTA": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PRADEI": [
     {
-      "civico": "109",
-      "barrato": "C"
+      "civico": "109/C",
+      "stato": "B"
     },
     {
-      "civico": "119",
-      "barrato": "C"
+      "civico": "119/C",
+      "stato": "B"
     }
   ],
   "VIA TRENTA PASSI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

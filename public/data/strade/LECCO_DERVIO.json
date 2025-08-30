@@ -2,113 +2,113 @@
   "VIA AL CASTELLO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA AL MONASTERO": [
     {
-      "civico": "10",
-      "barrato": "16"
+      "civico": "10/16",
+      "stato": "B"
     }
   ],
   "VIA ALLA FOLLA": [
     {
-      "civico": "4",
-      "barrato": "B"
+      "civico": "4/B",
+      "stato": "B"
     }
   ],
   "VIA ALLO STALLONE": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLA MARASCIA": [
     {
       "civico": "3",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GENERALE ARMANDO DIAZ": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "67",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIACOMO MATTEOTTI": [
     {
-      "civico": "36",
-      "barrato": "40"
+      "civico": "36/40",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE CANDIANI": [
     {
-      "civico": "2",
-      "barrato": "4 6"
+      "civico": "2/4 6",
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "14"
+      "civico": "12/14",
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
-      "civico": "15",
-      "barrato": "17"
+      "civico": "15/17",
+      "stato": "B"
     }
   ],
   "VIA I MAGGIO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GREGORIO": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VAL VARRONE": [
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "B"
     },
     {
-      "civico": "38",
-      "barrato": "B"
+      "civico": "38/B",
+      "stato": "C"
     }
   ],
   "VIA XX SETTEMBRE": [
     {
-      "civico": "16",
-      "barrato": "18"
+      "civico": "16/18",
+      "stato": "B"
     }
   ],
   "VIA XXV APRILE": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

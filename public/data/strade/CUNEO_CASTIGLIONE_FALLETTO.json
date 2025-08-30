@@ -2,97 +2,97 @@
   "STRADA DELLA PIRA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "3",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/A",
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA ALBA BAROLO": [
     {
       "civico": "137",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "141",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "149",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "151",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "153",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "163",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "165",
-      "barrato": "A"
+      "civico": "165/A",
+      "stato": "C"
     },
     {
       "civico": "167",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "181",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BRUNELLA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PUGNANE": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     }
   ],
   "VIA VITTORIO EMANUELE": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XXV APRILE": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     }
   ]
 }

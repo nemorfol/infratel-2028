@@ -1,44 +1,44 @@
 {
   "CASCINA SAN FRANCESCO": [
     {
-      "civico": "1",
-      "barrato": "1"
+      "civico": "1/1",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "4"
+      "civico": "1/4",
+      "stato": "C"
     }
   ],
   "CASCINA SEREGNA": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA BERTAGNA": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MAESTRI DEL LAVORO": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE MONZA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

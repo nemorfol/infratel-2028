@@ -2,83 +2,83 @@
   "VIA BELVEDERE": [
     {
       "civico": "89",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "91",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAPITELLO": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "C"
     }
   ],
   "VIA PATEAN": [
     {
-      "civico": "39",
-      "barrato": "A"
+      "civico": "39/A",
+      "stato": "C"
     }
   ],
   "VIA PATI": [
     {
       "civico": "70",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA QUARTIER DEL PIAVE": [
     {
       "civico": "1550",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA RUIO": [
     {
       "civico": "69",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA SAN MICHELE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1570",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1590",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TOTI DAL MONTE": [
     {
       "civico": "72",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "151",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "153",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "155",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VALLATA": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "B"
     }
   ]
 }

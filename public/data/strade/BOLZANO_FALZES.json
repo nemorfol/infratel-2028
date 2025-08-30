@@ -2,49 +2,49 @@
   "VIA BACHLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FALZES": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "132",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "133",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA HASENRIED": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA NIEDERHAEUSERER": [
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "B"
     }
   ],
   "VIA PLATA": [
     {
-      "civico": "13",
-      "barrato": "B"
+      "civico": "13/B",
+      "stato": "B"
     }
   ],
   "VIA RIEDINGER": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

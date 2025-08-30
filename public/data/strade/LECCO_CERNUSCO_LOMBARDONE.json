@@ -2,39 +2,39 @@
   "LOCALITA'� MOSCORO": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "PIAZZA GIUSEPPE MAZZINI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA ANTONIO STOPPANI": [
     {
-      "civico": "13",
-      "barrato": "BIS"
+      "civico": "13/BIS",
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LANFRITTO MAGGIONI": [
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN DIONIGI": [
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

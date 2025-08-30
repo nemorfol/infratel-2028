@@ -2,45 +2,45 @@
   "CASCINA POGLIANI": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "SALITA AL BIULE": [
     {
       "civico": "38",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ADA NEGRI": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VIA ALESSANDRO MANZONI": [
     {
-      "civico": "144",
-      "barrato": "C"
+      "civico": "144/C",
+      "stato": "B"
     },
     {
-      "civico": "144",
-      "barrato": "L"
+      "civico": "144/L",
+      "stato": "B"
     },
     {
-      "civico": "146",
-      "barrato": "C"
+      "civico": "146/C",
+      "stato": "B"
     }
   ],
   "VIA FABIO MASSIMO": [
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GENERALE G.ROBOLOTTI": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     }
   ]
 }

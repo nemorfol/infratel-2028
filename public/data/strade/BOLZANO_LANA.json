@@ -2,43 +2,43 @@
   "FRAZIONE PAVICOLO": [
     {
       "civico": "80",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' MONTE SAN VIGILIO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "VIA AICHHOLZER": [
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "B"
     }
   ],
   "VIA JOCH": [
     {
       "civico": "26",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MAYENBURG": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA PALADE": [
     {
       "civico": "52",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA WINKEL": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

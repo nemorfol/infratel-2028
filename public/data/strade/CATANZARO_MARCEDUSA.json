@@ -1,46 +1,46 @@
 {
   "LOCALITA' PIREA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "PIAZZA CROCI": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "B"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA RISORGIMENTO": [
     {
-      "civico": "21",
-      "barrato": "1"
+      "civico": "21/1",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VICO I L.PETRUCCI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

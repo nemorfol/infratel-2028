@@ -1,54 +1,54 @@
 {
   "VIA BASELICA BOLOGNA": [
     {
-      "civico": "38",
-      "barrato": "D"
+      "civico": "38/D",
+      "stato": "C"
     }
   ],
   "VIA DON ANGELO GROSSI": [
     {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "2/A",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "C"
+      "civico": "2/C",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "D"
+      "civico": "2/D",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "E"
+      "civico": "2/E",
+      "stato": "A"
     },
     {
-      "civico": "2",
-      "barrato": "F"
+      "civico": "2/F",
+      "stato": "A"
     }
   ],
   "VIA PIETRO MASCAGNI": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/B",
+      "stato": "C"
     }
   ],
   "VIA ZAVANASCO": [
     {
-      "civico": "23",
-      "barrato": "B"
+      "civico": "23/B",
+      "stato": "C"
     }
   ]
 }

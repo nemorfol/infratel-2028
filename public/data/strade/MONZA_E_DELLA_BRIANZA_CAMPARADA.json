@@ -1,56 +1,56 @@
 {
   "CASCINA MASCIOCCO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "STRADA PRIVATA CASCINA MASCIOCCO": [
     {
-      "civico": "12",
-      "barrato": "A"
+      "civico": "12/A",
+      "stato": "A"
     }
   ],
   "VIA CALIFORNIA": [
     {
       "civico": "29",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DOSSO DI VALMORA": [
     {
       "civico": "46",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "48",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA UNITA' D'ITALIA": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA VALMORA": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIALE LOMBARDIA": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

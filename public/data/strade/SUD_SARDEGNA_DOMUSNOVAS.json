@@ -2,129 +2,129 @@
   "LOCALITA' GROTTE SAN GIOVANNI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CAGLIARI": [
     {
-      "civico": "129",
-      "barrato": "B"
+      "civico": "129/B",
+      "stato": "C"
     },
     {
-      "civico": "272",
-      "barrato": "A"
+      "civico": "272/A",
+      "stato": "C"
     },
     {
-      "civico": "272",
-      "barrato": "B"
+      "civico": "272/B",
+      "stato": "C"
     },
     {
-      "civico": "272",
-      "barrato": "C"
+      "civico": "272/C",
+      "stato": "C"
     },
     {
-      "civico": "294",
-      "barrato": "A"
+      "civico": "294/A",
+      "stato": "C"
     },
     {
-      "civico": "294",
-      "barrato": "B"
+      "civico": "294/B",
+      "stato": "C"
     }
   ],
   "VIA DEL NURAGHE": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "C"
     },
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "C"
     },
     {
-      "civico": "11",
-      "barrato": "A"
+      "civico": "11/A",
+      "stato": "C"
     },
     {
-      "civico": "11",
-      "barrato": "B"
+      "civico": "11/B",
+      "stato": "C"
     },
     {
-      "civico": "19",
-      "barrato": "A"
+      "civico": "19/A",
+      "stato": "B"
     },
     {
-      "civico": "19",
-      "barrato": "B"
+      "civico": "19/B",
+      "stato": "B"
     },
     {
-      "civico": "39",
-      "barrato": "A"
+      "civico": "39/A",
+      "stato": "C"
     },
     {
-      "civico": "39",
-      "barrato": "C"
+      "civico": "39/C",
+      "stato": "C"
     },
     {
-      "civico": "39",
-      "barrato": "D"
+      "civico": "39/D",
+      "stato": "C"
     },
     {
-      "civico": "39",
-      "barrato": "F"
+      "civico": "39/F",
+      "stato": "C"
     },
     {
       "civico": "43",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FERNANDO MELONI": [
     {
-      "civico": "126",
-      "barrato": "A"
+      "civico": "126/A",
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE DI VITTORIO": [
     {
       "civico": "127",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "129",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PORTA PIA": [
     {
-      "civico": "35",
-      "barrato": "A"
+      "civico": "35/A",
+      "stato": "C"
     }
   ]
 }

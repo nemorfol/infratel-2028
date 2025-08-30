@@ -2,101 +2,101 @@
   "LOCALITA' COSTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA COSTA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA DEGLI ALPINI": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA DELLA CONCORDIA": [
     {
-      "civico": "40",
-      "barrato": "B"
+      "civico": "40/B",
+      "stato": "B"
     }
   ],
   "VIA FONTANA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "77",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GIUSEPPE GARIBALDI": [
     {
-      "civico": "66",
-      "barrato": "B"
+      "civico": "66/B",
+      "stato": "B"
     },
     {
-      "civico": "107",
-      "barrato": "B"
+      "civico": "107/B",
+      "stato": "B"
     },
     {
-      "civico": "142",
-      "barrato": "BIS"
+      "civico": "142/BIS",
+      "stato": "B"
     }
   ],
   "VIA PANORAMICA": [
     {
-      "civico": "27",
-      "barrato": "B"
+      "civico": "27/B",
+      "stato": "B"
     },
     {
-      "civico": "48",
-      "barrato": "B"
+      "civico": "48/B",
+      "stato": "B"
     }
   ],
   "VIA SANTA MARGHERITA": [
     {
-      "civico": "74",
-      "barrato": "B"
+      "civico": "74/B",
+      "stato": "B"
     }
   ],
   "VIA SORA": [
     {
-      "civico": "9",
-      "barrato": "B"
+      "civico": "9/B",
+      "stato": "B"
     },
     {
-      "civico": "52",
-      "barrato": "BIS"
+      "civico": "52/BIS",
+      "stato": "B"
     }
   ],
   "VIA TRIESTE": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VICOLO AI TRE'": [
     {
-      "civico": "2",
-      "barrato": "B"
+      "civico": "2/B",
+      "stato": "B"
     }
   ],
   "VICOLO ANTICO": [
     {
-      "civico": "17",
-      "barrato": "B"
+      "civico": "17/B",
+      "stato": "B"
     },
     {
-      "civico": "27",
-      "barrato": "BIS"
+      "civico": "27/BIS",
+      "stato": "B"
     }
   ]
 }

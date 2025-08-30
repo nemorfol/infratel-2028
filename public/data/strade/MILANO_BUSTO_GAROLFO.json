@@ -2,91 +2,91 @@
   "CASCINA BARSANELLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA VICINALE DELLE POZZAGLIE": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA CASCINA PIROCCA": [
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/A",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": null
+      "civico": "1/B",
+      "stato": "A"
     }
   ],
   "VIA NAJ MILLER": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PER CASOREZZO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PER FURATO": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "C"
     }
   ],
   "VIA STROMBOLI": [
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VAL DI FASSA": [
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VAL SUGANA": [
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA VICINALE DELLE BERRE": [
     {
       "civico": "121",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIALE DELL'INDUSTRIA": [
     {
-      "civico": "62",
-      "barrato": "B"
+      "civico": "62/B",
+      "stato": "B"
     },
     {
-      "civico": "66",
-      "barrato": "B"
+      "civico": "66/B",
+      "stato": "B"
     }
   ]
 }

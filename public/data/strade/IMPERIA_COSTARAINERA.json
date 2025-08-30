@@ -1,174 +1,174 @@
 {
   "REGIONE DI TORRE DEL POGGIO": [
     {
-      "civico": "3",
-      "barrato": "A"
+      "civico": "3/A",
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA NUOVA SANT'ANTONIO": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "12",
-      "barrato": "C 3"
+      "civico": "12/C 3",
+      "stato": "B"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "66",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA AL CIMITERO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PIANI PAORELLI": [
     {
-      "civico": "14",
-      "barrato": "C"
+      "civico": "14/C",
+      "stato": "B"
     },
     {
-      "civico": "35",
-      "barrato": "37"
+      "civico": "35/37",
+      "stato": "B"
     },
     {
       "civico": "55",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "56",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "58",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "59",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "60",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "61",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "63",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "63",
-      "barrato": "B"
+      "civico": "63/A",
+      "stato": "B"
     },
     {
-      "civico": "63",
-      "barrato": null
+      "civico": "63/B",
+      "stato": "B"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "72",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "74",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PROVINCIALE": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     },
     {
-      "civico": "26",
-      "barrato": "BIS"
+      "civico": "26/BIS",
+      "stato": "C"
     },
     {
-      "civico": "37",
-      "barrato": "C"
+      "civico": "37/C",
+      "stato": "C"
     },
     {
-      "civico": "39",
-      "barrato": "B"
+      "civico": "39/B",
+      "stato": "C"
     },
     {
-      "civico": "41",
-      "barrato": "E"
+      "civico": "41/E",
+      "stato": "C"
     },
     {
       "civico": "47",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "53",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "53",
-      "barrato": null
+      "civico": "53/B",
+      "stato": "C"
     },
     {
-      "civico": "57",
-      "barrato": "460"
+      "civico": "57/460",
+      "stato": "B"
     },
     {
       "civico": "73",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "75",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "86",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "86",
-      "barrato": null
+      "civico": "86/B",
+      "stato": "B"
     },
     {
       "civico": "88",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "90",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SANT'ANTONIO": [
     {
       "civico": "55",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

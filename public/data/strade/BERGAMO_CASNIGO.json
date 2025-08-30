@@ -2,73 +2,73 @@
   "STRADA STATALE DELLA VAL SERIANA": [
     {
       "civico": "67",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA BRACCHIO": [
     {
-      "civico": "1",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "C"
     }
   ],
   "VIA COLLE BONDO": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "23",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "32",
-      "barrato": "A"
+      "civico": "32/A",
+      "stato": "C"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CRISTOFORO BASCHENIS": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA LUNGO ROMNA": [
     {
       "civico": "81",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN CARLO": [
     {
-      "civico": "11",
-      "barrato": "F"
+      "civico": "11/F",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "G"
+      "civico": "11/G",
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": "H"
+      "civico": "11/H",
+      "stato": "B"
     }
   ]
 }

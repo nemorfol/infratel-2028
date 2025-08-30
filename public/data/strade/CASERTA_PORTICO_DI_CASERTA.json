@@ -2,71 +2,71 @@
   "PIAZZA SAN MARCELLO VICO II": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIOACHINO ROSSINI": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIOVANNI FALCONE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": "5"
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/5",
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PONTESELICE": [
     {
-      "civico": "4",
-      "barrato": "5"
+      "civico": "4/5",
+      "stato": "A"
     },
     {
-      "civico": "6",
-      "barrato": "7"
+      "civico": "6/7",
+      "stato": "A"
     },
     {
-      "civico": "10",
-      "barrato": "11"
+      "civico": "10/11",
+      "stato": "A"
     }
   ],
   "VICOLO I DI VIA PONTESELICE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VICOLO IV DI VIA LUIGI ANTONIO PICCIRILLO": [
     {
-      "civico": "1",
-      "barrato": "3"
+      "civico": "1/3",
+      "stato": "A"
     }
   ],
   "VICOLO VIII DI VIA LUIGI ANTONIO PICCIRILLO": [
     {
       "civico": "22",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

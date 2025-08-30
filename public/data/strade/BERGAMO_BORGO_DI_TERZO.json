@@ -1,52 +1,52 @@
 {
   "VIA CASSANICO": [
     {
-      "civico": "0",
-      "barrato": "SNC 2"
+      "civico": "0/SNC 2",
+      "stato": "C"
     },
     {
-      "civico": "42",
-      "barrato": "B"
+      "civico": "42/B",
+      "stato": "B"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LEONARDO DA VINCI": [
     {
-      "civico": "6",
-      "barrato": "8"
+      "civico": "6/8",
+      "stato": "B"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA NAZIONALE": [
     {
-      "civico": "0",
-      "barrato": "SNC 100"
+      "civico": "0/SNC 100",
+      "stato": "B"
     },
     {
-      "civico": "45",
-      "barrato": "A"
+      "civico": "45/A",
+      "stato": "B"
     }
   ],
   "VIA PRIVATA AGAZZI": [
     {
-      "civico": "0",
-      "barrato": "SNC 100"
+      "civico": "0/SNC 100",
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
-      "civico": "40",
-      "barrato": "A"
+      "civico": "40/A",
+      "stato": "B"
     }
   ]
 }

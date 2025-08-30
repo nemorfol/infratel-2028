@@ -2,35 +2,35 @@
   "VIA CONTE": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SALETTA": [
     {
       "civico": "2",
-      "barrato": "D"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": "G"
+      "civico": "2/D",
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/G",
+      "stato": "C"
     }
   ],
   "VIA STELLONI PONENTE": [
     {
       "civico": "3",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "3",
-      "barrato": null
+      "civico": "3/B",
+      "stato": "C"
     },
     {
       "civico": "53",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

@@ -1,202 +1,202 @@
 {
   "VIA ALFEO CORASSORI": [
     {
-      "civico": "4",
-      "barrato": "A"
+      "civico": "4/A",
+      "stato": "B"
     },
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "B"
     },
     {
-      "civico": "9",
-      "barrato": "1"
+      "civico": "9/1",
+      "stato": "B"
     },
     {
-      "civico": "33",
-      "barrato": "2"
+      "civico": "33/2",
+      "stato": "B"
     },
     {
-      "civico": "43",
-      "barrato": "1"
+      "civico": "43/1",
+      "stato": "B"
     }
   ],
   "VIA BELFIORE": [
     {
-      "civico": "25",
-      "barrato": "B"
+      "civico": "25/B",
+      "stato": "C"
     }
   ],
   "VIA BERNARDI": [
     {
-      "civico": "2",
-      "barrato": "1"
+      "civico": "2/1",
+      "stato": "B"
     }
   ],
   "VIA BOSCO": [
     {
-      "civico": "43",
-      "barrato": "1"
+      "civico": "43/1",
+      "stato": "C"
     }
   ],
   "VIA BOZZALA": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": "1"
+      "civico": "29/1",
+      "stato": "B"
     }
   ],
   "VIA BRANDOLI CENTRO": [
     {
-      "civico": "40",
-      "barrato": "A"
+      "civico": "40/A",
+      "stato": "B"
     },
     {
-      "civico": "47",
-      "barrato": "5"
+      "civico": "47/5",
+      "stato": "B"
     },
     {
-      "civico": "92",
-      "barrato": "1"
+      "civico": "92/1",
+      "stato": "B"
     },
     {
-      "civico": "92",
-      "barrato": "3"
+      "civico": "92/3",
+      "stato": "B"
     }
   ],
   "VIA BRANDOLI LEVANTE": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CANALAZZO": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "20",
-      "barrato": "2"
+      "civico": "20/2",
+      "stato": "B"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "56",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "64",
-      "barrato": "A"
-    },
-    {
-      "civico": "72",
-      "barrato": "1"
+      "civico": "64/A",
+      "stato": "B"
     },
     {
       "civico": "72",
-      "barrato": null
+      "stato": "B"
+    },
+    {
+      "civico": "72/1",
+      "stato": "B"
     }
   ],
   "VIA CAVEZZO CAMPOSANTO": [
     {
-      "civico": "14",
-      "barrato": "1"
+      "civico": "14/1",
+      "stato": "C"
     }
   ],
   "VIA CHIESA DI STAGGIA": [
     {
-      "civico": "17",
-      "barrato": "1"
+      "civico": "17/1",
+      "stato": "B"
     },
     {
-      "civico": "22",
-      "barrato": "A"
+      "civico": "22/A",
+      "stato": "B"
     }
   ],
   "VIA DINO BERTELLI": [
     {
-      "civico": "5",
-      "barrato": "2"
+      "civico": "5/2",
+      "stato": "B"
     },
     {
-      "civico": "5",
-      "barrato": "3"
+      "civico": "5/3",
+      "stato": "B"
     }
   ],
   "VIA FORCIROLA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA FOSSA": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GALLERANA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GUASTI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA LEONE TONDELLI": [
     {
       "civico": "29",
-      "barrato": "1"
+      "stato": "B"
     },
     {
-      "civico": "29",
-      "barrato": null
+      "civico": "29/1",
+      "stato": "B"
     }
   ],
   "VIA NICCOLO' PAGANINI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROSSINI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SAN GEMINIANO": [
     {
-      "civico": "8",
-      "barrato": "2"
+      "civico": "8/2",
+      "stato": "B"
     }
   ],
   "VIA VERDETA": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ]
 }

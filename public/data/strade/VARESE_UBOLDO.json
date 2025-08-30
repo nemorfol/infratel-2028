@@ -2,141 +2,141 @@
   "VIA CADUTI DELLA LIBERAZIONE": [
     {
       "civico": "52",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA GIROLA": [
     {
       "civico": "69",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASCINA SOCCORSO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "VIA IV NOVEMBRE": [
     {
       "civico": "227",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MALPAGA": [
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "A"
     },
     {
       "civico": "27",
-      "barrato": null
+      "stato": "A"
     },
     {
-      "civico": "34",
-      "barrato": "B"
+      "civico": "34/B",
+      "stato": "A"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "57",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA MORANDI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA PER CERRO MAGGIORE": [
     {
       "civico": "76",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "78",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "80",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "82",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "84",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "94",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "125",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "127",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "129",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "131",
-      "barrato": "X"
+      "stato": "C"
     },
     {
-      "civico": "131",
-      "barrato": null
-    },
-    {
-      "civico": "251",
-      "barrato": "A"
+      "civico": "131/X",
+      "stato": "C"
     },
     {
       "civico": "251",
-      "barrato": "B"
+      "stato": "C"
     },
     {
-      "civico": "251",
-      "barrato": "C"
+      "civico": "251/A",
+      "stato": "C"
     },
     {
-      "civico": "251",
-      "barrato": null
+      "civico": "251/B",
+      "stato": "C"
+    },
+    {
+      "civico": "251/C",
+      "stato": "C"
     },
     {
       "civico": "351",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PIETRO CERIANI": [
     {
       "civico": "414",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA UGO FOSCOLO": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VICOLO OLMI": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ]
 }

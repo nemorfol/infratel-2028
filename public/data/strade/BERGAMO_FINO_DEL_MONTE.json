@@ -2,41 +2,41 @@
   "LOCALITA' PARE'": [
     {
       "civico": "0",
-      "barrato": "SNC"
+      "stato": "A"
     },
     {
-      "civico": "0",
-      "barrato": null
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "LOCALITA' POERZA": [
     {
       "civico": "365",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "LOCALITA' POSPE'": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA BI' E CARDAS": [
     {
-      "civico": "6",
-      "barrato": "B"
+      "civico": "6/B",
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
-      "civico": "66",
-      "barrato": "A"
+      "civico": "66/A",
+      "stato": "B"
     }
   ],
   "VIA ROMOLO PAGANELLI": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "B"
     }
   ]
 }

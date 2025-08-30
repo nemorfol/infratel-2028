@@ -1,46 +1,46 @@
 {
   "VIA GRIGNA": [
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     }
   ],
   "VIA MAZZANO": [
     {
       "civico": "15",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA ROMA": [
     {
       "civico": "62",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA XI FEBBRAIO": [
     {
-      "civico": "5",
-      "barrato": "A"
+      "civico": "5/A",
+      "stato": "B"
     },
     {
-      "civico": "15",
-      "barrato": "A"
+      "civico": "15/A",
+      "stato": "B"
     }
   ],
   "VIALE CAMPOE'": [
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     },
     {
-      "civico": "51",
-      "barrato": "A"
+      "civico": "51/A",
+      "stato": "C"
     }
   ],
   "VIALE DE MATTIA CARBONINI": [
     {
-      "civico": "3",
-      "barrato": "B"
+      "civico": "3/B",
+      "stato": "B"
     }
   ]
 }

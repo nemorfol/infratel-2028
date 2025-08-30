@@ -2,689 +2,689 @@
   "CASCINA ARIOSA": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA BELVEDERE": [
     {
       "civico": "13",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA CANNETO PICCOLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CASTEL MERLINO": [
     {
       "civico": "16",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CINIGLIE": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA CORNASSA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA DAROLA": [
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA DEI FRATI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA ELEVATORE SAN MARTINO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA FORZESCA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA GALEAZZA": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA GUGLIELMINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA LERI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA LUCEDIO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA MONACHE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA MONTARUCCO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA NORIA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA PRIORATO ROBELLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "CASCINA RAMEZZANA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA RONCHI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "CASCINA SANT'ANNUNZIATA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA STOPPINA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "CASCINA TENUTA BELGIOIOSO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "LOCALITA' MONTAROLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "REGIONE BAGNACAVALLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE MEZZA BAFFA DI PONENTE": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "REGIONE SAN GRATO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "STRADA ANTICA RAMEZZANA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA BOSSOLA VICINALE VERSO SUD": [
     {
       "civico": "115",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "161",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "193",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "241",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA DEL BOSCO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     }
   ],
   "STRADA ESTERNA MAROLI": [
     {
       "civico": "150",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "156",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "158",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "158",
-      "barrato": null
+      "civico": "158/A",
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 1": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE 20": [
     {
-      "civico": "871",
-      "barrato": "A"
+      "civico": "871/A",
+      "stato": "B"
     }
   ],
   "STRADA PROVINCIALE 34": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE PER CASALE": [
     {
       "civico": "255",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA PROVINCIALE PER TORINO": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "A"
     },
     {
       "civico": "885",
-      "barrato": null
+      "stato": "A"
     },
     {
       "civico": "1000",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "STRADA STATALE DEL MONFERRATO": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "STRADA STATALE PER CAMINO": [
     {
       "civico": "293",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA ADAMELLO": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": "B"
+      "civico": "8/B",
+      "stato": "B"
     }
   ],
   "VIA BOVES": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "6",
-      "barrato": "A"
+      "civico": "6/A",
+      "stato": "C"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CARDINALE LUIGI SINCERO": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "2",
-      "barrato": null
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CARLO GIANOTTI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": "1"
+      "stato": "C"
     },
     {
-      "civico": "5",
-      "barrato": null
+      "civico": "5/1",
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CARLO TRAVERSA": [
     {
-      "civico": "8",
-      "barrato": "A"
+      "civico": "8/A",
+      "stato": "B"
     },
     {
-      "civico": "10",
-      "barrato": "A"
+      "civico": "10/A",
+      "stato": "B"
     }
   ],
   "VIA CEFALONIA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "6",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLA REPUBBLICA": [
     {
-      "civico": "422",
-      "barrato": "A"
+      "civico": "422/A",
+      "stato": "C"
     }
   ],
   "VIA GIOVANNI CROSIO": [
     {
-      "civico": "23",
-      "barrato": "A"
+      "civico": "23/A",
+      "stato": "B"
     }
   ],
   "VIA GUGLIELMO MARCONI": [
     {
       "civico": "9",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "13",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "22",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "22",
-      "barrato": null
+      "civico": "22/A",
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "26",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "26",
-      "barrato": null
+      "civico": "26/A",
+      "stato": "C"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "34",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "38",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "40",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "42",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "42",
-      "barrato": null
+      "civico": "42/A",
+      "stato": "C"
     },
     {
       "civico": "44",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "50",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "187",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "524",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "524",
-      "barrato": "B"
+      "civico": "524/A",
+      "stato": "C"
     },
     {
-      "civico": "524",
-      "barrato": "C"
+      "civico": "524/B",
+      "stato": "C"
     },
     {
-      "civico": "524",
-      "barrato": "D"
+      "civico": "524/C",
+      "stato": "C"
     },
     {
-      "civico": "524",
-      "barrato": null
+      "civico": "524/D",
+      "stato": "C"
     },
     {
       "civico": "526",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "584",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "885",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA HERMADA": [
     {
-      "civico": "9",
-      "barrato": "A"
+      "civico": "9/A",
+      "stato": "B"
     },
     {
-      "civico": "18",
-      "barrato": "A"
+      "civico": "18/A",
+      "stato": "B"
     }
   ],
   "VIA MARZABOTTO": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONSIGNORE ALESSANDRO RASTELLI": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "3",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "5",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "7",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA MONTAROLO": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PODGORA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "15",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": "E"
+      "civico": "15/A",
+      "stato": "C"
     },
     {
-      "civico": "15",
-      "barrato": null
+      "civico": "15/E",
+      "stato": "C"
     },
     {
       "civico": "24",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "24",
-      "barrato": null
+      "civico": "24/A",
+      "stato": "C"
     },
     {
       "civico": "39",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA R.LONGHI": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "1",
-      "barrato": "A"
+      "stato": "C"
     },
     {
-      "civico": "1",
-      "barrato": null
-    },
-    {
-      "civico": "2",
-      "barrato": "A"
+      "civico": "1/A",
+      "stato": "C"
     },
     {
       "civico": "2",
-      "barrato": null
+      "stato": "C"
+    },
+    {
+      "civico": "2/A",
+      "stato": "C"
     },
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN GIOVANNI PAOLO II": [
     {
-      "civico": "2",
-      "barrato": "1920 2005"
+      "civico": "2/1920 2005",
+      "stato": "A"
     },
     {
-      "civico": "4",
-      "barrato": "1920 2005"
+      "civico": "4/1920 2005",
+      "stato": "A"
     },
     {
-      "civico": "6",
-      "barrato": "1920 2005"
+      "civico": "6/1920 2005",
+      "stato": "A"
     }
   ],
   "VIA TORINO": [
     {
       "civico": "1000",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VICOLO OTTAVIS": [
     {
-      "civico": "14",
-      "barrato": "A"
+      "civico": "14/A",
+      "stato": "B"
     }
   ]
 }

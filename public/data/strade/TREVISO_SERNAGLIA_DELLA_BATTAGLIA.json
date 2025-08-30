@@ -1,310 +1,310 @@
 {
   "VIA BELVEDERE": [
     {
-      "civico": "0",
-      "barrato": "SNC 4"
+      "civico": "0/SNC 4",
+      "stato": "B"
     }
   ],
   "VIA BORGO FURO": [
     {
       "civico": "66",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "66",
-      "barrato": null
+      "civico": "66/B",
+      "stato": "B"
     }
   ],
   "VIA BUSCHE": [
     {
       "civico": "65",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "84",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "86",
-      "barrato": null
+      "stato": "C"
     },
     {
-      "civico": "92",
-      "barrato": "A"
+      "civico": "92/A",
+      "stato": "C"
     },
     {
       "civico": "103",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CAL DEL SOLIGO": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "16",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "17",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAL PICCOLA": [
     {
       "civico": "0",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CAL ZATTERA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA CAMPAGNA": [
     {
       "civico": "2",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "14",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASTELIK": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "19",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "62",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA CASTELLO": [
     {
       "civico": "143",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "146",
-      "barrato": "A"
+      "civico": "146/A",
+      "stato": "C"
     },
     {
-      "civico": "157",
-      "barrato": "B"
+      "civico": "157/B",
+      "stato": "B"
     },
     {
       "civico": "160",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "170",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "186",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA CHIESA": [
     {
-      "civico": "42",
-      "barrato": "B"
+      "civico": "42/B",
+      "stato": "B"
     }
   ],
   "VIA DEL MUSIL": [
     {
       "civico": "8",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA DELLE RIVE": [
     {
-      "civico": "7",
-      "barrato": "A"
+      "civico": "7/A",
+      "stato": "C"
     }
   ],
   "VIA DONATORI DEL SANGUE": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA FORNACI": [
     {
       "civico": "25",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA FOSSALOI": [
     {
       "civico": "11",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA GRAVE": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MATERAZZO": [
     {
-      "civico": "0",
-      "barrato": "SNC 3"
+      "civico": "0/SNC 3",
+      "stato": "B"
     },
     {
       "civico": "8",
-      "barrato": "A"
+      "stato": "B"
     },
     {
-      "civico": "8",
-      "barrato": null
+      "civico": "8/A",
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
-      "civico": "13",
-      "barrato": "A"
+      "civico": "13/A",
+      "stato": "B"
     }
   ],
   "VIA MIRA": [
     {
       "civico": "6",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "10",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "12",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA MONTE GRAPPA": [
     {
-      "civico": "10",
-      "barrato": "C"
+      "civico": "10/C",
+      "stato": "B"
     }
   ],
   "VIA MORIAGO": [
     {
       "civico": "10",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PALLIAGHE": [
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIAVE": [
     {
       "civico": "21",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PIEVE DI SOLIGO": [
     {
       "civico": "18",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "20",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "28",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "30",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "31",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "32",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "35",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "45",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA PRINCIPALE": [
     {
       "civico": "92",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA SERNAGLIA": [
     {
       "civico": "7",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "42",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "65",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "79",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TREVIGIANA": [
     {
-      "civico": "168",
-      "barrato": "B"
+      "civico": "168/B",
+      "stato": "B"
     },
     {
       "civico": "187",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VILLAMATTA": [
     {
       "civico": "19",
-      "barrato": null
+      "stato": "B"
     }
   ],
   "VIA VILLANOVA": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "C"
     }
   ]
 }

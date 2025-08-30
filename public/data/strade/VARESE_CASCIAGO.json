@@ -2,101 +2,101 @@
   "LARGO STAMPA": [
     {
       "civico": "1",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "PARCO CASTELBARCO": [
     {
       "civico": "40",
-      "barrato": null
+      "stato": "A"
     }
   ],
   "VIA GIACOMO PUCCINI": [
     {
       "civico": "27",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA GIUSEPPE VERDI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     }
   ],
   "VIA GRINZIA": [
     {
       "civico": "24",
-      "barrato": null
+      "stato": "C"
     },
     {
       "civico": "33",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA PINERA": [
     {
       "civico": "36",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA SAN GIROLAMO EMILIANI": [
     {
-      "civico": "0",
-      "barrato": "SNC"
+      "civico": "0/SNC",
+      "stato": "B"
     },
     {
       "civico": "9",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "11",
-      "barrato": "B"
+      "stato": "B"
     },
     {
-      "civico": "11",
-      "barrato": null
+      "civico": "11/B",
+      "stato": "B"
     }
   ],
   "VIA SAN MARTINO": [
     {
       "civico": "44",
-      "barrato": null
+      "stato": "B"
     },
     {
       "civico": "51",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIA TRENTO": [
     {
       "civico": "4",
-      "barrato": null
+      "stato": "C"
     }
   ],
   "VIALE LUIGI BASSANI": [
     {
-      "civico": "1",
-      "barrato": "B"
+      "civico": "1/B",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "C"
+      "civico": "1/C",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "E"
+      "civico": "1/E",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "F"
+      "civico": "1/F",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "G"
+      "civico": "1/G",
+      "stato": "A"
     },
     {
-      "civico": "1",
-      "barrato": "H"
+      "civico": "1/H",
+      "stato": "A"
     }
   ]
 }
